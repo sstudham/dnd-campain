@@ -34,3 +34,5 @@ A separation event occurred.
 * Brother Kai is searching for enlightenment after being sent out from his monastery.
 
 ## Follow-Up Notes
+
+* Latest player character sheets were received and summarized for DM reference.
