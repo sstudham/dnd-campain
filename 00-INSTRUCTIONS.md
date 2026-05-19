@@ -8,3 +8,283 @@ Rules:
 - If something conflicts with existing canon, do not fix it silently. Add it to 07-MYSTERIES-AND-HOOKS.md under “Needs Resolution.”
 - Keep entries short and useful.
 - Do not rewrite everything unless asked.
+
+## File Map
+
+Purpose: This section tells ChatGPT/Codex where each type of campaign information belongs. Use the existing file structure. Do not create, rename, delete, or reorganize files unless Scott explicitly asks.
+
+### 00-INSTRUCTIONS.md
+
+Use for:
+
+* Repo rules
+* Canon rules
+* Update workflow
+* File map
+* Instructions for ChatGPT/Codex behavior
+
+Do not use for:
+
+* Session summaries
+* World lore
+* NPC details
+* Player character notes
+* Brainstorming
+
+### 01-CURRENT-CANON.md
+
+Use for:
+
+* Current established canon
+* Campaign premise
+* Durable world facts
+* Confirmed facts that remain true beyond one session
+* Confirmed campaign-level truths
+
+Do not use for:
+
+* Brainstormed ideas
+* Possible explanations
+* Session prep
+* Unconfirmed theories
+
+### 02-PLAYER-CHARACTERS.md
+
+Use for:
+
+* Current party roster
+* Player character summaries
+* Character backstory facts
+* Character-specific mysteries
+* Character goals and motivations
+* Character mechanics useful for DM prep
+* Party strengths and weaknesses
+* Encounter design notes based on the party
+
+Do not use for:
+
+* Full D&D Beyond character sheets
+* General world lore
+* NPCs
+* Session-by-session logs
+
+### 03-NPCS.md
+
+Use for:
+
+* Named NPCs
+* NPC descriptions
+* NPC motivations
+* NPC relationships to the party
+* NPC current status
+* NPC secrets, if canon
+* Rivals, allies, contacts, enemies, and recurring side characters
+
+Do not use for:
+
+* Player characters
+* Anonymous one-off enemies unless they become important
+* Faction-level summaries
+
+### 04-LOCATIONS.md
+
+Use for:
+
+* Towns
+* Roads
+* Temples
+* Taverns
+* Ships
+* Ruins
+* Islands
+* Regions
+* Location descriptions
+* Important events tied to places
+* Current status of locations
+
+Do not use for:
+
+* Session-by-session travel summaries
+* General timeline notes
+* NPC writeups unless tied directly to the place
+
+### 05-ITEMS.md
+
+Use for:
+
+* Party items
+* Magic items
+* Mystery objects
+* Notable mundane objects
+* Clues embodied as physical things
+* Ownership/status of important items
+
+Do not use for:
+
+* Ordinary gear unless campaign-relevant
+* General treasure lists unless important later
+* Abstract mysteries not tied to an item
+
+### 06-TIMELINE.md
+
+Use for:
+
+* Past events
+* Current events
+* Future clocks
+* Important sequence of events
+* Open consequences already in motion
+* Time-sensitive campaign developments
+
+Do not use for:
+
+* Full session recaps
+* Brainstormed possible futures
+* Scene-by-scene next-session plans
+
+### 07-MYSTERIES-AND-HOOKS.md
+
+Use for:
+
+* Active mysteries
+* Open questions
+* Dangling plot hooks
+* Contradictions
+* Needs Resolution items
+* Payoffs the DM needs to remember
+
+Do not use for:
+
+* Final answers already established as canon
+* Full scene prep
+* General brainstorming unless it is clearly an unresolved question
+
+### 08-IDEAS-NOT-CANON.md
+
+Use for:
+
+* Brainstorming
+* Maybes
+* Possible twists
+* Alternate villains
+* Unused scenes
+* Deprecated ideas
+* Possible explanations not yet canon
+* Future campaign structure ideas not yet approved
+
+Do not use for:
+
+* Things that happened in play
+* Anything explicitly marked CANON or "make this canon"
+* Current session facts
+
+### 09-SESSION-LOG.md
+
+Use for:
+
+* What actually happened during play
+* Session summaries
+* Important moments
+* Character decisions
+* NPCs introduced during play
+* Follow-up notes from completed sessions
+
+Do not use for:
+
+* Future plans
+* Alternate paths
+* Unplayed scenes
+* Possible explanations
+
+### 10-NEXT-SESSION-PREP.md
+
+Use for:
+
+* Immediate next-session plan
+* Recap for the next session
+* Scene order
+* Read-aloud text
+* NPC stats needed soon
+* Encounter notes
+* DM reminders
+* Likely player choices for the next session
+
+Do not use for:
+
+* Permanent canon unless moved after play
+* Long-term campaign lore
+* Completed session logs
+* Broad campaign structure
+
+### 11-CAMPAIGN-STRUCTURE.md
+
+Use for:
+
+* Arc structure
+* Campaign phases
+* Major story beats
+* Relationship between acts
+* How current sessions connect to long-term campaign direction
+* Published adventure integration plans
+
+Do not use for:
+
+* Moment-to-moment session prep
+* Detailed NPC writeups
+* One-off brainstorms
+* Things that happened at the table
+
+### 12-ART-PROMPTS.md
+
+Use for:
+
+* Character image prompts
+* Handout image prompts
+* Location/map prompts
+* VTT/map-generation prompts
+* Visual style references
+* Prompt revisions that may be reused
+
+Do not use for:
+
+* Canon character facts unless repeated only as prompt reference
+* Session logs
+* Lore explanations
+* Mechanical stat blocks
+
+### Image files
+
+Use for:
+
+* Character portraits
+* Visual references
+* Handouts
+* Maps, if added later
+
+Current images:
+
+* Kai.jpg Image of Kai
+* Lloyd.jpg Image of Lloyd
+* Pat Benatar.jpg Image of Pat Benatar
+* Sev.jpg Image of Sev
+* Throk.jpg Image of Throk
+
+Do not use for:
+
+* Text-only campaign notes
+
+### Rule of thumb
+
+* If it happened at the table, put it in 09-SESSION-LOG.md.
+* If it is confirmed and durable, put it in 01-CURRENT-CANON.md or the relevant specific file.
+* If it is about a player character or the party, put it in 02-PLAYER-CHARACTERS.md.
+* If it is about an NPC, put it in 03-NPCS.md.
+* If it is about a place, put it in 04-LOCATIONS.md.
+* If it is about an object, put it in 05-ITEMS.md.
+* If it is about sequence, consequences, or clocks, put it in 06-TIMELINE.md.
+* If it is an unanswered question, put it in 07-MYSTERIES-AND-HOOKS.md.
+* If it might be true but is not confirmed, put it in 08-IDEAS-NOT-CANON.md.
+* If it is for the next session only, put it in 10-NEXT-SESSION-PREP.md.
+* If it is about long-term structure, put it in 11-CAMPAIGN-STRUCTURE.md.
+* If it is an image prompt or reusable visual direction, put it in 12-ART-PROMPTS.md.
+* If it changes how the repo should be used, put it in 00-INSTRUCTIONS.md.
