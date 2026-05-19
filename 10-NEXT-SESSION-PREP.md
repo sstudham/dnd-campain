@@ -158,9 +158,9 @@ Undead sailor entrance:
 A dead hand slaps the rail. A soaked sailor drags himself over the side, jaw hanging loose, eyes full of blue light.
 
 Dialogue/whispers:
-Ghostly chanting: "One god. One hunger. One mouth. One hunger."
-Undead sailor: "Not one god."
-Undead sailor: "One hunger."
+Ghostly chanting: "One god. One wound. One sky torn open."
+Undead sailor: "Not a god."
+Undead sailor: "The world is splitting."
 Then it collapses.
 
 NPCs:
@@ -179,7 +179,6 @@ AC 8, HP 12, Speed 20
 Attack: slam +3, 1d6+1 bludgeoning
 Traits: undead; immune poison
 Fast rule: skip Undead Fortitude unless you want a harder fight.
-Death line: "One hunger."
 
 ### Scene 5 - Arrival at Stormwreck Isle
 
