@@ -45,5 +45,8 @@ A separation event occurred.
 * Pat Benatar's dragon-blood mystery is connected to a scale and clan symbol.
 * Brother Kai is searching for enlightenment after being sent out from his monastery.
 * The monastery vision showed the party that they had been singled out and that the crisis reaches across planes and realities.
+* At the monastery, the party shared a deep-meditation vision in which they were contacted by a powerful wizard-like being from another plane of reality. The being projected itself into a form the party could understand and warned that time, space, religion, and magic were fraying across planes or realities. The being did not know what was causing the rift.
+* Blackford Road caravan ambush image reference: Blackford Road Caravan Ambush.jpg
+* Monastery meditation vision image reference: Meditation Vision.jpg
 
 ## Follow-Up Notes

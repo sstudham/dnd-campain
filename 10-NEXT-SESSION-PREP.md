@@ -17,6 +17,21 @@
 
 ## Recap
 
+## Opening Narration for Next Session
+
+Video version: intro to Act 2.mp4
+External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
+
+DM use:
+
+* Play this video at the start of the session before resuming in the destroyed temple.
+* The video is hosted externally on Google Drive because it could not be uploaded to the campaign archive.
+* The video audio is the opening narration text in this section.
+* The video summarizes the quest so far and introduces Lloyd GoldSeeker.
+* The video ends at the current scene state: the temple has just been destroyed, the worshipers are waking, Lloyd is among them, and the cracked worshiping stone is still pulsing.
+* The dragonborn have not yet heard "Stormwreck."
+* The party has not yet gone to the tavern or received Pat Benatar's box.
+
 ## Scenes
 
 ### Scene 1 - Temple Aftermath

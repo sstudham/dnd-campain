@@ -261,13 +261,16 @@ Use for:
 * Handouts
 * Maps, if added later
 
-Current images:
+Current media files:
 
 * Kai.jpg Image of Kai
 * Lloyd.jpg Image of Lloyd
+* Meditation Vision.jpg Image of the party's shared deep-meditation vision at the monastery
 * Pat Benatar.jpg Image of Pat Benatar
 * Sev.jpg Image of Sev
 * Throk.jpg Image of Throk
+* Blackford Road Caravan Ambush.jpg Image of the Blackford Road ambush involving Shorn's caravan, Throk, Grusk, and Morghul
+* intro to Act 2.mp4 Video recap introducing Act 2 / next-session setup, summarizing the quest so far and introducing Lloyd GoldSeeker. External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
 Do not use for:
 

@@ -1,5 +1,27 @@
 # Art Prompts
 
+## Uploaded Video Reference
+
+### intro to Act 2.mp4
+
+External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
+
+Use as the video recap reference for the start of the next session. The video summarizes the quest so far, introduces Lloyd GoldSeeker, and uses the Opening Narration for Next Session from 10-NEXT-SESSION-PREP.md as its audio. The images are from the campaign archive, including the meditation vision and Blackford Road caravan ambush visuals.
+
+This video is a session aid, not new canon by itself. Written canon and session log text remain primary if there is any conflict.
+
+## Uploaded Scene Visual References
+
+### Meditation Vision.jpg
+
+Use as the visual reference for the monastery deep-meditation vision. The party is in a shared meditative state when their minds are pulled toward another plane of reality. A powerful wizard-like being projects itself into a form they can understand because its true plane does not exist in ordinary three-dimensional space. The image should support the memory that the party was warned about a rift affecting time, space, religion, and magic across planes or realities.
+
+### Blackford Road Caravan Ambush.jpg
+
+Use as the visual reference for the Blackford Road ambush. Shorn's caravan was attacked by orcs led by Grusk and Morghul. Three young orcs and their wolf were killed. Grusk and Morghul escaped. Throk fought beside the caravan, was wounded, earned the caravan's trust, and joined the journey north toward Luskan.
+
+Do not treat either image as replacing canon text. The written canon remains primary if there is any conflict.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.
