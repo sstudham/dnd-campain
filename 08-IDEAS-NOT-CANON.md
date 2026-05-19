@@ -2,6 +2,8 @@
 
 ## Brainstormed Ideas
 
+* Preferred framing: the rift is a wound in reality; space, time, magic, and religion are fraying.
+
 ## Possible Campaign Premise - Not Yet Canon
 
 * The world has suffered, or will suffer, a major catastrophe that weakens the barriers between planes.
@@ -12,3 +14,8 @@
 ## Possible Twists
 
 ## Unused Scenes
+
+## Deprecated Ideas
+
+* Deprecated: "one hunger" is no longer the preferred framing for the campaign threat.
+* Framing that makes the main threat a cosmic predator is deprecated unless specifically reintroduced later.
