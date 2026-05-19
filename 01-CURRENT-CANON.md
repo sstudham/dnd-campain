@@ -1,6 +1,6 @@
 # Current Canon
 
-## Campaign Premise
+## Campaign Premise 
 
 * This is a long-form D&D campaign in a Faerun-inspired world.
 * The campaign currently involves weakening planar barriers, strange magical anomalies, and a religious/planar threat connected to the cult of "the one god."
