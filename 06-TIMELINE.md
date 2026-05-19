@@ -25,5 +25,5 @@
 ## Future Clocks
 
 * Grusk and Morghul remain unresolved.
-* The "one hunger" behind the cult remains active.
+* The rift problem behind the cult remains unresolved.
 * Stormwreck Isle / Dragon's Rest is the likely next destination.

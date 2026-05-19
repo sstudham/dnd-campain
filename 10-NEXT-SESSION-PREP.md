@@ -23,7 +23,7 @@ To the dragonborn only: a word rolls through your bones. "Stormwreck."
 Dialogue:
 
 * Freed cultist: "I remember chanting. I remember giving something away. Not gold. Not blood. Prayer."
-* Freed cultist: "There was no god. There was a mouth behind the god."
+* Freed cultist: "There was no god. There was something wrong behind the prayer."
 * Old worshiper: "They said old dragon bones make thin places in the world."
 * Young worshiper: "The monk went north. He said if the rift opened again, look for Dragon's Rest."
 
