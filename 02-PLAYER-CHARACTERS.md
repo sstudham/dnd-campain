@@ -1,4 +1,6 @@
-# Player Characters
+# Player Characters and Party Reference
+
+Latest character sheets received.
 
 ## Current Party
 
@@ -6,77 +8,150 @@
 * Pat Benatar - Dragonborn Rogue - played by Kim
 * Severed Whisper - Tabaxi Rogue - played by Erik
 * Throk - Orc Warlock - played by Mike
-* Lloyd GoldSeeker - played by Andy; new to the party and may not be long-term
+* Lloyd GoldSeeker - Dwarf Cleric - played by Andy; new to the party and may not be long-term
 
-## Brother Kai
+## Character Summaries
 
-Brother Kai was given to a quiet monastery on the north side of the Sword Coast when he was five years old. He does not remember his parents, his clan, or anything before the monastery gates.
+### Brother Kai
 
-The monks raised him with patience, silence, and discipline. They taught him that strength was not for winning fights, but for ending them quickly, cleanly, and only when needed.
+* Dragonborn Monk 1
+* Background: Sage
+* Role: mobile melee, martial philosopher, spiritual lens
+* AC 14, HP 9, Speed 30 ft.
+* STR 12, DEX 13, CON 12, INT 15, WIS 17, CHA 15
+* Notable skills: Arcana +4, History +4, Insight +5, Stealth +3, Perception +3
+* Passive Perception 13
+* Darkvision 60 ft.
+* Fire resistance
+* Breath Weapon: Fire, DC 11 Dex, 1d10, 2/Long Rest
+* Martial Arts: Unarmed Strike as Bonus Action; unarmed/monk weapon damage 1d6
+* Unarmored Defense AC 14
+* Given to a quiet monastery on the north Sword Coast at age 5.
+* Does not remember his parents, clan, or anything before the monastery gates.
+* Raised with patience, silence, and discipline; taught that strength is for ending fights quickly, cleanly, and only when needed.
+* Gold dragon ancestry; carries fire inside him, but was taught to master the moment before flame rises.
+* Studies body, mind, spirit, silence, combat, and meaning; speaks slowly, thinks carefully, listens before judging, keeps notes, studies old teachings, and practices flute.
+* Sent wandering at age 23 by his master: "Go wander until the world itself becomes your teacher."
+* Now 28, after five years walking the Sword Coast seeking enlightenment.
+* Notes for DM: Excellent Wisdom/Insight lens. Use him for philosophical choices, spiritual ambiguity, cult doctrine, discipline under stress, contradictions to interpret, and moments where listening matters.
 
-As a gold-ancestry Dragonborn, Brother Kai carries fire inside him, but his teachers taught him that the greater skill was not breathing flame, but mastering the moment before the flame rises.
+### Pat Benatar
 
-Brother Kai became a devoted student of martial philosophy. He studies how body, mind, and spirit move together: how a fist can be cruel or merciful, how stillness can defeat panic, and how listening can be stronger than speaking.
+* Dragonborn Rogue 1
+* Background: Far Traveler
+* Role: face, investigator, ranged rogue, Stormwreck/dragon mystery hook
+* AC 13, HP 8, Speed 30 ft.
+* STR 8, DEX 14, CON 11, INT 12, WIS 14, CHA 16
+* Notable skills: Animal Handling +4, Insight +4, Investigation +3, Perception +6, Persuasion +7, Stealth +4
+* Expertise: Perception and Persuasion
+* Passive Perception 16
+* Darkvision 60 ft.
+* Fire resistance
+* Breath Weapon: Fire, DC 10 Dex, 1d10, 2/Long Rest
+* Sneak Attack 1d6
+* Weapons: Shortbow +4, Shortsword +4
+* Appears mostly human, with gold-shining eyes, faint scales, and inner warmth that reveals dragon blood.
+* Grew up in a dragonborn clan but was treated as strange, possibly a bad omen or mystery, because she did not look fully dragonborn.
+* Became observant from being overlooked, learning to read rooms, lies, anger, fear, and hidden motives.
+* Backstory memories on sheet:
+  * Age 6: clan hall goes quiet because everyone is staring at her.
+  * Age 10: invited less, trusted less, pushed to the edges of clan life.
+  * Age 16: solves the missing-crates problem and recovers stolen clan goods, but elders thank her carefully instead of embracing her.
+  * Age 17: leaves home with a knife, coins, tools, and her mother's wooden token.
+  * Age 26: docks become her classroom; she learns shipping routes, favors, debts, secrets, lockpicking, quiet movement, and the invisible map of port life.
+* Neutral-good rogue: willing to bend law for fairness, protect the vulnerable, expose traffickers, and solve problems without unnecessary bloodshed.
+* Deeper mystery: hints about dragon bloodlines touched by ancient magic, a sealed box that warmed at her touch, and a gold-copper scale marked with her clan symbol.
+* Someone may know the truth of her unusual origin.
+* Notes for DM: Fragile HP but high social/perception utility. Tie her to dragon ancestry, clan questions, the scale, Stormwreck clues, and chances to read people.
 
-He is known for speaking slowly, thinking carefully, and hearing every side before judging. Though trained as a monk, he also carries the habits of a scholar: keeping notes, studying old teachings, practicing flute, and searching for meaning in both combat and silence.
+### Severed Whisper
 
-At twenty-three, his master told him his training inside the monastery was complete, but his path was not. His master told him to wander until the world itself became his teacher.
+* Tabaxi Rogue 1
+* Background: Custom Background
+* Role: scout, face, skirmisher, thief/rogue utility
+* AC 17, HP 14, Speed 30 ft., Climb 30 ft.
+* STR 12, DEX 18, CON 14, INT 10, WIS 10, CHA 17
+* Notable skills: Acrobatics +6, Deception +5, Insight +2, Intimidation +5, Investigation +2, Perception +4, Persuasion +7, Stealth +6
+* Expertise: Perception and Persuasion
+* Passive Perception 14
+* Darkvision 60 ft.
+* Sneak Attack 1d6
+* Feline Agility
+* Attuned magic item: Cloak of Protection
+* Weapons: Light Crossbow +6, Rapier +6, Tomahawks +6, Cat's Claws
+* Allies/organizations: Braddok Ironhand; "Bah! I'm a loner Dotty. A rebel."
+* Personality notes: opportunistic, adaptable, independent, self-reliant, impulsive risk-taker
+* Flaw: obsession with new, unique, or powerful items; currently interested in rumors of a lost city and collecting maps
+* Entered the story in Luskan after arriving by ship from the Tabaxi homeland with Captain Braddok Ironhand, a dwarf captain.
+* Sent to scout out the party because they had something valuable: a cart of potatoes and an odd stone.
+* At the time, the party was trying to move goods along a dangerous trail, possibly connected to either the dwarven kingdom or the orc kingdom.
+* After joining the party's orbit, became entangled in the bar fight, the murder of the Luskan mayor's son, and the dock warehouse robbery.
+* May not be able to safely return to Luskan and likely does not want to.
+* Notes for DM: Very strong social and scouting character. Give him things to notice, climb, steal, appraise, bargain for, or be tempted by, including valuables, maps, lost-city rumors, locks, lies, and high-mobility routes.
 
-Brother Kai is now twenty-eight and has spent five years walking the Sword Coast seeking enlightenment. He does not know whether enlightenment is a place, a truth, a person, or a moment, but he believes that if he keeps walking with discipline, compassion, and open eyes, he will find it.
+### Throk
 
-## Pat Benatar
+* Orc Warlock 1
+* Background: Sage
+* Role: charisma caster, ranged utility, familiar user
+* AC 11, HP 10, Speed 30 ft.
+* STR 13, DEX 12, CON 15, INT 10, WIS 8, CHA 17
+* Notable skills: Arcana +2, History +2, Investigation +2, Survival +1
+* Passive Perception 9
+* Darkvision 120 ft.
+* Adrenaline Rush: Bonus Action Dash and gain 2 temp HP, 2/Short Rest
+* Relentless Endurance: drop to 1 HP instead of 0, 1/Long Rest
+* Pact of the Chain; Find Familiar listed
+* Weapons: Light Crossbow +3, Handaxe +3, Sickle +3
+* From the Kingdom of Many-Arrows.
+* Young orc seeking to make his father proud; witnessed both raiding and trading eras and sees cooperation and usefulness as possible forms of strength.
+* Son of Bagronk War-Scarred, a regional commander who evolved from raider to protector of trade routes.
+* Left the orc kingdom because of orc politics. After interrupting an ambush and choosing not to kill his father's enemies, staying became dangerous or politically impossible.
+* Took guard work on a caravan, which brought him to the coast and to Severed Whisper, Pat Benatar, and Brother Kai.
+* Since joining the party, he has seen Dragonborn breath weapons used very effectively in a bar fight, survived a sinking ship, experienced planar shifts, had strange visions or interactions with a god or godlike force, and helped stop a ceremony being performed by cult followers.
+* Major motivation: protecting his family, especially his younger sister Grek, while trying to push orc society beyond both old raiding culture and the current diplomatic status quo.
+* Warlock path is tied to desperate need: ordinary strength, diplomacy, and violence against his own people all fail, so he reaches toward otherworldly power.
+* Notes for DM: Strong CHA but weak perception/insight. Good for social tension around orc identity, trade, loyalty, nonviolent strength, familiar scouting, and patron/forbidden-knowledge moments.
 
-Pat Benatar is a Dragonborn Rogue who appears mostly human, with gold-shining eyes, faint scales, and inner warmth that reveals dragon blood.
+### Lloyd GoldSeeker
 
-Pat Benatar grew up in a dragonborn clan but was treated as strange, possibly a bad omen or mystery, because Pat Benatar did not look fully dragonborn.
+* Dwarf Cleric 1
+* Background: Soldier
+* Role: healer and front-line support
+* AC 13, HP 12, Speed 30 ft.
+* STR 15, DEX 13, CON 17, INT 12, WIS 10, CHA 8
+* Notable skills: Athletics +4, Insight +2, Intimidation +1, Medicine +2
+* Passive Perception 10
+* Darkvision 120 ft.
+* Poison resistance; advantage to avoid or end Poisoned
+* Weapon: Mace +4, 1d6+2 bludgeoning
+* Key spells available/listed: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
+* New to the party and may not be long-term.
+* Notes for DM: He covers healing but has low Wisdom for a cleric, so spell save DC is low. Better used for Bless, healing, support, physical presence, protecting, stabilizing, or physically blocking threats than save-or-suck casting.
 
-Pat Benatar became observant from being overlooked, learning to read rooms, lies, anger, fear, and hidden motives.
+## Party Strengths
 
-As a young adult, Pat Benatar exposed a dishonest merchant and recovered stolen clan goods, but still felt useful rather than fully accepted.
+* Strong social party: Pat Benatar, Severed Whisper, and Throk all have strong social potential.
+* Strong scouting and perception: Pat Benatar and Severed Whisper are especially good at noticing things.
+* Good stealth/infiltration potential through both rogues and Brother Kai.
+* Healing is covered by Lloyd.
+* Party has multiple darkvision characters.
 
-Pat Benatar left the clan and found work around Sword Coast docks and warehouses, learning shipping routes, favors, debts, secrets, lockpicking, quiet movement, and the invisible map of port life.
+## Party Weaknesses
 
-Pat Benatar became a neutral-good rogue: willing to bend law for fairness, protect the vulnerable, expose traffickers, and solve problems without unnecessary bloodshed.
+* Low-level fragility: several characters have 8-10 HP.
+* Limited front-line durability unless Lloyd steps into that role.
+* Throk has very low Wisdom and Passive Perception.
+* Pat Benatar has only 8 HP.
+* Party has two rogues and one monk, so encounters should support mobility, positioning, social leverage, and tactical creativity rather than pure slugging.
 
-A deeper mystery emerged when Pat Benatar encountered hints about dragon bloodlines touched by ancient magic, a sealed box that warmed at Pat Benatar's touch, and a gold-copper scale marked with Pat Benatar's clan symbol.
+## Encounter Design Notes
 
-This suggests someone knows the truth of Pat Benatar's unusual origin.
-
-## Severed Whisper
-
-Severed Whisper entered the story in Luskan after arriving by ship from the Tabaxi homeland with Captain Braddok Ironhand, a dwarf captain.
-
-Sev was sent to scout out the party because they had something valuable: a cart of potatoes and an odd stone.
-
-At the time, the party was trying to move goods along a dangerous trail, possibly connected to either the dwarven kingdom or the orc kingdom.
-
-After joining the party's orbit, Sev became entangled in:
-
-* the bar fight
-* the murder of the Luskan mayor's son
-* the dock warehouse robbery
-
-Sev may not be able to safely return to Luskan and likely does not want to.
-
-## Throk
-
-Throk is an orc from the Kingdom of Many-Arrows.
-
-Throk left the orc kingdom because of orc politics. After interrupting an ambush and choosing not to kill his father's enemies, staying became dangerous or politically impossible.
-
-He took guard work on a caravan, which brought him to the coast. There he met Severed Whisper, Pat Benatar, and Brother Kai.
-
-Since joining the party, Throk has:
-
-* seen Dragonborn breath weapons used very effectively in a bar fight
-* survived a sinking ship
-* experienced planar shifts
-* had strange visions or interactions with a god or godlike force
-* helped stop a ceremony being performed by cult followers
-
-Throk is the son of Bagronk War-Scarred, a regional commander who evolved from raider to protector of trade routes.
-
-His major motivation is protecting his family, especially his younger sister Grek, while trying to push orc society beyond both old raiding culture and the current diplomatic status quo.
-
-His warlock path is tied to desperate need: ordinary strength, diplomacy, and violence against his own people all fail, so he reaches toward otherworldly power.
-
+* Good encounter style: social tension, investigation, stealth, chase scenes, ship hazards, small tactical fights, weird magical clues, and choices with incomplete information.
+* Avoid opening with too many hard-hitting enemies at once.
+* Use terrain: docks, rigging, rooftops, cargo, cliffs, ruins, tight corridors, ship decks, and stone surfaces.
+* Give Lloyd reasons to protect, stabilize, bless, heal, or physically block threats.
+* Give Throk familiar scouting and patron/forbidden-knowledge moments.
+* Give Severed Whisper valuables, maps, lost-city rumors, locks, lies, and high-mobility routes.
+* Give Pat Benatar dragon/clan/scale clues and chances to read people.
+* Give Brother Kai philosophical or spiritual contradictions to interpret.
