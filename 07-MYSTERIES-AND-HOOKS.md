@@ -11,8 +11,15 @@
 * Why is reality fraying across more than one plane or reality?
 * Why are the gods interacting with the world differently?
 * Was the worshiping stone exploiting the rift, feeding it, stabilizing it, or misunderstanding it?
+* Who or what was the impossible being that contacted the party during the monastery vision?
+* Why was the party specifically contacted?
+* What force is damaging time, space, religion, magic, prayer, memory, and reality across planes?
+* Why does even the powerful being not know the source?
 
 ## Plot Hooks
 
-## Needs Resolution
+* The monastery vision singled out the party as special and tied them directly to the central crisis.
+* A being powerful enough to reach across realities warned them that existence itself is fraying, but did not know the cause.
+* The party has reason to believe their actions matter beyond the local cult, temple, or town.
 
+## Needs Resolution
