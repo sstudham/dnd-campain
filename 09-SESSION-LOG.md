@@ -35,4 +35,3 @@ A separation event occurred.
 
 ## Follow-Up Notes
 
-* Latest player character sheets were received and summarized for DM reference.

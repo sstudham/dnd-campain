@@ -1,9 +1,10 @@
 # Current Canon
 
-## Campaign Premise 
+## Campaign Premise
 
-* This is a long-form D&D campaign in a Faerun-inspired world.
-* The campaign currently involves weakening planar barriers, strange magical anomalies, and a religious/planar threat connected to the cult of "the one god."
+* This is a long-form D\&D campaign in a Faerun-inspired world.
+* The campaign currently involves weakening planar barriers, strange magical anomalies, and a religious/planar threat
+* The world has suffered, or will suffer, a major catastrophe that weakens the barriers between planes.
 * The deeper cause of the planar instability is not yet canon.
 
 ## Established Facts
@@ -21,10 +22,7 @@
 
 ## Open Canon Questions
 
-* What is the "one hunger"?
-* Why was prayer being pulled through the worshiping stone?
 * Why did the dragonborn hear "Stormwreck"?
 * What is the scale connected to Pat Benatar's clan mark?
-* Who was the bronze-eyed hooded woman?
-* What do old dragon bones have to do with thin places in the world?
 * What are Grusk and Morghul doing after escaping?
+
