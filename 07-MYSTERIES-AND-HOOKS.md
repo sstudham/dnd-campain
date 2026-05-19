@@ -17,4 +17,4 @@
 
 ## Needs Resolution
 
-* Reconcile Captain Braddok Ironhand and Captain Elric Thorne. Decide whether they are different captains or whether the Stormwreck passage captain should be Braddok Ironhand.
+* Resolved - Captain Braddok Ironhand remains tied to Severed Whisper and Luskan. Captain Elric Thorne is a separate captain and Pat Benatar shipping contact who may help the party reach Stormwreck Isle.
