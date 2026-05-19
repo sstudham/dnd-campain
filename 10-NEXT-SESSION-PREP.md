@@ -9,23 +9,55 @@
 The worshiping stone is split.
 Silver-blue rift light pulses from the crack.
 Freed worshipers are scared, ashamed, and confused.
+Lloyd GoldSeeker wakes among the worshipers of "the one god."
+Like the other worshipers, Lloyd has no clear memory of choosing to participate.
+He remembers praying, chanting, and feeling prayer pulled through him.
+He wakes confused, ashamed, and horrified.
+Do not present Lloyd as a villain or willing cultist.
+His memories are fragmentary: silver-blue light, black rocks, Dragon's Rest, and the sense that something was interfering with prayer.
 The two dragonborn hear one word: "Stormwreck."
 
 Checks:
 
 * Arcana/Religion DC 12: the stone was not giving power to a god; it was pulling prayer into something else.
 * History/Religion DC 14: "old dragon bones make thin places" sounds like ancient draconic magic.
+* Medicine DC 10: Lloyd steadies the worshiper and realizes the person is spiritually drained, not poisoned or wounded.
+* Religion DC 14: Lloyd's divine magic still works, which suggests the gods are not gone, but something is interfering with how prayer moves through the world.
 
 Read/describe:
-The chanting stops all at once. The rings of worshipers break apart like people waking from the same nightmare. The cracked altar leaks silver-blue light. For one heartbeat, the split stone shows black waves, jagged rocks, drowned hands, and a ruined observatory on a cliff.
-To the dragonborn only: a word rolls through your bones. "Stormwreck."
+The chanting dies all at once.
+The temple goes quiet except for rain, breathing, and the crackle of silver-blue light leaking from the broken stone.
+The worshipers sway like people waking from the same nightmare. Some fall to their knees. Some cry. Some stare at their hands as if they expected to find blood there.
+A dwarf in worn soldier's gear blinks hard, grips a holy symbol at his chest, and looks around in horror.
+"I don't... I don't remember coming here."
+Then the cracked altar pulses.
+For one heartbeat, the split stone shows black waves, jagged rocks, drowned hands, and a ruined observatory on a cliff.
+To the dragonborn only, a word rolls through the bones:
+"Stormwreck."
+
+DM prompt for Andy:
+One of the worshipers near you drops hard to the stone floor, shaking and barely breathing. Lloyd does not know exactly what happened here, but his body remembers what to do. What does he do?
+
+If Lloyd uses healing magic:
+The spell works, but silver-blue light briefly flickers at the edges before becoming normal divine light again.
 
 Dialogue:
 
+* Lloyd: "I was praying. I think I was praying."
+* Lloyd: "No. That's not right. Something was using the prayer."
+* Lloyd: "I remember a voice saying there was only one god. But it didn't feel holy. It felt empty."
+* Lloyd: "I don't know you people, but if you broke that thing, I owe you thanks."
+* Lloyd: "I heard Dragon's Rest. I don't know where it is. But I heard it like a bell."
 * Freed cultist: "I remember chanting. I remember giving something away. Not gold. Not blood. Prayer."
 * Freed cultist: "There was no god. There was something wrong behind the prayer."
 * Old worshiper: "They said old dragon bones make thin places in the world."
 * Young worshiper: "The monk went north. He said if the rift opened again, look for Dragon's Rest."
+
+Why Lloyd joins:
+Lloyd was part of what happened, even if he does not remember choosing it. If Dragon's Rest has answers, he wants to go. He is useful to the party because he has healing, remembers Dragon's Rest, and was affected by the same prayer-draining force.
+
+Suggested Lloyd line:
+"I was part of this, even if I don't remember choosing it. If this Dragon's Rest place has answers, I should go."
 
 NPCs:
 Ketha Morn, freed cultist
@@ -222,3 +254,27 @@ Use: retired soldier, defensive NPC
 Trait: suspicious but protective.
 
 ## Prep Notes
+
+Recommended session flow:
+
+1. Temple aftermath + Lloyd introduction.
+2. Short tavern/rest scene with Pat Benatar's box and Dragon's Rest clue.
+3. Pat Benatar works the docks and finds Captain Elric Thorne.
+4. Fast boat skill challenge with one undead sailor.
+5. Arrival at Stormwreck Isle.
+6. If time remains, begin Dragons of Stormwreck Isle Chapter 1 with Dragon's Rest / beach trouble.
+
+Pacing note:
+If the session moves quickly or the bridge material runs short, transition into Dragons of Stormwreck Isle Chapter 1 once the party reaches the island.
+
+Practical DM note:
+Do not overbuild the boat section. Keep it to about 20-30 minutes unless the players are clearly enjoying it. The stronger prepared play material is Dragon's Rest and the island.
+
+Dragonborn appearance note:
+Not all dragonborn present the same way. Brother Kai can be an unusual-looking dragonborn without changing Pat Benatar's special mystery. Brother Kai's appearance is treated as unusual but still within the broad range of dragonborn ancestry. Pat Benatar is different in a deeper way: she appears mostly human, and her own dragonborn clan treated that as a mystery, omen, or unresolved sign. Pat's mystery is not merely that she looks different. It is tied to her clan, the scale, her origin, and something older than her clan.
+
+Table wording:
+Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn who appears mostly human, and her own clan saw that as a sign of something deeper and unresolved.
+
+DM note:
+Do not explain Pat's full mystery yet. Preserve it as a slow-burn character hook tied to the scale, clan symbol, Stormwreck, Dragon's Rest, and the rift.
