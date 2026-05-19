@@ -1,5 +1,20 @@
 # Next Session Prep
 
+## Current DM Priority
+
+* For the next 5-10 sessions, prioritize helping the party bond, even at the expense of advancing the main storyline quickly.
+* The immediate goal is for the players and characters to understand:
+  * who is in the party,
+  * each character's name,
+  * what each character is useful for,
+  * why they are traveling together,
+  * why they might continue together after the current crisis.
+* Build scenes that create shared danger, shared usefulness, small personal reveals, and practical reasons to cooperate.
+* Use the rift, Stormwreck, Dragon's Rest, Pat Benatar's scale, Lloyd's cult involvement, Sev's Luskan trouble, Kai's spiritual lens, and Throk's family/political tension as bonding hooks rather than lore dumps.
+* Prefer simple table-facing connective moments over complex exposition.
+* Make sure each session gives at least one character a reason to appreciate or rely on another character.
+* Do not assume the party already feels like a party yet.
+
 ## Recap
 
 ## Scenes

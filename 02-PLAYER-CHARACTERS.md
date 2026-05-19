@@ -14,6 +14,7 @@ Latest character sheets received.
 
 ### Brother Kai
 
+* D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151462120
 * Dragonborn Monk 1
 * Background: Sage
 * Role: mobile melee, martial philosopher, spiritual lens
@@ -37,6 +38,7 @@ Latest character sheets received.
 
 ### Pat Benatar
 
+* D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
 * Dragonborn Rogue 1
 * Background: Far Traveler
 * Role: face, investigator, ranged rogue, Stormwreck/dragon mystery hook
@@ -66,6 +68,7 @@ Latest character sheets received.
 
 ### Severed Whisper
 
+* D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151283816
 * Tabaxi Rogue 1
 * Background: Custom Background
 * Role: scout, face, skirmisher, thief/rogue utility
@@ -91,6 +94,7 @@ Latest character sheets received.
 
 ### Throk
 
+* D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151285499
 * Orc Warlock 1
 * Background: Sage
 * Role: charisma caster, ranged utility, familiar user
@@ -115,6 +119,7 @@ Latest character sheets received.
 
 ### Lloyd GoldSeeker
 
+* D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
 * Dwarf Cleric 1
 * Background: Soldier
 * Role: healer and front-line support
