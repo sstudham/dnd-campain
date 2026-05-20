@@ -8,6 +8,7 @@ Rules:
 - If something conflicts with existing canon, do not fix it silently. Add it to 07-MYSTERIES-AND-HOOKS.md under “Needs Resolution.”
 - Keep entries short and useful.
 - Do not rewrite everything unless asked.
+- Use the character names Floyd and Kai consistently. Do not use Lloyd for Floyd GoldSeeker. Do not use Kia for Brother Kai.
 
 ## File Map
 
@@ -60,6 +61,7 @@ Use for:
 * Character mechanics useful for DM prep
 * Party strengths and weaknesses
 * Encounter design notes based on the party
+* Character headshot image references
 
 Do not use for:
 
@@ -263,14 +265,20 @@ Use for:
 
 Current media files:
 
-* Kai.jpg Image of Kai
-* Lloyd.jpg Image of Lloyd
+* fllod.jpg Headshot image of Floyd GoldSeeker
+* Kai.jpg Headshot image of Brother Kai
+* Sev.jpg Headshot image of Severed Whisper
+* Throk.jpg Headshot image of Throk
+* Pat.jpg Headshot image of Pat Benatar
 * Meditation Vision.jpg Image of the party's shared deep-meditation vision at the monastery
-* Pat Benatar.jpg Image of Pat Benatar
-* Sev.jpg Image of Sev
-* Throk.jpg Image of Throk
 * Blackford Road Caravan Ambush.jpg Image of the Blackford Road ambush involving Shorn's caravan, Throk, Grusk, and Morghul
-* intro to Act 2.mp4 Video recap introducing Act 2 / next-session setup, summarizing the quest so far and introducing Lloyd GoldSeeker. External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
+* intro to Act 2.mp4 Video recap introducing Act 2 / next-session setup, summarizing the quest so far and introducing Floyd GoldSeeker. External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
+
+Character headshot rule:
+
+* When creating, editing, or prompting character images, use the listed headshot image files as the authoritative face references.
+* The character faces from fllod.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
+* Image prompts should keep the character's face consistent with the matching headshot unless Scott explicitly asks to change the face.
 
 Do not use for:
 
