@@ -15,12 +15,36 @@
 * Make sure each session gives at least one character a reason to appreciate or rely on another character.
 * Do not assume the party already feels like a party yet.
 
-## Recap
+## Start-of-Session Recap
 
-The party followed the Stormwreck / Dragon's Rest lead, traveled to Stormwreck Isle, and killed the zombies on the dock.
-Pat Benatar and Kai used breath weapons on the boat, irritating Captain Elric Thorne.
-Throk went down during the dock fight, and Pat Benatar saved him with a Medicine check.
-The next session starts as the party walks up the hill at Dragon's Rest and meets the kobolds.
+The party left the aftermath of the broken worshiping stone behind and followed the clues toward Stormwreck Isle and Dragon's Rest.
+
+Before leaving, Pat Benatar received the mysterious box connected to her dragonborn bloodline. The scale inside reacted to her and to Kai, pointing the party toward Stormwreck Isle. The clue was clear enough: if the party wanted answers about the rift, the strange prayer-draining magic, and Pat Benatar's dragon mystery, Dragon's Rest was the next place to go.
+
+Pat Benatar used her dockside experience and contacts to help secure passage by ship. The trip was not peaceful. Strange fog, bad water, loose cargo, undead danger, and the lingering supernatural pull of Stormwreck made the crossing tense. During the journey, Pat Benatar and Kai both used their breath weapons, which was effective but irritated the captain. At the table, every dragonborn breath weapon also came with a shot of Fireball.
+
+The party reached Stormwreck Isle and saw Dragon's Rest above the black rocks. Before they could settle in, the beach and dock became dangerous. Zombies attacked near the landing.
+
+During the fight:
+
+* Pat Benatar showed tactical awesomeness by using a bonus action to Disengage.
+* Throk went down.
+* Pat Benatar saved Throk with a Medicine check.
+* Throk used his first Eldritch Blast, though he was not fully sure what it was.
+* Sev, Kai, and Floyd each got kills.
+* The party killed the zombies on the dock.
+
+Character/table notes:
+
+* Lloyd GoldSeeker is now Floyd GoldSeeker.
+* Sev does not like being called "kitty."
+* Sev does not like people touching his mini.
+* Kai will be the focus next session and is expected to grow into Level 2.
+* Kai may develop fancy nails/claws that add some kind of extra damage.
+
+Where we ended:
+
+The zombies on the dock are dead. The party has survived the landing at Stormwreck Isle. They are now walking up the hill toward Dragon's Rest and meeting the kobolds.
 
 ## Current Starting Point
 
