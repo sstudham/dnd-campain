@@ -35,6 +35,20 @@ Throk fought beside the caravan, was wounded, earned the merchants' trust, and j
 The cult of "the one god" was introduced as somehow embedded among normal worshipers.
 A separation event occurred.
 
+### Session 9 - Stormwreck Isle Arrival
+
+The party followed the Stormwreck / Dragon's Rest lead and traveled by boat with Captain Elric Thorne.
+Pat Benatar and Kai used breath weapons on the boat, irritating the captain.
+Table note: each time a dragonborn used a breath weapon, that player did a shot of Fireball.
+Sev does not like being called "kitty" and does not like people touching his mini.
+Lloyd GoldSeeker became Floyd GoldSeeker.
+Pat Benatar demonstrated tactical awesomeness by using a bonus action to Disengage.
+Throk went down during the fight, and Pat Benatar saved him with a Medicine check.
+Throk used his first Eldritch Blast and was not sure what it was.
+The party killed the zombies on the dock.
+Players who got kills: Sev, Kai, Floyd.
+The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.

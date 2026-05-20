@@ -8,7 +8,7 @@ Latest character sheets received.
 * Pat Benatar - Dragonborn Rogue - played by Kim
 * Severed Whisper - Tabaxi Rogue - played by Erik
 * Throk - Orc Warlock - played by Mike
-* Lloyd GoldSeeker - Dwarf Cleric - played by Andy; new to the party and may not be long-term
+* Floyd GoldSeeker - Dwarf Cleric - played by Andy; new to the party and may not be long-term
 
 ## Character Summaries
 
@@ -117,7 +117,7 @@ Latest character sheets received.
 * Warlock path is tied to desperate need: ordinary strength, diplomacy, and violence against his own people all fail, so he reaches toward otherworldly power.
 * Notes for DM: Strong CHA but weak perception/insight. Good for social tension around orc identity, trade, loyalty, nonviolent strength, familiar scouting, and patron/forbidden-knowledge moments.
 
-### Lloyd GoldSeeker
+### Floyd GoldSeeker
 
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
 * Dwarf Cleric 1
@@ -139,13 +139,13 @@ Latest character sheets received.
 * Strong social party: Pat Benatar, Severed Whisper, and Throk all have strong social potential.
 * Strong scouting and perception: Pat Benatar and Severed Whisper are especially good at noticing things.
 * Good stealth/infiltration potential through both rogues and Brother Kai.
-* Healing is covered by Lloyd.
+* Healing is covered by Floyd.
 * Party has multiple darkvision characters.
 
 ## Party Weaknesses
 
 * Low-level fragility: several characters have 8-10 HP.
-* Limited front-line durability unless Lloyd steps into that role.
+* Limited front-line durability unless Floyd steps into that role.
 * Throk has very low Wisdom and Passive Perception.
 * Pat Benatar has only 8 HP.
 * Party has two rogues and one monk, so encounters should support mobility, positioning, social leverage, and tactical creativity rather than pure slugging.
@@ -155,7 +155,7 @@ Latest character sheets received.
 * Good encounter style: social tension, investigation, stealth, chase scenes, ship hazards, small tactical fights, weird magical clues, and choices with incomplete information.
 * Avoid opening with too many hard-hitting enemies at once.
 * Use terrain: docks, rigging, rooftops, cargo, cliffs, ruins, tight corridors, ship decks, and stone surfaces.
-* Give Lloyd reasons to protect, stabilize, bless, heal, or physically block threats.
+* Give Floyd reasons to protect, stabilize, bless, heal, or physically block threats.
 * Give Throk familiar scouting and patron/forbidden-knowledge moments.
 * Give Severed Whisper valuables, maps, lost-city rumors, locks, lies, and high-mobility routes.
 * Give Pat Benatar dragon/clan/scale clues and chances to read people.

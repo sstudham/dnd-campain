@@ -10,25 +10,42 @@
   * why they are traveling together,
   * why they might continue together after the current crisis.
 * Build scenes that create shared danger, shared usefulness, small personal reveals, and practical reasons to cooperate.
-* Use the rift, Stormwreck, Dragon's Rest, Pat Benatar's scale, Lloyd's cult involvement, Sev's Luskan trouble, Kai's spiritual lens, and Throk's family/political tension as bonding hooks rather than lore dumps.
+* Use the rift, Stormwreck, Dragon's Rest, Pat Benatar's scale, Floyd's cult involvement, Sev's Luskan trouble, Kai's spiritual lens, and Throk's family/political tension as bonding hooks rather than lore dumps.
 * Prefer simple table-facing connective moments over complex exposition.
 * Make sure each session gives at least one character a reason to appreciate or rely on another character.
 * Do not assume the party already feels like a party yet.
 
 ## Recap
 
-## Opening Narration for Next Session
+The party followed the Stormwreck / Dragon's Rest lead, traveled to Stormwreck Isle, and killed the zombies on the dock.
+Pat Benatar and Kai used breath weapons on the boat, irritating Captain Elric Thorne.
+Throk went down during the dock fight, and Pat Benatar saved him with a Medicine check.
+The next session starts as the party walks up the hill at Dragon's Rest and meets the kobolds.
+
+## Current Starting Point
+
+* The dock zombies are dead.
+* The party is walking up the hill toward Dragon's Rest.
+* The kobolds are the immediate scene.
+* Keep the focus on introductions, recovery after the dock fight, and why Dragon's Rest matters now.
+
+## Previous Bridge Material
+
+The material below was used to bridge the party from the destroyed temple to Stormwreck Isle.
+Do not treat it as the current starting point.
+
+## Opening Narration Used for Previous Bridge
 
 Video version: intro to Act 2.mp4
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
-DM use:
+Prior DM use:
 
-* Play this video at the start of the session before resuming in the destroyed temple.
+* This video was used before resuming in the destroyed temple.
 * The video is hosted externally on Google Drive because it could not be uploaded to the campaign archive.
 * The video audio is the opening narration text in this section.
-* The video summarizes the quest so far and introduces Lloyd GoldSeeker.
-* The video ends at the current scene state: the temple has just been destroyed, the worshipers are waking, Lloyd is among them, and the cracked worshiping stone is still pulsing.
+* The video summarizes the quest so far and introduces Floyd GoldSeeker.
+* The video ends at the current scene state: the temple has just been destroyed, the worshipers are waking, Floyd is among them, and the cracked worshiping stone is still pulsing.
 * The dragonborn have not yet heard "Stormwreck."
 * The party has not yet gone to the tavern or received Pat Benatar's box.
 
@@ -39,11 +56,11 @@ DM use:
 The worshiping stone is split.
 Silver-blue rift light pulses from the crack.
 Freed worshipers are scared, ashamed, and confused.
-Lloyd GoldSeeker wakes among the worshipers of "the one god."
-Like the other worshipers, Lloyd has no clear memory of choosing to participate.
+Floyd GoldSeeker wakes among the worshipers of "the one god."
+Like the other worshipers, Floyd has no clear memory of choosing to participate.
 He remembers praying, chanting, and feeling prayer pulled through him.
 He wakes confused, ashamed, and horrified.
-Do not present Lloyd as a villain or willing cultist.
+Do not present Floyd as a villain or willing cultist.
 His memories are fragmentary: silver-blue light, black rocks, Dragon's Rest, and the sense that something was interfering with prayer.
 The two dragonborn hear one word: "Stormwreck."
 
@@ -51,8 +68,8 @@ Checks:
 
 * Arcana/Religion DC 12: the stone was not giving power to a god; it was pulling prayer into something else.
 * History/Religion DC 14: "old dragon bones make thin places" sounds like ancient draconic magic.
-* Medicine DC 10: Lloyd steadies the worshiper and realizes the person is spiritually drained, not poisoned or wounded.
-* Religion DC 14: Lloyd's divine magic still works, which suggests the gods are not gone, but something is interfering with how prayer moves through the world.
+* Medicine DC 10: Floyd steadies the worshiper and realizes the person is spiritually drained, not poisoned or wounded.
+* Religion DC 14: Floyd's divine magic still works, which suggests the gods are not gone, but something is interfering with how prayer moves through the world.
 
 Read/describe:
 The chanting dies all at once.
@@ -66,27 +83,27 @@ To the dragonborn only, a word rolls through the bones:
 "Stormwreck."
 
 DM prompt for Andy:
-One of the worshipers near you drops hard to the stone floor, shaking and barely breathing. Lloyd does not know exactly what happened here, but his body remembers what to do. What does he do?
+One of the worshipers near you drops hard to the stone floor, shaking and barely breathing. Floyd does not know exactly what happened here, but his body remembers what to do. What does he do?
 
-If Lloyd uses healing magic:
+If Floyd uses healing magic:
 The spell works, but silver-blue light briefly flickers at the edges before becoming normal divine light again.
 
 Dialogue:
 
-* Lloyd: "I was praying. I think I was praying."
-* Lloyd: "No. That's not right. Something was using the prayer."
-* Lloyd: "I remember a voice saying there was only one god. But it didn't feel holy. It felt empty."
-* Lloyd: "I don't know you people, but if you broke that thing, I owe you thanks."
-* Lloyd: "I heard Dragon's Rest. I don't know where it is. But I heard it like a bell."
+* Floyd: "I was praying. I think I was praying."
+* Floyd: "No. That's not right. Something was using the prayer."
+* Floyd: "I remember a voice saying there was only one god. But it didn't feel holy. It felt empty."
+* Floyd: "I don't know you people, but if you broke that thing, I owe you thanks."
+* Floyd: "I heard Dragon's Rest. I don't know where it is. But I heard it like a bell."
 * Freed cultist: "I remember chanting. I remember giving something away. Not gold. Not blood. Prayer."
 * Freed cultist: "There was no god. There was something wrong behind the prayer."
 * Old worshiper: "They said old dragon bones make thin places in the world."
 * Young worshiper: "The monk went north. He said if the rift opened again, look for Dragon's Rest."
 
-Why Lloyd joins:
-Lloyd was part of what happened, even if he does not remember choosing it. If Dragon's Rest has answers, he wants to go. He is useful to the party because he has healing, remembers Dragon's Rest, and was affected by the same prayer-draining force.
+Why Floyd joins:
+Floyd was part of what happened, even if he does not remember choosing it. If Dragon's Rest has answers, he wants to go. He is useful to the party because he has healing, remembers Dragon's Rest, and was affected by the same prayer-draining force.
 
-Suggested Lloyd line:
+Suggested Floyd line:
 "I was part of this, even if I don't remember choosing it. If this Dragon's Rest place has answers, I should go."
 
 NPCs:
@@ -287,7 +304,7 @@ Trait: suspicious but protective.
 
 Recommended session flow:
 
-1. Temple aftermath + Lloyd introduction.
+1. Temple aftermath + Floyd introduction.
 2. Short tavern/rest scene with Pat Benatar's box and Dragon's Rest clue.
 3. Pat Benatar works the docks and finds Captain Elric Thorne.
 4. Fast boat skill challenge with one undead sailor.
