@@ -323,5 +323,14 @@ Not all dragonborn present the same way. Brother Kai can be an unusual-looking d
 Table wording:
 Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn who appears mostly human, and her own clan saw that as a sign of something deeper and unresolved.
 
+Additional next-session note:
+
+* Kai agreed that next session will focus on him.
+* Kai is expected to advance to Level 2.
+* As part of that level-up / focus scene, Kai will grow fancy nails/claws that deal some kind of extra damage.
+* The exact mechanics and story meaning of the nails/claws are not finalized yet unless Scott later says CANON or "make this canon."
+* This note belongs in next-session prep for now, not permanent canon yet.
+* If updating character prep notes, use "Kai," not "Kia."
+
 DM note:
 Do not explain Pat's full mystery yet. Preserve it as a slow-burn character hook tied to the scale, clan symbol, Stormwreck, Dragon's Rest, and the rift.
