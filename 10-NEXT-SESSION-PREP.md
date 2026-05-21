@@ -6,7 +6,7 @@ Next session starts at Dragon's Rest after the dock zombie fight.
 
 * The party has already reached Stormwreck Isle.
 * The dock zombies are dead.
-* The party is walking uphill from the dock toward Dragon's Rest.
+* The party is walking uphill from the dock toward Dragon's Rest. (Artwork for this is "Session 9 Landing at Dragons Rest.jpg")
 * The kobolds are the immediate contact.
 * The party will spend some loose, social, low-pressure time around the cloister before going to Seagrow Caves.
 * The Seagrow Caves quest should mostly follow Dragons of Stormwreck Isle Rules as Written, with only the campaign-specific modifications below.
@@ -40,12 +40,14 @@ Where we ended: the party is walking up the hill toward Dragon's Rest and meetin
 Tone: loose, social, low-pressure. Give the characters room to interact with kobolds, Tarak, Varnoth, and Runara before the quest. The goal is party bonding, recovery after the dock fight, and a practical reason to go to Seagrow Caves.
 
 * Kobolds swarm the party with awkward questions:
+
   * "Are you heroes?"
   * "Is Sev a cat or a person?"
   * "Can Kai breathe fire on command?"
   * "Is Floyd the group grandpa?"
 * Tarak patches wounds and asks for help getting cave mushrooms / medicinal fungus from Seagrow Caves.
 * Varnoth quietly sizes up the party and asks practical questions:
+
   * "Who leads?"
   * "Who watches the rear?"
   * "Who panics first?"
@@ -69,6 +71,7 @@ Campaign-specific modifications:
 * Brother Kai is the key to activating the hidden mark. Not because he is special in the same way Pat Benatar is, but because he is disciplined dragonborn flesh/breath/spirit.
 * Activation method: Brother Kai places his hands on the old mark and performs a breathing form, martial kata, or meditation.
 * The cave reacts physically: roots pull back, fungus glows, the air warms, and Brother Kai's fingernails lengthen into dragon talons.
+* Artwork for this is "Session 10 Kai gets his Claws.jpg"
 * The talons are not a gift from Runara. They are Brother Kai's own dragon nature awakening under pressure.
 * Runara later recognizes what happened but plays it calm: "The island did not change you. It remembered you."
 * Do not explain Pat Benatar's full origin yet. The only reveal is: her clan mark is copied from something older, and Runara probably knows more.
@@ -102,3 +105,4 @@ Video version used for that bridge: intro to Act 2.mp4
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
 DM note: Do not explain Pat Benatar's full mystery yet. Preserve it as a slow-burn character hook tied to the scale, clan symbol, Stormwreck, Dragon's Rest, and the rift.
+

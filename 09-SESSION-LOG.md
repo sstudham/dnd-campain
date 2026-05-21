@@ -25,9 +25,11 @@ The being did not know what was causing the damage.
 This made the warning more frightening, because even something powerful enough to reach across realities did not understand the source.
 The vision established that the party is special and tied to the central campaign conflict.
 
+Artwork for this is "Meditation Vision.jpg"
+
 ### Sessions 1-8 - Blackford Road and Shorn's Caravan
 
-On the Blackford Road, Shorn's caravan was ambushed by orcs led by Grusk and Morghul.
+On the Blackford Road, Shorn's caravan was ambushed by orcs led by Grusk and Morghul. Artwork for this is "Blackford Road Caravan Ambush.jpg"
 The attack appeared connected to an attempt to sabotage Throk's father's peace.
 Three young orcs and their wolf were killed.
 Grusk and Morghul escaped into the hills.
@@ -45,11 +47,11 @@ Throk went down during the fight, and Pat Benatar saved him with a Medicine chec
 Throk used his first Eldritch Blast and was not sure what it was.
 The party killed the zombies on the dock.
 Players who got kills: Sev, Kai, Floyd.
-The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds.
+The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds. (artwork for this is "Session 9 Landing at Dragons Rest.jpg")
 
 Character moments:
 
-Pat Benatar and Kai used breath weapons on the boat, irritating the captain.
+Pat Benatar and Kai used breath weapons on the boat, irritating the captain. (Artwork for this is "Session 10 Kai gets his Claws.jpg"
 Pat Benatar demonstrated tactical awesomeness by using a bonus action to Disengage.
 Sev does not like being called "kitty."
 
@@ -73,3 +75,4 @@ Sev does not like people touching his mini.
 * Monastery meditation vision image reference: Meditation Vision.jpg
 
 ## Follow-Up Notes
+
