@@ -50,6 +50,7 @@ These image files are the authoritative face references for character art. When 
 ### Pat Benatar
 
 * Headshot image reference: Pat.jpg
+* Name clarification: Pat Benatar is a fictional Dungeons & Dragons character played by Kim. The character has no connection to the real-world singer Pat Benatar. Do not use the singer's likeness, biography, style, stage persona, outfits, era, or public image when creating art or story material for this character. Use Pat.jpg as the authoritative face reference.
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
 * Dragonborn Rogue 1
 * Background: Far Traveler

@@ -1,5 +1,9 @@
 # Art Prompts
 
+## Image Generation Rule for Pat Benatar
+
+When generating images of Pat Benatar, treat her only as a fictional D&D character. She is not the real-world singer. Do not use or reference the singer's likeness, face, hairstyle, wardrobe, album imagery, stage persona, or biography. Use Pat.jpg as the only authoritative visual reference for the character's face. The intended subject is a mostly human-appearing dragonborn rogue with gold-shining eyes, faint scales, and subtle signs of dragon blood.
+
 ## Uploaded Video Reference
 
 ### intro to Act 2.mp4

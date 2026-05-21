@@ -10,6 +10,14 @@ Rules:
 - Do not rewrite everything unless asked.
 - Use the character names Floyd GoldSeeker and Brother Kai consistently. Do not use misspellings or name typos for either character.
 
+Pat Benatar name clarification:
+
+Pat Benatar is a fictional Dungeons & Dragons player character in this campaign.
+In this campaign, "Pat Benatar" does not refer to the real-world singer, celebrity, musician, or public figure.
+Do not depict, reference, imitate, or base images on the real Pat Benatar.
+Treat the name only as an in-world D&D character name.
+For image generation, use Pat.jpg as the authoritative face reference and preserve that fictional character face unless Scott explicitly asks to change it.
+
 ## File Map
 
 Purpose: This section tells ChatGPT/Codex where each type of campaign information belongs. Use the existing file structure. Do not create, rename, delete, or reorganize files unless Scott explicitly asks.
