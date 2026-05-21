@@ -13,6 +13,10 @@
 
 ## Possible Twists
 
+## Character Advancement Brainstorm
+
+* Kai's possible claws/nails Level 2 idea is not canon yet and will be worked out before the next session.
+
 ## Unused Scenes
 
 ## Deprecated Ideas

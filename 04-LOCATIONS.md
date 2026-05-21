@@ -7,8 +7,8 @@
 * Sword Coast - broad region for the campaign's current movement.
 * Kingdom of Many-Arrows - Throk's homeland and source of orc political tension.
 * Brother Kai's monastery - quiet monastery on the north Sword Coast where Brother Kai was raised.
-* Stormwreck Isle - island the party has reached after following the Dragon's Rest lead.
-* Dragon's Rest - cloister on Stormwreck Isle; the party has reached the dock and is walking uphill to meet the kobolds.
+* Stormwreck Isle - current location; black rocks, undead dock attack, and strange dragon/rift resonance.
+* Dragon's Rest - cloister above the Stormwreck Isle dock; the party is walking uphill from the dock after killing zombies, and kobolds are the immediate contact.
 
 ## Important Details
 

@@ -37,17 +37,26 @@ A separation event occurred.
 
 ### Session 9 - Stormwreck Isle Arrival
 
+Story events:
+
 The party followed the Stormwreck / Dragon's Rest lead and traveled by boat with Captain Elric Thorne.
-Pat Benatar and Kai used breath weapons on the boat, irritating the captain.
-Table note: each time a dragonborn used a breath weapon, that player did a shot of Fireball.
-Sev does not like being called "kitty" and does not like people touching his mini.
 Floyd GoldSeeker joined the party.
-Pat Benatar demonstrated tactical awesomeness by using a bonus action to Disengage.
 Throk went down during the fight, and Pat Benatar saved him with a Medicine check.
 Throk used his first Eldritch Blast and was not sure what it was.
 The party killed the zombies on the dock.
 Players who got kills: Sev, Kai, Floyd.
 The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds.
+
+Character moments:
+
+Pat Benatar and Kai used breath weapons on the boat, irritating the captain.
+Pat Benatar demonstrated tactical awesomeness by using a bonus action to Disengage.
+Sev does not like being called "kitty."
+
+Table notes:
+
+Each time a dragonborn used a breath weapon, that player did a shot of Fireball.
+Sev does not like people touching his mini.
 
 ## Important Moments
 

@@ -21,9 +21,9 @@
 * A separation event occurred.
 * Severed Whisper became entangled with the party through Luskan, Captain Braddok Ironhand, the odd stone, and criminal trouble.
 * Pat Benatar's dragon-blood mystery became tied to a scale and clan symbol.
+* Stormwreck Isle / Dragon's Rest is now the current location; unresolved threats and mysteries there remain active.
 
 ## Future Clocks
 
 * Grusk and Morghul remain unresolved.
 * The rift problem behind the cult remains unresolved.
-* Stormwreck Isle / Dragon's Rest is the likely next destination.

@@ -8,7 +8,7 @@ Rules:
 - If something conflicts with existing canon, do not fix it silently. Add it to 07-MYSTERIES-AND-HOOKS.md under “Needs Resolution.”
 - Keep entries short and useful.
 - Do not rewrite everything unless asked.
-- Use the character names Floyd and Kai consistently. Do not use Lloyd for Floyd GoldSeeker. Do not use Kia for Brother Kai.
+- Use the character names Floyd GoldSeeker and Brother Kai consistently. Do not use misspellings or name typos for either character.
 
 ## File Map
 
@@ -265,7 +265,7 @@ Use for:
 
 Current media files:
 
-* fllod.jpg Headshot image of Floyd GoldSeeker
+* Flloyd.jpb Headshot image of Floyd GoldSeeker
 * Kai.jpg Headshot image of Brother Kai
 * Sev.jpg Headshot image of Severed Whisper
 * Throk.jpg Headshot image of Throk
@@ -277,7 +277,7 @@ Current media files:
 Character headshot rule:
 
 * When creating, editing, or prompting character images, use the listed headshot image files as the authoritative face references.
-* The character faces from fllod.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
+* The character faces from Flloyd.jpb, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
 * Image prompts should keep the character's face consistent with the matching headshot unless Scott explicitly asks to change the face.
 
 Do not use for:

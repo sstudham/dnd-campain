@@ -18,7 +18,7 @@ These image files are the authoritative face references for character art. When 
 * Pat Benatar - Pat.jpg
 * Severed Whisper - Sev.jpg
 * Throk - Throk.jpg
-* Floyd GoldSeeker - fllod.jpg
+* Floyd GoldSeeker - Flloyd.jpb
 
 ## Character Summaries
 
@@ -133,7 +133,7 @@ These image files are the authoritative face references for character art. When 
 
 ### Floyd GoldSeeker
 
-* Headshot image reference: fllod.jpg
+* Headshot image reference: Flloyd.jpb
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
 * Dwarf Cleric 1
 * Background: Soldier

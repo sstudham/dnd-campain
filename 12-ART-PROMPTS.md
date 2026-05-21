@@ -6,7 +6,7 @@
 
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
-Use as the video recap reference for the start of the next session. The video summarizes the quest so far, introduces Lloyd GoldSeeker, and uses the Opening Narration for Next Session from 10-NEXT-SESSION-PREP.md as its audio. The images are from the campaign archive, including the meditation vision and Blackford Road caravan ambush visuals.
+Use as the video recap reference for the previously used bridge from the destroyed temple toward Stormwreck Isle. The video summarizes the quest so far, introduces Floyd GoldSeeker, and uses the archived bridge narration from 10-NEXT-SESSION-PREP.md as its audio. The images are from the campaign archive, including the meditation vision and Blackford Road caravan ambush visuals.
 
 This video is a session aid, not new canon by itself. Written canon and session log text remain primary if there is any conflict.
 
