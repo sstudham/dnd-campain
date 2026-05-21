@@ -12,7 +12,7 @@ Latest character sheets received.
 
 ## Character Headshot References
 
-These image files are the authoritative face references for character art. When creating, editing, or prompting images, preserve these faces without modification unless Scott explicitly asks to change a face.
+These image files are the authoritative visual canon and required face references for player character art. When creating, editing, or prompting character images, use the matching headshot and preserve the face without modification unless Scott explicitly asks to change a face. For group art, every visible PC must use the matching headshot reference; do not substitute generic fantasy characters. If the image-generation tool cannot access the actual headshot files, ask Scott to upload or provide them before generating the image.
 
 * Brother Kai - Kai.jpg
 * Pat Benatar - Pat.jpg
@@ -67,7 +67,7 @@ These image files are the authoritative face references for character art. When 
 ### Pat Benatar
 
 * Headshot image reference: Pat.jpg
-* Name clarification: Pat Benatar is a fictional Dungeons & Dragons character played by Kim. The character has no connection to the real-world singer Pat Benatar. Do not use the singer's likeness, biography, style, stage persona, outfits, era, or public image when creating art or story material for this character. Use Pat.jpg as the authoritative face reference.
+* Name clarification: Pat Benatar is a fictional Dungeons & Dragons player character played by Kim. The name does not refer to the real-world singer, celebrity, musician, or public figure. Never use, imitate, reference, or base art/story material on the real Pat Benatar. Treat "Pat Benatar" only as an in-world D&D character name. Use Pat.jpg as the authoritative face reference.
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
 * Dragonborn Rogue 1
 * Background: Far Traveler

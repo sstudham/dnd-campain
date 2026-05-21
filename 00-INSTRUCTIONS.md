@@ -284,9 +284,12 @@ Current media files:
 
 Character headshot rule:
 
-* When creating, editing, or prompting character images, use the listed headshot image files as the authoritative face references.
-* The character faces from Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
-* Image prompts should keep the character's face consistent with the matching headshot unless Scott explicitly asks to change the face.
+* Character headshot files are authoritative visual canon for the player characters, not optional inspiration.
+* When creating, editing, or prompting character images, always use the matching headshot image file as the required face reference.
+* Preserve each character's recognizable face and identity without modification unless Scott explicitly asks to change the face.
+* For group art, every visible player character must use the matching headshot reference. Do not substitute generic fantasy characters.
+* Clothing, pose, lighting, composition, and environment may change, but the face should not be redesigned.
+* If the image-generation tool cannot access the actual headshot files, do not generate the image from text descriptions alone. Ask Scott to upload or provide the reference images first.
 
 Do not use for:
 

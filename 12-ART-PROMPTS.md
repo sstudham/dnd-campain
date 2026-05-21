@@ -1,8 +1,16 @@
 # Art Prompts
 
+## Character Headshot Reference Rule
+
+Character headshot files are authoritative visual canon for the player characters, not optional inspiration. When creating, editing, or prompting character images, always use the matching headshot as the required face reference and preserve the face without modification unless Scott explicitly asks to change the face.
+
+For group art, every visible player character must use the matching headshot reference. Preserve each PC's recognizable face and identity; do not substitute generic fantasy characters. Clothing, pose, lighting, composition, and environment may change, but the face should not be redesigned unless Scott explicitly asks.
+
+If the image-generation tool cannot access the actual headshot files, do not generate character or group art from text descriptions alone. Ask Scott to upload or provide the reference images first.
+
 ## Image Generation Rule for Pat Benatar
 
-When generating images of Pat Benatar, treat her only as a fictional D&D character. She is not the real-world singer. Do not use or reference the singer's likeness, face, hairstyle, wardrobe, album imagery, stage persona, or biography. Use Pat.jpg as the only authoritative visual reference for the character's face. The intended subject is a mostly human-appearing dragonborn rogue with gold-shining eyes, faint scales, and subtle signs of dragon blood.
+Pat Benatar is a fictional Dungeons & Dragons player character in this campaign. The name does not refer to the real-world singer, celebrity, musician, or public figure. Never use, imitate, reference, or base art/story material on the real Pat Benatar. Treat "Pat Benatar" only as an in-world D&D character name. Use Pat.jpg as the authoritative face reference for the character. The intended subject is a mostly human-appearing dragonborn rogue with gold-shining eyes, faint scales, and subtle signs of dragon blood.
 
 ## Uploaded Video Reference
 
