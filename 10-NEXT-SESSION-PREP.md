@@ -36,7 +36,7 @@ During the fight:
 
 Character/table notes:
 
-* Lloyd GoldSeeker is now Floyd GoldSeeker.
+* Floyd GoldSeeker joined the party.
 * Sev does not like being called "kitty."
 * Sev does not like people touching his mini.
 * Kai will be the focus next session and is expected to grow into Level 2.
@@ -354,7 +354,7 @@ Additional next-session note:
 * As part of that level-up / focus scene, Kai will grow fancy nails/claws that deal some kind of extra damage.
 * The exact mechanics and story meaning of the nails/claws are not finalized yet unless Scott later says CANON or "make this canon."
 * This note belongs in next-session prep for now, not permanent canon yet.
-* If updating character prep notes, use "Kai," not "Kia."
+* When updating character prep notes, use "Kai" consistently.
 
 DM note:
 Do not explain Pat's full mystery yet. Preserve it as a slow-burn character hook tied to the scale, clan symbol, Stormwreck, Dragon's Rest, and the rift.

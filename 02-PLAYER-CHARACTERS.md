@@ -10,10 +10,21 @@ Latest character sheets received.
 * Throk - Orc Warlock - played by Mike
 * Floyd GoldSeeker - Dwarf Cleric - played by Andy; new to the party and may not be long-term
 
+## Character Headshot References
+
+These image files are the authoritative face references for character art. When creating, editing, or prompting images, preserve these faces without modification unless Scott explicitly asks to change a face.
+
+* Brother Kai - Kai.jpg
+* Pat Benatar - Pat.jpg
+* Severed Whisper - Sev.jpg
+* Throk - Throk.jpg
+* Floyd GoldSeeker - fllod.jpg
+
 ## Character Summaries
 
 ### Brother Kai
 
+* Headshot image reference: Kai.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151462120
 * Dragonborn Monk 1
 * Background: Sage
@@ -38,6 +49,7 @@ Latest character sheets received.
 
 ### Pat Benatar
 
+* Headshot image reference: Pat.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
 * Dragonborn Rogue 1
 * Background: Far Traveler
@@ -68,6 +80,7 @@ Latest character sheets received.
 
 ### Severed Whisper
 
+* Headshot image reference: Sev.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151283816
 * Tabaxi Rogue 1
 * Background: Custom Background
@@ -94,6 +107,7 @@ Latest character sheets received.
 
 ### Throk
 
+* Headshot image reference: Throk.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151285499
 * Orc Warlock 1
 * Background: Sage
@@ -119,6 +133,7 @@ Latest character sheets received.
 
 ### Floyd GoldSeeker
 
+* Headshot image reference: fllod.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
 * Dwarf Cleric 1
 * Background: Soldier
