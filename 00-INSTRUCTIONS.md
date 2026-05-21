@@ -273,7 +273,7 @@ Use for:
 
 Current media files:
 
-* Flloyd.jpb Headshot image of Floyd GoldSeeker
+* Flloyd.jpg Headshot image of Floyd GoldSeeker
 * Kai.jpg Headshot image of Brother Kai
 * Sev.jpg Headshot image of Severed Whisper
 * Throk.jpg Headshot image of Throk
@@ -285,7 +285,7 @@ Current media files:
 Character headshot rule:
 
 * When creating, editing, or prompting character images, use the listed headshot image files as the authoritative face references.
-* The character faces from Flloyd.jpb, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
+* The character faces from Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg are super important and should be preserved without modification.
 * Image prompts should keep the character's face consistent with the matching headshot unless Scott explicitly asks to change the face.
 
 Do not use for:
