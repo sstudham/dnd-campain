@@ -15,7 +15,10 @@
 
 ## Character Advancement Brainstorm
 
-* Kai's possible claws/nails Level 2 idea is not canon yet and will be worked out before the next session.
+* Brother Kai's dragon talons are intended to awaken during the Seagrow Caves quest.
+* The talons are his own dragon nature awakening, not a gift from Runara.
+* They are natural weapons / monk weapons that use his Martial Arts die as slashing damage.
+* This remains non-canon until it happens in play.
 
 ## Unused Scenes
 

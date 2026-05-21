@@ -38,6 +38,23 @@ These image files are the authoritative face references for character art. When 
 * Breath Weapon: Fire, DC 11 Dex, 1d10, 2/Long Rest
 * Martial Arts: Unarmed Strike as Bonus Action; unarmed/monk weapon damage 1d6
 * Unarmored Defense AC 14
+* Planned Level 2 feature after Seagrow Caves awakening: Dragon Talons
+  * Brother Kai's fingernails awaken into long dragon talons.
+  * They are part of his body, not separate equipment.
+  * They count as natural weapons and monk weapons.
+  * When Brother Kai makes an unarmed strike with them, he may deal slashing damage instead of bludgeoning damage.
+  * The damage die is his Martial Arts die.
+  * He may use Strength or Dexterity, following normal monk unarmed strike rules.
+  * He is proficient with them.
+  * They cannot be disarmed.
+  * They count as unarmed strikes for Martial Arts and Flurry of Blows.
+  * They are not magical unless another feature or later story event makes his unarmed strikes magical.
+  * This is intended as flavor, not a damage boost.
+  * Scaling:
+    * Level 2-4: 1d4 slashing
+    * Level 5-10: 1d6 slashing
+    * Level 11-16: 1d8 slashing
+    * Level 17-20: 1d10 slashing
 * Given to a quiet monastery on the north Sword Coast at age 5.
 * Does not remember his parents, clan, or anything before the monastery gates.
 * Raised with patience, silence, and discipline; taught that strength is for ending fights quickly, cleanly, and only when needed.
