@@ -35,46 +35,94 @@ Where we ended: the party is walking up the hill toward Dragon's Rest and meetin
 
 ## Next-Session Plan
 
-### Dragon's Rest / Cloister Opening
+### Part 1: Dragon's Rest / Recovery / Tarak / Runara
 
-Tone: loose, social, low-pressure. Give the characters room to interact with kobolds, Tarak, Varnoth, and Runara before the quest. The goal is party bonding, recovery after the dock fight, and a practical reason to go to Seagrow Caves.
+#### Scene 1: Arrival and Recovery at Dragon's Rest
 
-* Kobolds swarm the party with awkward questions:
+* The party reaches Dragon's Rest wounded after the dock zombie fight.
+* Tarak and the kobolds help clean wounds, feed the party, and get everyone settled.
+* Use RAW kobolds:
+  * Myla tries to inspect or "improve" someone's gear, weapon, or armor with dangerous tinkerer enthusiasm.
+  * Rix treats the party like famous dock heroes and asks what heroic titles they want.
+* The party gets a long rest and spends a day or two recovering, eating with the cloister, meeting kobolds, and beginning to feel like they belong together.
 
-  * "Are you heroes?"
-  * "Is Sev a cat or a person?"
-  * "Can Kai breathe fire on command?"
-  * "Is Floyd the group grandpa?"
-* Tarak patches wounds and asks for help getting cave mushrooms / medicinal fungus from Seagrow Caves.
-* Varnoth quietly sizes up the party and asks practical questions:
+#### Scene 2: Tarak Gives the Seagrow Caves Quest
 
-  * "Who leads?"
-  * "Who watches the rear?"
-  * "Who panics first?"
-* Runara notices Pat Benatar's scale but does not explain it. She only says something like: "That brought you here for a reason."
-* Runara notices Brother Kai separately and says something like: "You have learned restraint. This island may ask what restraint is for."
-* Kobolds gossip that the caves are "too alive lately" and that the mushrooms "listen now."
-* One kobold has a bad drawing of a dragon symbol seen in the caves. It sort of resembles Pat Benatar's clan mark.
-* Let each PC do one useful town interaction: buy/swap gear, ask rumors, heal, pray, scout, drink tea, interrogate kobolds, or similar.
+* Tarak asks the party to go to Seagrow Caves to retrieve medicinal fungus.
+* Motivation: Dragon's Rest just healed and sheltered the party. Tarak needs the fungus to keep helping wounded travelers and cloister residents.
+* Tarak says the caves are normally useful but lately wrong: bad smell, blighted fungus, dangerous growth, and myconids acting more defensive than usual.
+* Tarak gives the party his name or offering as a way to approach the myconids, warning them not to treat the mushroom folk as monsters.
 
-### Seagrow Caves
+#### Scene 3: Runara Is Introduced
+
+* Runara appears quietly after the party has settled in. Kobolds calm down when she arrives; Tarak clearly respects her.
+* She thanks the party for helping at the docks and asks what brought them to the island.
+* She gently warns them that Stormwreck Isle reveals things slowly and not always kindly.
+
+#### Scene 4: Pat and Kai Setup
+
+* Runara notices Pat Benatar's scale and pauses.
+* Pat Benatar clue: "Your clan may have remembered a shape after forgetting what it meant."
+* Runara does not explain more.
+* Runara also notices Brother Kai's discipline and dragonborn nature.
+* Brother Kai clue: "Restraint is not the absence of power. It is power waiting for the right shape."
+
+### Part 2: Seagrow Caves
 
 Run Seagrow Caves mostly Rules as Written.
 
-Campaign-specific modifications:
+#### Scene 1: B1 Entrance Tunnel / Octopus Guardian
 
-* Pat Benatar's scale warms as the party approaches the caves.
-* Add a faint older dragon mark hidden under fungus in the cave wall. It is not Pat Benatar's clan symbol, but her clan symbol clearly came from it.
-* The cave's strange growth is partly natural, partly influenced by old dragon magic, and partly made unstable by the rift.
-* The myconids are not evil. They are reacting to something old stirring under the cave.
-* Add one small dragon memory moment: Pat Benatar briefly sees dragonborn hands copying an older symbol onto clan objects.
-* Brother Kai is the key to activating the hidden mark. Not because he is special in the same way Pat Benatar is, but because he is disciplined dragonborn flesh/breath/spirit.
-* Activation method: Brother Kai places his hands on the old mark and performs a breathing form, martial kata, or meditation.
-* The cave reacts physically: roots pull back, fungus glows, the air warms, and Brother Kai's fingernails lengthen into dragon talons.
+* The party enters Seagrow Caves by water or stone-column walkway depending on tide.
+* Run RAW: the spore servant octopus attacks non-myconids entering the tunnel.
+* This is the first cave danger, not the final monster.
+* Brother Kai setup: during the fight, Kai feels pressure under his fingernails when he strikes or defends someone. No claws yet.
+* Pat Benatar setup: her scale warms faintly as the party enters the cave.
+
+#### Scene 2: B2 Fungus Farm / Violet Fungi / First Myconids
+
+* The party sees myconid sprouts Molen and Kraz working in the fungus farm.
+* Run RAW: violet fungus attacks when the party advances.
+* If the party defeats the violet fungi, the myconids become indifferent and communicate with Rapport Spores.
+* Hipsiz and Rugoso can vouch for the party with the rest of the colony.
+* Pat Benatar moment: after the fight, fungus pulls back from an old stone shape that resembles her clan symbol, but is rougher and incomplete.
+
+#### Scene 3: B3 Larder / Stirges
+
+* Bispo, Valup, and Popple are gathering fertilizer in the rotten larder.
+* Run RAW: stirges burst from the nest if the party moves into the chamber.
+* The sprouts flee toward B4.
+* Brother Kai escalation: if Kai protects a sprout or party member, the pressure in his hands intensifies.
+
+#### Scene 4: B4 Circle Chamber / B5 Sinensa
+
+* If escorted or vouched for, the party can speak with the myconids rather than fight.
+* They learn Sinensa is unconscious, the colony is sick, and the foul smell comes from the crystal cave, B6.
+* This reframes the quest: the party is not stealing fungus; they are curing the cave.
+* Pat Benatar hook: through Rapport Spores, Pat Benatar gets a flash of recognition, fear, or old memory when the myconids sense her scale.
+
+#### Scene 5: B6 Crystal Cave / Fume Drakes / Fire Crystal
+
+* The party enters the crystal cave, source of the sulfur smell and blight.
+* Run RAW: fume drakes attack.
+* The orange fire crystal blocks the vent; breaking it will clear the fumes and stop the blight.
+* When the crystal breaks, sunlight fills the cave and the fire snake emerges.
+
+#### Scene 6: Brother Kai's Claws / Level 2
+
+* During the fire snake fight, Brother Kai's claws fully emerge.
+* Mechanically, Brother Kai levels to 2 here.
+* His monk abilities come online, and his unarmed strikes can be flavored as dragon talon strikes.
+* Framing: the island did not give Brother Kai claws; it woke something already inside him.
 * Artwork for this is "Session 10 Kai gets his Claws.jpg"
-* The talons are not a gift from Runara. They are Brother Kai's own dragon nature awakening under pressure.
-* Runara later recognizes what happened but plays it calm: "The island did not change you. It remembered you."
-* Do not explain Pat Benatar's full origin yet. The only reveal is: her clan mark is copied from something older, and Runara probably knows more.
+
+#### Scene 7: Pat Benatar's Clear Clue / Return
+
+* As sunlight refracts through the crystal cave, Pat Benatar sees the older dragon mark clearly in stone or crystal patterns.
+* She understands one thing: her clan symbol was copied from this older mark tied to Stormwreck Isle.
+* Do not reveal the full explanation yet.
+* The party returns with heart cap mushrooms and/or ruby morel, having helped the myconids and Tarak.
+* End state: Dragon's Rest trusts the party more, Brother Kai has changed, and Pat Benatar has a bigger mystery.
 
 ## Character / Table Notes Still Relevant
 
