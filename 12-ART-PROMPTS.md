@@ -32,7 +32,25 @@ Use as the visual reference for the monastery deep-meditation vision. The party 
 
 Use as the visual reference for the Blackford Road ambush. Shorn's caravan was attacked by orcs led by Grusk and Morghul. Three young orcs and their wolf were killed. Grusk and Morghul escaped. Throk fought beside the caravan, was wounded, earned the caravan's trust, and joined the journey north toward Luskan.
 
-Do not treat either image as replacing canon text. The written canon remains primary if there is any conflict.
+### Seagrow Caves.jpg
+
+Use as the visual reference for the final fume drake battle in the crystal cave of Seagrow Caves.
+
+Scene shown: Pat Benatar delivers the killing blow against the final fume drake while the party surrounds it. The dying drake explodes in sulfurous smoke and energy, knocking Brother Kai down.
+
+Characters shown:
+
+* Pat Benatar landing the final strike.
+* Brother Kai with awakened dragon claws, being blasted backward/down by the drake's death burst.
+* Floyd GoldSeeker in the fight after dealing heavy damage.
+* Throk battered but still standing after having gone down earlier.
+* Severed Whisper helping surround the drake.
+
+Setting: sulfurous crystal cave, glowing crystals, orange firelight, smoke, volcanic haze, and magical battle energy.
+
+Canon/session context: This image represents the climax of the fume drake fight from the Seagrow Caves session. Pat Benatar killed the final fume drake. The drake's death explosion took down Brother Kai. Throk used the party's only healing potion to revive Kai.
+
+Do not treat these images as replacing canon text. The written canon remains primary if there is any conflict.
 
 ## Severed Whisper Image Prompt
 

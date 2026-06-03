@@ -2,26 +2,34 @@
 
 ## Current Starting Point
 
-Next session starts at Dragon's Rest after the dock zombie fight.
+Next session starts in the crystal cave in Seagrow Caves, immediately after the fume drake battle.
 
-* The party has already reached Stormwreck Isle.
-* The dock zombies are dead.
-* The party is walking uphill from the dock toward Dragon's Rest. (Artwork for this is "Session 9 Landing at Dragons Rest.jpg")
-* The kobolds are the immediate contact.
-* The party will spend some loose, social, low-pressure time around the cloister before going to Seagrow Caves.
-* The Seagrow Caves quest should mostly follow Dragons of Stormwreck Isle Rules as Written, with only the campaign-specific modifications below.
+Current situation:
+
+* The fume drakes are dead.
+* Pat Benatar killed the final fume drake.
+* The final drake exploded when it died, taking Brother Kai down.
+* Throk used the party's only healing potion to bring Kai back.
+* Throk and Kai have both gone down and been revived during this cave sequence.
+* The party is wounded, low on resources, and out of healing potions.
+* Brother Kai has awakened his dragon claws after meditating in front of the elder mushrooms.
+* The orange fire crystal still glows in the fissure ahead.
+* The party has not yet fully explored the crystal cave.
+* The source of the blight remains unresolved until the party deals with the orange fire crystal / blocked vent.
 
 ## Start-of-Session Recap
 
-The party followed the Stormwreck / Dragon's Rest lead after the broken worshiping stone incident.
+The party reached Dragon's Rest after the dock zombie fight, met the kobolds, and recovered with help from Tarak and the cloister.
 
-Pat Benatar received the sealed box connected to her dragonborn bloodline. The scale inside reacted to Pat Benatar and to Kai, then pointed toward Stormwreck Isle.
+Runara noticed Pat Benatar's special scale and hinted that it was connected to something older on Stormwreck Isle. She also noticed Brother Kai's discipline and dragonborn nature, suggesting that something in him might awaken.
 
-Pat Benatar used her dockside experience and contacts to secure passage with Captain Elric Thorne aboard The Gull's Mercy. The crossing was tense: strange fog, bad water, loose cargo, undead danger, and the supernatural pull of Stormwreck all made the trip feel wrong.
+Tarak sent the party to Seagrow Caves for medicinal fungus. In the caves, the party encountered the myconids and learned that the fungal colony was being affected by a deeper blight.
 
-At Stormwreck Isle, the party landed near black rocks below Dragon's Rest. Zombies attacked at the dock. The party killed them and survived the landing.
+Brother Kai's dragon claws awakened while he meditated in front of the elder mushrooms.
 
-Where we ended: the party is walking up the hill toward Dragon's Rest and meeting the kobolds.
+The party reached the crystal cave and fought the fume drakes. Pat Benatar killed the final fume drake, which exploded in smoke, heat, and sulfurous energy, taking Brother Kai down. Throk used the party's only healing potion to bring Kai back.
+
+Where we ended: the party is wounded and catching its breath in the crystal cave. The fume drakes are dead, but the orange fire crystal still glows in the fissure ahead, blocking the vent and apparently filling the caves with foul fumes.
 
 ## Current DM Priority
 
@@ -35,94 +43,18 @@ Where we ended: the party is walking up the hill toward Dragon's Rest and meetin
 
 ## Next-Session Plan
 
-### Part 1: Dragon's Rest / Recovery / Tarak / Runara
+### Crystal Cave Aftermath
 
-#### Scene 1: Arrival and Recovery at Dragon's Rest
-
-* The party reaches Dragon's Rest wounded after the dock zombie fight.
-* Tarak and the kobolds help clean wounds, feed the party, and get everyone settled.
-* Use RAW kobolds:
-  * Myla tries to inspect or "improve" someone's gear, weapon, or armor with dangerous tinkerer enthusiasm.
-  * Rix treats the party like famous dock heroes and asks what heroic titles they want.
-* The party gets a long rest and spends a day or two recovering, eating with the cloister, meeting kobolds, and beginning to feel like they belong together.
-
-#### Scene 2: Tarak Gives the Seagrow Caves Quest
-
-* Tarak asks the party to go to Seagrow Caves to retrieve medicinal fungus.
-* Motivation: Dragon's Rest just healed and sheltered the party. Tarak needs the fungus to keep helping wounded travelers and cloister residents.
-* Tarak says the caves are normally useful but lately wrong: bad smell, blighted fungus, dangerous growth, and myconids acting more defensive than usual.
-* Tarak gives the party his name or offering as a way to approach the myconids, warning them not to treat the mushroom folk as monsters.
-
-#### Scene 3: Runara Is Introduced
-
-* Runara appears quietly after the party has settled in. Kobolds calm down when she arrives; Tarak clearly respects her.
-* She thanks the party for helping at the docks and asks what brought them to the island.
-* She gently warns them that Stormwreck Isle reveals things slowly and not always kindly.
-
-#### Scene 4: Pat and Kai Setup
-
-* Runara notices Pat Benatar's scale and pauses.
-* Pat Benatar clue: "Your clan may have remembered a shape after forgetting what it meant."
-* Runara does not explain more.
-* Runara also notices Brother Kai's discipline and dragonborn nature.
-* Brother Kai clue: "Restraint is not the absence of power. It is power waiting for the right shape."
-
-### Part 2: Seagrow Caves
-
-Run Seagrow Caves mostly Rules as Written.
-
-#### Scene 1: B1 Entrance Tunnel / Octopus Guardian
-
-* The party enters Seagrow Caves by water or stone-column walkway depending on tide.
-* Run RAW: the spore servant octopus attacks non-myconids entering the tunnel.
-* This is the first cave danger, not the final monster.
-* Brother Kai setup: during the fight, Kai feels pressure under his fingernails when he strikes or defends someone. No claws yet.
-* Pat Benatar setup: her scale warms faintly as the party enters the cave.
-
-#### Scene 2: B2 Fungus Farm / Violet Fungi / First Myconids
-
-* The party sees myconid sprouts Molen and Kraz working in the fungus farm.
-* Run RAW: violet fungus attacks when the party advances.
-* If the party defeats the violet fungi, the myconids become indifferent and communicate with Rapport Spores.
-* Hipsiz and Rugoso can vouch for the party with the rest of the colony.
-* Pat Benatar moment: after the fight, fungus pulls back from an old stone shape that resembles her clan symbol, but is rougher and incomplete.
-
-#### Scene 3: B3 Larder / Stirges
-
-* Bispo, Valup, and Popple are gathering fertilizer in the rotten larder.
-* Run RAW: stirges burst from the nest if the party moves into the chamber.
-* The sprouts flee toward B4.
-* Brother Kai escalation: if Kai protects a sprout or party member, the pressure in his hands intensifies.
-
-#### Scene 4: B4 Circle Chamber / B5 Sinensa
-
-* If escorted or vouched for, the party can speak with the myconids rather than fight.
-* They learn Sinensa is unconscious, the colony is sick, and the foul smell comes from the crystal cave, B6.
-* This reframes the quest: the party is not stealing fungus; they are curing the cave.
-* Pat Benatar hook: through Rapport Spores, Pat Benatar gets a flash of recognition, fear, or old memory when the myconids sense her scale.
-
-#### Scene 5: B6 Crystal Cave / Fume Drakes / Fire Crystal
-
-* The party enters the crystal cave, source of the sulfur smell and blight.
-* Run RAW: fume drakes attack.
-* The orange fire crystal blocks the vent; breaking it will clear the fumes and stop the blight.
-* When the crystal breaks, sunlight fills the cave and the fire snake emerges.
-
-#### Scene 6: Brother Kai's Claws / Level 2
-
-* During the fire snake fight, Brother Kai's claws fully emerge.
-* Mechanically, Brother Kai levels to 2 here.
-* His monk abilities come online, and his unarmed strikes can be flavored as dragon talon strikes.
-* Framing: the island did not give Brother Kai claws; it woke something already inside him.
-* Artwork for this is "Session 10 Kai gets his Claws.jpg"
-
-#### Scene 7: Pat Benatar's Clear Clue / Return
-
-* As sunlight refracts through the crystal cave, Pat Benatar sees the older dragon mark clearly in stone or crystal patterns.
-* She understands one thing: her clan symbol was copied from this older mark tied to Stormwreck Isle.
+* The party is already in the crystal cave, the source of the sulfur smell and blight.
+* Start with the party catching its breath in the sulfurous crystal cave after the fight.
+* Emphasize the danger: they are hurt, low on resources, and the cave still smells poisonous and wrong.
+* Let the players investigate the orange fire crystal, the blocked vent, the crystals, and the source of the fumes.
+* Run the remaining crystal cave sequence Rules as Written.
+* The orange fire crystal blocks the vent; breaking it should clear the fumes and stop the blight.
+* When the orange crystal is broken, release the fire snake as written.
+* If possible, connect the crystal cave to Pat Benatar's mystery by letting her notice an older dragon mark, crystal pattern, or stone shape that resembles the source of her clan symbol.
 * Do not reveal the full explanation yet.
-* The party returns with heart cap mushrooms and/or ruby morel, having helped the myconids and Tarak.
-* End state: Dragon's Rest trusts the party more, Brother Kai has changed, and Pat Benatar has a bigger mystery.
+* Let Brother Kai's claws remain a major new character development, but do not over-explain them yet.
 
 ## Character / Table Notes Still Relevant
 
@@ -132,8 +64,9 @@ Run Seagrow Caves mostly Rules as Written.
 * Pat Benatar showed tactical awesomeness by using a bonus action to Disengage.
 * Sev does not like being called "kitty."
 * Sev does not like people touching his mini.
-* Brother Kai is expected to be a major focus soon as he grows into Level 2.
-* Brother Kai's dragon talons are planned to awaken during the Seagrow Caves quest, if the table reaches that moment in play.
+* Brother Kai's dragon claws awakened during meditation in front of the elder mushrooms, not during the fire snake fight.
+* Pat Benatar's origin mystery should remain unexplained.
+* Keep the remaining Seagrow Caves material mostly Rules as Written.
 
 ## Dragonborn Appearance Note
 
@@ -147,7 +80,7 @@ Table wording: Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn
 
 The long bridge material was previously used to move the party from the destroyed temple to Stormwreck Isle. It covered the temple aftermath, Pat Benatar receiving the sealed box, dock passage with Captain Elric Thorne, boat travel, and the arrival at Stormwreck.
 
-Do not treat that bridge material as the current starting point. The current starting point is Dragon's Rest, after the dock zombies are dead.
+Do not treat that bridge material as the current starting point. The current starting point is the crystal cave in Seagrow Caves, immediately after the fume drake battle.
 
 Video version used for that bridge: intro to Act 2.mp4
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
