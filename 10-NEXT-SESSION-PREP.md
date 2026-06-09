@@ -56,11 +56,41 @@ Where we ended: the party is wounded and catching its breath in the crystal cave
 * Do not reveal the full explanation yet.
 * Let Brother Kai's claws remain a major new character development, but do not over-explain them yet.
 
+### CANON: Throk Level-Up / Vargun Shield-Breaker Prep
+
+* Throk will level up to Level 2 through the beginning of his pact with Vargun Shield-Breaker.
+* Vargun Shield-Breaker is a dead Many-Arrows protector and ancestor spirit.
+* The Many-Arrows connection is based on Forgotten Realms canon: the Kingdom of Many-Arrows created space for orcs who were still martial and dangerous, but trying to build something more stable than raiding.
+* Vargun was an old orc war-leader from the early Kingdom of Many-Arrows. In life, he earned his name breaking enemy shields in battle. Later, he became one of the warriors who held the line long enough for peace to survive.
+* Vargun is not a god, not evil, and not soft. Keep him distinct from Gruumsh or any evil orc deity.
+* Vargun believes violence is a tool, not an identity. He is stern, practical, ancestral, and very orcish.
+* Core patron philosophy: "Strength is not rage. Strength is choosing what happens after the blow lands."
+* The pact is not about Throk becoming less orc. It is about Throk being called toward a harder version of orc strength: protection, restraint, loyalty, controlled violence, and building something that lasts.
+
+Next-session usage:
+
+* During the unresolved orange fire crystal / vent danger in Seagrow Caves, Throk's level-up moment should show Vargun beginning to answer him.
+* Do not over-explain the patron in the scene.
+* Use sensory signs:
+  * Old Orcish words entering Throk's mind.
+  * A ghostly shield, spear, or hand appearing for a second.
+  * A feeling of inherited memory rather than corruption.
+  * The sense that an old orc is judging whether Throk uses strength to protect or merely to break.
+* Possible one-time gift for the session: Ancestral Guard.
+* Ancestral Guard: Throk plants his weapon, fist, or hand against the ground. Ghostly orc shields appear around the party.
+* Use whichever mechanical effect best fits the encounter:
+  * Three allies gain temporary hit points.
+  * The party gains resistance to the crystal/fire burst.
+  * The fire snake's first attack is weakened or redirected.
+  * The crystal breaks more safely because Throk controls where the force goes.
+* Long-term hooks: Vargun can later become a lever for Throk's family, Grusk, Many-Arrows politics, the question of what kind of orc Throk wants to become, and the difference between rage, strength, restraint, protection, and legacy.
+
 ## Character / Table Notes Still Relevant
 
 * Floyd GoldSeeker recently joined the party.
 * Throk went down in the dock fight and was saved by Pat Benatar's Medicine check.
 * Throk used his first Eldritch Blast and was not fully sure what it was.
+* Throk's Level 2 pact with Vargun Shield-Breaker should begin during the orange fire crystal / vent danger.
 * Pat Benatar showed tactical awesomeness by using a bonus action to Disengage.
 * Sev does not like being called "kitty."
 * Sev does not like people touching his mini.

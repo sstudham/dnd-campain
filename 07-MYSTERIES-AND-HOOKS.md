@@ -18,6 +18,7 @@
 * What does the older Stormwreck pattern or mark have to do with Pat Benatar's scale and clan symbol?
 * What exactly awakened in Brother Kai when his dragon claws emerged during meditation?
 * What is the orange fire crystal, and why is it connected to the blight in Seagrow Caves?
+* How will Throk's beginning pact with Vargun Shield-Breaker shape his idea of orc strength?
 
 ## Plot Hooks
 
@@ -26,5 +27,6 @@
 * The party has reason to believe their actions matter beyond the local cult, temple, or town.
 * The orange fire crystal in Seagrow Caves remains unresolved and appears tied to the foul fumes and blight.
 * Brother Kai's awakened claws are a new character development to preserve without over-explaining yet.
+* Vargun Shield-Breaker can later connect Throk to his family, Grusk, Many-Arrows politics, and questions about rage, strength, restraint, protection, and legacy.
 
 ## Needs Resolution

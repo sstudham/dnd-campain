@@ -147,6 +147,11 @@ These image files are the authoritative visual canon and required face reference
 * Since joining the party, he has seen Dragonborn breath weapons used very effectively in a bar fight, survived a sinking ship, experienced planar shifts, had strange visions or interactions with a god or godlike force, and helped stop a ceremony being performed by cult followers.
 * Major motivation: protecting his family, especially his younger sister Grek, while trying to push orc society beyond both old raiding culture and the current diplomatic status quo.
 * Warlock path is tied to desperate need: ordinary strength, diplomacy, and violence against his own people all fail, so he reaches toward otherworldly power.
+* Level 2 patron direction: Throk's pact begins with Vargun Shield-Breaker, a dead Many-Arrows protector and ancestor spirit.
+* Vargun Shield-Breaker was an old orc war-leader from the early Kingdom of Many-Arrows. In life, he earned his name breaking enemy shields in battle. Later, he helped hold the line long enough for peace to survive.
+* Vargun is not a god, not evil, not soft, and distinct from Gruumsh or any evil orc deity. He is stern, practical, ancestral, martial, protective, and very orcish.
+* Vargun believes violence is a tool, not an identity. Core philosophy: "Strength is not rage. Strength is choosing what happens after the blow lands."
+* Throk's pact is not about becoming less orc. It calls him toward protection, restraint, loyalty, controlled violence, and building something that lasts.
 * Notes for DM: Strong CHA but weak perception/insight. Good for social tension around orc identity, trade, loyalty, nonviolent strength, familiar scouting, and patron/forbidden-knowledge moments.
 
 ### Floyd GoldSeeker
