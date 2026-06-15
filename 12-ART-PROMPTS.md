@@ -52,6 +52,36 @@ Canon/session context: This image represents the climax of the fume drake fight 
 
 Do not treat these images as replacing canon text. The written canon remains primary if there is any conflict.
 
+### Throk L2 6.15.png
+
+Use as the visual reference for Throk's Level 2 patron moment in the sulfurous crystal cave after the fume drake fight.
+
+Scene shown: Throk plants himself between the wounded party and the crystal/fire/fume burst from the orange fire crystal. Ghostly ancestral orc shields slam into place around the party, reducing the danger without making the blast harmless.
+
+Purpose: show that Throk's emerging power is ancestral, stern, orcish, protective, and martial. It is not demonic, infernal, evil, Gruumsh, or soft.
+
+Do not use this image to fully explain Vargun or reveal the full patron history. The written prep remains primary.
+
+### Learning 6.15.png
+
+Use as the visual reference for the party speaking with Runara at Dragon's Rest after returning from Seagrow Caves.
+
+Scene shown: the party is wounded, smoke-stained, tired, and changed after saving the myconids. Runara recognizes Brother Kai's claws and Throk's change while keeping the conversation grounded and not lore-heavy.
+
+Purpose: support a reset scene where Dragon's Rest feels more like a home base and the cloister sees the party differently after they returned from danger.
+
+Do not use this image to explain Pat Benatar's full mystery, Brother Kai's full awakening, the full rift plot, or Vargun.
+
+### Final Battle 6.15.png
+
+Use as the visual reference for the opening Cursed Shipwreck fight.
+
+Scene shown: undead sailors rise from the surf, broken deck, and wreckage while the party holds the line on or near the half-submerged shipwreck.
+
+Purpose: show the Cursed Shipwreck as the next dangerous expression of Stormwreck Isle's old dragon-death energy: death, sea, rot, undeath, memory, and something that will not stay buried.
+
+Use the Rules as Written shipwreck fight when running the table. Do not treat the image as replacing written prep or canon.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.
