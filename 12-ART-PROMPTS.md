@@ -82,6 +82,24 @@ Purpose: show the Cursed Shipwreck as the next dangerous expression of Stormwrec
 
 Use the Rules as Written shipwreck fight when running the table. Do not treat the image as replacing written prep or canon.
 
+### 6.16 Pat Benatar killing Harpy.png
+
+Use as the visual reference for Pat Benatar killing the harpy with dragon breath beside the crow's nest at the cursed shipwreck.
+
+Purpose: show the session-ending moment where Pat Benatar kills the harpy, Brother Kai is down near/in the crow's nest, and Severed Whisper and Throk break free from the harpy's charm. Severed Whisper is still in the dinghy.
+
+Do not treat the image as replacing written prep or canon. Do not use it to fully explain Brother Kai's claws, Pat Benatar's scale/symbol mystery, or Vargun.
+
+### Sev_level2.jpg
+
+Use as the visual reference for Severed Whisper's level 2 rogue spotlight moment aboard the Wreck of Compass Rose.
+
+Scene shown: Sev turns a Luskan bounty-hunter ambush against the hunters through movement, timing, and terrain. The moment should emphasize that Sev does not win by brute force. He wins by using angles, exits, motion, cover, and the environment.
+
+Context: Luskan bounty hunters followed the party to Stormwreck Isle and boarded the Wreck of Compass Rose while the party was dealing with the harpy. They are trying to capture Sev because of his association with the two dragonborn connected to the Luskan mayor's son.
+
+Do not treat this image as replacing canon text. The written prep and session log remain primary if there is any conflict.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.
