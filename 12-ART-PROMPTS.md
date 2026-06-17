@@ -82,6 +82,14 @@ Purpose: show the Cursed Shipwreck as the next dangerous expression of Stormwrec
 
 Use the Rules as Written shipwreck fight when running the table. Do not treat the image as replacing written prep or canon.
 
+### 6.16 Pat Benatar killing Harpy.png
+
+Use as the visual reference for Pat Benatar killing the harpy with dragon breath beside the crow's nest at the cursed shipwreck.
+
+Purpose: show the session-ending moment where Pat Benatar kills the harpy, Brother Kai is down near/in the crow's nest, and Severed Whisper and Throk break free from the harpy's charm. Severed Whisper is still in the dinghy.
+
+Do not treat the image as replacing written prep or canon. Do not use it to fully explain Brother Kai's claws, Pat Benatar's scale/symbol mystery, or Vargun.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.

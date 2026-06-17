@@ -92,6 +92,55 @@ End state:
 
 The session ended in the crystal cave. The fume drakes are dead, Throk and Kai have both gone down and been revived, the party has no healing potions left, and they have not yet fully explored the cave. The orange fire crystal still remains ahead, glowing in the fissure and blocking the vent that appears to be filling the caves with foul fumes.
 
+### Session 11 - Seagrow Caves Resolution and Cursed Shipwreck
+
+Story events:
+
+The party began in Seagrow Caves at the orange fire crystal blocking the vent.
+
+Throk investigated the crystal and realized it was wedged into the cave's "throat," trapping heat, sulfur, fumes, and pressure.
+
+The party worked together to pull the crystal down, with Throk leading the rope pull.
+
+When the crystal tore free, the vent erupted with a dangerous crystal/fire/fume burst.
+
+Throk had his Level 2 patron awakening moment. An ancestral orcish presence answered him. He heard: "Strength is not rage. Strength is choosing what happens after the blow lands."
+
+Ghostly ancestral orc shields appeared and protected the party. Mechanically, the party gained resistance to the crystal/fire burst.
+
+Floyd GoldSeeker was knocked down by the blast.
+
+A fire snake emerged from the broken crystal/vent and attacked. The party killed the fire snake.
+
+The cave began to heal. The vent opened, the smoke cleared, and the blight started retreating.
+
+The party met the elder mushrooms for the first time. The elder mushrooms healed Floyd GoldSeeker with white spores/fungal threads and gave minor healing/recognition to the rest of the party.
+
+The elders gave the party the medicinal fungus Tarak needed.
+
+The party returned to Dragon's Rest and entered the temple to Bahamut.
+
+Runara spoke with the party and gave clues:
+
+* Stormwreck Isle remembers ancient dragon deaths through stone, sea, caves, and wrecks.
+* Brother Kai's claws are not simply a curse or weapon; they are tied to old dragon power and should be understood by what they reach for, not only what they tear.
+* Pat Benatar's scale, symbol, and memory connect to old dragon mysteries on the island.
+* Throk's new power is not rage or corruption; it is tied to protection and holding the line.
+
+Runara and/or Tarak pushed the party toward the cursed shipwreck as the next place where dragon-death energy has sunk into death and undeath.
+
+The party reached the cursed shipwreck.
+
+Brother Kai climbed to the crow's nest. A harpy attacked and took Brother Kai down.
+
+Severed Whisper and Throk were charmed by the harpy's song.
+
+Pat Benatar climbed up toward the crow's nest and killed the harpy with her dragon breath, breaking the song's charm.
+
+End state:
+
+The session ended at the cursed shipwreck immediately after Pat Benatar killed the harpy. Brother Kai has been downed or just saved depending on table state. Throk is no longer charmed. Severed Whisper is still in the dinghy.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.
@@ -108,5 +157,7 @@ The session ended in the crystal cave. The fume drakes are dead, Throk and Kai h
 * At Seagrow Caves, Brother Kai's dragon claws awakened while he meditated in front of the elder mushrooms.
 * Pat Benatar killed the final fume drake in the crystal cave.
 * The party ended Session 10 wounded, out of healing potions, and facing the unresolved orange fire crystal in Seagrow Caves.
+* At Seagrow Caves, Throk's Level 2 patron power awakened when ghostly ancestral orc shields protected the party from the crystal/fire/fume burst.
+* Pat Benatar killed the harpy at the cursed shipwreck with dragon breath beside the crow's nest, ending the charm on Throk and Severed Whisper.
 
 ## Follow-Up Notes

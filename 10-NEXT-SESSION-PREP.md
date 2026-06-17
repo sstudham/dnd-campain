@@ -2,34 +2,32 @@
 
 ## Current Starting Point
 
-Next session starts in the crystal cave in Seagrow Caves, immediately after the fume drake battle.
+Next session starts at the cursed shipwreck, immediately after Pat Benatar killed the harpy beside the crow's nest.
 
 Current situation:
 
-* The fume drakes are dead.
-* Pat Benatar killed the final fume drake.
-* The final drake exploded when it died, taking Brother Kai down.
-* Throk used the party's only healing potion to bring Kai back.
-* Throk and Kai have both gone down and been revived during this cave sequence.
-* The party is wounded, low on resources, and out of healing potions.
-* Brother Kai has awakened his dragon claws after meditating in front of the elder mushrooms.
-* The orange fire crystal still glows in the fissure ahead.
-* The party has not yet fully explored the crystal cave.
-* The source of the blight remains unresolved until the party deals with the orange fire crystal / blocked vent.
+* The harpy is dead.
+* Pat Benatar killed the harpy with dragon breath beside the crow's nest.
+* Brother Kai was taken down by the harpy near/in the crow's nest.
+* Throk had been charmed, but the charm is now broken.
+* Severed Whisper had been charmed and is still in the dinghy.
+* Floyd GoldSeeker is present at the shipwreck after having been healed earlier by the elder mushrooms.
+* The party is at the opening of the cursed shipwreck sequence.
+* Pick up with immediate consequences: stabilize/heal Brother Kai if needed, reorient Severed Whisper in the dinghy, deal with shipwreck positioning, and decide whether to board/explore the wreck.
 
 ## Start-of-Session Recap
 
-The party reached Dragon's Rest after the dock zombie fight, met the kobolds, and recovered with help from Tarak and the cloister.
+The party cleared Seagrow Caves by pulling loose the orange fire crystal that had blocked the cave's vent and trapped heat, sulfur, fumes, and pressure.
 
-Runara noticed Pat Benatar's special scale and hinted that it was connected to something older on Stormwreck Isle. She also noticed Brother Kai's discipline and dragonborn nature, suggesting that something in him might awaken.
+When the crystal tore free, the vent erupted. Throk's Level 2 patron awakening protected the party with ghostly ancestral orc shields. He heard: "Strength is not rage. Strength is choosing what happens after the blow lands."
 
-Tarak sent the party to Seagrow Caves for medicinal fungus. In the caves, the party encountered the myconids and learned that the fungal colony was being affected by a deeper blight.
+The party killed the fire snake that emerged from the broken crystal/vent. The cave began to heal, the smoke cleared, and the elder mushrooms healed Floyd GoldSeeker with white spores/fungal threads before giving the party the medicinal fungus Tarak needed.
 
-Brother Kai's dragon claws awakened while he meditated in front of the elder mushrooms.
+Back at Dragon's Rest, Runara told the party that Stormwreck Isle remembers ancient dragon deaths through stone, sea, caves, and wrecks. She framed Brother Kai's claws as tied to old dragon power, Pat Benatar's scale and symbol as connected to old island mysteries, and Throk's new power as protective rather than corrupt.
 
-The party reached the crystal cave and fought the fume drakes. Pat Benatar killed the final fume drake, which exploded in smoke, heat, and sulfurous energy, taking Brother Kai down. Throk used the party's only healing potion to bring Kai back.
+Runara and/or Tarak pointed the party toward the cursed shipwreck as the next place where dragon-death energy has sunk into death and undeath.
 
-Where we ended: the party is wounded and catching its breath in the crystal cave. The fume drakes are dead, but the orange fire crystal still glows in the fissure ahead, blocking the vent and apparently filling the caves with foul fumes.
+Where we ended: at the cursed shipwreck, Brother Kai climbed to the crow's nest, a harpy attacked and took him down, Severed Whisper and Throk were charmed by the song, and Pat Benatar climbed up and killed the harpy with dragon breath. Throk is no longer charmed. Severed Whisper is still in the dinghy.
 
 ## Current DM Priority
 
@@ -43,193 +41,77 @@ Where we ended: the party is wounded and catching its breath in the crystal cave
 
 ## Next-Session Plan
 
-### Scene 1 - Seagrow Caves Resolution
+### Scene 1 - Immediate Aftermath at the Crow's Nest
 
-Use "Throk L2 6.15.png" to show Throk's Level 2 moment in the sulfurous crystal cave, with ghostly ancestral orc shields protecting the party from the crystal/fire burst.
+Use "6.16 Pat Benatar killing Harpy.png" as the visual reference for the moment immediately before play resumes.
 
 Opening frame:
 
-* The party begins in the crystal cave immediately after the fume drake fight.
-* The fume drakes are dead.
-* Pat Benatar killed the final fume drake.
-* Brother Kai went down from the explosion.
-* Throk used the party's only healing potion to bring Brother Kai back.
-* Brother Kai and Throk have both gone down in this cave sequence.
-* The party is wounded and low-resource.
-* The orange fire crystal is still active, blocking the vent and keeping the cave poisoned/blighted.
+* Pat Benatar is beside the crow's nest after killing the harpy with dragon breath.
+* The harpy's song has ended.
+* Brother Kai is down near/in the crow's nest, or has just been saved depending on exact table state.
+* Throk's charm is broken.
+* Severed Whisper is still in the dinghy and needs to reorient after the charm breaks.
+* Floyd GoldSeeker is present at the shipwreck.
+
+Immediate priorities:
+
+* Confirm whether Brother Kai needs stabilization, healing, or help with his position.
+* Give Severed Whisper a clear moment in the dinghy as the charm snaps and the danger becomes real again.
+* Resolve climbing, falling, crow's nest, rigging, and shipwreck positioning.
+* Let the party decide whether to regroup, board, search from outside, or press directly into the wreck.
+
+### Scene 2 - Secure the Wreck
+
+Use the cursed shipwreck as the active Rules as Written sequence.
 
 Scene goals:
 
-* Let the party investigate the orange fire crystal, blocked vent, sulfur/fumes, blighted fungus, damaged cave crystals, and the myconid elders' condition.
-* Make clear this is not just "monsters in a cave." The cave's natural venting system has been corrupted by the orange fire crystal.
-* When the party breaks, shifts, or dislodges the crystal, a dangerous crystal/fire/fume burst occurs.
-* Use the Rules as Written danger, fire snake, and crystal consequences from the book as appropriate at the table.
-* Selected mechanical option: because of Throk's Level 2 patron moment, the party gets resistance to the crystal/fire burst.
+* Keep the focus on immediate consequences, recovery, and dangerous exploration.
+* Make the wreck feel unstable, wet, haunted, and physically difficult.
+* Let the party convert the harpy victory into a tactical foothold.
+* Keep dragon-death energy present as atmosphere and clues, not a full explanation.
 
-Throk Level 2 moment:
-
-* This is the exact moment Throk awakens his Level 2 patron power.
-* The presence is ancestral, stern, orcish, protective, and martial.
-* It is not demonic, infernal, evil, Gruumsh, or soft.
-* Old Orcish fills Throk's mind: "Strength is not rage. Strength is choosing what happens after the blow lands."
-* Throk plants himself between the party and the burst.
-* Ghostly ancestral orc shields slam into place around the party.
-* The fire, pressure, and fumes still hit, but the party has resistance to the crystal/fire burst.
-* The moment should feel like Throk being recognized because he chose to hold the line.
-* Do not fully explain Vargun yet. This is the beginning of the connection, not the full reveal.
-
-After the crystal:
-
-* The fumes begin to clear.
-* The cave starts breathing again.
-* The myconid elders become reachable and coherent.
-* The blight starts easing.
-* The party gets the medicinal fungus.
-* The party can leave Seagrow Caves and return to Dragon's Rest.
-
-Optional character beats:
-
-* Pat Benatar notices an old pattern in the crystal growth, scorch marks, or cave stone that reminds her of her clan symbol or scale mystery. This should feel like recognition, not explanation.
-* Brother Kai's claws ache or warm when the crystal breaks, like they are responding to old dragon power. Do not fully explain yet.
-
-### Scene 2 - Return to Dragon's Rest / Runara
-
-Use "Learning 6.15.png" to show the party speaking with Runara at Dragon's Rest after returning from Seagrow Caves, with Runara recognizing Brother Kai's claws and Throk's change.
-
-Scene frame:
-
-* The party returns to Dragon's Rest from Seagrow Caves wounded, smoke-stained, tired, and changed.
-* Give the party a reset, healing, practical gratitude, and social grounding.
-* Let Dragon's Rest feel more like a home base.
-* Let the cloister see the party differently now that they returned from danger and saved the myconids.
-* Keep this scene emotionally meaningful but not lore-heavy.
-
-Cloister reaction:
-
-* Kobolds may react first.
-* Myla can notice that the party looks terrible, Brother Kai's claws are strange, and Throk looks different.
-* Tarak takes the medicinal fungus and immediately gets to work.
-* Tarak gives practical gratitude: healing, food, rest, and possibly replacement healing potions, useful herb bundles, or antitoxin-style support for the next quest.
-
-Runara should give three things:
-
-* A short dragon-history clue for the party.
-* A specific clue to Brother Kai about his claws.
-* Meaningful recognition of Throk's change.
-
-Runara general dragon clue:
-
-* Stormwreck Isle is not simply old ruins and bad luck.
-* Dragons died here.
-* Their deaths left power in the land, stone, sea, caves, and wrecks.
-* Sometimes that power rises as flame, poison, undeath, strange growth, or something awakening inside someone already carrying a related spark.
-* Do not explain the full rift plot, Pat Benatar's full mystery, Brother Kai's full awakening, or Vargun yet.
-
-Runara to Brother Kai:
-
-> "Kai, those claws are not a curse in the simple sense. They are not only a weapon either. Something in you answered something ancient on this island. Dragon power does not always arrive as scales and wings. Sometimes it arrives as instinct. Sometimes as hunger. Sometimes as protection. The question is not only what they can tear. The question is what they reach for."
-
-Meaning:
-
-* Brother Kai should understand the claws are connected to old dragon power.
-* They are not automatically evil.
-* They are not fully understood.
-* How he uses them matters.
-* Runara knows more than she is saying.
-
-Runara to Throk:
-
-> "Throk, something stood with you in that cave."
->
-> "I have seen rage. I have seen hunger. I have seen warriors mistake destruction for strength. That is not what followed you back."
->
-> "You were given a choice when the fire broke loose. You could have spent your strength forward, into the thing you wished to destroy. Instead, you placed it between danger and your companions."
->
-> "That is older than magic. Older than titles. Remember that feeling. Whatever name comes to you later, judge it by this: did it make you smaller, or did it teach you where to stand?"
-
-Meaning:
-
-* Runara sees him.
-* Throk's moment mattered.
-* His new power is not framed as corruption.
-* Protection is his emerging theme.
-* The party sees him differently.
-
-Optional Varnoth reinforcement:
-
-> "I don't know what answered you. But I know what it looks like when someone holds a line."
-
-### Scene 3 - Cursed Shipwreck Hook and Opening Fight
-
-Use "Final Battle 6.15.png" to show the opening Cursed Shipwreck fight as undead sailors rise from the surf and wreckage while the party holds the line.
-
-Use the Cursed Shipwreck as the next Rules as Written quest.
-
-Hook logic:
-
-* Seagrow was one expression of Stormwreck's old dragon death energy: fire, fumes, blight, and crystal corruption.
-* The shipwreck is another expression: death, sea, rot, undeath, memory, and something that will not stay buried.
-
-Possible Runara handoff:
-
-> "What you saw in the caves was not isolated. The island remembers dragons in more than one way. There is a wreck offshore where the dead do not rest. If Seagrow showed you what dragon fire does when it seeps into living things, the wreck may show you what it does when it sinks into death."
-
-Opening fight:
-
-* The party reaches the wreck by canoe, shoreline, or guided route.
-* The wreck is half-swallowed by surf.
-* Broken ribs of wood rise out of the water.
-* Ropes hang like dead vines.
-* The tide knocks loose chains against the hull.
-* A bell, chain, or hanging metal piece knocks once. Then again.
-* Wet hands grip the rail.
-* Undead sailors rise from the surf, broken deck, and hull.
-* Use the Rules as Written shipwreck fight from the book when running it.
-
-Make the fight dynamic:
+Dynamic elements:
 
 * Slippery deck.
-* Surf pushing characters.
-* Broken planks.
-* Half-submerged sections.
-* Rigging to climb or cut.
-* Undead trying to drag PCs toward water.
-* Unstable mast or wreckage.
-* Cover from broken hull pieces.
-* One undead may try to ring, knock, howl, or call more dead.
+* Unstable rigging and crow's nest.
+* Surf pushing the dinghy and characters.
+* Broken planks and half-submerged sections.
+* Ropes, rails, and wreckage that can help or fail.
+* Sounds from inside the hull that suggest the wreck is not fully safe.
 
-Objective:
+### Scene 3 - Board / Explore / Escalate
 
-* Not just kill everything.
-* Best objective: get onto the wreck and stop the undead from calling more dead.
-* Alternative objective: defeat the first wave and secure access before the tide shifts.
+Likely next choices:
 
-Optional character beats:
+* Stabilize Brother Kai and regroup before boarding.
+* Bring Severed Whisper from the dinghy onto the wreck or have him scout from the waterline.
+* Search the harpy/crow's nest area.
+* Explore the deck and entry points into the wreck.
+* Trigger the next undead or shipwreck encounter from the published material.
 
-* Brother Kai's claws react to undead dragon-tainted energy differently than they reacted to fire/crystal.
-* Throk's new protective instinct gets an immediate second test.
-* Pat Benatar sees another old symbol, scratch, scale-shape, or dragon mark worked into the wreck's damage.
-* Floyd GoldSeeker gets a practical problem to solve with ropes, wreckage, unstable deck, or a tactical route.
-* Severed Whisper gets a scouting/positioning moment in rigging, shadow, or broken hull.
+Character beats to preserve:
 
-End beat options:
-
-* If time is short: end as the undead fall and something moves deeper inside the wreck.
-* If time remains: let them enter the wreck and find the first clue that this is tied to Stormwreck's dragon-death curse.
-* Cliffhanger option: after the fight, the water around the wreck goes still. Something below knocks against the hull from inside.
+* Brother Kai's claws may react to the undead or dragon-death energy, but do not fully explain them.
+* Throk's new protective instinct may get an immediate second test, but do not fully reveal Vargun.
+* Pat Benatar's scale/symbol mystery may echo in wreck details, but do not explain it.
+* Floyd GoldSeeker can contribute practically with ropes, positioning, healing follow-up, or tactical movement.
+* Severed Whisper should get a clean recovery moment after being charmed and left in the dinghy.
 
 ## Character / Table Notes Still Relevant
 
 * Floyd GoldSeeker recently joined the party.
 * Throk went down in the dock fight and was saved by Pat Benatar's Medicine check.
 * Throk used his first Eldritch Blast and was not fully sure what it was.
-* Throk's Level 2 patron connection should begin during the orange fire crystal / vent danger, but do not fully explain Vargun yet.
+* Throk's Level 2 patron connection began during the orange fire crystal / vent danger, but do not fully explain Vargun yet.
 * Pat Benatar showed tactical awesomeness by using a bonus action to Disengage.
 * Sev does not like being called "kitty."
 * Sev does not like people touching his mini.
 * Brother Kai's dragon claws awakened during meditation in front of the elder mushrooms, not during the fire snake fight.
 * Pat Benatar's origin mystery should remain unexplained.
-* Keep the remaining Seagrow Caves material mostly Rules as Written.
+* Keep the cursed shipwreck material mostly Rules as Written.
+* Severed Whisper is still in the dinghy at the next-session start.
 
 ## Dragonborn Appearance Note
 
@@ -243,7 +125,7 @@ Table wording: Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn
 
 The long bridge material was previously used to move the party from the destroyed temple to Stormwreck Isle. It covered the temple aftermath, Pat Benatar receiving the sealed box, dock passage with Captain Elric Thorne, boat travel, and the arrival at Stormwreck.
 
-Do not treat that bridge material as the current starting point. The current starting point is the crystal cave in Seagrow Caves, immediately after the fume drake battle.
+Do not treat that bridge material as the current starting point. The current starting point is the cursed shipwreck immediately after Pat Benatar killed the harpy.
 
 Video version used for that bridge: intro to Act 2.mp4
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
