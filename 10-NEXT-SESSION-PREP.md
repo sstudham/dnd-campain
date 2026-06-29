@@ -113,6 +113,176 @@ Character beats to preserve:
 * Keep the cursed shipwreck material mostly Rules as Written.
 * Severed Whisper is still in the dinghy at the next-session start.
 
+## Sev Spotlight Addendum - Wreck of Compass Rose
+
+Part 1: Harpy Aftermath and Sev Sees the Ambush
+
+The harpy is dead. Pat Benatar killed it with dragon breath beside the crow's nest. Brother Kai is down, recovering, or needs help near the crow's nest. Throk's charm is broken. Sev is still in the dinghy. Floyd GoldSeeker is present.
+
+Let the party handle immediate loose ends: Kai, climbing, regrouping, crow's nest treasure, and basic positioning.
+
+Read or paraphrase:
+
+Sev, from the dinghy, you are lower than everyone else. Pat is high near the crow's nest. Kai is down or recovering above you. The others are looking at the dead harpy. You are looking at the ship. That is why you see it first.
+
+A second boat is tied low against the far side of the wreck, half-hidden by the angle of the hull and the slap of the waves. The rope is fresh. The knot is clean. A wet boot print marks the broken rail above it.
+
+Then you see the crossbow bolt.
+
+Not old. Not rusted. Not from this wreck.
+
+A voice from somewhere on the deck says, quiet and professional:
+
+"There. The tabaxi. Alive if he makes it easy."
+
+A second voice answers:
+
+"That is Severed Whisper?"
+
+The first voice says:
+
+"Luskan pays either way. But alive pays better."
+
+Display image: Sev_level2.jpg
+
+Bounty hunter posture:
+
+They are calm, trained, and dangerous. They are not here to fight the whole party to the death. They want Sev captured and removed from the island.
+
+Use three hunters:
+
+Leader: does the talking.
+Netter: tries to pin or block Sev.
+Crossbow scout: covers exits.
+
+Hunter dialogue:
+
+"Easy, tabaxi. This does not need to get bloody."
+"The mayor wants answers. You are going to provide them."
+"You ran with the dragonborn. That makes you valuable."
+"Do not try to out-muscle us. That will go badly for you."
+
+If Sev uses Dash, Disengage, or Hide, describe it as his level 2 rogue awakening.
+
+Dash:
+Sev does not run away. He explodes across the slick deck faster than the hunters can reset.
+
+Disengage:
+His rapier flashes toward the hunter's face, the tomahawk hooks the man's wrist for half a heartbeat, and Sev is gone before the counterstrike lands.
+
+Hide:
+Torn canvas, sea spray, rigging, and shadow swallow him. One breath visible. The next, gone.
+
+End Part 1 with the hunters withdrawing below deck.
+
+Leader line:
+
+"Below. Make him come through the wreck."
+
+They retreat into the ship. The party can pursue or continue exploring.
+
+Part 2: RAW Shipwreck Exploration and Bounty Hunter Fight in C7
+
+Run the RAW rooms normally.
+
+* C1 Main Deck / Crow's Nest: already mostly resolved.
+* C2 Forecastle: RAW empty; can show signs of the hunters' boarding boat.
+* C3 Quarterdeck: run the wheel noise RAW.
+* C4 Captain's Quarters: run zombies and treasure RAW.
+* C5 Galley: run crab fakeout RAW.
+* C6 Crew Quarters: run portrait, trapped floorboard, and stash RAW.
+* C8 Lower Deck: run zombie, ghoul, difficult terrain RAW.
+* C9 Hold: run chest, journal, talisman, boots of elvenkind RAW.
+* Place the bounty hunter fight in C7 Mess Hall.
+
+C7 setup:
+
+The long table has been shoved slightly off-center. Broken glass and crockery cover the floor. One hunter waits behind the table with a net. One watches the door or hatch line with a crossbow. The leader stands where he can talk before the fight starts.
+
+Read or paraphrase when they enter C7:
+
+The mess hall is not empty anymore. The long table has been dragged into a rough barricade. Broken crockery crunches under a boot behind it. A crossbow is already leveled toward the doorway.
+
+The leader gives Sev a thin smile.
+
+"There he is. Severed Whisper. I expected taller."
+
+The netter says:
+
+"Fast, though. Watch the hands."
+
+The leader answers:
+
+"No. Watch the exits."
+
+Combat goal:
+
+The hunters try to capture Sev, not kill everyone.
+
+Good Sev spotlight line from DM:
+
+Sev, they are trying to make this a box. Table, crossbow, net, door. But you can see every weak point in the box.
+
+If the party avoids C7, move this exact bounty hunter setup to the next empty or low-stakes room they enter. Do not interrupt C4, C8, or C9.
+
+Use simple bandit-style bounty hunters.
+
+Leader: bandit-style enemy with better dialogue, not necessarily better stats.
+Netter: bandit-style enemy with a net.
+Crossbow scout: bandit-style enemy with a light crossbow.
+
+Their goal is capture, not murder. They flee or surrender at half strength.
+
+If one hunter flees, use this line:
+
+"This was supposed to be easy money. Luskan was wrong about you."
+
+Information if captured/questioned:
+
+The Luskan mayor's people hired them.
+Sev is named because he is easier to identify than the others.
+The two dragonborn are also wanted in connection with the mayor's son.
+The hunters followed from Luskan by ship and tracked the party to Stormwreck Isle.
+They were told not to underestimate the tabaxi.
+
+Part 3: Return to Dragon's Rest and Clifftop Observatory Setup
+
+Keep this short.
+
+After the shipwreck is resolved and the party returns to Dragon's Rest, Runara receives the news.
+
+Runara dialogue:
+
+"You have seen more of Stormwreck's wound now."
+
+"The caves showed you sickness in stone, fungus, heat, and breath. The Compass Rose shows another face of it: death, memory, grief, and prayer bent toward something that should not answer."
+
+"If this journal speaks true, Aleitha's last prayer reached Orcus. That does not mean Orcus rules this island. But it does mean old pain here can become a door, and things are listening."
+
+On Sev:
+
+"And now Luskan has reached this shore as well."
+
+"Severed Whisper, whatever followed you here is not separate from the party anymore. They came for you, but they found all of you. That matters."
+
+On Clifftop Observatory:
+
+"There is another place you should see."
+
+"High above the sea stands the old Clifftop Observatory. It was built to watch the heavens, the storms, and the movement of powers greater than ordinary sailors ever understood."
+
+"The caves showed what is growing beneath the island. The wreck showed what is rotting around it. The observatory may show what is gathering above it."
+
+"If you want to understand why Stormwreck keeps answering dragon death with fire, sickness, undeath, and strange awakenings, go there next."
+
+Closing image:
+
+As night settles over Dragon's Rest, the sea goes black beneath the cliffs.
+
+Far above, near the broken silhouette of the observatory, lightning flickers without thunder.
+
+Stormwreck is not finished with them.
+
 ## Dragonborn Appearance Note
 
 Not all dragonborn present the same way. Brother Kai can be an unusual-looking dragonborn without changing Pat Benatar's special mystery. Brother Kai's appearance is treated as unusual but still within the broad range of dragonborn ancestry.
