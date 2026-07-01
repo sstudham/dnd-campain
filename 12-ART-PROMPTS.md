@@ -90,13 +90,31 @@ Purpose: show the session-ending moment where Pat Benatar kills the harpy, Broth
 
 Do not treat the image as replacing written prep or canon. Do not use it to fully explain Brother Kai's claws, Pat Benatar's scale/symbol mystery, or Vargun.
 
-### Sev_level2.jpg
+### 6.30 Sev Level 2
 
-Use as the visual reference for Severed Whisper's level 2 rogue spotlight moment aboard the Wreck of Compass Rose.
+Use as the visual reference for Severed Whisper's Level 2 rogue awakening aboard the Compass Rose. This replaces the previous deleted Sev Level 2 reference.
 
-Scene shown: Sev turns a Luskan bounty-hunter ambush against the hunters through movement, timing, and terrain. The moment should emphasize that Sev does not win by brute force. He wins by using angles, exits, motion, cover, and the environment.
+Scene shown: Sev has just killed the first Luskan bounty hunter, used Disengage explosively, and launched himself all the way up onto the mast. The moment should emphasize that Sev feels genuinely powerful for the first time, using movement, instinct, timing, terrain, and rogue agility rather than brute force or magic.
 
-Context: Luskan bounty hunters followed the party to Stormwreck Isle and boarded the Wreck of Compass Rose while the party was dealing with the harpy. They are trying to capture Sev because of his association with the two dragonborn connected to the Luskan mayor's son.
+Do not treat this image as replacing canon text. The written prep and session log remain primary if there is any conflict.
+
+### 6.30 Kai Killing
+
+Use as the visual reference for Brother Kai's dark turn aboard the Compass Rose.
+
+Scene shown: after interrogation, Kai kills the final Luskan bounty hunter with his awakened dragon claws by slicing his throat, despite Severed Whisper wanting the hunter alive for more answers.
+
+Purpose: show Kai as controlled, cold, decisive, and morally unsettling rather than enraged. This is a dark character moment, not a heroic victory.
+
+Do not treat this image as replacing canon text. The written prep and session log remain primary if there is any conflict.
+
+### 6.30 Readout of Runara
+
+Use as the visual reference for the final Dragon's Rest scene after the party returns from the Compass Rose.
+
+Scene shown: the battered party stands before Runara at Dragon's Rest after returning from the wreck. Kobolds are nearby. Runara speaks calmly and seriously, framing the wreck as another expression of Stormwreck Isle's wound and pointing the party toward the Clifftop Observatory.
+
+Purpose: show a quiet transition moment after violence, not a victory celebration. The mood should be reflective, ominous, and pointed toward the next location.
 
 Do not treat this image as replacing canon text. The written prep and session log remain primary if there is any conflict.
 

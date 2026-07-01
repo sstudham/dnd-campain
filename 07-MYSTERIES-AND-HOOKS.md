@@ -21,6 +21,12 @@
 * What ancestral, protective orcish presence answered Throk when he held the line in Seagrow Caves?
 * How will Throk's beginning patron connection shape his idea of orc strength?
 * Why does Stormwreck's old dragon-death energy appear as fire, fumes, blight, undeath, strange growth, and awakening power in different places?
+* How will Sev respond to Kai killing the final bounty hunter after Sev wanted him kept alive?
+* What does Kai's controlled execution of the bounty hunter reveal about his awakened dragon claws and moral direction?
+* What will Luskan do after the bounty hunters fail to return?
+* How far does the Luskan mayor's reach extend?
+* What answers died with the final bounty hunter?
+* What will the Clifftop Observatory reveal about Stormwreck Isle's dragon-death energy and the larger rift?
 
 ## Plot Hooks
 
@@ -31,5 +37,8 @@
 * Brother Kai's awakened claws are a new character development to preserve without over-explaining yet.
 * Throk's new protective patron connection can later connect to questions about rage, strength, restraint, protection, and legacy.
 * The Cursed Shipwreck can show another expression of Stormwreck's dragon-death curse through death, sea, rot, undeath, memory, and something that will not stay buried.
+* Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
+* Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
+* Runara has pointed the party toward the Clifftop Observatory as the next place to investigate Stormwreck Isle's wound.
 
 ## Needs Resolution

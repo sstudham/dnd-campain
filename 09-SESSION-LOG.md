@@ -141,6 +141,89 @@ End state:
 
 The session ended at the cursed shipwreck immediately after Pat Benatar killed the harpy. Brother Kai has been downed or just saved depending on table state. Throk is no longer charmed. Severed Whisper is still in the dinghy.
 
+### Session 12 - Compass Rose, Luskan Bounty Hunters, and Kai's Dark Turn
+
+Story events:
+
+The session began at the cursed shipwreck immediately after Pat Benatar killed the harpy beside the crow's nest.
+
+Floyd GoldSeeker used a healing spell to heal Brother Kai after the harpy fight.
+
+Severed Whisper remained in the dinghy and inspected the wreck from below.
+
+From the dinghy, Sev could tell the Compass Rose was in terrible condition: half-sunk, broken open, wedged against the rocks, slick with seawater, rotted, unstable, and not seaworthy.
+
+Sev noticed signs that someone living had boarded the wreck: a second boat tied low against the far side of the wreck, fresh rope, a clean knot, wet boot prints, and a crossbow bolt that did not belong to the wreck.
+
+Sev was Hidden and explored C2 / Forecastle.
+
+Brother Kai explored C6 / Crew Quarters looking for a place to meditate. He entered a meditative state and rolled low Perception, so he did not notice the trapped floorboard or hidden stash.
+
+The rest of the party explored C4 / Captain's Quarters and fought the zombies there.
+
+Kai left meditation and ran to join the zombie fight.
+
+Throk killed the first zombie in C4.
+
+The rest of the party cleared the zombies in C4.
+
+The Luskan bounty hunters found Sev.
+
+Sev killed the first bounty hunter and experienced his first Level 2 rogue awakening moment, using Disengage explosively and leaping all the way up onto the mast. This made Sev feel genuinely powerful for the first time.
+
+Pat Benatar attacked the bounty hunter with the crossbow.
+
+Throk killed one of the bounty hunters with Eldritch Blast.
+
+Kai cornered the final bounty hunter.
+
+The party learned from the bounty hunter that Luskan mayor's people hired them. Sev was targeted because he was easier to identify and capture: a named tabaxi traveling with two dragonborn, tied to Braddok Ironhand, the odd stone, the bar fight, the mayor's son, and the dock warehouse trouble. The dragonborn are wanted too, but Sev was the cleanest target and most valuable alive for answers.
+
+Sev wanted the final bounty hunter kept alive for more answers.
+
+Kai interrogated the final bounty hunter, then killed him anyway over Sev's protest by slicing his throat with his dragon claws.
+
+This was a dark character moment for Kai. He was controlled, decisive, and cold rather than enraged.
+
+The party proceeded to the lower deck after clearing the captain's quarters and crew sleeping area.
+
+The party found loot worth 75 gp.
+
+The party killed a zombie on the lower deck. Pat Benatar, Floyd GoldSeeker, and Throk all damaged it before Kai finished it off.
+
+Kai killed this zombie too, but with less bloodthirst than the bounty hunter execution.
+
+The party explored the lower deck.
+
+Sev found 5 silver bars.
+
+Sev tried to persuade the party to return to the island instead of continuing deeper into the wreck.
+
+The party returned to Dragon's Rest and was met by the kobolds.
+
+Runara spoke with the party after their return from the wreck.
+
+Runara framed the Compass Rose as another expression of Stormwreck Isle's wound: the caves showed sickness in stone, fungus, heat, and breath; the wreck showed death, memory, fear, and things that refuse to stay buried.
+
+Runara noted that Luskan had now reached the island and that Sev's past was no longer separate from the party.
+
+Runara pointed the party toward the Clifftop Observatory as the next place to investigate.
+
+The party took a long rest in the quarters at Dragon's Rest.
+
+Next session will begin after the long rest, with the party waking and going to the rooftop / Clifftop Observatory lead.
+
+Important moments:
+
+* Sev's Level 2 rogue awakening happened during the bounty hunter fight aboard the Compass Rose.
+* Sev's new power was expressed through movement, instinct, angles, timing, and agility rather than brute force or magic.
+* Kai's dragon claws were used to execute the final bounty hunter after interrogation, over Sev's protest.
+* Kai's killing of the bounty hunter should be preserved as a dark character turn and possible party tension point.
+* Throk used Eldritch Blast to kill a bounty hunter.
+* Pat Benatar continued to act tactically and engaged the crossbow hunter.
+* The Luskan bounty hunter thread is now openly tied to Sev and the party.
+* The party returned to Dragon's Rest and completed a long rest.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.
@@ -159,5 +242,7 @@ The session ended at the cursed shipwreck immediately after Pat Benatar killed t
 * The party ended Session 10 wounded, out of healing potions, and facing the unresolved orange fire crystal in Seagrow Caves.
 * At Seagrow Caves, Throk's Level 2 patron power awakened when ghostly ancestral orc shields protected the party from the crystal/fire/fume burst.
 * Pat Benatar killed the harpy at the cursed shipwreck with dragon breath beside the crow's nest, ending the charm on Throk and Severed Whisper.
+* Sev's Level 2 rogue awakening happened aboard the Compass Rose when he killed the first Luskan bounty hunter, used Disengage explosively, and leapt onto the mast.
+* Brother Kai executed the final Luskan bounty hunter with his dragon claws after interrogation, over Sev's protest.
 
 ## Follow-Up Notes

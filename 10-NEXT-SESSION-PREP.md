@@ -2,18 +2,18 @@
 
 ## Current Starting Point
 
-Next session starts at the cursed shipwreck, immediately after Pat Benatar killed the harpy beside the crow's nest.
+Next session starts at Dragon's Rest after the party's long rest in the quarters.
 
 Current situation:
 
-* The harpy is dead.
-* Pat Benatar killed the harpy with dragon breath beside the crow's nest.
-* Brother Kai was taken down by the harpy near/in the crow's nest.
-* Throk had been charmed, but the charm is now broken.
-* Severed Whisper had been charmed and is still in the dinghy.
-* Floyd GoldSeeker is present at the shipwreck after having been healed earlier by the elder mushrooms.
-* The party is at the opening of the cursed shipwreck sequence.
-* Pick up with immediate consequences: stabilize/heal Brother Kai if needed, reorient Severed Whisper in the dinghy, deal with shipwreck positioning, and decide whether to board/explore the wreck.
+* The party has returned from the wreck of the Compass Rose.
+* The party survived the harpy, undead, and Luskan bounty hunters.
+* Sev experienced his Level 2 rogue awakening during the bounty hunter fight.
+* Kai executed the final bounty hunter with his dragon claws after interrogation, over Sev's protest.
+* The party recovered loot from the wreck, including 75 gp worth of loot and 5 silver bars found by Sev.
+* Runara has pointed the party toward the Clifftop Observatory.
+* The party has completed a long rest.
+* Next session should begin with the party waking at Dragon's Rest and moving toward the rooftop / Clifftop Observatory lead.
 
 ## Start-of-Session Recap
 
@@ -27,7 +27,19 @@ Back at Dragon's Rest, Runara told the party that Stormwreck Isle remembers anci
 
 Runara and/or Tarak pointed the party toward the cursed shipwreck as the next place where dragon-death energy has sunk into death and undeath.
 
-Where we ended: at the cursed shipwreck, Brother Kai climbed to the crow's nest, a harpy attacked and took him down, Severed Whisper and Throk were charmed by the song, and Pat Benatar climbed up and killed the harpy with dragon breath. Throk is no longer charmed. Severed Whisper is still in the dinghy.
+At the Compass Rose, Brother Kai climbed to the crow's nest, a harpy attacked and took him down, Severed Whisper and Throk were charmed by the song, and Pat Benatar climbed up and killed the harpy with dragon breath.
+
+From the dinghy, Sev spotted signs that living intruders had boarded the wreck: a second boat, fresh rope, a clean knot, wet boot prints, and a crossbow bolt that did not belong there.
+
+The Luskan bounty hunters found Sev. Sev killed the first bounty hunter, experienced his Level 2 rogue awakening, used Disengage explosively, and leapt onto the mast. Pat Benatar attacked the crossbow hunter, and Throk killed another bounty hunter with Eldritch Blast.
+
+Kai interrogated the final bounty hunter and then executed him with his dragon claws, despite Sev wanting him kept alive for more answers.
+
+The party explored the captain's quarters, crew quarters, and lower deck. They found 75 gp worth of loot, and Sev found 5 silver bars.
+
+The party returned to Dragon's Rest, spoke with Runara, and took a long rest.
+
+Next destination: Clifftop Observatory.
 
 ## Current DM Priority
 
@@ -41,63 +53,42 @@ Where we ended: at the cursed shipwreck, Brother Kai climbed to the crow's nest,
 
 ## Next-Session Plan
 
-### Scene 1 - Immediate Aftermath at the Crow's Nest
-
-Use "6.16 Pat Benatar killing Harpy.png" as the visual reference for the moment immediately before play resumes.
+### Scene 1 - Wake at Dragon's Rest
 
 Opening frame:
 
-* Pat Benatar is beside the crow's nest after killing the harpy with dragon breath.
-* The harpy's song has ended.
-* Brother Kai is down near/in the crow's nest, or has just been saved depending on exact table state.
-* Throk's charm is broken.
-* Severed Whisper is still in the dinghy and needs to reorient after the charm breaks.
-* Floyd GoldSeeker is present at the shipwreck.
-
-Immediate priorities:
-
-* Confirm whether Brother Kai needs stabilization, healing, or help with his position.
-* Give Severed Whisper a clear moment in the dinghy as the charm snaps and the danger becomes real again.
-* Resolve climbing, falling, crow's nest, rigging, and shipwreck positioning.
-* Let the party decide whether to regroup, board, search from outside, or press directly into the wreck.
-
-### Scene 2 - Secure the Wreck
-
-Use the cursed shipwreck as the active Rules as Written sequence.
+* The party wakes in the quarters at Dragon's Rest after the long rest.
+* The Compass Rose is behind them, but its consequences are not resolved.
+* Sev knows Kai killed the final bounty hunter after Sev wanted him alive.
+* Kai has had the night to sit with what he did.
+* Luskan now feels closer, not like a problem left behind on the mainland.
 
 Scene goals:
 
-* Keep the focus on immediate consequences, recovery, and dangerous exploration.
-* Make the wreck feel unstable, wet, haunted, and physically difficult.
-* Let the party convert the harpy victory into a tactical foothold.
-* Keep dragon-death energy present as atmosphere and clues, not a full explanation.
+* Give the party a quiet morning reset after the violence aboard the wreck.
+* Let Sev and Kai tension exist without forcing a confrontation.
+* Let Floyd GoldSeeker, Pat Benatar, and Throk react if the table turns toward the bounty hunter execution.
+* Keep the next direction clear: rooftop / Clifftop Observatory lead.
 
-Dynamic elements:
+### Scene 2 - Rooftop / Runara Follow-Up
 
-* Slippery deck.
-* Unstable rigging and crow's nest.
-* Surf pushing the dinghy and characters.
-* Broken planks and half-submerged sections.
-* Ropes, rails, and wreckage that can help or fail.
-* Sounds from inside the hull that suggest the wreck is not fully safe.
+Use "6.30 Readout of Runara" as the visual reference if showing the Dragon's Rest transition.
 
-### Scene 3 - Board / Explore / Escalate
+Runara can reinforce:
 
-Likely next choices:
+* The Compass Rose showed another expression of Stormwreck Isle's wound: death, memory, fear, and things that refuse to stay buried.
+* Luskan has now reached the island, and Sev's past is no longer separate from the party.
+* The Clifftop Observatory is the next place to investigate.
+* The caves showed what is growing beneath the island. The wreck showed what is rotting around it. The observatory may show what is gathering above it.
 
-* Stabilize Brother Kai and regroup before boarding.
-* Bring Severed Whisper from the dinghy onto the wreck or have him scout from the waterline.
-* Search the harpy/crow's nest area.
-* Explore the deck and entry points into the wreck.
-* Trigger the next undead or shipwreck encounter from the published material.
+### Scene 3 - Toward Clifftop Observatory
 
-Character beats to preserve:
+Scene goals:
 
-* Brother Kai's claws may react to the undead or dragon-death energy, but do not fully explain them.
-* Throk's new protective instinct may get an immediate second test, but do not fully reveal Vargun.
-* Pat Benatar's scale/symbol mystery may echo in wreck details, but do not explain it.
-* Floyd GoldSeeker can contribute practically with ropes, positioning, healing follow-up, or tactical movement.
-* Severed Whisper should get a clean recovery moment after being charmed and left in the dinghy.
+* Move the party from Dragon's Rest toward the Clifftop Observatory lead.
+* Keep Stormwreck's dragon-death energy present as atmosphere and clues, not a full explanation.
+* Preserve Pat Benatar's scale/symbol mystery, Brother Kai's claws, Throk's protective patron connection, and Sev's Luskan trouble as active hooks.
+* Use the journey or rooftop view to make the observatory feel high, exposed, storm-touched, and important.
 
 ## Character / Table Notes Still Relevant
 
@@ -110,178 +101,8 @@ Character beats to preserve:
 * Sev does not like people touching his mini.
 * Brother Kai's dragon claws awakened during meditation in front of the elder mushrooms, not during the fire snake fight.
 * Pat Benatar's origin mystery should remain unexplained.
-* Keep the cursed shipwreck material mostly Rules as Written.
-* Severed Whisper is still in the dinghy at the next-session start.
-
-## Sev Spotlight Addendum - Wreck of Compass Rose
-
-Part 1: Harpy Aftermath and Sev Sees the Ambush
-
-The harpy is dead. Pat Benatar killed it with dragon breath beside the crow's nest. Brother Kai is down, recovering, or needs help near the crow's nest. Throk's charm is broken. Sev is still in the dinghy. Floyd GoldSeeker is present.
-
-Let the party handle immediate loose ends: Kai, climbing, regrouping, crow's nest treasure, and basic positioning.
-
-Read or paraphrase:
-
-Sev, from the dinghy, you are lower than everyone else. Pat is high near the crow's nest. Kai is down or recovering above you. The others are looking at the dead harpy. You are looking at the ship. That is why you see it first.
-
-A second boat is tied low against the far side of the wreck, half-hidden by the angle of the hull and the slap of the waves. The rope is fresh. The knot is clean. A wet boot print marks the broken rail above it.
-
-Then you see the crossbow bolt.
-
-Not old. Not rusted. Not from this wreck.
-
-A voice from somewhere on the deck says, quiet and professional:
-
-"There. The tabaxi. Alive if he makes it easy."
-
-A second voice answers:
-
-"That is Severed Whisper?"
-
-The first voice says:
-
-"Luskan pays either way. But alive pays better."
-
-Display image: Sev_level2.jpg
-
-Bounty hunter posture:
-
-They are calm, trained, and dangerous. They are not here to fight the whole party to the death. They want Sev captured and removed from the island.
-
-Use three hunters:
-
-Leader: does the talking.
-Netter: tries to pin or block Sev.
-Crossbow scout: covers exits.
-
-Hunter dialogue:
-
-"Easy, tabaxi. This does not need to get bloody."
-"The mayor wants answers. You are going to provide them."
-"You ran with the dragonborn. That makes you valuable."
-"Do not try to out-muscle us. That will go badly for you."
-
-If Sev uses Dash, Disengage, or Hide, describe it as his level 2 rogue awakening.
-
-Dash:
-Sev does not run away. He explodes across the slick deck faster than the hunters can reset.
-
-Disengage:
-His rapier flashes toward the hunter's face, the tomahawk hooks the man's wrist for half a heartbeat, and Sev is gone before the counterstrike lands.
-
-Hide:
-Torn canvas, sea spray, rigging, and shadow swallow him. One breath visible. The next, gone.
-
-End Part 1 with the hunters withdrawing below deck.
-
-Leader line:
-
-"Below. Make him come through the wreck."
-
-They retreat into the ship. The party can pursue or continue exploring.
-
-Part 2: RAW Shipwreck Exploration and Bounty Hunter Fight in C7
-
-Run the RAW rooms normally.
-
-* C1 Main Deck / Crow's Nest: already mostly resolved.
-* C2 Forecastle: RAW empty; can show signs of the hunters' boarding boat.
-* C3 Quarterdeck: run the wheel noise RAW.
-* C4 Captain's Quarters: run zombies and treasure RAW.
-* C5 Galley: run crab fakeout RAW.
-* C6 Crew Quarters: run portrait, trapped floorboard, and stash RAW.
-* C8 Lower Deck: run zombie, ghoul, difficult terrain RAW.
-* C9 Hold: run chest, journal, talisman, boots of elvenkind RAW.
-* Place the bounty hunter fight in C7 Mess Hall.
-
-C7 setup:
-
-The long table has been shoved slightly off-center. Broken glass and crockery cover the floor. One hunter waits behind the table with a net. One watches the door or hatch line with a crossbow. The leader stands where he can talk before the fight starts.
-
-Read or paraphrase when they enter C7:
-
-The mess hall is not empty anymore. The long table has been dragged into a rough barricade. Broken crockery crunches under a boot behind it. A crossbow is already leveled toward the doorway.
-
-The leader gives Sev a thin smile.
-
-"There he is. Severed Whisper. I expected taller."
-
-The netter says:
-
-"Fast, though. Watch the hands."
-
-The leader answers:
-
-"No. Watch the exits."
-
-Combat goal:
-
-The hunters try to capture Sev, not kill everyone.
-
-Good Sev spotlight line from DM:
-
-Sev, they are trying to make this a box. Table, crossbow, net, door. But you can see every weak point in the box.
-
-If the party avoids C7, move this exact bounty hunter setup to the next empty or low-stakes room they enter. Do not interrupt C4, C8, or C9.
-
-Use simple bandit-style bounty hunters.
-
-Leader: bandit-style enemy with better dialogue, not necessarily better stats.
-Netter: bandit-style enemy with a net.
-Crossbow scout: bandit-style enemy with a light crossbow.
-
-Their goal is capture, not murder. They flee or surrender at half strength.
-
-If one hunter flees, use this line:
-
-"This was supposed to be easy money. Luskan was wrong about you."
-
-Information if captured/questioned:
-
-The Luskan mayor's people hired them.
-Sev is named because he is easier to identify than the others.
-The two dragonborn are also wanted in connection with the mayor's son.
-The hunters followed from Luskan by ship and tracked the party to Stormwreck Isle.
-They were told not to underestimate the tabaxi.
-
-Part 3: Return to Dragon's Rest and Clifftop Observatory Setup
-
-Keep this short.
-
-After the shipwreck is resolved and the party returns to Dragon's Rest, Runara receives the news.
-
-Runara dialogue:
-
-"You have seen more of Stormwreck's wound now."
-
-"The caves showed you sickness in stone, fungus, heat, and breath. The Compass Rose shows another face of it: death, memory, grief, and prayer bent toward something that should not answer."
-
-"If this journal speaks true, Aleitha's last prayer reached Orcus. That does not mean Orcus rules this island. But it does mean old pain here can become a door, and things are listening."
-
-On Sev:
-
-"And now Luskan has reached this shore as well."
-
-"Severed Whisper, whatever followed you here is not separate from the party anymore. They came for you, but they found all of you. That matters."
-
-On Clifftop Observatory:
-
-"There is another place you should see."
-
-"High above the sea stands the old Clifftop Observatory. It was built to watch the heavens, the storms, and the movement of powers greater than ordinary sailors ever understood."
-
-"The caves showed what is growing beneath the island. The wreck showed what is rotting around it. The observatory may show what is gathering above it."
-
-"If you want to understand why Stormwreck keeps answering dragon death with fire, sickness, undeath, and strange awakenings, go there next."
-
-Closing image:
-
-As night settles over Dragon's Rest, the sea goes black beneath the cliffs.
-
-Far above, near the broken silhouette of the observatory, lightning flickers without thunder.
-
-Stormwreck is not finished with them.
+* The Compass Rose material has been completed in play.
+* Severed Whisper is no longer in the dinghy at the next-session start; the party is rested at Dragon's Rest.
 
 ## Dragonborn Appearance Note
 
@@ -295,7 +116,7 @@ Table wording: Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn
 
 The long bridge material was previously used to move the party from the destroyed temple to Stormwreck Isle. It covered the temple aftermath, Pat Benatar receiving the sealed box, dock passage with Captain Elric Thorne, boat travel, and the arrival at Stormwreck.
 
-Do not treat that bridge material as the current starting point. The current starting point is the cursed shipwreck immediately after Pat Benatar killed the harpy.
+Do not treat that bridge material as the current starting point. The current starting point is Dragon's Rest after the party's long rest, with the Clifftop Observatory as the next lead.
 
 Video version used for that bridge: intro to Act 2.mp4
 External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
