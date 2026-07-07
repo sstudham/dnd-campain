@@ -170,7 +170,22 @@ These image files are the authoritative visual canon and required face reference
 * Weapon: Mace +4, 1d6+2 bludgeoning
 * Key spells available/listed: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
 * New to the party and may not be long-term.
+* Floyd was a master surveyor for the Goldseeker clan, known for finding rich veins of ore.
+* During an excavation at Glittervein, the mine collapsed and trapped Floyd and his crew underground.
+* Floyd and the crew spent three days trying to dig free with pickaxes.
+* As the air ran out, Floyd's crewmates lost consciousness and died.
+* As Floyd was near death, a pebble fell from above and a golden ray of light shone through a tiny opening directly onto his heart.
+* The light gave Floyd renewed strength, and he used his pickaxe to break through and escape.
+* Floyd believes his survival was divine intervention, not luck.
+* He now carries a warhammer modeled after his old mining pickaxe.
+* He believes his life was spared for a purpose more valuable than gold.
+* He carries the names and memory of his fallen crew and has vowed to protect his new adventuring companions.
+* Preserve Floyd as a cleric, former surveyor, survivor, protector, and practical front-line support character.
+* Do not invent Floyd's god or divine domain unless Andy later provides that information.
 * Notes for DM: He covers healing but has low Wisdom for a cleric, so spell save DC is low. Better used for Bless, healing, support, physical presence, protecting, stabilizing, or physically blocking threats than save-or-suck casting.
+* Floyd themes for DM use: buried survivors, trapped creatures, stone, excavation, hidden paths, divine light, survivor purpose, protecting companions, honoring the dead.
+* Good Floyd spotlight scenes: finding a route through collapsed stone, rescuing trapped creatures, interpreting structures as a surveyor, receiving divine signs through light, stone, tools, or echoes of his dead crew.
+* Floyd's warhammer should be described as functioning and visually reading like a miner's pickaxe adapted into a cleric's weapon.
 
 ## Party Strengths
 

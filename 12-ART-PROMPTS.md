@@ -118,6 +118,66 @@ Purpose: show a quiet transition moment after violence, not a victory celebratio
 
 Do not treat this image as replacing canon text. The written prep and session log remain primary if there is any conflict.
 
+### Session 13 Introduction - Dragon's Rest Tasking
+
+Image file: Session 13 start.png
+
+Use as the visual reference for the Session 13 opening at Dragon's Rest.
+
+Scene shown: the full party is with Runara, Tarak, and Myla. Runara gives Floyd GoldSeeker the moonstone key, and Floyd is the focal point.
+
+Prompt notes: Pat Benatar holds no unexplained object. Include no extra unidentified foreground character. Use all authoritative PC headshots. Use the established Runara look from the latest approved reference image if available.
+
+Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+
+### Session 13 Journey - Toward Clifftop Observatory
+
+Image file: Session 13 page 2 Stormy wrath.png
+
+Use as the visual reference for the party's approach to the Clifftop Observatory.
+
+Scene shown: the full party crosses black basalt and glassy crystal terrain with reddish lightning scars. Sparkrender flies overhead, and the distant Observatory is visible.
+
+Prompt notes: Floyd GoldSeeker should be slightly forward, reading the terrain as a surveyor. Sparkrender overhead is an omen, not an immediate combat pose.
+
+Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+
+### Session 13 D1 - Moonstone Bridge
+
+Image file: Session 13 page 3 Ritual at the stormy portal.png
+
+Use as the visual reference for D1 Overlook and the moonstone bridge activation.
+
+Scene shown: the full party stands at the dragon statues while Floyd GoldSeeker activates the moonstone key. Golden-white statue light and an iridescent bridge form across the chasm.
+
+Prompt notes: Floyd is central. Let the Glittervein memory subtly bleed into the scene through golden light, stone, dust, and trapped-survivor imagery.
+
+Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+
+### Session 13 Final - Floyd Level 2
+
+Image file: Session 13 Final gathering at the magical temple.png
+
+Use as the visual reference for Floyd GoldSeeker's Level 2 awakening at the D2 Rotunda Ruins.
+
+Scene shown: Floyd stands before the golden astronomical sculpture. Five dragon effigies are present: bronze, gold, brass, blue, and red. Blue ritual energy opposes golden divine light, with spectral echoes of Floyd's dead mining crew.
+
+Prompt notes: The full party is present. Mek and Minn are present and injured. The trapped bronze dragon is suggested but not shown clearly. No readable text.
+
+Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+
+### Floyd GoldSeeker Level 2 Portrait
+
+Image file: Flloyd Level2.png
+
+Use as the visual reference for Floyd GoldSeeker's Level 2 visual identity after the Observatory awakening.
+
+Scene shown: Floyd stands before the golden astronomical sculpture and dragon effigies, holding a cleric's weapon that visually reads like a miner's pickaxe. Golden divine light, blue ritual energy, storm, stone, and spectral mining-crew echoes surround him.
+
+Prompt notes: Preserve Floyd's authoritative headshot identity from Flloyd.jpg. Do not invent Floyd's god, domain, or custom Channel Divinity from this image.
+
+Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.

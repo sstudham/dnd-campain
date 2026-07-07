@@ -53,42 +53,237 @@ Next destination: Clifftop Observatory.
 
 ## Next-Session Plan
 
-### Scene 1 - Wake at Dragon's Rest
+### Session 13: Floyd GoldSeeker Spotlight - Clifftop Observatory Arrival
 
-Opening frame:
+Current session scope:
 
-* The party wakes in the quarters at Dragon's Rest after the long rest.
-* The Compass Rose is behind them, but its consequences are not resolved.
-* Sev knows Kai killed the final bounty hunter after Sev wanted him alive.
-* Kai has had the night to sit with what he did.
-* Luskan now feels closer, not like a problem left behind on the mainland.
+* This session covers Dragon's Rest tasking, the journey to the Observatory, D1 Overlook, and D2 Rotunda Ruins.
+* Do not continue into D3, D4, D5, D6, Aidron's rescue, Sparkrender's main confrontation, or the final ritual unless players move much faster than expected.
+* End with the revelation that another dragon is trapped beneath the tower and Floyd's Level 2 awakening.
 
-Scene goals:
+### Part 1 - Dragon's Rest Tasking / Floyd Receives the Key
 
-* Give the party a quiet morning reset after the violence aboard the wreck.
-* Let Sev and Kai tension exist without forcing a confrontation.
-* Let Floyd GoldSeeker, Pat Benatar, and Throk react if the table turns toward the bounty hunter execution.
-* Keep the next direction clear: rooftop / Clifftop Observatory lead.
+Purpose:
 
-### Scene 2 - Rooftop / Runara Follow-Up
+Put Floyd at the center immediately and connect the mission to his past before the party leaves.
 
-Use "6.30 Readout of Runara" as the visual reference if showing the Dragon's Rest transition.
+Scene beats:
 
-Runara can reinforce:
+* The party wakes at Dragon's Rest after its long rest.
+* Runara explains that the caves showed sickness beneath the island, the wreck showed death and memory around it, and the Observatory may show what is gathering above it.
+* Tarak says the island is not finished speaking.
+* Myla mentions that her brothers, Mek and Minn, may be at the Observatory. She does not directly ask for a rescue, but it clearly matters.
+* Runara gives Floyd the moonstone key.
 
-* The Compass Rose showed another expression of Stormwreck Isle's wound: death, memory, fear, and things that refuse to stay buried.
-* Luskan has now reached the island, and Sev's past is no longer separate from the party.
-* The Clifftop Observatory is the next place to investigate.
-* The caves showed what is growing beneath the island. The wreck showed what is rotting around it. The observatory may show what is gathering above it.
+Suggested Runara line:
 
-### Scene 3 - Toward Clifftop Observatory
+"Some ruins remember what they were built for. Some remember what broke them. You may be able to tell the difference."
 
-Scene goals:
+Suggested Floyd prompt:
 
-* Move the party from Dragon's Rest toward the Clifftop Observatory lead.
-* Keep Stormwreck's dragon-death energy present as atmosphere and clues, not a full explanation.
-* Preserve Pat Benatar's scale/symbol mystery, Brother Kai's claws, Throk's protective patron connection, and Sev's Luskan trouble as active hooks.
-* Use the journey or rooftop view to make the observatory feel high, exposed, storm-touched, and important.
+"Floyd, when Runara places the key in your hand, does it remind you of Glittervein?"
+
+Optional sensory beat:
+
+For a moment, the key feels like a pebble falling onto Floyd's chest in the dark.
+
+Do not force:
+
+* Sev/Kai confrontation
+* Pat Benatar's full mystery
+* a full rift explanation
+* Floyd's complete divine awakening yet
+
+End Part 1 when:
+
+The party chooses its route and leaves Dragon's Rest.
+
+### Part 2 - Journey to the Clifftop Observatory / Stone, Scars, and Light
+
+Purpose:
+
+Use Floyd's surveyor background and make the approach personally significant.
+
+RAW scene elements:
+
+* Rocky Stormwreck terrain
+* Glassy crystal protrusions
+* Reddish branching scars on vegetation
+* Sparkrender flying overhead and landing at the ruins without noticing the party
+
+Floyd-specific checks:
+
+* Nature DC 10: the crystal and scars show lightning strikes or dragon breath.
+* Investigation or Survival DC 10 for Floyd: the formations follow stress lines in the basalt; the stone has been struck from above and fractured from within.
+* Religion DC 10 for Floyd: Glittervein inverted; there, light came down through stone to save him, while here power seems to have been pulled upward through stone toward the sky.
+* Detect Magic: evocation and divination tangled together.
+
+Suggested Floyd line:
+
+"This place was built by people who believed stone, sky, and fate could be measured."
+
+Sparkrender description:
+
+A young blue dragon passes overhead with lightning crawling around his horns, wings, and jaw. This is an omen, not a combat encounter.
+
+Floyd foreshadow:
+
+His warhammer vibrates once like metal striking a hidden vein of ore.
+
+End Part 2 when:
+
+The party reaches D1 Overlook.
+
+### Part 3 - D1 Overlook / Moonstone Bridge / The Light Returns
+
+Purpose:
+
+Give Floyd the first major emotional and magical beat.
+
+RAW elements:
+
+* Two marble dragon statues veined with gold
+* Hexagonal indentation for the moonstone key
+* The key creates the shimmering magical bridge to D2
+
+Read-aloud / vision for Floyd:
+
+"The key turns.
+
+For one breath, the sea goes silent.
+
+Floyd is back beneath Glittervein.
+
+No air.
+No voices.
+No pickaxes.
+No crew.
+
+Then a pebble drops.
+
+A golden ray of light shines down, not onto the stone this time, but onto his heart.
+
+The dragon statues open their mouths. Golden-white light spills outward and begins forming the bridge across the chasm."
+
+Floyd hears:
+
+"You were not spared to find gold. You were spared to find the way out."
+
+Mechanical reward:
+
+Floyd gains advantage on one Religion, Investigation, or Survival check in the Observatory during this session.
+
+Optional foreshadowing:
+
+He feels something beginning to open inside him, like the first breath after being trapped underground, but the awakening is not complete.
+
+Rotunda arrival description:
+
+* Broken marble
+* Salt wind
+* Golden astronomical sculpture
+* Five crude dragon effigies
+* Two winged kobolds fighting stirges
+
+End Part 3 when:
+
+Initiative begins.
+
+### Part 4 - D2 Rotunda Ruins / Mek and Minn / Floyd's Level 2 Moment
+
+Purpose:
+
+Deliver the session's main combat, social scene, mystery reveal, and Floyd's spotlight payoff.
+
+RAW encounter:
+
+* Mek and Minn fight eight stirges.
+* Six stirges turn toward the party.
+* Mek and Minn are Myla's brothers.
+* They abandoned Myla after the stirge attack that maimed her wings.
+* They now serve Sparkrender.
+
+Combat direction:
+
+Keep the fight fast.
+Give Floyd chances to protect, heal, stabilize, or physically stand between danger and another creature.
+
+Suggested Floyd combat description:
+
+"He swings the warhammer like he is breaking stone that has trapped someone underneath."
+
+Post-combat prompt:
+
+"Floyd, this creature left his own sister behind. He is bleeding in front of you. What do the names of your fallen crew ask of you here?"
+
+Emotional structure:
+
+* Floyd's crew died trapped.
+* Myla was left for dead.
+* Aidron is trapped below.
+* Floyd survived and must decide what survival means.
+
+Kobold information:
+
+If helped, pressured, or confronted with Myla's survival, Mek and Minn reveal:
+
+* Sparkrender is preparing a ritual.
+* The sculpture is waiting for the correct time.
+* Another dragon recently came to the Observatory.
+* The other dragon looked bronze or greenish-yellow.
+* They heard the dragons arguing.
+* The other dragon is trapped beneath or inside the tower.
+* Sparkrender ordered them not to clear the caved-in wall.
+
+Golden sculpture:
+
+The sculpture is an astronomical model tracking the King-Killer Star approaching Toril. Sparkrender believes it will let him claim the power of dead dragons on Stormwreck Isle.
+
+Allow Floyd to use Investigation, Religion, or Survival.
+
+DC 13:
+
+"This is a surveyor's instrument as much as an astronomer's. It maps pressure, timing, and hidden lines of force."
+
+DC 18:
+
+"Sparkrender is not trying to understand the dead dragons. He is trying to mine them."
+
+Floyd's Level 2 awakening:
+
+Trigger when Floyd touches the sculpture, examines the effigies, prays, helps an injured kobold, or realizes another creature is trapped beneath the tower.
+
+Visual and sensory sequence:
+
+* The five effigies flicker: bronze, gold, brass, blue, red.
+* The blue light begins overpowering the others.
+* Floyd hears many pickaxes striking in rhythm.
+* He recognizes the presence or memory of his dead crew.
+* His holy symbol burns gold.
+* His warhammer feels like his old pickaxe.
+
+Floyd hears:
+
+"You were not the only one buried. Dig."
+
+Mechanical outcome:
+
+* Floyd reaches Level 2.
+* Floyd gains his normal cleric Level 2 features according to the rules and his chosen divine domain.
+* Do not invent a custom Channel Divinity feature unless Andy explicitly approves one.
+* Do not invent Floyd's god or domain.
+
+Cliffhanger:
+
+Mek or Minn points toward the tower and says:
+
+"He said the statue would tell him when. He said when the star comes close, the dead dragons will wake. He said the bronze one below will scream first."
+
+Then:
+
+* A young dragon roars from beneath the tower.
+* Floyd's warhammer pulls slightly toward the sound.
+* End the session.
 
 ## Character / Table Notes Still Relevant
 

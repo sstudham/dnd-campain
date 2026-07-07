@@ -19,6 +19,9 @@
 * The talons are his own dragon nature awakening, not a gift from Runara.
 * They are natural weapons / monk weapons that use his Martial Arts die as slashing damage.
 * This remains non-canon until it happens in play.
+* The Observatory may mirror Glittervein as an inverted image: Floyd was saved by light coming through stone, while the Observatory pulls power upward through stone toward the sky.
+* Floyd's emerging character theme may be that he was spared not merely to survive, but to dig others out.
+* These are session framing ideas and should not be treated as permanent canon until they happen in play.
 
 ## Unused Scenes
 
