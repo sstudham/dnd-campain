@@ -158,7 +158,7 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Flloyd.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
-* Dwarf Cleric 1
+* Dwarf Cleric 2
 * Background: Soldier
 * Role: healer and front-line support
 * AC 13, HP 12, Speed 30 ft.
@@ -180,6 +180,10 @@ These image files are the authoritative visual canon and required face reference
 * He now carries a warhammer modeled after his old mining pickaxe.
 * He believes his life was spared for a purpose more valuable than gold.
 * He carries the names and memory of his fallen crew and has vowed to protect his new adventuring companions.
+* Floyd reached Level 2 at the Clifftop Observatory.
+* Floyd's Level 2 awakening was tied to Glittervein, his fallen crew, the golden light that saved him, and the realization that he was spared to help dig others out.
+* During the awakening, Floyd heard: "You were not the only one buried. Dig."
+* Do not add Floyd's god, divine domain, or custom Channel Divinity details unless Andy provides or approves them.
 * Preserve Floyd as a cleric, former surveyor, survivor, protector, and practical front-line support character.
 * Do not invent Floyd's god or divine domain unless Andy later provides that information.
 * Notes for DM: He covers healing but has low Wisdom for a cleric, so spell save DC is low. Better used for Bless, healing, support, physical presence, protecting, stabilizing, or physically blocking threats than save-or-suck casting.

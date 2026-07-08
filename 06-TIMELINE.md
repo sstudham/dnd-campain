@@ -27,9 +27,18 @@
 * Severed Whisper became entangled with the party through Luskan, Captain Braddok Ironhand, the odd stone, and criminal trouble.
 * Pat Benatar's dragon-blood mystery became tied to a scale and clan symbol.
 * Stormwreck Isle / Dragon's Rest is now the current location; unresolved threats and mysteries there remain active.
-* The party returned from the Compass Rose to Dragon's Rest, completed a long rest, and has been pointed toward the Clifftop Observatory.
+* The party returned from the Compass Rose to Dragon's Rest, completed a long rest, and was pointed toward the Clifftop Observatory.
+* Runara gave Floyd GoldSeeker the moonstone key.
+* The party traveled to the Clifftop Observatory and completed D1 Overlook and D2 Rotunda Ruins.
+* Floyd GoldSeeker activated the moonstone key at D1 Overlook and created the magical bridge to the Observatory ruins.
+* Mek died during the D2 Rotunda Ruins stirge encounter.
+* Minn survived the D2 Rotunda Ruins stirge encounter unless later contradicted.
+* Floyd GoldSeeker reached Level 2 at the Clifftop Observatory.
+* The party learned another dragon is trapped beneath or inside the Clifftop Observatory tower.
 
 ## Future Clocks
 
 * Grusk and Morghul remain unresolved.
 * The rift problem behind the cult remains unresolved.
+* Sparkrender's ritual at the Clifftop Observatory remains unresolved.
+* The dragon trapped beneath or inside the Observatory tower remains unresolved.

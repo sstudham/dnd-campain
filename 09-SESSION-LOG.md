@@ -224,6 +224,114 @@ Important moments:
 * The Luskan bounty hunter thread is now openly tied to Sev and the party.
 * The party returned to Dragon's Rest and completed a long rest.
 
+### Session 13 - Clifftop Observatory Arrival and Floyd's Awakening
+
+Status: Played.
+
+Story events:
+
+The session began at Dragon's Rest after the party's long rest.
+
+Runara tasked the party with traveling to the Clifftop Observatory to investigate what was gathering above Stormwreck Isle.
+
+The party was reminded that the caves had shown what was festering beneath the island, the Compass Rose had shown what refused to remain buried around it, and the Observatory might reveal what was gathering above.
+
+Myla mentioned that her brothers, Mek and Minn, might be at the Observatory.
+
+Runara gave Floyd GoldSeeker the moonstone key.
+
+Floyd's history as a master surveyor and survivor of the Glittervein mine collapse became central to the session.
+
+The party traveled across the rocky terrain of Stormwreck Isle. They found glassy crystal protrusions and reddish branching scars in the vegetation.
+
+The terrain showed signs of lightning strikes or dragon breath.
+
+Floyd used his surveyor instincts to read the stress lines in the basalt and recognize that the stone had been struck from above and fractured from within.
+
+The party saw Sparkrender, a young blue dragon, flying overhead toward the ruins. Sparkrender did not notice the party.
+
+Floyd's warhammer reacted subtly to the terrain and the Observatory's hidden lines of force.
+
+At D1 Overlook, the party found two marble dragon statues veined with gold.
+
+Floyd inserted the moonstone key into the hexagonal indentation. The statues activated and created the shimmering magical bridge to the Observatory ruins.
+
+Floyd experienced a memory of Glittervein: darkness, silence, falling stone, and the golden ray of light that had once saved him.
+
+Floyd heard: "You were not spared to find gold. You were spared to find the way out."
+
+The party crossed the bridge into the ruined rotunda.
+
+At D2 Rotunda Ruins, the party encountered Mek and Minn fighting eight stirges.
+
+Six stirges attacked the party while the kobolds continued fighting the others.
+
+During the fight, a stirge attached itself to Floyd's neck. Floyd ignored it and continued swinging his warhammer.
+
+Mek was killed during the encounter.
+
+All eight stirges were killed.
+
+Every party member killed at least one stirge.
+
+Severed Whisper killed the final stirge. As Sev attacked, he said: "I would like to introduce myself. I am sorry..."
+
+Sev then skewered the stirge and wiggled his sword to clear the blood from the blade.
+
+Minn survived unless later notes state otherwise.
+
+After combat, the party learned more about Sparkrender's plans.
+
+The party examined the golden astronomical sculpture and five dragon effigies.
+
+The five effigies represented bronze, gold, brass, blue, and red dragons.
+
+The blue energy was trying to dominate the others.
+
+The sculpture was understood as an instrument for measuring timing, pressure, celestial movement, dragon death, and hidden lines of power.
+
+Floyd recognized that Sparkrender was not trying to understand the dead dragons. He was trying to mine them.
+
+Floyd's connection to Glittervein and his fallen crew became the core of his Level 2 awakening.
+
+He heard the rhythm of many pickaxes.
+
+The memory or presence of his dead crew surrounded him.
+
+His holy symbol burned with golden light.
+
+His warhammer felt like his old pickaxe.
+
+Floyd heard: "You were not the only one buried. Dig."
+
+Floyd reached Level 2 and gained his normal cleric Level 2 features according to his character sheet and chosen domain.
+
+Do not invent Floyd's god, domain, or custom Channel Divinity feature unless Andy provides or approves them.
+
+End state:
+
+* The party completed the Observatory approach, D1 Overlook, and D2 Rotunda Ruins.
+* Mek is dead.
+* Minn survived unless contradicted by later notes.
+* All eight stirges are dead.
+* Floyd has reached Level 2.
+* The party now knows another dragon is trapped beneath or inside the Observatory tower.
+* The next session should continue deeper into the Observatory, likely involving D3, D4, D5, D6, Aidron, Sparkrender, or the ritual.
+
+Important moments:
+
+* Runara gave Floyd GoldSeeker the moonstone key.
+* Floyd's Glittervein survivor story became central at the Clifftop Observatory.
+* Floyd used his surveyor instincts to read the terrain and the Observatory's hidden lines of force.
+* The magical bridge activated when Floyd inserted the moonstone key at D1 Overlook.
+* Mek died during the stirge encounter.
+* Minn survived unless later notes say otherwise.
+* Every party member killed at least one stirge.
+* Severed Whisper killed the final stirge with the line: "I would like to introduce myself. I am sorry..."
+* The party learned that Sparkrender is trying to exploit or "mine" the dead dragons' power.
+* Floyd reached Level 2 after hearing: "You were not the only one buried. Dig."
+* The party learned another dragon is trapped beneath or inside the Observatory tower.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.
@@ -244,5 +352,8 @@ Important moments:
 * Pat Benatar killed the harpy at the cursed shipwreck with dragon breath beside the crow's nest, ending the charm on Throk and Severed Whisper.
 * Sev's Level 2 rogue awakening happened aboard the Compass Rose when he killed the first Luskan bounty hunter, used Disengage explosively, and leapt onto the mast.
 * Brother Kai executed the final Luskan bounty hunter with his dragon claws after interrogation, over Sev's protest.
+* Floyd GoldSeeker reached Level 2 at the Clifftop Observatory after his Glittervein memory, fallen crew, and survivor purpose came to the center of the session.
+* Mek died in the D2 Rotunda Ruins stirge encounter, and Minn survived unless later notes contradict this.
+* The party knows another dragon is trapped beneath or inside the Observatory tower.
 
 ## Follow-Up Notes
