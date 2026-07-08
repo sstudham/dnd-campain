@@ -15,6 +15,8 @@ Current situation:
 * Floyd GoldSeeker reached Level 2.
 * The party knows another dragon is trapped beneath or inside the tower.
 * The party should continue deeper into the Observatory, likely involving D3, D4, D5, D6, Aidron, Sparkrender, or the ritual.
+* Latest D&D Beyond HP snapshot from TUG4: Brother Kai 4/13, Pat Benatar 5/13, Severed Whisper 13/13, Throk 4/13, Floyd GoldSeeker 1/8 on D&D Beyond.
+* Floyd GoldSeeker is campaign/table Level 2, but his D&D Beyond sheet still needs to be leveled from Cleric 1 to Cleric 2.
 
 ## Start-of-Session Recap
 

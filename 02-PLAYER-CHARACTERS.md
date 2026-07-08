@@ -1,6 +1,11 @@
 # Player Characters and Party Reference
 
-Latest character sheets received.
+Latest character sheets checked from D&D Beyond TUG4 on 2026-07-08.
+
+D&D Beyond sheet notes:
+
+* Brother Kai's D&D Beyond sheet currently spells the character name "Brother Kia"; use Brother Kai in campaign files.
+* Floyd GoldSeeker's D&D Beyond sheet currently still shows Cleric 1, but campaign/table state has him at Cleric 2 after Session 13.
 
 ## Current Party
 
@@ -26,18 +31,21 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Kai.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151462120
+* D&D Beyond display name as of 2026-07-08: Brother Kia
 * Dragonborn Monk 2
 * Background: Sage
 * Role: mobile melee, martial philosopher, spiritual lens
-* AC 14, HP 9, Speed 30 ft.
+* AC 14, HP 4/13 current on D&D Beyond, Speed 30 ft.
 * STR 12, DEX 13, CON 12, INT 15, WIS 17, CHA 15
-* Notable skills: Arcana +4, History +4, Insight +5, Stealth +3, Perception +3
+* Saving throws: STR +3, DEX +3
+* Notable skills from D&D Beyond: Arcana +4, History +4, Insight +5, Stealth +3
 * Passive Perception 13
 * Darkvision 60 ft.
 * Fire resistance
 * Breath Weapon: Fire, DC 11 Dex, 1d10, 2/Long Rest
 * Martial Arts: Unarmed Strike as Bonus Action; unarmed/monk weapon damage 1d6
 * Unarmored Defense AC 14
+* Level 2 monk features listed on D&D Beyond: Focus Points, Flurry of Blows, Patient Defense, Step of the Wind, Uncanny Metabolism
 * Level 2 feature after Seagrow Caves awakening: Dragon Talons
   * Brother Kai's fingernails awaken into long dragon talons.
   * They are part of his body, not separate equipment.
@@ -72,15 +80,18 @@ These image files are the authoritative visual canon and required face reference
 * Dragonborn Rogue 2
 * Background: Far Traveler
 * Role: face, investigator, ranged rogue, Stormwreck/dragon mystery hook
-* AC 13, HP 8, Speed 30 ft.
+* AC 13, HP 5/13 current on D&D Beyond, Speed 30 ft.
 * STR 8, DEX 14, CON 11, INT 12, WIS 14, CHA 16
-* Notable skills: Animal Handling +4, Insight +4, Investigation +3, Perception +6, Persuasion +7, Stealth +4
+* Saving throws: DEX +4, INT +3
+* Notable skills from D&D Beyond: Animal Handling +4, Insight +4, Investigation +3, Perception +6, Persuasion +7, Stealth +4
 * Expertise: Perception and Persuasion
 * Passive Perception 16
 * Darkvision 60 ft.
 * Fire resistance
 * Breath Weapon: Fire, DC 10 Dex, 1d10, 2/Long Rest
 * Sneak Attack 1d6
+* Cunning Action
+* Weapon mastery/actions listed on D&D Beyond: Nick (Dagger), Vex (Shortbow)
 * Weapons: Shortbow +4, Shortsword +4
 * Appears mostly human, with gold-shining eyes, faint scales, and inner warmth that reveals dragon blood.
 * Grew up in a dragonborn clan but was treated as strange, possibly a bad omen or mystery, because she did not look fully dragonborn.
@@ -103,16 +114,19 @@ These image files are the authoritative visual canon and required face reference
 * Tabaxi Rogue 2
 * Background: Custom Background
 * Role: scout, face, skirmisher, thief/rogue utility
-* AC 17, HP 14, Speed 30 ft., Climb 30 ft.
+* AC 17, HP 13/13 current on D&D Beyond, Speed 30 ft., Climb 30 ft.
 * STR 12, DEX 18, CON 14, INT 10, WIS 10, CHA 17
-* Notable skills: Acrobatics +6, Deception +5, Insight +2, Intimidation +5, Investigation +2, Perception +4, Persuasion +7, Stealth +6
-* Expertise: Perception and Persuasion
-* Passive Perception 14
+* Saving throws: DEX +6, INT +2
+* Notable skills from D&D Beyond: Acrobatics +6, Deception +7, Insight +2, Intimidation +5, Investigation +2, Perception +2, Persuasion +7, Stealth +6
+* Expertise listed on D&D Beyond: Deception and Persuasion
+* Passive Perception 12
 * Darkvision 60 ft.
 * Sneak Attack 1d6
+* Cunning Action
 * Feline Agility
 * Attuned magic item: Cloak of Protection
-* Weapons: Light Crossbow +6, Rapier +6, Tomahawks +6, Cat's Claws
+* Weapons: Light Crossbow +6, Rapier +6, Handaxes +6, Cat's Claws
+* Weapon mastery/actions listed on D&D Beyond: Vex (Rapier), Vex (Handaxe)
 * Allies/organizations: Braddok Ironhand; "Bah! I'm a loner Dotty. A rebel."
 * Personality notes: opportunistic, adaptable, independent, self-reliant, impulsive risk-taker
 * Flaw: obsession with new, unique, or powerful items; currently interested in rumors of a lost city and collecting maps
@@ -130,14 +144,18 @@ These image files are the authoritative visual canon and required face reference
 * Orc Warlock 2
 * Background: Sage
 * Role: charisma caster, ranged utility, familiar user
-* AC 11, HP 10, Speed 30 ft.
+* AC 11, HP 4/13 current on D&D Beyond, Speed 30 ft.
 * STR 13, DEX 12, CON 15, INT 10, WIS 8, CHA 17
-* Notable skills: Arcana +2, History +2, Investigation +2, Survival +1
+* Saving throws: WIS +1, CHA +5
+* Notable skills from D&D Beyond: Arcana +2, History +2, Investigation +2, Survival +1
 * Passive Perception 9
 * Darkvision 120 ft.
 * Adrenaline Rush: Bonus Action Dash and gain 2 temp HP, 2/Short Rest
 * Relentless Endurance: drop to 1 HP instead of 0, 1/Long Rest
+* Magical Cunning
 * Pact of the Chain; Find Familiar listed
+* Circle Spell features listed on D&D Beyond: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
+* Battle Medic
 * Weapons: Light Crossbow +3, Handaxe +3, Sickle +3
 * From the Kingdom of Many-Arrows.
 * Young orc seeking to make his father proud; witnessed both raiding and trading eras and sees cooperation and usefulness as possible forms of strength.
@@ -158,17 +176,21 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Flloyd.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
+* D&D Beyond sheet currently shows Cleric 1; campaign/table state is Cleric 2 after Session 13.
 * Dwarf Cleric 2
 * Background: Soldier
 * Role: healer and front-line support
-* AC 13, HP 12, Speed 30 ft.
+* AC 13, HP 1/8 current on D&D Beyond, Speed 30 ft.
 * STR 15, DEX 13, CON 17, INT 12, WIS 10, CHA 8
-* Notable skills: Athletics +4, Insight +2, Intimidation +1, Medicine +2
+* Saving throws on D&D Beyond: WIS +2, CHA +1
+* Notable skills from D&D Beyond: Athletics +4, Insight +2, Intimidation +1, Medicine +2
 * Passive Perception 10
 * Darkvision 120 ft.
 * Poison resistance; advantage to avoid or end Poisoned
 * Listed weapon: Mace +4, 1d6+2 bludgeoning; table-facing weapon identity is a warhammer modeled after Floyd's old mining pickaxe.
-* Key spells available/listed: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
+* D&D Beyond currently lists no prepared spells on the fetched sheet.
+* Previously noted cleric spell options: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
+* D&D Beyond features listed: Stonecunning (Tremorsense), Circle Spell features: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
 * New to the party and may not be long-term.
 * Floyd was a master surveyor for the Goldseeker clan, known for finding rich veins of ore.
 * During an excavation at Glittervein, the mine collapsed and trapped Floyd and his crew underground.
@@ -194,17 +216,17 @@ These image files are the authoritative visual canon and required face reference
 ## Party Strengths
 
 * Strong social party: Pat Benatar, Severed Whisper, and Throk all have strong social potential.
-* Strong scouting and perception: Pat Benatar and Severed Whisper are especially good at noticing things.
+* Strong scouting and perception: Pat Benatar is the strongest passive observer, while Severed Whisper is excellent at stealth, movement, and social rogue work.
 * Good stealth/infiltration potential through both rogues and Brother Kai.
 * Healing is covered by Floyd.
 * Party has multiple darkvision characters.
 
 ## Party Weaknesses
 
-* Low-level fragility: several characters have 8-10 HP.
+* Low-level fragility remains relevant; several characters are currently wounded on D&D Beyond after Session 13.
 * Limited front-line durability unless Floyd steps into that role.
 * Throk has very low Wisdom and Passive Perception.
-* Pat Benatar has only 8 HP.
+* Floyd, Throk, Brother Kai, and Pat Benatar are all below full HP on the latest D&D Beyond sheet pull.
 * Party has two rogues and one monk, so encounters should support mobility, positioning, social leverage, and tactical creativity rather than pure slugging.
 
 ## Encounter Design Notes
