@@ -28,6 +28,8 @@ When Scott gives a new canon update, post-session update, or campaign-file updat
 * Update `02-PLAYER-CHARACTERS.md` with current sheet status that is useful for DM prep: level, HP, AC, ability scores, saving throws, notable skills, passive perception, important class/race features, spells, weapons, and any sheet/campaign mismatches.
 * Update `10-NEXT-SESSION-PREP.md` with current HP/status notes when those matter for the next session.
 * Include a compact next-session resource snapshot when useful: healing potions and other key consumables, spell slots or pact slots, limited-use features such as breath weapons, focus points, Adrenaline Rush, Relentless Endurance, Feline Agility, Channel Divinity, death saves, and obvious supply concerns.
+* Include a compact inventory and equipment snapshot when useful: armor worn or carried, shields, main weapons, ranged weapons and ammunition, healing items, utility gear, tools, and notable consumables.
+* Add practical equipment advice for the DM and players when obvious: unworn armor, unused shields, better armor options, ranged weapons another character could use, missing ammunition, lack of healing supplies, or useful utility gear that could solve the next session's problems.
 * Flag DM supply pressure explicitly, especially when the party is wounded, low on healing, out of spell slots, or missing expected sheet setup.
 * If D&D Beyond conflicts with table canon, preserve table canon in campaign files and add a short note identifying the D&D Beyond mismatch.
 * Do not print, copy, or expose D&D Beyond authentication cookies, tokens, or secrets.

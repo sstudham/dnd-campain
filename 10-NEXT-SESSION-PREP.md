@@ -60,6 +60,60 @@ DM supply pressure:
 * Strongly consider placing healing, a safe rest opportunity, or a non-combat relief valve before or during the next dangerous push.
 * Floyd's D&D Beyond sheet should be leveled and configured before relying on his cleric spell slots, prepared spells, or Channel Divinity.
 
+## Inventory and Equipment Snapshot
+
+Latest D&D Beyond pull: 2026-07-08.
+
+Severed Whisper:
+
+* Equipped: Cloak of Protection, Studded Leather, two Handaxes, Light Crossbow, Rapier, crossbow bolt case, 20 bolts.
+* Useful gear: grappling hook, silk rope, forgery kit, calligrapher's supplies, 14 rations.
+* No healing potion found on D&D Beyond.
+
+Throk:
+
+* Equipped: two Handaxes and Sickle.
+* Carried but not equipped: Leather armor, Dagger, two extra Handaxes, Light Crossbow, 20 crossbow bolts.
+* Consumables: 1 Potion of Healing, 2 oil.
+* Useful gear: hemp rope, torches, duplicate basic adventuring supplies.
+
+Brother Kai:
+
+* Equipped: nothing listed on D&D Beyond.
+* Consumables/tools: basic poison, 2 oil, alchemist's supplies, flute.
+* Useful gear: rope, torches, rations, bedroll, tinderbox, waterskin.
+* No healing potion found on D&D Beyond.
+
+Pat Benatar:
+
+* Equipped: Leather armor, Shortbow, Shortsword, backpack.
+* Ammunition: quiver and 20 arrows.
+* Consumables/tools: 7 oil, 1,000 ball bearings, thieves' tools, pan flute.
+* Useful gear: hooded lantern, rope, crowbar, tinderbox, waterskin.
+* No healing potion found on D&D Beyond.
+
+Floyd GoldSeeker:
+
+* Equipped: Shield and Mace.
+* Carried but not equipped: Chain Shirt.
+* Consumables: Holy Water.
+* Useful gear: rations, tinderbox.
+* No healing potion found on D&D Beyond.
+* D&D Beyond still shows Floyd as Cleric 1, so his armor/spell/resource state may be incomplete.
+
+## Equipment Advice
+
+Immediate practical advice:
+
+* Throk should equip his Leather armor if he is able and proficient; his D&D Beyond AC is currently 11 and the armor is carried but not equipped.
+* Floyd has Chain Shirt in inventory but it is not equipped. If he can wear it with his shield, his AC should improve materially; check proficiency and D&D Beyond setup.
+* Only Throk clearly has a healing potion. The party should strongly consider buying, finding, or redistributing healing before the next major fight.
+* If Throk is not using his Light Crossbow, it may be worth lending it to someone who can benefit from a ranged option, but confirm proficiency and action economy.
+* Brother Kai has no equipment listed as equipped; this may be fine for a monk, but confirm he has access to any intended monk weapons or tools.
+* Pat Benatar has strong utility gear: ball bearings, oil, rope, lantern, crowbar, and thieves' tools. Build scenes where those can matter.
+* Severed Whisper has the best climbing/entry kit: grappling hook, silk rope, stealth, rapier, crossbow, and bolts.
+* The party is low on healing and several characters are badly wounded; consider placing potions, a healing shrine, Aidron assistance, Runara-linked blessing, or a defensible rest point if the Observatory pressure stays high.
+
 ## Start-of-Session Recap
 
 The party woke at Dragon's Rest after its long rest.
