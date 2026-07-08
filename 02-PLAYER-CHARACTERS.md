@@ -167,7 +167,7 @@ These image files are the authoritative visual canon and required face reference
 * Passive Perception 10
 * Darkvision 120 ft.
 * Poison resistance; advantage to avoid or end Poisoned
-* Weapon: Mace +4, 1d6+2 bludgeoning
+* Listed weapon: Mace +4, 1d6+2 bludgeoning; table-facing weapon identity is a warhammer modeled after Floyd's old mining pickaxe.
 * Key spells available/listed: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
 * New to the party and may not be long-term.
 * Floyd was a master surveyor for the Goldseeker clan, known for finding rich veins of ore.

@@ -27,6 +27,8 @@
 * How far does the Luskan mayor's reach extend?
 * What answers died with the final bounty hunter?
 * What will the Clifftop Observatory reveal about Stormwreck Isle's dragon-death energy and the larger rift?
+* What purpose was Floyd GoldSeeker spared for at Glittervein?
+* What, if anything, answered Floyd when the golden light helped him survive?
 
 ## Plot Hooks
 
@@ -40,5 +42,7 @@
 * Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
 * Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
 * Runara has pointed the party toward the Clifftop Observatory as the next place to investigate Stormwreck Isle's wound.
+* Floyd GoldSeeker carries the memory of his dead Glittervein crew and has vowed to protect his new adventuring companions.
+* Floyd's survivor story can connect to buried survivors, trapped creatures, hidden paths, divine light, stone, tools, and honoring the dead.
 
 ## Needs Resolution
