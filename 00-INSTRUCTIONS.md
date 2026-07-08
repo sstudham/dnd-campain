@@ -18,6 +18,19 @@ Do not depict, reference, imitate, or base images on the real Pat Benatar.
 Treat the name only as an in-world D&D character name.
 For image generation, use Pat.jpg as the authoritative face reference and preserve that fictional character face unless Scott explicitly asks to change it.
 
+## Update Workflow
+
+When Scott gives a new canon update, post-session update, or campaign-file update block:
+
+* Read this file first.
+* Apply the update to the relevant campaign files using the file map below.
+* Refresh the TUG4 party character sheets from D&D Beyond using the available D&D Beyond MCP. If the MCP is not exposed as a direct tool in the current Codex thread, use the local D&D Beyond MCP project at `C:\Users\studh\dndbeyond-mcp-main` and its authenticated helpers.
+* Update `02-PLAYER-CHARACTERS.md` with current sheet status that is useful for DM prep: level, HP, AC, ability scores, saving throws, notable skills, passive perception, important class/race features, spells, weapons, and any sheet/campaign mismatches.
+* Update `10-NEXT-SESSION-PREP.md` with current HP/status notes when those matter for the next session.
+* If D&D Beyond conflicts with table canon, preserve table canon in campaign files and add a short note identifying the D&D Beyond mismatch.
+* Do not print, copy, or expose D&D Beyond authentication cookies, tokens, or secrets.
+* After editing, list the files changed.
+
 ## File Map
 
 Purpose: This section tells ChatGPT/Codex where each type of campaign information belongs. Use the existing file structure. Do not create, rename, delete, or reorganize files unless Scott explicitly asks.
