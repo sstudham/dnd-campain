@@ -4,11 +4,11 @@ Latest character sheets received.
 
 ## Current Party
 
-* Brother Kai - Dragonborn Monk - played by Dave
-* Pat Benatar - Dragonborn Rogue - played by Kim
-* Severed Whisper - Tabaxi Rogue - played by Erik
-* Throk - Orc Warlock - played by Mike
-* Floyd GoldSeeker - Dwarf Cleric - played by Andy; new to the party and may not be long-term
+* Brother Kai - Dragonborn Monk 2 - played by Dave
+* Pat Benatar - Dragonborn Rogue 2 - played by Kim
+* Severed Whisper - Tabaxi Rogue 2 - played by Erik
+* Throk - Orc Warlock 2 - played by Mike
+* Floyd GoldSeeker - Dwarf Cleric 2 - played by Andy; new to the party and may not be long-term
 
 ## Character Headshot References
 
@@ -26,7 +26,7 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Kai.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151462120
-* Dragonborn Monk 1
+* Dragonborn Monk 2
 * Background: Sage
 * Role: mobile melee, martial philosopher, spiritual lens
 * AC 14, HP 9, Speed 30 ft.
@@ -38,7 +38,7 @@ These image files are the authoritative visual canon and required face reference
 * Breath Weapon: Fire, DC 11 Dex, 1d10, 2/Long Rest
 * Martial Arts: Unarmed Strike as Bonus Action; unarmed/monk weapon damage 1d6
 * Unarmored Defense AC 14
-* Planned Level 2 feature after Seagrow Caves awakening: Dragon Talons
+* Level 2 feature after Seagrow Caves awakening: Dragon Talons
   * Brother Kai's fingernails awaken into long dragon talons.
   * They are part of his body, not separate equipment.
   * They count as natural weapons and monk weapons.
@@ -69,7 +69,7 @@ These image files are the authoritative visual canon and required face reference
 * Headshot image reference: Pat.jpg
 * Name clarification: Pat Benatar is a fictional Dungeons & Dragons player character played by Kim. The name does not refer to the real-world singer, celebrity, musician, or public figure. Never use, imitate, reference, or base art/story material on the real Pat Benatar. Treat "Pat Benatar" only as an in-world D&D character name. Use Pat.jpg as the authoritative face reference.
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
-* Dragonborn Rogue 1
+* Dragonborn Rogue 2
 * Background: Far Traveler
 * Role: face, investigator, ranged rogue, Stormwreck/dragon mystery hook
 * AC 13, HP 8, Speed 30 ft.
@@ -100,7 +100,7 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Sev.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151283816
-* Tabaxi Rogue 1
+* Tabaxi Rogue 2
 * Background: Custom Background
 * Role: scout, face, skirmisher, thief/rogue utility
 * AC 17, HP 14, Speed 30 ft., Climb 30 ft.
@@ -127,7 +127,7 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Throk.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151285499
-* Orc Warlock 1
+* Orc Warlock 2
 * Background: Sage
 * Role: charisma caster, ranged utility, familiar user
 * AC 11, HP 10, Speed 30 ft.
@@ -147,7 +147,7 @@ These image files are the authoritative visual canon and required face reference
 * Since joining the party, he has seen Dragonborn breath weapons used very effectively in a bar fight, survived a sinking ship, experienced planar shifts, had strange visions or interactions with a god or godlike force, and helped stop a ceremony being performed by cult followers.
 * Major motivation: protecting his family, especially his younger sister Grek, while trying to push orc society beyond both old raiding culture and the current diplomatic status quo.
 * Warlock path is tied to desperate need: ordinary strength, diplomacy, and violence against his own people all fail, so he reaches toward otherworldly power.
-* Level 2 patron direction: Throk's pact begins with Vargun Shield-Breaker, a dead Many-Arrows protector and ancestor spirit.
+* Level 2 patron connection: Throk's pact begins with Vargun Shield-Breaker, a dead Many-Arrows protector and ancestor spirit.
 * Vargun Shield-Breaker was an old orc war-leader from the early Kingdom of Many-Arrows. In life, he earned his name breaking enemy shields in battle. Later, he helped hold the line long enough for peace to survive.
 * Vargun is not a god, not evil, not soft, and distinct from Gruumsh or any evil orc deity. He is stern, practical, ancestral, martial, protective, and very orcish.
 * Vargun believes violence is a tool, not an identity. Core philosophy: "Strength is not rage. Strength is choosing what happens after the blow lands."
