@@ -18,6 +18,48 @@ Current situation:
 * Latest D&D Beyond HP snapshot from TUG4: Brother Kai 4/13, Pat Benatar 5/13, Severed Whisper 13/13, Throk 4/13, Floyd GoldSeeker 1/8 on D&D Beyond.
 * Floyd GoldSeeker is campaign/table Level 2, but his D&D Beyond sheet still needs to be leveled from Cleric 1 to Cleric 2.
 
+## Party Resource Snapshot
+
+Latest D&D Beyond pull: 2026-07-08.
+
+HP and immediate danger:
+
+* Brother Kai: 4/13 HP, 0 temp HP.
+* Pat Benatar: 5/13 HP, 0 temp HP.
+* Severed Whisper: 13/13 HP, 0 temp HP.
+* Throk: 4/13 HP, 0 temp HP.
+* Floyd GoldSeeker: 1/8 HP on D&D Beyond, 0 temp HP. Table canon says Floyd is Level 2, but the D&D Beyond sheet still shows Cleric 1.
+* No active death save failures or successes are listed on D&D Beyond.
+
+Healing and consumables:
+
+* Healing potions found on D&D Beyond: Throk has 1 Potion of Healing.
+* No other healing potions were found on the current D&D Beyond sheet pull.
+* Floyd has Holy Water listed.
+* Brother Kai has Basic Poison listed.
+* Pat Benatar has oil, ball bearings, lantern, rope, and rogue utility gear.
+* Severed Whisper has rope, grappling hook, incense, and utility/adventuring gear.
+
+Spell slots and magic:
+
+* Floyd GoldSeeker: D&D Beyond shows Cleric 1 with 1 level-1 spell slot used and 0 available; it currently lists no prepared spells on the fetched sheet. Because table canon says Floyd is Cleric 2, this sheet needs cleanup before relying on D&D Beyond for Floyd's spell resources.
+* Throk: D&D Beyond lists Find Familiar, but pact magic slots currently appear as 0/0 in the fetched data. Treat this as a sheet/setup issue to verify before the session.
+* No other party members currently show spell slots.
+
+Limited-use features:
+
+* Brother Kai: Breath Weapon (Fire) listed; D&D Beyond shows 0 used. Focus Points show 0 used out of 2. Uncanny Metabolism shows 0 used out of 1.
+* Pat Benatar: Breath Weapon (Fire) listed; D&D Beyond shows 0 used.
+* Throk: Relentless Endurance shows 0 used out of 1. Magical Cunning shows 0 used out of 1. Adrenaline Rush is listed, but the fetched max-use field was unclear.
+* Severed Whisper: Feline Agility is listed as used on D&D Beyond. Confirm at table whether he has moved 0 feet since using it and whether it has reset.
+* Floyd GoldSeeker: Stonecunning (Tremorsense) listed; Channel Divinity is not available on D&D Beyond because the sheet still shows Cleric 1.
+
+DM supply pressure:
+
+* The party is deep in the Observatory with four of five characters wounded and only one healing potion clearly listed.
+* Strongly consider placing healing, a safe rest opportunity, or a non-combat relief valve before or during the next dangerous push.
+* Floyd's D&D Beyond sheet should be leveled and configured before relying on his cleric spell slots, prepared spells, or Channel Divinity.
+
 ## Start-of-Session Recap
 
 The party woke at Dragon's Rest after its long rest.

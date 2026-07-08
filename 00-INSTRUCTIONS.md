@@ -27,6 +27,8 @@ When Scott gives a new canon update, post-session update, or campaign-file updat
 * Refresh the TUG4 party character sheets from D&D Beyond using the available D&D Beyond MCP. If the MCP is not exposed as a direct tool in the current Codex thread, use the local D&D Beyond MCP project at `C:\Users\studh\dndbeyond-mcp-main` and its authenticated helpers.
 * Update `02-PLAYER-CHARACTERS.md` with current sheet status that is useful for DM prep: level, HP, AC, ability scores, saving throws, notable skills, passive perception, important class/race features, spells, weapons, and any sheet/campaign mismatches.
 * Update `10-NEXT-SESSION-PREP.md` with current HP/status notes when those matter for the next session.
+* Include a compact next-session resource snapshot when useful: healing potions and other key consumables, spell slots or pact slots, limited-use features such as breath weapons, focus points, Adrenaline Rush, Relentless Endurance, Feline Agility, Channel Divinity, death saves, and obvious supply concerns.
+* Flag DM supply pressure explicitly, especially when the party is wounded, low on healing, out of spell slots, or missing expected sheet setup.
 * If D&D Beyond conflicts with table canon, preserve table canon in campaign files and add a short note identifying the D&D Beyond mismatch.
 * Do not print, copy, or expose D&D Beyond authentication cookies, tokens, or secrets.
 * After editing, list the files changed.
