@@ -50,3 +50,24 @@
 * The party knows another dragon is trapped beneath or inside the Clifftop Observatory tower.
 
 ## Needs Resolution
+
+### Existing Mechanical Conflict
+
+* Brother Kai's custom Dragon Talons text says the claws use his Martial Arts die and are not a damage boost, but its scaling table lists 1d4 at Levels 2-4 while his current D&D Beyond Martial Arts die is 1d6. Which value governs?
+
+### Possible Future Concordance Questions — Not Canon
+
+* What was the original cause of the wound in reality?
+* Did Acererak discover the Concordance independently, or was he led to it?
+* What first allowed a possible future Acererak signal to travel backward through time?
+* Who created or first discovered the Concordance?
+* How can the party distinguish non-conscious dissonance from a conscious alternate person or historical Echo?
+* Can conscious Echoes be restored or integrated without causing realities to collide?
+* What makes a community's Living Choice informed, voluntary, and locally legitimate?
+* Were dragons involved in building or maintaining the possible Stormwreck Instrument?
+* What is the true relationship between Pat Benatar's scale, clan mark, and ancient draconic sites?
+* What is the exact nature of Severed Whisper's odd stone?
+* Why did the higher-dimensional being detect the original party?
+* What sent the golden light to Floyd GoldSeeker in Glittervein?
+* Can Vargun remain independent if Throk's pact becomes entangled with the Soulmonger?
+* What should happen to the Concordance if Acererak is defeated?

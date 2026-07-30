@@ -1,6 +1,6 @@
 # Player Characters and Party Reference
 
-Latest character sheets checked from D&D Beyond TUG4 on 2026-07-08.
+Latest character sheets checked from D&D Beyond TUG4 on 2026-07-29.
 
 D&D Beyond sheet notes:
 
@@ -35,7 +35,7 @@ These image files are the authoritative visual canon and required face reference
 * Dragonborn Monk 2
 * Background: Sage
 * Role: mobile melee, martial philosopher, spiritual lens
-* AC 14, HP 4/13 current on D&D Beyond, Speed 30 ft.
+* AC 14, HP 4/13 current on D&D Beyond, Speed 40 ft.
 * STR 12, DEX 13, CON 12, INT 15, WIS 17, CHA 15
 * Saving throws: STR +3, DEX +3
 * Notable skills from D&D Beyond: Arcana +4, History +4, Insight +5, Stealth +3
@@ -144,7 +144,7 @@ These image files are the authoritative visual canon and required face reference
 * Orc Warlock 2
 * Background: Sage
 * Role: charisma caster, ranged utility, familiar user
-* AC 11, HP 4/13 current on D&D Beyond, Speed 30 ft.
+* AC 12, HP 4/13 current on D&D Beyond, Speed 30 ft.
 * STR 13, DEX 12, CON 15, INT 10, WIS 8, CHA 17
 * Saving throws: WIS +1, CHA +5
 * Notable skills from D&D Beyond: Arcana +2, History +2, Investigation +2, Survival +1
@@ -154,8 +154,10 @@ These image files are the authoritative visual canon and required face reference
 * Relentless Endurance: drop to 1 HP instead of 0, 1/Long Rest
 * Magical Cunning
 * Pact of the Chain; Find Familiar listed
+* Armor of Shadows is listed; Throk can cast Mage Armor on himself without spending a spell slot.
 * Circle Spell features listed on D&D Beyond: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
 * Battle Medic
+* Leather armor is currently equipped on D&D Beyond.
 * Weapons: Light Crossbow +3, Handaxe +3, Sickle +3
 * From the Kingdom of Many-Arrows.
 * Young orc seeking to make his father proud; witnessed both raiding and trading eras and sees cooperation and usefulness as possible forms of strength.

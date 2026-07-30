@@ -20,7 +20,7 @@ Current situation:
 
 ## Party Resource Snapshot
 
-Latest D&D Beyond pull: 2026-07-08.
+Latest D&D Beyond pull: 2026-07-29.
 
 HP and immediate danger:
 
@@ -42,16 +42,16 @@ Healing and consumables:
 
 Spell slots and magic:
 
-* Floyd GoldSeeker: D&D Beyond shows Cleric 1 with 1 level-1 spell slot used and 0 available; it currently lists no prepared spells on the fetched sheet. Because table canon says Floyd is Cleric 2, this sheet needs cleanup before relying on D&D Beyond for Floyd's spell resources.
-* Throk: D&D Beyond lists Find Familiar, but pact magic slots currently appear as 0/0 in the fetched data. Treat this as a sheet/setup issue to verify before the session.
+* Floyd GoldSeeker: D&D Beyond still shows Cleric 1 and no prepared spells. The current sheet reader did not report a usable spell-slot count; a prior raw pull showed 1 level-1 slot used and 0 available. Because table canon says Floyd is Cleric 2, his sheet needs cleanup before relying on its spell resources.
+* Throk: D&D Beyond lists Find Familiar and Armor of Shadows but no prepared spells. The current sheet reader did not report a usable pact-slot count. Treat this as a sheet/setup issue to verify before the session.
 * No other party members currently show spell slots.
 
 Limited-use features:
 
-* Brother Kai: Breath Weapon (Fire) listed; D&D Beyond shows 0 used. Focus Points show 0 used out of 2. Uncanny Metabolism shows 0 used out of 1.
-* Pat Benatar: Breath Weapon (Fire) listed; D&D Beyond shows 0 used.
-* Throk: Relentless Endurance shows 0 used out of 1. Magical Cunning shows 0 used out of 1. Adrenaline Rush is listed, but the fetched max-use field was unclear.
-* Severed Whisper: Feline Agility is listed as used on D&D Beyond. Confirm at table whether he has moved 0 feet since using it and whether it has reset.
+* Brother Kai: Focus Points show 2/2 available and Uncanny Metabolism shows 1/1 available. Breath Weapon is listed, but the reader did not parse its remaining-use maximum.
+* Pat Benatar: Breath Weapon is listed, but the reader did not parse its remaining-use maximum.
+* Throk: Relentless Endurance shows 1/1 available and Magical Cunning shows 1/1 available. Adrenaline Rush is listed, but the reader did not parse its remaining-use maximum.
+* Severed Whisper: Feline Agility shows 0/1 available. Confirm at the table whether he has moved 0 feet since using it and whether it has reset.
 * Floyd GoldSeeker: Stonecunning (Tremorsense) listed; Channel Divinity is not available on D&D Beyond because the sheet still shows Cleric 1.
 
 DM supply pressure:
@@ -62,7 +62,7 @@ DM supply pressure:
 
 ## Inventory and Equipment Snapshot
 
-Latest D&D Beyond pull: 2026-07-08.
+Latest D&D Beyond pull: 2026-07-29.
 
 Severed Whisper:
 
@@ -72,8 +72,8 @@ Severed Whisper:
 
 Throk:
 
-* Equipped: two Handaxes and Sickle.
-* Carried but not equipped: Leather armor, Dagger, two extra Handaxes, Light Crossbow, 20 crossbow bolts.
+* Equipped: Leather armor, two Handaxes, and Sickle.
+* Carried but not equipped: Dagger, two extra Handaxes, Light Crossbow, 20 crossbow bolts.
 * Consumables: 1 Potion of Healing, 2 oil.
 * Useful gear: hemp rope, torches, duplicate basic adventuring supplies.
 
@@ -105,7 +105,7 @@ Floyd GoldSeeker:
 
 Immediate practical advice:
 
-* Throk should equip his Leather armor if he is able and proficient; his D&D Beyond AC is currently 11 and the armor is carried but not equipped.
+* Throk now has Leather armor equipped and AC 12. His sheet also lists Armor of Shadows; if he removes the armor and casts Mage Armor, his AC should be 14 with Dexterity 12. Confirm that setup at the table.
 * Floyd has Chain Shirt in inventory but it is not equipped. If he can wear it with his shield, his AC should improve materially; check proficiency and D&D Beyond setup.
 * Only Throk clearly has a healing potion. The party should strongly consider buying, finding, or redistributing healing before the next major fight.
 * If Throk is not using his Light Crossbow, it may be worth lending it to someone who can benefit from a ranged option, but confirm proficiency and action economy.
