@@ -1,11 +1,11 @@
 # Player Characters and Party Reference
 
-Latest character sheets checked from D&D Beyond TUG4 on 2026-07-29.
+Latest character sheets checked from D&D Beyond TUG4 on 2026-08-04.
 
 D&D Beyond sheet notes:
 
 * Brother Kai's D&D Beyond sheet currently spells the character name "Brother Kia"; use Brother Kai in campaign files.
-* Floyd GoldSeeker's D&D Beyond sheet currently still shows Cleric 1, but campaign/table state has him at Cleric 2 after Session 13.
+* Floyd GoldSeeker's D&D Beyond sheet now shows Cleric 2, matching campaign/table state after Session 13.
 
 ## Current Party
 
@@ -155,6 +155,8 @@ These image files are the authoritative visual canon and required face reference
 * Magical Cunning
 * Pact of the Chain; Find Familiar listed
 * Armor of Shadows is listed; Throk can cast Mage Armor on himself without spending a spell slot.
+* Spells currently listed on D&D Beyond: Mage Hand, Eldritch Blast, Arms of Hadar, Detect Magic, Armor of Agathys, and Find Familiar.
+* D&D Beyond does not currently report a reliable available pact-slot count; verify pact slots at the table.
 * Circle Spell features listed on D&D Beyond: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
 * Battle Medic
 * Leather armor is currently equipped on D&D Beyond.
@@ -178,11 +180,10 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Flloyd.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/165681886
-* D&D Beyond sheet currently shows Cleric 1; campaign/table state is Cleric 2 after Session 13.
 * Dwarf Cleric 2
 * Background: Soldier
 * Role: healer and front-line support
-* AC 13, HP 1/8 current on D&D Beyond, Speed 30 ft.
+* AC 13, HP 6/13 current on D&D Beyond, Speed 30 ft.
 * STR 15, DEX 13, CON 17, INT 12, WIS 10, CHA 8
 * Saving throws on D&D Beyond: WIS +2, CHA +1
 * Notable skills from D&D Beyond: Athletics +4, Insight +2, Intimidation +1, Medicine +2
@@ -190,9 +191,9 @@ These image files are the authoritative visual canon and required face reference
 * Darkvision 120 ft.
 * Poison resistance; advantage to avoid or end Poisoned
 * Listed weapon: Mace +4, 1d6+2 bludgeoning; table-facing weapon identity is a warhammer modeled after Floyd's old mining pickaxe.
-* D&D Beyond currently lists no prepared spells on the fetched sheet.
+* D&D Beyond currently lists Healing Word but does not show a reliable available spell-slot count; verify Floyd's prepared spells and slots at the table.
 * Previously noted cleric spell options: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
-* D&D Beyond features listed: Stonecunning (Tremorsense), Circle Spell features: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
+* D&D Beyond features listed: Channel Divinity 2/2, Divine Spark, Turn Undead, Stonecunning (Tremorsense), and Circle Spell features: Augment, Distribute, Expand, Prolong, Safeguard, Supplant
 * New to the party and may not be long-term.
 * Floyd was a master surveyor for the Goldseeker clan, known for finding rich veins of ore.
 * During an excavation at Glittervein, the mine collapsed and trapped Floyd and his crew underground.
@@ -228,7 +229,7 @@ These image files are the authoritative visual canon and required face reference
 * Low-level fragility remains relevant; several characters are currently wounded on D&D Beyond after Session 13.
 * Limited front-line durability unless Floyd steps into that role.
 * Throk has very low Wisdom and Passive Perception.
-* Floyd, Throk, Brother Kai, and Pat Benatar are all below full HP on the latest D&D Beyond sheet pull.
+* Floyd GoldSeeker, Throk, Brother Kai, and Pat Benatar are all below full HP on the latest D&D Beyond sheet pull.
 * Party has two rogues and one monk, so encounters should support mobility, positioning, social leverage, and tactical creativity rather than pure slugging.
 
 ## Encounter Design Notes
