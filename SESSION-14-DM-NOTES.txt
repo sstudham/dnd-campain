@@ -1,0 +1,341 @@
+SESSION 14 DM NOTES
+CLIFFTOP OBSERVATORY: RESCUE AIDRON
+
+ONE-MINUTE SUMMARY
+
+Sparkrender is a young blue dragon occupying the Clifftop Observatory. He has captured Aidron, a young bronze dragon from Dragon's Rest, and imprisoned him beneath the main tower.
+
+Sparkrender intends to sacrifice Aidron and use the Observatory's ancient machinery to seize the power of the dragons that have died on Stormwreck Isle. If the party does nothing, Aidron dies and Sparkrender becomes much more dangerous.
+
+Tonight the party needs to:
+
+1. Recover from the stirge fight and speak with Minn.
+2. Deal with the kobolds in D3.
+3. Explore D4 and learn how to open the hidden staircase.
+4. Sneak past or confront Sparkrender in D5.
+5. Reach D6 and rescue Aidron.
+6. Fight Sparkrender with Aidron's help, tonight or next session.
+
+The central choice is simple: attack Sparkrender immediately, or sneak past him, rescue Aidron, and return with a dragon ally.
+
+EXPECTED STOPPING POINT
+
+The most likely stopping point is immediately after the party rescues Aidron. If the players move quickly, end by rolling initiative against Sparkrender. Do not rush the final fight just to complete the adventure tonight.
+
+
+OPENING NARRATION
+
+Last time, the morning began in the shelter of Dragon's Rest.
+
+Runara sent you toward the Clifftop Observatory with a warning. The sickness beneath Stormwreck Isle had shown itself in the fumes and fire of Seagrow Caves. The dead around the island had shown themselves aboard the Compass Rose. Whatever was gathering above the island was waiting among the ruined towers.
+
+Before you left, Runara placed a moonstone key in Floyd GoldSeeker's hands.
+
+The path crossed black basalt split by glassy growths and red, branching scars. Sparkrender passed overhead, a streak of blue wings and distant thunder. He did not see you. Floyd saw something else: stone struck from above, but broken from within.
+
+At the cliff's edge, the moonstone key awakened two marble dragons, and a bridge of light reached across empty air.
+
+For Floyd, the cliff became Glittervein again.
+
+Darkness. Falling stone. The silence after the last pickaxe stopped. The golden ray that found him when no one else could.
+
+A voice told him, "You were not spared to find gold. You were spared to find the way out."
+
+Across the bridge, eight stirges descended on the ruined rotunda, where two kobold brothers were already fighting for their lives.
+
+Every one of you killed at least one.
+
+Mek did not survive.
+
+Minn did.
+
+Severed Whisper drove his blade through the final creature and said, "I would like to introduce myself. I am sorry..."
+
+Then the five dragon effigies around the golden instrument began to make sense: bronze, gold, brass, blue, and red. The blue light was not studying the others. It was forcing them into alignment.
+
+Floyd heard pickaxes again. Not one. Many.
+
+His fallen crew surrounded him in memory, rhythm, and grief. His holy symbol burned gold. His warhammer felt like his old mining tool.
+
+"You were not the only one buried. Dig."
+
+Now the stirges lie dead across the Observatory floor. Mek lies still beside the instrument. Minn kneels over his brother, too shocked to speak.
+
+The blue light turns once around the golden rings.
+
+From somewhere inside the tower comes a heavy crash.
+
+Dust spills from the stones beneath your feet.
+
+Something is alive down there.
+
+Somewhere above it, thunder is breathing.
+
+What do you do?
+
+
+CURRENT PARTY CONDITION
+
+The party is Level 2. The published adventure normally expects Level 3 characters here.
+
+Brother Kai: 4/13 HP, AC 14.
+Pat Benatar: 5/13 HP, AC 13.
+Severed Whisper: 13/13 HP, AC 17.
+Throk: 4/13 HP, AC 12.
+Floyd GoldSeeker: 6/13 HP, AC 13.
+
+Allow one short rest in D2 before the party moves deeper. Let everyone spend Hit Dice.
+
+Floyd has two uses of Channel Divinity. Divine Spark can heal 1d8 HP. A short rest restores one expended Channel Divinity use.
+
+Throk has the party's only listed Potion of Healing. If he removes his leather armor and uses Armor of Shadows, Mage Armor should raise his AC to 14.
+
+Floyd is carrying a chain shirt but is not wearing it. Wearing it with his shield should raise his AC to 16. His D&D Beyond spell setup is incomplete, so ask Andy to confirm his prepared spells and remaining spell slots.
+
+D4 contains a Potion of Lightning Resistance. Make sure the party has a fair chance to find it.
+
+
+SCENE 1: D2 ROTUNDA AFTERMATH
+
+Purpose: Let Mek's death matter, explain the immediate problem, and give the party time to recover.
+
+Minn is kneeling beside Mek. He repeatedly presses his hands against his brother's chest, as though the correct pressure might restart him.
+
+The golden astronomical instrument continues turning. Blue energy pulses through it. Bronze light flickers and pulls downward toward the base of the tallest tower.
+
+Another heavy impact comes from beneath that tower.
+
+Minn knows:
+
+Sparkrender ordered the kobolds to create the five dragon effigies.
+
+Sparkrender is waiting for the instrument to show that it is time to begin his ritual.
+
+A bronze-colored dragon arrived several days ago and argued with Sparkrender.
+
+That dragon has been trapped beneath the main tower ever since.
+
+Sparkrender ordered the kobolds not to touch the collapsed wall at the tower's base.
+
+Other kobolds are camped in D3.
+
+An abandoned study stands across another gap in D4.
+
+Useful Minn lines:
+
+"Mek said the blue one would make us important."
+
+"The other dragon is still making noise. That means he is still alive."
+
+"Sparkrender said not to move the fallen wall. He said the stone was doing its job."
+
+"If Myla asks, I do not know what I am supposed to tell her."
+
+Do not make Minn blame the party. Sparkrender and the dangers of the Observatory are responsible for Mek's death.
+
+Give the party one safe short rest. Minn can watch the bridge. A short rest does not trigger the ritual. Leaving the Observatory or attempting a long rest will.
+
+
+SCENE 2: D3 KOBOLD CAMP
+
+Five kobolds occupy the camp: Ekrash, Erp, Hev, Nuhro, and Snirke. Nuhro and Snirke have wings.
+
+They begin defensive and threatening, but they do not have to attack.
+
+If Minn accompanies the party, the kobolds become frightened and suspicious instead of openly hostile. Mentioning Myla also helps.
+
+Ekrash is the loud Sparkrender loyalist.
+
+Nuhro is watching for a safe way out.
+
+Snirke wants permission to survive without being called a traitor.
+
+Erp and Hev follow whichever speaker sounds most certain.
+
+If a roll is needed, use DC 13 for Intimidation or DC 15 for Deception or Persuasion. Lower the difficulty when Minn supports the party or the players address the kobolds' fear.
+
+The kobolds can reveal:
+
+Sparkrender is sleeping in the upper tower.
+
+The metallic dragon is trapped beneath him.
+
+The D4 study contains books Sparkrender could not open.
+
+The moonstone key activates a second magical bridge from D2 to D4.
+
+A winged kobold can retrieve the moonstone key if it was left in the D1 bridge statue.
+
+A successful scene does not turn the kobolds into warriors. They can stand aside, retrieve the key, keep watch, or agree not to warn Sparkrender.
+
+
+SCENE 3: D4 ISOLATED STUDY
+
+The study is across a 22-foot gap. The easiest route is using the moonstone key in D2 to create another magical bridge.
+
+Allow other workable ideas such as ropes, grappling hooks, climbing, jumping, or swimming.
+
+Description:
+
+The bridge leads to a cramped tower open to the wind. Waves strike the rocks far below through a hole where half the floor has collapsed. Ruined books cover the floor. One small black journal remains intact beneath a slab of marble. Its lock is perfectly clean.
+
+The journal is trapped:
+
+DC 15 Perception notices the arcane rune.
+
+DC 11 Arcana explains how to disable it by carefully scratching through the rune.
+
+After disabling the rune, DC 10 Dexterity with thieves' tools opens the lock. DC 12 Strength can break it.
+
+Opening it without disabling the trap releases gas and deals 1d6 poison damage to the person opening it.
+
+Inside is the clue:
+
+"Four scholars turn their eyes toward the Dragon of Dawn. Where their sight meets, the descent into hidden knowledge begins."
+
+This tells the party how to use the four statues in D5.
+
+The old scholars originally used the Observatory to listen to and measure the island's dragon energy. Later notes change from listening to drawing power, and finally to taking power. Do not explain the larger rift or Concordance.
+
+If Pat handles the journal, her clan-marked scale briefly becomes warm. Give no explanation.
+
+Floyd can notice a loose brick because its weight sits incorrectly in the wall. Behind it are a Potion of Lightning Resistance and 10 gp.
+
+
+SCENE 4: D5 OBSERVATORY TOWER
+
+Description:
+
+Broken stained glass scatters colored light over a star map set into the floor with gold and tiny stones. Four enormous scholar statues stand around the room, each facing a different direction.
+
+Sparkrender sleeps in the northeast corner among coins and blue gems.
+
+Lightning crawls between his horns with every breath.
+
+Directly beneath him, something strikes the tower wall.
+
+Make the players' options clear:
+
+Attack Sparkrender now.
+
+Sneak around him and solve the statue puzzle.
+
+Climb down outside and excavate the collapsed wall.
+
+Try talking to him.
+
+Retreat and create another plan.
+
+The puzzle:
+
+DC 10 Investigation finds the dragon-shaped constellation in the southeast part of the star map.
+
+DC 15 Perception notices that the statues can rotate.
+
+DC 10 Perception while turning a statue reveals that it settles when aimed toward the correct constellation.
+
+When all four statues face the Dragon of Dawn, part of the floor descends and becomes a spiral staircase to D6.
+
+Sneaking:
+
+At least half the party must succeed on DC 14 Stealth to move around Sparkrender quietly.
+
+Turning the north and east statues, which are closest to him, requires separate DC 14 Stealth checks.
+
+Talking:
+
+A character speaking Draconic can delay an immediate attack with a DC 12 Deception, Intimidation, or Persuasion check. Mentioning Runara or Aidron makes Sparkrender attack.
+
+Sparkrender is vain, ambitious, and insecure about being young and small. He believes the power of dead dragons belongs to whoever is strong enough to take it.
+
+He calls the dead dragons "ore left in the ground."
+
+He calls Aidron "the living key."
+
+He thinks Runara's restraint is weakness.
+
+He is interested in Floyd's survival but reaches the wrong conclusion: Sparkrender believes survival proves superiority.
+
+
+SCENE 5: D6 SECRET LIBRARY
+
+The party can enter through the hidden staircase or clear the collapsed outside wall.
+
+Clearing the rubble takes one person 30 minutes, two people 15 minutes, or the whole party about 6 minutes. Quiet work takes twice as long and requires at least half the party to succeed on DC 14 Stealth.
+
+Floyd can identify which stones are safe to move, but the rescue must remain possible without him.
+
+Description:
+
+The passage opens into stale air, old parchment, and broken glass. Shelves cover the walls. Their books are swollen with damp and age.
+
+A desk explodes into splinters.
+
+A bronze dragon no larger than a bear rises from the wreckage. Dust covers his scales. One wing hangs low. His claws are bloodied from digging.
+
+He looks at the open passage and asks, "Did Runara send you?"
+
+Aidron is proud, frightened, exhausted, and embarrassed that Sparkrender defeated him.
+
+Aidron explains:
+
+He confronted Sparkrender because he believed Runara was being too cautious.
+
+Sparkrender defeated him and sealed him in the library.
+
+Sparkrender intends to kill him during the ritual.
+
+Aidron's death will allow Sparkrender to seize the power of Stormwreck's dead dragons.
+
+Aidron wants to confront Sparkrender immediately, but he will listen to a reasonable plan if the party treats him as an ally.
+
+The library contains either a +1 battleaxe or a Hold Person spell scroll. A DC 15 Investigation check, Detect Magic, or Aidron's help reveals it.
+
+
+SPARKRENDER FIGHT
+
+Sparkrender is a blue dragon wyrmling.
+
+AC 17. HP 52.
+
+His bite is +5 to hit and deals piercing plus lightning damage.
+
+His lightning breath is a 30-foot line. DC 12 Dexterity save. It deals 4d10 lightning damage, half on a successful save. It recharges on a roll of 5 or 6.
+
+He is immune to lightning.
+
+The party must spread out so he cannot catch several characters in one line. The statues provide cover. The Potion of Lightning Resistance should go to a wounded character likely to stand near the front.
+
+If they fight Sparkrender in D5 before the ritual, he tries to flee when reduced to 10 HP or fewer.
+
+With Aidron helping, the fight is dangerous but reasonable. Without Aidron and without a short rest, it could be disastrous.
+
+Do not add the D3 kobolds to the battle unless the players deliberately started an ongoing fight with them.
+
+
+ENDING THE SESSION
+
+If they reach D5 late, end when they see Sparkrender sleeping above the star map and hear Aidron beneath him.
+
+If they free Aidron late, have blue light leak through the ceiling. Aidron looks upward and says, "He has started without me. That means he is afraid of you."
+
+If they move quickly, return to D5 with Aidron, wake Sparkrender, roll initiative, and end as lightning crosses the star map.
+
+If the party leaves or takes a long rest, Sparkrender begins the ritual in D2. Aidron will be restrained by three chains, and one action is required to open each chain clasp.
+
+
+TABLE CHECKLIST
+
+Display Session 13 Final gathering at the magical temple.png during the opening narration.
+
+Prepare the Observatory map showing D2 through D6.
+
+Have tokens for five player characters, Minn, five D3 kobolds, Sparkrender, and Aidron.
+
+Remember the D4 journal, Potion of Lightning Resistance, and 10 gp.
+
+Use four directional markers for the D5 statue puzzle.
+
+Keep a d6 ready for Sparkrender's breath recharge.
+
+The important outcome is rescuing Aidron and making the choice about Sparkrender. Finishing the entire adventure tonight is not required.
