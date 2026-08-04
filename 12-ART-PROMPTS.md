@@ -128,7 +128,7 @@ Scene shown: the full party is with Runara, Tarak, and Myla. Runara gives Floyd 
 
 Prompt notes: Pat Benatar holds no unexplained object. Include no extra unidentified foreground character. Use all authoritative PC headshots. Use the established Runara look from the latest approved reference image if available.
 
-Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
 ### Session 13 Journey - Toward Clifftop Observatory
 
@@ -140,7 +140,7 @@ Scene shown: the full party crosses black basalt and glassy crystal terrain with
 
 Prompt notes: Floyd GoldSeeker should be slightly forward, reading the terrain as a surveyor. Sparkrender overhead is an omen, not an immediate combat pose.
 
-Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
 ### Session 13 D1 - Moonstone Bridge
 
@@ -152,7 +152,7 @@ Scene shown: the full party stands at the dragon statues while Floyd GoldSeeker 
 
 Prompt notes: Floyd is central. Let the Glittervein memory subtly bleed into the scene through golden light, stone, dust, and trapped-survivor imagery.
 
-Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
 ### Session 13 Final - Floyd Level 2
 
@@ -164,7 +164,7 @@ Scene shown: Floyd stands before the golden astronomical sculpture. Five dragon 
 
 Prompt notes: The full party is present. Mek and Minn are present and injured. The trapped bronze dragon is suggested but not shown clearly. No readable text.
 
-Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
 ### Floyd GoldSeeker Level 2 Portrait
 
@@ -176,7 +176,7 @@ Scene shown: Floyd stands before the golden astronomical sculpture and dragon ef
 
 Prompt notes: Preserve Floyd's authoritative headshot identity from Flloyd.jpg. Do not invent Floyd's god, domain, or custom Channel Divinity from this image.
 
-Do not treat this image as replacing canon text. Session 13 has not happened yet; the written prep remains primary.
+Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
 ## Severed Whisper Image Prompt
 

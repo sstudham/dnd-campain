@@ -36,12 +36,18 @@
 * Pat Benatar's dragon-blood mystery is connected to a scale and clan symbol.
 * Severed Whisper is tied to Luskan, Captain Braddok Ironhand, an odd stone, and criminal trouble in the city.
 * Brother Kai is seeking enlightenment after being sent out from his monastery.
+* Floyd GoldSeeker survived the Glittervein mine collapse after a golden ray of light gave him strength to escape; he believes this was divine intervention.
+* Floyd GoldSeeker reached Level 2 at the Clifftop Observatory after hearing: "You were not the only one buried. Dig."
+* Sparkrender is trying to mine the power of dead dragons at the Clifftop Observatory.
+* Another dragon is trapped beneath or inside the Clifftop Observatory tower.
 
 ## Open Canon Questions
 
 * Why did the dragonborn hear "Stormwreck"?
 * What is the scale connected to Pat Benatar's clan mark?
 * What are Grusk and Morghul doing after escaping?
+* What purpose was Floyd GoldSeeker spared for at Glittervein?
+* Can the party rescue or reach the dragon trapped beneath or inside the Clifftop Observatory tower?
 * What caused the rift?
 * Is the rift being exploited by someone or something?
 * How exactly is the rift changing the way gods interact with the world?

@@ -26,7 +26,11 @@
 * What will Luskan do after the bounty hunters fail to return?
 * How far does the Luskan mayor's reach extend?
 * What answers died with the final bounty hunter?
-* What will the Clifftop Observatory reveal about Stormwreck Isle's dragon-death energy and the larger rift?
+* What purpose was Floyd GoldSeeker spared for at Glittervein?
+* What, if anything, answered Floyd when the golden light helped him survive?
+* Can the party rescue or reach the dragon trapped beneath or inside the Clifftop Observatory tower?
+* What exactly is Sparkrender's ritual meant to do with the dead dragons' power?
+* How does the golden astronomical sculpture connect timing, pressure, celestial movement, dragon death, and hidden lines of power?
 
 ## Plot Hooks
 
@@ -39,6 +43,31 @@
 * The Cursed Shipwreck can show another expression of Stormwreck's dragon-death curse through death, sea, rot, undeath, memory, and something that will not stay buried.
 * Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
 * Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
-* Runara has pointed the party toward the Clifftop Observatory as the next place to investigate Stormwreck Isle's wound.
+* The Clifftop Observatory revealed that Sparkrender is trying to mine the power of dead dragons.
+* Floyd GoldSeeker carries the memory of his dead Glittervein crew and has vowed to protect his new adventuring companions.
+* Floyd's survivor story can connect to buried survivors, trapped creatures, hidden paths, divine light, stone, tools, and honoring the dead.
+* Floyd GoldSeeker reached Level 2 after hearing: "You were not the only one buried. Dig."
+* The party knows another dragon is trapped beneath or inside the Clifftop Observatory tower.
 
 ## Needs Resolution
+
+### Existing Mechanical Conflict
+
+* Brother Kai's custom Dragon Talons text says the claws use his Martial Arts die and are not a damage boost, but its scaling table lists 1d4 at Levels 2-4 while his current D&D Beyond Martial Arts die is 1d6. Which value governs?
+
+### Possible Future Concordance Questions — Not Canon
+
+* What was the original cause of the wound in reality?
+* Did Acererak discover the Concordance independently, or was he led to it?
+* What first allowed a possible future Acererak signal to travel backward through time?
+* Who created or first discovered the Concordance?
+* How can the party distinguish non-conscious dissonance from a conscious alternate person or historical Echo?
+* Can conscious Echoes be restored or integrated without causing realities to collide?
+* What makes a community's Living Choice informed, voluntary, and locally legitimate?
+* Were dragons involved in building or maintaining the possible Stormwreck Instrument?
+* What is the true relationship between Pat Benatar's scale, clan mark, and ancient draconic sites?
+* What is the exact nature of Severed Whisper's odd stone?
+* Why did the higher-dimensional being detect the original party?
+* What sent the golden light to Floyd GoldSeeker in Glittervein?
+* Can Vargun remain independent if Throk's pact becomes entangled with the Soulmonger?
+* What should happen to the Concordance if Acererak is defeated?

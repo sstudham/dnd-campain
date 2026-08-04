@@ -7,5 +7,8 @@
 * Pat Benatar's scale - gold-copper scale marked with Pat Benatar's clan symbol; carried by Pat Benatar, reacts to dragonborn, and pointed toward Stormwreck.
 * Pat Benatar's sealed box - opened for Pat Benatar; source of the scale and connected to her unusual origin.
 * Cart of potatoes - valuable cargo that first drew Severed Whisper toward the party.
+* Floyd GoldSeeker's warhammer - cleric weapon modeled after his old mining pickaxe; visually and emotionally tied to Glittervein, excavation, survival, and protecting companions.
+* Moonstone key - key Runara gave to Floyd GoldSeeker; Floyd used it at D1 Overlook to activate the marble dragon statues and create the magical bridge into the Clifftop Observatory ruins.
+* Golden astronomical sculpture - instrument in D2 Rotunda Ruins that measures timing, pressure, celestial movement, dragon death, and hidden lines of power; Sparkrender is trying to use it to mine dead-dragon power.
 
 ## Unclaimed or Unknown
