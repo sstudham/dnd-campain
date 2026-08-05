@@ -2,132 +2,149 @@
 
 ## Current Starting Point
 
-Next session starts at the Clifftop Observatory after D2 Rotunda Ruins.
+Next session begins in D5 at the Clifftop Observatory, at the exact moment after Sparkrender's death.
 
 Current situation:
 
-* The party completed the Observatory approach, D1 Overlook, and D2 Rotunda Ruins.
-* Mek is dead.
-* Minn survived unless later contradicted.
-* All eight stirges are dead.
-* Every party member killed at least one stirge.
-* Sev made the final kill with the line: "I would like to introduce myself. I am sorry..."
-* Floyd reached Level 2.
-* The party knows another dragon is trapped beneath or inside the tower.
-* The next session should continue with the remaining Observatory areas and preserve the trapped-dragon, Sparkrender, ritual, and party-bonding threads.
+* The party immediately attacked Sparkrender upon reaching D5.
+* Pat Benatar struck him hard with her shortbow.
+* Throk killed him with Eldritch Blast.
+* Severed Whisper was close to Sparkrender during the final combat scene.
+* The rest of the party was spread around the Observatory and had taken damage.
+* The session ended before anyone searched or investigated the room.
+* D5 remains unsearched.
+* Sparkrender's hoard has not been examined or acquired.
+* The D5 puzzle has not been solved.
+* The route downstairs has not been discovered or opened.
+* The party has not entered D6.
+* The party has not found, spoken with, or freed Aidron.
+* The ritual, gathered dragon power, and Observatory instrument remain unresolved.
+* Minn remains near the magical bridge as lookout unless later clarified.
+* Minn asked the party to return Mek's body to Dragon's Rest.
 
 ## Start-of-Session Recap
 
-After returning from the Compass Rose, the party rested at Dragon's Rest. Runara sent them toward the Clifftop Observatory, saying the caves had shown what was festering beneath Stormwreck Isle, the Compass Rose had shown what refused to remain buried around it, and the Observatory might reveal what was gathering above.
+You came to Stormwreck Isle because the strange events surrounding the cult, the worshiping stone, and the monastery vision suggested that something larger was damaging the boundaries of reality.
 
-Myla mentioned that her brothers, Mek and Minn, might be at the Observatory. Runara gave Floyd GoldSeeker the moonstone key.
+On Stormwreck Isle, that damage has appeared in different forms. Seagrow Caves showed sickness through heat, fumes, blight, and unnatural growth. The Compass Rose showed death, memory, undeath, and things that refused to stay buried. Runara sent you to the Clifftop Observatory to investigate what was gathering above the island.
 
-On the way to the Observatory, the party crossed rocky terrain marked by glassy crystal protrusions, reddish branching scars, and signs of lightning strikes or dragon breath. Floyd read the stress lines in the basalt and recognized that the stone had been struck from above and fractured from within.
+At the Observatory, you crossed the magical bridge, fought the stirges, lost Mek, and discovered that Sparkrender was trying to mine the power left behind by dead dragons. Another dragon, Aidron, was trapped somewhere beneath or inside the tower.
 
-The party saw Sparkrender, a young blue dragon, fly overhead toward the ruins without noticing them.
+Minn became extremely helpful after you gave him gold. He told you what he knew, offered to introduce you to the kobold camp, and asked you to return Mek's body to Dragon's Rest. You paid him another gold piece to guard the bridge while you explored.
 
-At D1 Overlook, Floyd inserted the moonstone key into the hexagonal indentation between two marble dragon statues veined with gold. The statues created the shimmering magical bridge. Floyd remembered Glittervein, the collapse, the silence, and the golden ray of light that had saved him. He heard: "You were not spared to find gold. You were spared to find the way out."
+In D4, Throk was poisoned while opening a book or journal. Kai recovered 2 potions of resistance and 1 minor healing potion. The book contained a clue associated with the D5 puzzle and the route downward.
 
-At D2 Rotunda Ruins, the party found Mek and Minn fighting eight stirges. Six stirges attacked the party while the kobolds fought the others. A stirge attached itself to Floyd's neck, but Floyd ignored it and kept swinging his warhammer.
+When you reached Sparkrender, you did not wait. Pat Benatar hit him hard with her shortbow. Throk followed with Eldritch Blast and killed him.
 
-Mek died in the encounter. Minn survived unless later contradicted. All eight stirges died, and every party member killed at least one. Severed Whisper killed the final stirge after saying: "I would like to introduce myself. I am sorry..."
+That is where the session ended.
 
-The party examined the golden astronomical sculpture and five dragon effigies. The effigies represented bronze, gold, brass, blue, and red dragons, and the blue energy was trying to dominate the others. Floyd understood the sculpture as an instrument for measuring timing, pressure, celestial movement, dragon death, and hidden lines of power.
+Sparkrender is dead, but the Observatory is not resolved. You have not searched the chamber, examined the hoard, solved the puzzle, gone downstairs, found Aidron, or determined what happened to the ritual and gathered dragon power.
 
-Floyd realized Sparkrender was not trying to understand the dead dragons. He was trying to mine them.
+## Why the Party Is Here
 
-Floyd's connection to Glittervein and his fallen crew awakened. He heard many pickaxes, felt the memory or presence of his dead crew, saw his holy symbol burn with golden light, and felt his warhammer become like his old pickaxe. He heard: "You were not the only one buried. Dig."
+The larger purpose is to understand how the connected manifestations of Stormwreck Isle relate to the wider wound affecting magic, prayer, memory, space, time, and reality.
 
-Floyd reached Level 2 and gained his normal cleric Level 2 features according to his character sheet and chosen domain. Do not invent Floyd's god, domain, or custom Channel Divinity feature unless Andy provides or approves them.
+The immediate purpose is simpler:
 
-Where we ended: the party knows another dragon is trapped beneath or inside the Observatory tower, and the next session should continue deeper into the Observatory.
+* Understand what Sparkrender was doing.
+* Determine whether his death stopped or destabilized the ritual.
+* Find and potentially free Aidron.
+* Resolve the immediate danger at the Observatory.
+* Return Mek's body to Dragon's Rest.
 
 ## Current DM Priority
 
-* For the next 5-10 sessions, prioritize helping the party bond, even at the expense of advancing the main storyline quickly.
-* The immediate goal is for the players and characters to understand who is in the party, what each character is useful for, why they are traveling together, and why they might continue together after the current crisis.
-* Build scenes that create shared danger, shared usefulness, small personal reveals, and practical reasons to cooperate.
-* Use the rift, Stormwreck, Dragon's Rest, Pat Benatar's scale, Floyd GoldSeeker's cult involvement, Sev's Luskan trouble, Brother Kai's spiritual lens, and Throk's family/political tension as bonding hooks rather than lore dumps.
-* Prefer simple table-facing connective moments over complex exposition.
-* Make sure each session gives at least one character a reason to appreciate or rely on another character.
-* Do not assume the party already feels like a party yet.
+* Continue prioritizing party cohesion and shared identity.
+* Let the aftermath create practical cooperation: tending wounds, searching safely, interpreting the book, solving the puzzle, deciding how to handle the hoard, and rescuing Aidron.
+* Give each character a useful role in the aftermath.
+* Avoid a large lore dump.
+* Keep the table-facing objective clear: the dragon is dead, but the job is unfinished.
 
-## Next-Session Plan
+## Immediate Next-Session Tasks
 
-### Scene 1 - Regroup in D2 Rotunda Ruins
+### Scene 1 - Immediate Aftermath in D5
 
-Current facts to preserve:
+* Let the players react to Sparkrender's death.
+* Establish current wounds, positioning, and Throk's poison status without inventing details.
+* Give the players a clear opportunity to search or inspect D5.
+* Do not assume they examine anything until they say they do.
 
-* Mek is dead.
-* Minn survived unless later contradicted.
-* The stirges are dead.
-* Floyd has just reached Level 2.
-* The golden astronomical sculpture and dragon effigies have revealed that blue dragon energy is trying to dominate the others.
-* The party knows another dragon is trapped beneath or inside the tower.
+### Scene 2 - Search, Hoard, and Puzzle
 
-Scene goals:
+Possible actions:
 
-* Let the party react to Mek's death, Minn's survival, and Floyd's awakening.
-* Give Minn space to provide any remaining practical information without turning the scene into a lore dump.
-* Keep the direction clear: continue deeper into the Observatory.
+* Search Sparkrender and the chamber.
+* Examine the hoard.
+* Read or interpret the D4 book or journal.
+* Discover and solve the D5 puzzle.
+* Find the hidden route downstairs.
 
-### Scene 2 - Deeper Observatory Exploration
+Preserve player choice. They may ignore, mishandle, postpone, or leave any part unresolved.
 
-Likely next areas:
+### Scene 3 - Lower Observatory and Aidron
 
-* D3
-* D4
-* D5
-* D6
+If the party opens the route:
 
-Threads to preserve:
+* Enter D6.
+* Locate Aidron.
+* Determine Aidron's condition.
+* Decide whether and how to free him.
+* Learn what can be learned about Sparkrender's ritual without over-explaining the wider campaign.
 
-* Aidron may be trapped beneath or inside the tower.
-* Sparkrender is preparing a ritual.
-* The ritual is tied to timing, celestial movement, dragon death, and hidden lines of power.
-* Sparkrender is trying to mine the dead dragons' power, not understand it.
-* The party still needs chances to bond through practical usefulness and shared danger.
+### Scene 4 - Observatory Resolution
 
-### Scene 3 - Aidron / Sparkrender / Ritual Pressure
+Possible outcomes:
 
-Use the remaining Observatory material to build toward:
+* Stabilize, interrupt, redirect, or leave the ritual unresolved.
+* Decide what happens to the gathered dragon power.
+* Decide what happens to the hoard.
+* Reconnect with Minn.
+* Carry Mek's body back to Dragon's Rest.
 
-* Discovering or rescuing Aidron.
-* Understanding what Sparkrender is trying to do.
-* Deciding whether to interrupt, exploit, or survive the ritual.
-* Letting Floyd's new Level 2 cleric features matter without inventing custom powers.
-* Keeping Pat Benatar's scale mystery, Brother Kai's claws, Throk's patron connection, and Sev's Luskan thread alive in the background.
+## Current Resource Snapshot
 
-## Character / Table Notes Still Relevant
+Known session resources:
 
-* Floyd GoldSeeker recently joined the party.
-* Throk went down in the dock fight and was saved by Pat Benatar's Medicine check.
-* Throk used his first Eldritch Blast and was not fully sure what it was.
-* Throk's Level 2 patron connection began during the orange fire crystal / vent danger, but do not fully explain Vargun yet.
-* Pat Benatar showed tactical awesomeness by using a bonus action to Disengage.
-* Sev does not like being called "kitty."
-* Sev does not like people touching his mini.
-* Brother Kai's dragon claws awakened during meditation in front of the elder mushrooms, not during the fire snake fight.
-* Pat Benatar's origin mystery should remain unexplained.
-* The Compass Rose material has been completed in play.
-* Dragon's Rest tasking, the Observatory approach, D1 Overlook, and D2 Rotunda Ruins have been completed in play.
+* D4 book or journal containing the clue associated with the D5 puzzle and lower route.
+* 2 potions of resistance; damage type unspecified.
+* 1 minor healing potion; exact mechanics unspecified.
+* Throk was poisoned in D4; current duration and status unknown.
+
+Do not assume these items have been identified, distributed, or consumed.
+Do not convert the minor healing potion into a standard Potion of Healing unless Scott confirms that equivalence.
+
+## Character Opportunities
+
+* Pat Benatar: notice clues in the room, inspect Sparkrender's actions, or connect the scene to her scale without explaining her origin.
+* Throk: react to delivering the killing blow, manage the poison, and use his emerging power or familiar practically.
+* Severed Whisper: search the room, inspect the hoard, identify traps, or take point near Sparkrender's body.
+* Brother Kai: interpret the puzzle, assist wounded companions, and address how quickly the group chose violence if the players engage with it.
+* Floyd GoldSeeker: read the structure, find the route downward, protect the party, and help rescue anyone trapped below.
+
+## Unresolved Questions to Preserve
+
+* What was Sparkrender's ritual intended to accomplish?
+* Did his death stop, destabilize, or leave the ritual unchanged?
+* What happens to the gathered dragon power?
+* What does the golden astronomical sculpture actually measure or control?
+* Where exactly is Aidron trapped?
+* Can Aidron be freed safely?
+* What does the D4 book or journal reveal?
+* What is hidden in the D5 room and hoard?
+* What will Minn and Myla do when Mek's body returns to Dragon's Rest?
+
+## Table Notes Still Relevant
+
+* Minn became highly cooperative after the party gave him gold.
+* Minn was paid another gold piece to watch the bridge.
+* Minn asked the party to return Mek's body to Dragon's Rest.
+* The party went directly into combat with Sparkrender rather than investigating.
+* Pat Benatar's shortbow attack badly wounded Sparkrender.
+* Throk's Eldritch Blast was the killing blow.
+* The Observatory remains incomplete despite Sparkrender's death.
 
 ## Dragonborn Appearance Note
 
-Not all dragonborn present the same way. Brother Kai can be an unusual-looking dragonborn without changing Pat Benatar's special mystery. Brother Kai's appearance is treated as unusual but still within the broad range of dragonborn ancestry.
+Brother Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn who appears mostly human, and her clan treated that as a deeper unresolved sign tied to her origin, scale, and Stormwreck.
 
-Pat Benatar is different in a deeper way: she appears mostly human, and her own dragonborn clan treated that as a mystery, omen, or unresolved sign. Pat Benatar's mystery is not merely that she looks different. It is tied to her clan, the scale, her origin, and something older than her clan.
-
-Table wording: Kai is an unusual-looking dragonborn. Pat Benatar is a dragonborn who appears mostly human, and her own clan saw that as a sign of something deeper and unresolved.
-
-## Previous Bridge Archive
-
-The long bridge material was previously used to move the party from the destroyed temple to Stormwreck Isle. It covered the temple aftermath, Pat Benatar receiving the sealed box, dock passage with Captain Elric Thorne, boat travel, and the arrival at Stormwreck.
-
-Do not treat that bridge material as the current starting point. The current starting point is the Clifftop Observatory after D2 Rotunda Ruins.
-
-Video version used for that bridge: intro to Act 2.mp4
-External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
-
-DM note: Do not explain Pat Benatar's full mystery yet. Preserve it as a slow-burn character hook tied to the scale, clan symbol, Stormwreck, Dragon's Rest, and the rift.
-
+Do not explain Pat Benatar's full mystery yet.
