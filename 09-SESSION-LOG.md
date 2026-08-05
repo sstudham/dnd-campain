@@ -47,11 +47,11 @@ Throk went down during the fight, and Pat Benatar saved him with a Medicine chec
 Throk used his first Eldritch Blast and was not sure what it was.
 The party killed the zombies on the dock.
 Players who got kills: Sev, Kai, Floyd.
-The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds. (artwork for this is "Session 9 Landing at Dragons Rest.jpg")
+The session ended with the party walking up the hill at Dragon's Rest and meeting the kobolds. Artwork for this is "Session 9 Landing at Dragons Rest.jpg".
 
 Character moments:
 
-Pat Benatar and Kai used breath weapons on the boat, irritating the captain. (Artwork for this is "Session 10 Kai gets his Claws.jpg"
+Pat Benatar and Kai used breath weapons on the boat, irritating the captain.
 Pat Benatar demonstrated tactical awesomeness by using a bonus action to Disengage.
 Sev does not like being called "kitty."
 
@@ -62,308 +62,132 @@ Sev does not like people touching his mini.
 
 ### Session 10 - Dragon's Rest and Seagrow Caves
 
-Story events:
-
-The session began immediately after the dock zombie fight on Stormwreck Isle. The party was wounded, tired, and walking uphill from the dock toward Dragon's Rest.
-
-At Dragon's Rest, the party met the kobolds. Myla interacted with Throk and borrowed his axe, mistaking it for a sword. This helped establish the kobolds as strange, funny, excitable locals rather than enemies.
-
-Severed Whisper went farther up the hill and encountered Tarak. Sev brought Tarak back to the wounded party, and Tarak healed and stabilized everyone after the fight at the dock.
-
-The party spent time at Dragon's Rest. They recovered, met the cloister, interacted with the kobolds, and were introduced to Tarak and Runara.
-
-Runara noticed Pat Benatar's special scale and hinted that it was connected to something older on Stormwreck Isle. She also noticed Brother Kai's discipline and dragonborn nature, setting up the idea that something in him might awaken.
-
-Tarak gave the party the Seagrow Caves quest. He explained that he needed medicinal fungus from the caves and that the caves had become strange, dangerous, and unhealthy. The party agreed to help and traveled toward Seagrow Caves by canoe.
-
-Inside Seagrow Caves, the party encountered the myconids and the strange fungal life of the caves. The myconids were not treated as simple monsters. The party learned that something was wrong in the caves and that the fungal colony was being affected by a deeper blight.
-
-Brother Kai had his major character moment while meditating in front of the elder mushrooms. His dragon claws awakened there, tied to his discipline, dragonborn nature, and the strange power of Stormwreck Isle.
-
-The party reached the crystal cave and fought the fume drakes. During the fight, Kai used his new claws, missing with his first attack but landing a bonus action strike. Floyd GoldSeeker dealt heavy damage. Throk hit, but barely. Pat Benatar had opportunities for sneak attack but missed twice.
-
-The fume drake battle became dangerous. Throk went down, and Floyd GoldSeeker healed him, bringing him back into the fight. The party surrounded the final fume drake, and Pat Benatar killed it.
-
-When the final drake died, it exploded in smoke, heat, and sulfurous energy, taking Brother Kai down. Throk used the party's only healing potion to bring Kai back.
-
-Artwork for the fume drake battle / crystal cave climax: "Seagrow Caves.jpg"
-
-End state:
-
-The session ended in the crystal cave. The fume drakes are dead, Throk and Kai have both gone down and been revived, the party has no healing potions left, and they have not yet fully explored the cave. The orange fire crystal still remains ahead, glowing in the fissure and blocking the vent that appears to be filling the caves with foul fumes.
+The party met the kobolds, Tarak, and Runara at Dragon's Rest.
+Tarak healed and stabilized the wounded party after the dock fight.
+Runara noticed Pat Benatar's special scale and Brother Kai's discipline and dragonborn nature.
+Tarak sent the party to recover medicinal fungus from Seagrow Caves.
+The party encountered myconids and learned that the caves were affected by a deeper blight.
+Brother Kai's dragon claws awakened while meditating before the elder mushrooms.
+The party fought fume drakes in the crystal cave.
+Throk went down and Floyd GoldSeeker healed him.
+Pat Benatar killed the final fume drake.
+The dying drake exploded in smoke, heat, and sulfurous energy, taking Brother Kai down.
+Throk used the party's only healing potion to revive Kai.
+The session ended in the crystal cave with the orange fire crystal still blocking the vent.
 
 ### Session 11 - Seagrow Caves Resolution and Cursed Shipwreck
 
-Story events:
-
-The party began in Seagrow Caves at the orange fire crystal blocking the vent.
-
-Throk investigated the crystal and realized it was wedged into the cave's "throat," trapping heat, sulfur, fumes, and pressure.
-
-The party worked together to pull the crystal down, with Throk leading the rope pull.
-
-When the crystal tore free, the vent erupted with a dangerous crystal/fire/fume burst.
-
-Throk had his Level 2 patron awakening moment. An ancestral orcish presence answered him. He heard: "Strength is not rage. Strength is choosing what happens after the blow lands."
-
-Ghostly ancestral orc shields appeared and protected the party. Mechanically, the party gained resistance to the crystal/fire burst.
-
-Floyd GoldSeeker was knocked down by the blast.
-
-A fire snake emerged from the broken crystal/vent and attacked. The party killed the fire snake.
-
-The cave began to heal. The vent opened, the smoke cleared, and the blight started retreating.
-
-The party met the elder mushrooms for the first time. The elder mushrooms healed Floyd GoldSeeker with white spores/fungal threads and gave minor healing/recognition to the rest of the party.
-
-The elders gave the party the medicinal fungus Tarak needed.
-
-The party returned to Dragon's Rest and entered the temple to Bahamut.
-
-Runara spoke with the party and gave clues:
-
-* Stormwreck Isle remembers ancient dragon deaths through stone, sea, caves, and wrecks.
-* Brother Kai's claws are not simply a curse or weapon; they are tied to old dragon power and should be understood by what they reach for, not only what they tear.
-* Pat Benatar's scale, symbol, and memory connect to old dragon mysteries on the island.
-* Throk's new power is not rage or corruption; it is tied to protection and holding the line.
-
-Runara and/or Tarak pushed the party toward the cursed shipwreck as the next place where dragon-death energy has sunk into death and undeath.
-
-The party reached the cursed shipwreck.
-
-Brother Kai climbed to the crow's nest. A harpy attacked and took Brother Kai down.
-
-Severed Whisper and Throk were charmed by the harpy's song.
-
-Pat Benatar climbed up toward the crow's nest and killed the harpy with her dragon breath, breaking the song's charm.
-
-End state:
-
-The session ended at the cursed shipwreck immediately after Pat Benatar killed the harpy. Brother Kai has been downed or just saved depending on table state. Throk is no longer charmed. Severed Whisper is still in the dinghy.
+The party removed the orange fire crystal from the cave's vent.
+Throk's Level 2 patron awakening occurred during the resulting crystal, fire, and fume burst.
+An ancestral orcish presence told him: "Strength is not rage. Strength is choosing what happens after the blow lands."
+Ghostly ancestral orc shields protected the party.
+The party killed a fire snake and the cave began to heal.
+The elder mushrooms healed Floyd and gave the party the medicinal fungus.
+The party returned to Dragon's Rest and received further clues from Runara.
+The party then reached the cursed shipwreck.
+A harpy took Brother Kai down near the crow's nest.
+Severed Whisper and Throk were charmed.
+Pat Benatar killed the harpy with dragon breath, breaking the charm.
 
 ### Session 12 - Compass Rose, Luskan Bounty Hunters, and Kai's Dark Turn
 
-Story events:
-
-The session began at the cursed shipwreck immediately after Pat Benatar killed the harpy beside the crow's nest.
-
-Floyd GoldSeeker used a healing spell to heal Brother Kai after the harpy fight.
-
-Severed Whisper remained in the dinghy and inspected the wreck from below.
-
-From the dinghy, Sev could tell the Compass Rose was in terrible condition: half-sunk, broken open, wedged against the rocks, slick with seawater, rotted, unstable, and not seaworthy.
-
-Sev noticed signs that someone living had boarded the wreck: a second boat tied low against the far side of the wreck, fresh rope, a clean knot, wet boot prints, and a crossbow bolt that did not belong to the wreck.
-
-Sev was Hidden and explored C2 / Forecastle.
-
-Brother Kai explored C6 / Crew Quarters looking for a place to meditate. He entered a meditative state and rolled low Perception, so he did not notice the trapped floorboard or hidden stash.
-
-The rest of the party explored C4 / Captain's Quarters and fought the zombies there.
-
-Kai left meditation and ran to join the zombie fight.
-
-Throk killed the first zombie in C4.
-
-The rest of the party cleared the zombies in C4.
-
+Floyd healed Brother Kai after the harpy fight.
+The party explored the Compass Rose.
+Severed Whisper discovered evidence that living intruders had boarded the wreck.
 The Luskan bounty hunters found Sev.
-
-Sev killed the first bounty hunter and experienced his first Level 2 rogue awakening moment, using Disengage explosively and leaping all the way up onto the mast. This made Sev feel genuinely powerful for the first time.
-
-Pat Benatar attacked the bounty hunter with the crossbow.
-
-Throk killed one of the bounty hunters with Eldritch Blast.
-
-Kai cornered the final bounty hunter.
-
-The party learned from the bounty hunter that Luskan mayor's people hired them. Sev was targeted because he was easier to identify and capture: a named tabaxi traveling with two dragonborn, tied to Braddok Ironhand, the odd stone, the bar fight, the mayor's son, and the dock warehouse trouble. The dragonborn are wanted too, but Sev was the cleanest target and most valuable alive for answers.
-
-Sev wanted the final bounty hunter kept alive for more answers.
-
-Kai interrogated the final bounty hunter, then killed him anyway over Sev's protest by slicing his throat with his dragon claws.
-
-This was a dark character moment for Kai. He was controlled, decisive, and cold rather than enraged.
-
-The party proceeded to the lower deck after clearing the captain's quarters and crew sleeping area.
-
-The party found loot worth 75 gp.
-
-The party killed a zombie on the lower deck. Pat Benatar, Floyd GoldSeeker, and Throk all damaged it before Kai finished it off.
-
-Kai killed this zombie too, but with less bloodthirst than the bounty hunter execution.
-
-The party explored the lower deck.
-
-Sev found 5 silver bars.
-
-Sev tried to persuade the party to return to the island instead of continuing deeper into the wreck.
-
-The party returned to Dragon's Rest and was met by the kobolds.
-
-Runara spoke with the party after their return from the wreck.
-
-Runara framed the Compass Rose as another expression of Stormwreck Isle's wound: the caves showed sickness in stone, fungus, heat, and breath; the wreck showed death, memory, fear, and things that refuse to stay buried.
-
-Runara noted that Luskan had now reached the island and that Sev's past was no longer separate from the party.
-
-Runara pointed the party toward the Clifftop Observatory as the next place to investigate.
-
-The party took a long rest in the quarters at Dragon's Rest.
-
-Next session will begin after the long rest, with the party waking and going to the rooftop / Clifftop Observatory lead.
-
-Important moments:
-
-* Sev's Level 2 rogue awakening happened during the bounty hunter fight aboard the Compass Rose.
-* Sev's new power was expressed through movement, instinct, angles, timing, and agility rather than brute force or magic.
-* Kai's dragon claws were used to execute the final bounty hunter after interrogation, over Sev's protest.
-* Kai's killing of the bounty hunter should be preserved as a dark character turn and possible party tension point.
-* Throk used Eldritch Blast to kill a bounty hunter.
-* Pat Benatar continued to act tactically and engaged the crossbow hunter.
-* The Luskan bounty hunter thread is now openly tied to Sev and the party.
-* The party returned to Dragon's Rest and completed a long rest.
+Sev killed the first bounty hunter and experienced his Level 2 rogue awakening, using Disengage explosively and leaping onto the mast.
+Throk killed another bounty hunter with Eldritch Blast.
+The party learned that Luskan mayor's people had hired the bounty hunters and that Sev was the easiest identifiable target.
+Sev wanted the final bounty hunter kept alive.
+Brother Kai interrogated the bounty hunter, then killed him over Sev's protest by slicing his throat with his dragon claws.
+The party found 75 gp and 5 silver bars.
+The party returned to Dragon's Rest, where Runara pointed them toward the Clifftop Observatory.
+The party completed a long rest.
 
 ### Session 13 - Clifftop Observatory Arrival and Floyd's Awakening
 
 Status: Played.
 
-Story events:
-
-The session began at Dragon's Rest after the party's long rest.
-
-Runara tasked the party with traveling to the Clifftop Observatory to investigate what was gathering above Stormwreck Isle.
-
-The party was reminded that the caves had shown what was festering beneath the island, the Compass Rose had shown what refused to remain buried around it, and the Observatory might reveal what was gathering above.
-
-Myla mentioned that her brothers, Mek and Minn, might be at the Observatory.
-
-Runara gave Floyd GoldSeeker the moonstone key.
-
-Floyd's history as a master surveyor and survivor of the Glittervein mine collapse became central to the session.
-
-Journey to the Observatory:
-
-The party traveled across the rocky terrain of Stormwreck Isle.
-
-They found glassy crystal protrusions and reddish branching scars in the vegetation.
-
-The terrain showed signs of lightning strikes or dragon breath.
-
-Floyd used his surveyor instincts to read the stress lines in the basalt and recognize that the stone had been struck from above and fractured from within.
-
-The party saw Sparkrender, a young blue dragon, flying overhead toward the ruins.
-
-Sparkrender did not notice the party.
-
-Floyd's warhammer reacted subtly to the terrain and the Observatory's hidden lines of force.
-
-D1 Overlook:
-
-The party reached the Overlook and found the two marble dragon statues veined with gold.
-
-Floyd inserted the moonstone key into the hexagonal indentation.
-
-The statues activated and created the shimmering magical bridge to the Observatory ruins.
-
-Floyd experienced a memory of Glittervein: darkness, silence, falling stone, and the golden ray of light that had once saved him.
-
-Floyd heard: "You were not spared to find gold. You were spared to find the way out."
-
-The party crossed the bridge into the ruined rotunda.
-
-D2 Rotunda Ruins:
-
-The party encountered Mek and Minn fighting eight stirges.
-
-Six stirges attacked the party while the kobolds continued fighting the others.
-
-During the fight, a stirge attached itself to Floyd's neck.
-
-Floyd ignored it and continued swinging his warhammer.
-
-Mek was killed during the encounter.
-
+The party left Dragon's Rest for the Clifftop Observatory after Runara gave Floyd GoldSeeker the moonstone key.
+Floyd used his surveyor instincts to read the damaged basalt and recognized that the stone had been struck from above and fractured from within.
+The party saw Sparkrender flying overhead without noticing them.
+At D1 Overlook, Floyd used the moonstone key to activate two marble dragon statues and create the magical bridge.
+Floyd remembered Glittervein and heard: "You were not spared to find gold. You were spared to find the way out."
+At D2 Rotunda Ruins, the party found Mek and Minn fighting eight stirges.
+Mek died.
+Minn survived.
 All eight stirges were killed.
-
 Every party member killed at least one stirge.
-
-Severed Whisper killed the final stirge.
-
-As Sev attacked, he said: "I would like to introduce myself. I am sorry..."
-
-Sev then skewered the stirge and wiggled his sword to clear the blood from the blade.
-
-Minn survived unless later notes state otherwise.
-
-Post-combat and discovery:
-
-The party learned more about Sparkrender's plans.
-
-The golden astronomical sculpture and five dragon effigies were examined.
-
-The five effigies represented bronze, gold, brass, blue, and red dragons.
-
+Severed Whisper killed the final stirge after saying: "I would like to introduce myself. I am sorry..."
+The party examined the golden astronomical sculpture and five dragon effigies.
 The blue energy was trying to dominate the others.
+Floyd realized Sparkrender was trying to mine the power of dead dragons.
+Floyd experienced his Level 2 awakening and heard: "You were not the only one buried. Dig."
+The party learned another dragon was trapped beneath or inside the Observatory tower.
 
-The sculpture was understood as an instrument for measuring timing, pressure, celestial movement, dragon death, and hidden lines of power.
+### Session 14 - Minn, D4, and Sparkrender's Death
 
-Floyd recognized that Sparkrender was not trying to understand the dead dragons. He was trying to mine them.
+Status: Played.
 
-Floyd's Level 2 awakening:
+The session began in D2 Rotunda Ruins after the stirge fight and Floyd's awakening.
 
-Floyd's connection to Glittervein and his fallen crew became the core of the awakening.
+The party gave Minn 1 gp.
+Because the party treated him generously, Minn became extremely helpful.
+Minn told the party everything he knew and offered to introduce them safely to the kobold camp.
+Minn asked the party to carry Mek's body back to Dragon's Rest.
 
-He heard the rhythm of many pickaxes.
+The party gave Minn another 1 gp to remain behind and watch the magical bridge while they explored D4.
+Mek's body remained with Minn near the bridge unless later table notes clarify otherwise.
 
-The memory or presence of his dead crew surrounded him.
+In D4, Throk was poisoned while opening the book or journal.
+The party recovered the book or journal containing the clue associated with the D5 puzzle and the route toward the lower Observatory.
+Brother Kai accessed the treasure.
+The treasure awarded at the table was:
 
-His holy symbol burned with golden light.
+* 2 potions of resistance, damage type unspecified.
+* 1 minor healing potion, exact mechanics unspecified.
 
-His warhammer felt like his old pickaxe.
+The party proceeded to D5.
+They did not attempt to sneak past, negotiate with, observe, or investigate Sparkrender.
+They immediately attacked him.
 
-Floyd heard: "You were not the only one buried. Dig."
+Pat Benatar struck Sparkrender hard with her shortbow.
+Severed Whisper was positioned close to Sparkrender during the final fight.
+The rest of the party was spread throughout the Observatory and had taken damage.
+Throk followed Pat's attack with Eldritch Blast and delivered the killing blow.
 
-Floyd reached Level 2 and gained his normal cleric Level 2 features according to his character sheet and chosen domain.
-
-Do not invent Floyd's god, domain, or custom Channel Divinity feature unless Andy provides or approves them.
+The session ended at the exact moment Sparkrender died.
 
 End state:
 
-The party completed the Observatory approach, D1 Overlook, and D2 Rotunda Ruins.
-
-Mek is dead.
-
-Minn survived unless contradicted by later notes.
-
-All stirges are dead.
-
-Floyd has reached Level 2.
-
-The party now knows another dragon is trapped beneath or inside the Observatory tower.
-
-The next session should continue deeper into the Observatory, likely involving D3, D4, D5, D6, Aidron, Sparkrender, or the ritual.
+* Sparkrender is dead.
+* D5 has not been searched.
+* Sparkrender's hoard has not been examined or acquired.
+* The D5 puzzle has not been solved.
+* The hidden route downstairs has not been discovered or opened.
+* The party has not entered D6.
+* The party has not found, spoken with, or freed Aidron.
+* The party has not determined what happened to the ritual, gathered dragon power, or Observatory instrument.
+* Minn remains near the bridge as lookout unless later clarified.
+* Minn expects the party to return Mek's body to Dragon's Rest.
+* Throk was poisoned in D4; the duration and current status were not established.
+* The party possesses the D4 book or journal, 2 potions of resistance, and 1 minor healing potion.
 
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.
 * Grusk and Morghul escaped and remain unresolved.
 * The cult of "the one god" first appeared connected to normal worshipers.
-* The party began with Level 0 backstory play before moving toward the larger campaign conflict.
-* Severed Whisper became tied to the party through Luskan, Captain Braddok Ironhand, the odd stone, and later criminal trouble in the city.
-* Pat Benatar's dragon-blood mystery is connected to a scale and clan symbol.
-* Brother Kai is searching for enlightenment after being sent out from his monastery.
 * The monastery vision showed the party that they had been singled out and that the crisis reaches across planes and realities.
-* At the monastery, the party shared a deep-meditation vision in which they were contacted by a powerful wizard-like being from another plane of reality. The being projected itself into a form the party could understand and warned that time, space, religion, and magic were fraying across planes or realities. The being did not know what was causing the rift.
-* Blackford Road caravan ambush image reference: Blackford Road Caravan Ambush.jpg
-* Monastery meditation vision image reference: Meditation Vision.jpg
-* At Seagrow Caves, Brother Kai's dragon claws awakened while he meditated in front of the elder mushrooms.
-* Pat Benatar killed the final fume drake in the crystal cave.
-* The party ended Session 10 wounded, out of healing potions, and facing the unresolved orange fire crystal in Seagrow Caves.
-* At Seagrow Caves, Throk's Level 2 patron power awakened when ghostly ancestral orc shields protected the party from the crystal/fire/fume burst.
-* Pat Benatar killed the harpy at the cursed shipwreck with dragon breath beside the crow's nest, ending the charm on Throk and Severed Whisper.
-* Sev's Level 2 rogue awakening happened aboard the Compass Rose when he killed the first Luskan bounty hunter, used Disengage explosively, and leapt onto the mast.
-* Brother Kai executed the final Luskan bounty hunter with his dragon claws after interrogation, over Sev's protest.
-* Floyd GoldSeeker reached Level 2 at the Clifftop Observatory. His awakening was tied to Glittervein, his fallen crew, the golden light that saved him, and the realization that he was spared to help dig others out.
+* Brother Kai's dragon claws awakened while he meditated before the elder mushrooms.
+* Throk's Level 2 patron power awakened when ghostly ancestral orc shields protected the party.
+* Pat Benatar killed the harpy at the cursed shipwreck with dragon breath.
+* Sev's Level 2 rogue awakening happened aboard the Compass Rose.
+* Brother Kai executed the final Luskan bounty hunter after interrogation, over Sev's protest.
+* Floyd GoldSeeker reached Level 2 at the Clifftop Observatory.
+* The party paid Minn for his help and entrusted him with guarding the bridge.
+* Pat Benatar badly wounded Sparkrender with her shortbow.
+* Throk killed Sparkrender with Eldritch Blast.
+* The party killed Sparkrender before searching D5, solving the puzzle, examining the hoard, entering D6, or finding Aidron.
 
 ## Follow-Up Notes
