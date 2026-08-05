@@ -32,13 +32,25 @@
 * The party traveled to the Clifftop Observatory and completed D1 Overlook and D2 Rotunda Ruins.
 * Floyd GoldSeeker activated the moonstone key at D1 Overlook and created the magical bridge to the Observatory ruins.
 * Mek died during the D2 Rotunda Ruins stirge encounter.
-* Minn survived the D2 Rotunda Ruins stirge encounter unless later contradicted.
+* Minn survived the D2 Rotunda Ruins stirge encounter.
 * Floyd GoldSeeker reached Level 2 at the Clifftop Observatory.
 * The party learned another dragon is trapped beneath or inside the Clifftop Observatory tower.
+* The party gave Minn 1 gp. He became highly cooperative, shared everything he knew, offered to introduce them safely to the kobold camp, and asked them to return Mek's body to Dragon's Rest.
+* The party gave Minn another 1 gp to watch the magical bridge while they explored D4 and D5.
+* In D4, Throk was poisoned while opening the book or journal.
+* The party recovered the clue-bearing D4 book or journal.
+* Brother Kai accessed the D4 treasure, and the party received 2 potions of resistance and 1 minor healing potion.
+* The party entered D5 and immediately attacked Sparkrender without first investigating, negotiating, searching, or attempting the puzzle.
+* Pat Benatar struck Sparkrender hard with her shortbow.
+* Throk killed Sparkrender with Eldritch Blast.
+* The session ended at the exact moment Sparkrender died.
 
 ## Future Clocks
 
 * Grusk and Morghul remain unresolved.
 * The rift problem behind the cult remains unresolved.
-* Sparkrender's ritual at the Clifftop Observatory remains unresolved.
-* The dragon trapped beneath or inside the Observatory tower remains unresolved.
+* Determine the purpose and current condition of Sparkrender's ritual after his death.
+* Find and potentially free Aidron.
+* Resolve the gathered dragon power and Observatory instrument.
+* Search D5, examine the hoard, solve the puzzle, and discover the lower route if the party chooses.
+* Reconnect with Minn and return Mek's body to Dragon's Rest.
