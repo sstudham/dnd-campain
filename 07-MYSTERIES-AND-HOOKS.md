@@ -28,9 +28,14 @@
 * What answers died with the final bounty hunter?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
 * What, if anything, answered Floyd when the golden light helped him survive?
-* Can the party rescue or reach the dragon trapped beneath or inside the Clifftop Observatory tower?
-* What exactly is Sparkrender's ritual meant to do with the dead dragons' power?
+* Where exactly is Aidron trapped, and can the party find and free him?
+* What exactly was Sparkrender's ritual meant to do with the dead dragons' power?
+* Did Sparkrender's death stop, destabilize, or leave the ritual unchanged?
+* What happens to the gathered dragon power now that Sparkrender is dead?
 * How does the golden astronomical sculpture connect timing, pressure, celestial movement, dragon death, and hidden lines of power?
+* What does the D4 book or journal reveal about the D5 puzzle and the lower Observatory?
+* What remains hidden in the unsearched D5 chamber and hoard?
+* What do the D5 puzzle, hidden route, and D6 reveal?
 
 ## Plot Hooks
 
@@ -40,14 +45,15 @@
 * The orange fire crystal in Seagrow Caves remains unresolved and appears tied to the foul fumes and blight.
 * Brother Kai's awakened claws are a new character development to preserve without over-explaining yet.
 * Throk's new protective patron connection can later connect to questions about rage, strength, restraint, protection, and legacy.
-* The Cursed Shipwreck can show another expression of Stormwreck's dragon-death curse through death, sea, rot, undeath, memory, and something that will not stay buried.
+* The Cursed Shipwreck showed another expression of Stormwreck's dragon-death curse through death, sea, rot, undeath, memory, and something that would not stay buried.
 * Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
 * Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
-* The Clifftop Observatory revealed that Sparkrender is trying to mine the power of dead dragons.
+* The Clifftop Observatory revealed that Sparkrender was trying to mine the power of dead dragons.
+* The party killed Sparkrender before searching the chamber, solving the puzzle, examining the hoard, entering D6, or finding Aidron.
 * Floyd GoldSeeker carries the memory of his dead Glittervein crew and has vowed to protect his new adventuring companions.
 * Floyd's survivor story can connect to buried survivors, trapped creatures, hidden paths, divine light, stone, tools, and honoring the dead.
 * Floyd GoldSeeker reached Level 2 after hearing: "You were not the only one buried. Dig."
-* The party knows another dragon is trapped beneath or inside the Clifftop Observatory tower.
+* Minn asked the party to return Mek's body to Dragon's Rest.
 
 ## Needs Resolution
 
