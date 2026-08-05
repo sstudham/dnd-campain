@@ -297,6 +297,7 @@ Current media files:
 * Pat.jpg Headshot image of Pat Benatar
 * Meditation Vision.jpg Image of the party's shared deep-meditation vision at the monastery
 * Blackford Road Caravan Ambush.jpg Image of the Blackford Road ambush involving Shorn's caravan, Throk, Grusk, and Morghul
+* End of session 14.png Canonical visual reference for the exact final kill shot of Sparkrender at the end of Session 14 in D5 of the Clifftop Observatory
 * intro to Act 2.mp4 Video recap introducing Act 2 / next-session setup, summarizing the quest so far and introducing Floyd GoldSeeker. External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
 Character headshot rule:

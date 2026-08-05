@@ -1,6 +1,6 @@
 # Player Characters and Party Reference
 
-Latest character sheets received.
+Live D&D Beyond sheets refreshed August 5, 2026.
 
 ## Current Party
 
@@ -20,16 +20,20 @@ These image files are the authoritative visual canon and required face reference
 * Throk - Throk.jpg
 * Floyd GoldSeeker - Flloyd.jpg
 
+### Canonical Group Scene Reference
+
+* End of session 14.png - canonical visual reference for the exact final kill shot of Sparkrender in D5. Use it for the scene and composition while continuing to use the individual headshots above as the authoritative face references.
+
 ## Character Summaries
 
 ### Brother Kai
 
 * Headshot image reference: Kai.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151462120
-* Dragonborn Monk 1
+* Dragonborn Monk 2
 * Background: Sage
 * Role: mobile melee, martial philosopher, spiritual lens
-* AC 14, HP 9, Speed 30 ft.
+* AC 14, HP 9/13, Speed 40 ft.
 * STR 12, DEX 13, CON 12, INT 15, WIS 17, CHA 15
 * Notable skills: Arcana +4, History +4, Insight +5, Stealth +3, Perception +3
 * Passive Perception 13
@@ -38,7 +42,8 @@ These image files are the authoritative visual canon and required face reference
 * Breath Weapon: Fire, DC 11 Dex, 1d10, 2/Long Rest
 * Martial Arts: Unarmed Strike as Bonus Action; unarmed/monk weapon damage 1d6
 * Unarmored Defense AC 14
-* Planned Level 2 feature after Seagrow Caves awakening: Dragon Talons
+* Focus Points 2/2 and Uncanny Metabolism 1/1 on the live sheet.
+* Campaign Level 2 feature awakened after Seagrow Caves: Dragon Talons
   * Brother Kai's fingernails awaken into long dragon talons.
   * They are part of his body, not separate equipment.
   * They count as natural weapons and monk weapons.
@@ -55,6 +60,7 @@ These image files are the authoritative visual canon and required face reference
     * Level 5-10: 1d6 slashing
     * Level 11-16: 1d8 slashing
     * Level 17-20: 1d10 slashing
+* Sheet/campaign mismatches: D&D Beyond still spells the character's name "Brother Kia"; campaign canon uses Brother Kai. The live 2024 Monk 2 Martial Arts die is 1d6, while the campaign Dragon Talons scaling above lists 1d4 at levels 2-4; preserve the campaign entry until Scott rules on the mismatch.
 * Given to a quiet monastery on the north Sword Coast at age 5.
 * Does not remember his parents, clan, or anything before the monastery gates.
 * Raised with patience, silence, and discipline; taught that strength is for ending fights quickly, cleanly, and only when needed.
@@ -69,10 +75,10 @@ These image files are the authoritative visual canon and required face reference
 * Headshot image reference: Pat.jpg
 * Name clarification: Pat Benatar is a fictional Dungeons & Dragons player character played by Kim. The name does not refer to the real-world singer, celebrity, musician, or public figure. Never use, imitate, reference, or base art/story material on the real Pat Benatar. Treat "Pat Benatar" only as an in-world D&D character name. Use Pat.jpg as the authoritative face reference.
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/153959697
-* Dragonborn Rogue 1
+* Dragonborn Rogue 2
 * Background: Far Traveler
 * Role: face, investigator, ranged rogue, Stormwreck/dragon mystery hook
-* AC 13, HP 8, Speed 30 ft.
+* AC 13, HP 13/13, Speed 30 ft.
 * STR 8, DEX 14, CON 11, INT 12, WIS 14, CHA 16
 * Notable skills: Animal Handling +4, Insight +4, Investigation +3, Perception +6, Persuasion +7, Stealth +4
 * Expertise: Perception and Persuasion
@@ -81,6 +87,7 @@ These image files are the authoritative visual canon and required face reference
 * Fire resistance
 * Breath Weapon: Fire, DC 10 Dex, 1d10, 2/Long Rest
 * Sneak Attack 1d6
+* Cunning Action
 * Weapons: Shortbow +4, Shortsword +4
 * Appears mostly human, with gold-shining eyes, faint scales, and inner warmth that reveals dragon blood.
 * Grew up in a dragonborn clan but was treated as strange, possibly a bad omen or mystery, because she did not look fully dragonborn.
@@ -100,16 +107,17 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Sev.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151283816
-* Tabaxi Rogue 1
+* Tabaxi Rogue 2
 * Background: Custom Background
 * Role: scout, face, skirmisher, thief/rogue utility
-* AC 17, HP 14, Speed 30 ft., Climb 30 ft.
+* AC 17, HP 8/13, Speed 30 ft.
 * STR 12, DEX 18, CON 14, INT 10, WIS 10, CHA 17
-* Notable skills: Acrobatics +6, Deception +5, Insight +2, Intimidation +5, Investigation +2, Perception +4, Persuasion +7, Stealth +6
-* Expertise: Perception and Persuasion
-* Passive Perception 14
+* Notable skills: Acrobatics +6, Deception +7, Insight +2, Intimidation +5, Investigation +2, Perception +2, Persuasion +7, Stealth +6
+* Expertise: Deception and Persuasion
+* Passive Perception 12
 * Darkvision 60 ft.
 * Sneak Attack 1d6
+* Cunning Action
 * Feline Agility
 * Attuned magic item: Cloak of Protection
 * Weapons: Light Crossbow +6, Rapier +6, Tomahawks +6, Cat's Claws
@@ -127,18 +135,19 @@ These image files are the authoritative visual canon and required face reference
 
 * Headshot image reference: Throk.jpg
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151285499
-* Orc Warlock 1
+* Orc Warlock 2
 * Background: Sage
 * Role: charisma caster, ranged utility, familiar user
-* AC 11, HP 10, Speed 30 ft.
+* AC 12, HP 9/13 plus 5 temporary HP, Speed 30 ft.
 * STR 13, DEX 12, CON 15, INT 10, WIS 8, CHA 17
 * Notable skills: Arcana +2, History +2, Investigation +2, Survival +1
 * Passive Perception 9
 * Darkvision 120 ft.
 * Adrenaline Rush: Bonus Action Dash and gain 2 temp HP, 2/Short Rest
 * Relentless Endurance: drop to 1 HP instead of 0, 1/Long Rest
-* Pact of the Chain; Find Familiar listed
-* Weapons: Light Crossbow +3, Handaxe +3, Sickle +3
+* Magical Cunning 1/1 on the live sheet.
+* The live refresh did not return Throk's spell, invocation, or pact-slot selections. Table canon still establishes Eldritch Blast; confirm the rest on the sheet before relying on them.
+* Weapons: three Handaxes and a Sickle equipped/listed
 * From the Kingdom of Many-Arrows.
 * Young orc seeking to make his father proud; witnessed both raiding and trading eras and sees cooperation and usefulness as possible forms of strength.
 * Son of Bagronk War-Scarred, a regional commander who evolved from raider to protector of trade routes.
@@ -161,7 +170,7 @@ These image files are the authoritative visual canon and required face reference
 * Dwarf Cleric 2
 * Background: Soldier
 * Role: healer and front-line support
-* AC 13, HP 12, Speed 30 ft.
+* AC 13, HP 13/13, Speed 30 ft.
 * STR 15, DEX 13, CON 17, INT 12, WIS 10, CHA 8
 * Notable skills: Athletics +4, Insight +2, Intimidation +1, Medicine +2
 * Passive Perception 10
@@ -169,6 +178,8 @@ These image files are the authoritative visual canon and required face reference
 * Poison resistance; advantage to avoid or end Poisoned
 * Weapon: Mace +4, 1d6+2 bludgeoning
 * Key spells available/listed: Bless, Cure Wounds, Healing Word, Guiding Bolt, Command, Bane, Sanctuary, Shield of Faith, Detect Magic, Detect Evil and Good, Protection from Evil and Good
+* Equipped on the live sheet: Shield, Chain Shirt, and Mace.
+* Channel Divinity shows 2/2 on the live sheet. The current refresh did not return prepared-spell choices, so confirm preparation and spell slots before relying on the spell list above.
 * New to the party and may not be long-term.
 * Floyd was a master surveyor for the Goldseeker clan, known for finding rich veins of ore.
 * During an excavation at Glittervein, the mine collapsed and trapped Floyd and his crew underground.
@@ -200,10 +211,10 @@ These image files are the authoritative visual canon and required face reference
 
 ## Party Weaknesses
 
-* Low-level fragility: several characters have 8-10 HP.
+* Low-level fragility: Brother Kai and Severed Whisper are at 9/13 and 8/13 HP; Throk is at 9/13 HP with 5 temporary HP.
 * Limited front-line durability unless Floyd steps into that role.
 * Throk has very low Wisdom and Passive Perception.
-* Pat Benatar has only 8 HP.
+* Pat Benatar and Floyd GoldSeeker are currently at full HP, but the party has only one healing consumable with unconfirmed mechanics.
 * Party has two rogues and one monk, so encounters should support mobility, positioning, social leverage, and tactical creativity rather than pure slugging.
 
 ## Encounter Design Notes

@@ -158,6 +158,8 @@ Throk followed Pat's attack with Eldritch Blast and delivered the killing blow.
 
 The session ended at the exact moment Sparkrender died.
 
+Canonical scene artwork for this exact final moment is "End of session 14.png". It shows Throk's Eldritch Blast striking Sparkrender after Pat Benatar's shortbow attack, Severed Whisper closest to the dragon, and the battered party still spread through the Observatory. The image is a freeze-frame of the kill and does not imply any subsequent searching or exploration.
+
 End state:
 
 * Sparkrender is dead.

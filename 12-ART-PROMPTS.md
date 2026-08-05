@@ -178,6 +178,20 @@ Prompt notes: Preserve Floyd's authoritative headshot identity from Flloyd.jpg. 
 
 Do not treat this image as replacing canon text. Written prep and session log text remain primary if there is any conflict.
 
+### Session 14 Final - Sparkrender's Death
+
+Image file: End of session 14.png
+
+Use as the canonical visual reference for the exact final kill shot of Sparkrender in D5 at the end of Session 14.
+
+Scene shown: Sparkrender collapses as Throk's Eldritch Blast lands after Pat Benatar's hard shortbow strike. Severed Whisper is the closest party member to the dragon. Floyd GoldSeeker, Brother Kai, Pat Benatar, Throk, and Severed Whisper are battered and remain spread through the ruined Clifftop Observatory in their final combat positions.
+
+Purpose: preserve the instant the fight ended as a tense combat freeze-frame, not a victory pose or post-battle exploration scene.
+
+Canon limits: the party has not searched D5, examined or acquired the hoard, solved the puzzle, opened the hidden route, entered D6, found Aidron, or resolved the ritual and gathered dragon power. Do not infer any of those events from the image.
+
+For future depictions, use this image as the canonical scene and composition reference while continuing to use Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg as the authoritative face references. Written canon and the Session 14 log remain primary for event details if there is any conflict.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.

@@ -11,6 +11,7 @@ Current situation:
 * Throk killed him with Eldritch Blast.
 * Severed Whisper was close to Sparkrender during the final combat scene.
 * The rest of the party was spread around the Observatory and had taken damage.
+* "End of session 14.png" is the canonical visual reference for this exact starting tableau.
 * The session ended before anyone searched or investigated the room.
 * D5 remains unsearched.
 * Sparkrender's hoard has not been examined or acquired.
@@ -100,6 +101,25 @@ Possible outcomes:
 * Decide what happens to the hoard.
 * Reconnect with Minn.
 * Carry Mek's body back to Dragon's Rest.
+
+## Live D&D Beyond Snapshot
+
+Refreshed August 5, 2026:
+
+* Floyd GoldSeeker: Cleric 2, AC 13, 13/13 HP. Shield, Chain Shirt, and Mace equipped. Channel Divinity shows 2/2.
+* Brother Kai: Monk 2, AC 14, 9/13 HP, Speed 40 ft. Focus Points 2/2 and Uncanny Metabolism 1/1.
+* Severed Whisper: Rogue 2, AC 17, 8/13 HP. Cunning Action available; Feline Agility tracker shows 0/1 with unclear state.
+* Throk: Warlock 2, AC 12, 9/13 HP plus 5 temporary HP. Relentless Endurance and Magical Cunning show 1/1. Table canon says he was poisoned in D4; duration and current condition remain unknown.
+* Pat Benatar: Rogue 2, AC 13, 13/13 HP. Shortbow and Shortsword listed; Cunning Action available.
+
+Sheet/campaign notes:
+
+* D&D Beyond still spells Brother Kai's name as "Brother Kia." Use Brother Kai in campaign files.
+* The live refresh did not return Throk's spell, invocation, or pact-slot selections, although table canon establishes Eldritch Blast.
+* The live refresh did not return Floyd's prepared-spell choices or spell-slot state. Confirm them at the table before relying on healing or support magic.
+* The live breath-weapon trackers for Brother Kai and Pat Benatar returned inconsistent values. Confirm remaining uses at the table rather than treating the tracker as canon.
+* DM supply pressure: three party members are wounded, Throk's poison status is unresolved, and the only known healing consumable is the minor healing potion with unspecified mechanics.
+* Practical equipment note: Floyd's shield is equipped; Severed Whisper has a light crossbow with 20 bolts; Pat Benatar has her shortbow; Throk's live equipped list shows three handaxes and a sickle but no ranged weapon other than his table-established Eldritch Blast.
 
 ## Current Resource Snapshot
 
