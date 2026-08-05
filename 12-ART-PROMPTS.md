@@ -24,6 +24,22 @@ This video is a session aid, not new canon by itself. Written canon and session 
 
 ## Uploaded Scene Visual References
 
+### Act 1 Scene 3 Planning.png
+
+Use as the one-page player-facing handout for the pre-Session 15 discussion that shapes the tone, structure, priorities, spotlight, and challenge mix of Act 1, Scene 3.
+
+The handout includes:
+
+* Where We Are
+* Scene 3 Direction
+* What Do We Want More Of?
+* What Should It Feel Like?
+* Story Questions
+
+Its visual language uses subtle dragon, ruined-observatory, map, and storm imagery. It contains no character portraits.
+
+This handout is planning material, not canon by itself, and it is not evidence that any future event has occurred. Written campaign files remain primary if there is any conflict.
+
 ### Meditation Vision.jpg
 
 Use as the visual reference for the monastery deep-meditation vision. The party is in a shared meditative state when their minds are pulled toward another plane of reality. A powerful wizard-like being projects itself into a form they can understand because its true plane does not exist in ordinary three-dimensional space. The image should support the memory that the party was warned about a rift affecting time, space, religion, and magic across planes or realities.

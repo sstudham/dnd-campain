@@ -1,5 +1,35 @@
 # Next Session Prep
 
+## Pre-Session 15 Planning Discussion
+
+Before running Session 15, use `Act 1 Scene 3 Planning.png` to guide a player planning discussion.
+
+Explain the campaign structure briefly:
+
+* **Story:** the full Level 1-20 campaign.
+* **Act:** a major phase of the Story.
+* **Scene:** a multi-session adventure that usually covers one character level.
+* **Session:** one game night within a Scene.
+
+Remind the players where the campaign stands:
+
+* Act 1 is **Discovery**.
+* Scene 1 covered Level 1: party formation, the monastery vision, and the Cult of One God.
+* Scene 2 covers Level 2: Stormwreck Isle, Dragon's Rest, the caves, the shipwreck, the undead, the island's dragons, and Sparkrender.
+* Session 15 will close Scene 2 and reveal that dragons and ancient draconic sites connect to what comes next.
+
+Ask the players:
+
+* What do they want more of in Scene 3?
+* What should the next Scene feel like?
+* Which story or character threads should receive attention?
+
+Do not finalize Scene 3 before receiving their feedback.
+
+The likely Level 3 framework is a threat to a settlement involving a dragon-related faction, civilians, secrets, and competing objectives. Possible structures include defense, investigation, pursuit, infiltration, negotiation, or direct attack. This is Greenest-inspired campaign planning, but do not tell the players that it is *Tyranny of Dragons*.
+
+Record the group's preferences later in the appropriate planning files. Player feedback shapes tone, structure, spotlight, and challenge mix; it does not determine outcomes before play.
+
 ## Current Starting Point
 
 Next session begins in D5 at the Clifftop Observatory, at the exact moment after Sparkrender's death.

@@ -298,6 +298,7 @@ Current media files:
 * Meditation Vision.jpg Image of the party's shared deep-meditation vision at the monastery
 * Blackford Road Caravan Ambush.jpg Image of the Blackford Road ambush involving Shorn's caravan, Throk, Grusk, and Morghul
 * End of session 14.png Canonical visual reference for the exact final kill shot of Sparkrender at the end of Session 14 in D5 of the Clifftop Observatory
+* Act 1 Scene 3 Planning.png Player-facing one-page planning handout for choosing the tone, structure, and priorities of Act 1, Scene 3 before Session 15. This is planning material, not canon by itself, and it is not a session image or evidence that any Scene 3 events have occurred.
 * intro to Act 2.mp4 Video recap introducing Act 2 / next-session setup, summarizing the quest so far and introducing Floyd GoldSeeker. External Google Drive URL: https://drive.google.com/file/d/1xWBvNJhmofpOUHnCFBNsXUv828qtHIDA/view?usp=sharing
 
 Character headshot rule:

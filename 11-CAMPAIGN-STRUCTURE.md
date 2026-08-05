@@ -366,6 +366,47 @@ Adaptation effort:
 
 ### Level 3 — Tyranny of Dragons: Greenest in Flames and Raiders' Camp
 
+#### Act 1, Scene 3 Player Planning Session
+
+Before Session 15, discuss what kind of Level 3 experience the players want. Act 1 remains the **Discovery** phase. Scene 3 should move toward a dragon-related threat involving a settlement, a faction, civilians, secrets, and competing objectives.
+
+The likely structure is Greenest-inspired, but do not call it *Tyranny of Dragons* in player-facing material. Players are choosing the experience they want, not deciding the outcomes of the adventure.
+
+Ask which challenge types the group wants more of:
+
+* Combat
+* Puzzles
+* Exploration
+* Investigation
+* Stealth
+* Roleplay
+* Lore
+* Moral choices
+* Character backstory
+* Party bonding
+
+Ask which adventure structures sound most appealing:
+
+* Town defense
+* Enemy camp infiltration
+* Chase
+* Mystery
+* Rescue mission
+* Political conflict
+* Dungeon exploration
+* Mixed adventure
+
+Discuss these story questions without resolving them in advance:
+
+* Should the Cult of One God return in Scene 3?
+* Should Grusk and Morghul return?
+* Should the dragon be an enemy, ally, victim, or independent force?
+* Which character should receive the strongest spotlight?
+* Should spotlight focus on one character per session, one character per Scene, especially at higher levels, or return home with that character's backstory?
+* How directly should Scene 3 connect to Stormwreck Isle?
+
+Player input shapes tone, structure, spotlight, and challenge mix. Outcomes are determined in play. Use `Act 1 Scene 3 Planning.png` as the player-facing handout for this discussion.
+
 Local story:
 
 * Defend civilians.
