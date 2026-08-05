@@ -2,7 +2,7 @@
 
 ## Campaign Premise
 
-* This is a long-form D\&D campaign in a Faerun-inspired world.
+* This is a long-form D&D campaign in a Faerun-inspired world.
 * The campaign currently involves weakening planar barriers, strange magical anomalies, and a religious/planar threat
 * The world has suffered, or will suffer, a major catastrophe that weakens the barriers between planes.
 * The rift is a wound in reality.
@@ -38,8 +38,13 @@
 * Brother Kai is seeking enlightenment after being sent out from his monastery.
 * Floyd GoldSeeker survived the Glittervein mine collapse after a golden ray of light gave him strength to escape; he believes this was divine intervention.
 * Floyd GoldSeeker reached Level 2 at the Clifftop Observatory after hearing: "You were not the only one buried. Dig."
-* Sparkrender is trying to mine the power of dead dragons at the Clifftop Observatory.
-* Another dragon is trapped beneath or inside the Clifftop Observatory tower.
+* Sparkrender was trying to mine the power of dead dragons at the Clifftop Observatory.
+* The party attacked Sparkrender immediately upon reaching him in D5.
+* Pat Benatar struck Sparkrender hard with her shortbow.
+* Throk killed Sparkrender with Eldritch Blast.
+* Sparkrender is dead.
+* Another dragon, Aidron, remains trapped beneath or inside the Clifftop Observatory tower and has not yet been encountered or freed.
+* The Observatory ritual, gathered dragon power, D5 puzzle, hoard, lower route, and D6 remain unresolved.
 
 ## Open Canon Questions
 
@@ -47,7 +52,11 @@
 * What is the scale connected to Pat Benatar's clan mark?
 * What are Grusk and Morghul doing after escaping?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
-* Can the party rescue or reach the dragon trapped beneath or inside the Clifftop Observatory tower?
+* Can the party find and free Aidron?
+* What was Sparkrender's ritual intended to accomplish?
+* Did Sparkrender's death stop, destabilize, or leave the ritual unchanged?
+* What happens to the gathered dragon power?
+* What do the D5 puzzle and lower Observatory reveal?
 * What caused the rift?
 * Is the rift being exploited by someone or something?
 * How exactly is the rift changing the way gods interact with the world?
