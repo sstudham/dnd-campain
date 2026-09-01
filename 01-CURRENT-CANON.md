@@ -45,6 +45,20 @@
 * Sparkrender is dead.
 * Another dragon, Aidron, remains trapped beneath or inside the Clifftop Observatory tower and has not yet been encountered or freed.
 * The Observatory ritual, gathered dragon power, D5 puzzle, hoard, lower route, and D6 remain unresolved.
+* CLICK is an established recurring table mechanic: after fair descriptive clues, a loud isolated "CLICK" gives each player three real-world seconds to declare one immediate instinctive action. Full procedure is in `11-CAMPAIGN-STRUCTURE.md`.
+
+## Canonical DM Truths for Session 15
+
+These facts are fixed behind-the-screen canon. They have not yet occurred in play and do not belong in the session log until the players establish the outcome.
+
+* Sparkrender's death destabilizes the Clifftop Observatory. Its ancient machinery behaves as though it is trying to force the moment back into an older pattern: statues reset, rubble pulls backward, moments repeat, and shadows move ahead of their owners. The Observatory need not be conscious.
+* The emotional conflict is painful reality versus perfect falsehood. The machinery constructs a flawless false Mek from Minn's memories. The echo is not Mek, is not a resurrection, knows nothing Minn does not know, and reforms if merely attacked.
+* Four scholar statues must face the Dragon of Dawn constellation to open the lower route. The Observatory's blue corruption pulls them away from alignment.
+* Aidron is a living bronze dragon trapped below D5 in shifting stone and corrupted golden lines. Freeing him and breaking the Observatory's forced pattern are the same climax.
+* When Aidron comes free, his bronze light can meet the Observatory's ancient gold, crack the blue corruption, end the repeated moments, and expose a distant connection.
+* The connection shows an unnamed human settlement under immediate threat beneath a torn sky, including a dragon's shadow and a distant figure capable of appearing to look back through another golden device.
+* If the party returns Mek to Dragon's Rest, Myla receives his body and Minn's intended final words are: "He came home."
+* Session 15 has no Level 3 advancement and no Scene 3 planning discussion.
 
 ## Open Canon Questions
 
@@ -54,9 +68,9 @@
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
 * Can the party find and free Aidron?
 * What was Sparkrender's ritual intended to accomplish?
-* Did Sparkrender's death stop, destabilize, or leave the ritual unchanged?
-* What happens to the gathered dragon power?
-* What do the D5 puzzle and lower Observatory reveal?
+* What was the Observatory's older pattern originally built to accomplish?
+* What lasting effects remain after Aidron's bronze light meets the ancient gold?
+* Where is the endangered settlement shown through the Observatory, and who is looking back?
 * What caused the rift?
 * Is the rift being exploited by someone or something?
 * How exactly is the rift changing the way gods interact with the world?

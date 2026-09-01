@@ -208,6 +208,67 @@ Canon limits: the party has not searched D5, examined or acquired the hoard, sol
 
 For future depictions, use this image as the canonical scene and composition reference while continuing to use Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg, and Pat.jpg as the authoritative face references. Written canon and the Session 14 log remain primary for event details if there is any conflict.
 
+### Session 15 Opening Recap Image - The Dragon Falls, the Rift Answers
+
+Use this image on screen throughout the long Session 15 opening recap.
+
+Final asset: `Session 15 Opening Rift Climax FINAL.png`. This version preserves the original scene while correcting Throk's face against `Throk.jpg`.
+
+Required references:
+
+* `End of session 14.png` for the exact D5 chamber, party placement, Sparkrender's fall, and the instant at which the previous session ended.
+* `Kai.jpg` for Brother Kai's exact face.
+* `Pat.jpg` for the exact face of the fictional D&D character Pat Benatar. Do not reference or resemble the real-world singer.
+* `Sev.jpg` for Severed Whisper's exact face and Tabaxi identity.
+* `Throk.jpg` for Throk's exact face and orc identity.
+* `Flloyd.jpg` for Floyd GoldSeeker's exact face and dwarf identity.
+
+Throk identity lock: preserve the exact mature half-orc face from `Throk.jpg`, including his angular features, swept-back dark hair, pointed ears with silver hoops, restrained lower tusks, short dark goatee, red-brown eyes, and olive-green skin. Do not substitute a generic orc face.
+
+Prompt:
+
+Create a cinematic 16:9 dark-fantasy campaign image showing the exact frozen heartbeat after Sparkrender dies in D5 of the ruined Clifftop Observatory. Match the chamber and broad character positions from `End of session 14.png`: Sparkrender's young blue dragon body is collapsing across the golden star map; the last residue of Throk's Eldritch Blast crosses the chamber after Pat Benatar's devastating shortbow hit; Severed Whisper is the closest adventurer to the dragon; Brother Kai, Floyd GoldSeeker, Pat Benatar, and Throk remain battered and spread through their final combat positions. This is not a victory pose.
+
+The Observatory reacts before the body finishes falling. Every golden astronomical ring turns at once. Blue-white energy tears from Sparkrender into the star map, and the gold lines descend into impossible depth. Broken windows briefly overlap several half-transparent memories: a silent monastery beneath impossible stars, a sulfurous crystal cave, the drowned deck of the Compass Rose, and distant unfamiliar towers beneath a torn sky. These are nonliteral Rift reflections, not separate characters or completed future events. Shadows move a fraction ahead of their owners. Rain outside hangs still and begins to fall upward.
+
+Across the distant magical bridge, keep Minn small but visible beside Mek's covered or still body. A subtle false outline of Mek begins to form inside the golden machinery, clearly uncanny and not a true resurrection. Suggest a trapped bronze dragon below only through one bronze-gold flare beneath cracked stone; do not show Aidron directly and do not show him freed.
+
+Mood: awe, grief, danger, and the realization that killing the dragon has opened the real climax. Color palette: storm-black stone, old gold, electric blue, restrained bronze, and narrow threads of Floyd's warm golden light. High-detail painterly realism, cinematic wide composition, strong depth, readable silhouettes, dramatic volumetric light. Preserve every visible PC's authoritative face exactly from the supplied headshots; do not redesign, beautify, age-shift, or substitute generic adventurers.
+
+Do not show the puzzle solved, the staircase open, the hoard claimed, Aidron visible or freed, Minn reunited with Mek, a settlement, a future villain, readable text, logos, UI, or a triumphant celebration.
+
+This is planning art for an unplayed opening moment. It does not make the proposed Rift reaction canon by itself.
+
+### Session 15 D5 Puzzle Image - Four Scholars and the False Brother
+
+Use this image when the party begins investigating the D5 puzzle.
+
+Final asset: `Session 15 D5 Puzzle Rift Climax FINAL.png`. This version preserves the original puzzle scene while correcting Throk's face against `Throk.jpg`.
+
+Required references:
+
+* `End of session 14.png` for the D5 environment and the party's established visual continuity.
+* `Kai.jpg`, `Pat.jpg`, `Sev.jpg`, `Throk.jpg`, and `Flloyd.jpg` as mandatory exact face references for every visible player character.
+* Pat Benatar is only the fictional D&D character shown in `Pat.jpg`; never reference the real singer.
+
+Throk identity lock: preserve the exact mature half-orc face from `Throk.jpg`, including his angular features, swept-back dark hair, pointed ears with silver hoops, restrained lower tusks, short dark goatee, red-brown eyes, and olive-green skin. Do not substitute a generic orc face.
+
+Prompt:
+
+Create a cinematic 16:9 dark-fantasy illustration of all five player characters in D5 of the Clifftop Observatory during an active magical puzzle and reality fracture. The room contains a circular golden star map set into the stone floor, four enormous scholar statues around it, broken stained-glass windows, Sparkrender's dead blue dragon body lying where he fell, and an unclaimed scatter of coins and blue gems. Preserve the architecture and party identity established in `End of session 14.png`.
+
+Show the puzzle in progress, not solved. The southeast portion of the star map contains a bright dragon-shaped constellation, the Dragon of Dawn. Two statues point the wrong way, one is being turned by the party, and one has just settled toward the constellation with warm gold light at its base. Blue energy strains to drag the statues back out of alignment. The floor remains closed; no open staircase is visible.
+
+Give each character a purposeful, story-specific action while preserving exact faces from the headshots. Floyd GoldSeeker reads cracks and load-bearing lines like a master surveyor, his miner-like warhammer/pick and warm golden light marking a safe seam. Brother Kai stands perfectly still with dragon talons lowered, using discipline rather than violence to steady the moving geometry. Pat Benatar holds or reaches toward her warm clan-marked scale as an older matching pattern glows in the stone beneath Sparkrender's crude blue alterations. Severed Whisper moves between the tempting hoard and the endangered route, spotting a hidden star-line like a map beyond the island. Throk braces against the surge and turns ancestral, shield-like power outward to protect the others after landing the killing blow.
+
+Across the chasm or in a visually connected side of the composition, show Minn facing a flawless but translucent image of Mek generated by the golden rings. The false Mek is pale, smiling, shadowless, and reaching toward Minn; the real Mek's body remains still nearby. Make the difference emotionally clear without gore. Beneath the floor, imply Aidron only through a bronze flare and a heavy impact cracking dust from the stones. Rain outside falls upward, repeated silhouettes lag or lead by a heartbeat, and fragments of monastery, cave, and shipwreck geometry flicker at the edges.
+
+Mood: urgent puzzle under pressure, grief versus false hope, teamwork, and cosmic dread. Color palette: old gold, electric blue, bronze, storm gray, and narrow warm divine light. High-detail semi-realistic painterly fantasy, dramatic wide composition, clear readable actions, no posed lineup.
+
+Do not show the staircase open, Aidron directly, the puzzle completed, the hoard collected, Mek resurrected, future outcomes, character redesigns, extra party members, readable text, logos, or UI.
+
+This is planning art for an unplayed puzzle climax. It does not make the proposed events or outcomes canon by itself.
+
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.

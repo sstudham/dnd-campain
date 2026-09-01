@@ -22,4 +22,4 @@
 * Bagronk War-Scarred - Throk's father, a regional orc commander who shifted from raider to protector of trade routes.
 * Grek - Throk's younger sister.
 * Mek - Myla's brother; died during the D2 Rotunda Ruins stirge encounter at the Clifftop Observatory. Minn asked the party to return Mek's body to Dragon's Rest.
-* Aidron - dragon trapped beneath or inside the Clifftop Observatory tower. The party has not yet found, spoken with, or freed Aidron.
+* Aidron - living bronze dragon trapped below D5 of the Clifftop Observatory in shifting stone and corrupted golden lines. The party has not yet found, spoken with, or freed him. His rescue and the breaking of the Observatory's forced pattern are the same planned climax.

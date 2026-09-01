@@ -49,8 +49,9 @@
 
 * Grusk and Morghul remain unresolved.
 * The rift problem behind the cult remains unresolved.
-* Determine the purpose and current condition of Sparkrender's ritual after his death.
-* Find and potentially free Aidron.
-* Resolve the gathered dragon power and Observatory instrument.
-* Search D5, examine the hoard, solve the puzzle, and discover the lower route if the party chooses.
+* Survive the Observatory's attempt to force the chamber back into its old pattern after Sparkrender's death.
+* Align the four scholars toward the Dragon of Dawn and open the lower route if the party chooses.
+* Find and potentially free Aidron, a living bronze dragon trapped in shifting stone and corrupted golden lines.
+* Resolve the gathered dragon power and the Observatory's distant connection to an endangered human settlement.
+* Search D5 and decide what to do with the unclaimed hoard.
 * Reconnect with Minn and return Mek's body to Dragon's Rest.

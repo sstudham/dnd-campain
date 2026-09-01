@@ -28,14 +28,14 @@
 * What answers died with the final bounty hunter?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
 * What, if anything, answered Floyd when the golden light helped him survive?
-* Where exactly is Aidron trapped, and can the party find and free him?
+* Can the party free Aidron from the shifting stone and corrupted golden lines below D5?
 * What exactly was Sparkrender's ritual meant to do with the dead dragons' power?
-* Did Sparkrender's death stop, destabilize, or leave the ritual unchanged?
-* What happens to the gathered dragon power now that Sparkrender is dead?
+* What older purpose was the Observatory's forced pattern originally meant to serve?
+* What lasting effects follow when Aidron's bronze light meets the Observatory's ancient gold?
 * How does the golden astronomical sculpture connect timing, pressure, celestial movement, dragon death, and hidden lines of power?
 * What does the D4 book or journal reveal about the D5 puzzle and the lower Observatory?
 * What remains hidden in the unsearched D5 chamber and hoard?
-* What do the D5 puzzle, hidden route, and D6 reveal?
+* Where is the endangered human settlement shown through the distant connection, and who appears to look back?
 
 ## Plot Hooks
 

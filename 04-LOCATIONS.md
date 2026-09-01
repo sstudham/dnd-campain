@@ -14,8 +14,8 @@
 * D1 Overlook - Clifftop Observatory overlook with two marble dragon statues veined with gold; Floyd GoldSeeker activated the moonstone key here to create the magical bridge.
 * D2 Rotunda Ruins - ruined Observatory rotunda with a golden astronomical sculpture and five dragon effigies; Mek died here, Minn survived, all eight stirges were killed, and Floyd GoldSeeker reached Level 2.
 * D4 - Observatory chamber where the party recovered a clue-bearing book or journal. Throk was poisoned while opening it. Brother Kai accessed the treasure and the party received 2 potions of resistance and 1 minor healing potion.
-* D5 - chamber where the party immediately attacked Sparkrender. Pat Benatar struck him hard with her shortbow, and Throk killed him with Eldritch Blast. The session ended at his death. D5 remains unsearched; its hoard, puzzle, hidden route, and connection to D6 remain unexplored.
-* D6 - lower Observatory area not yet entered. Aidron is believed to be trapped beneath or inside the tower.
+* D5 - chamber where the party immediately attacked Sparkrender. Pat Benatar struck him hard with her shortbow, and Throk killed him with Eldritch Blast. The session ended at his death. D5 remains unsearched. Behind-the-screen canon: Sparkrender's death destabilizes the Observatory; four scholar statues aligned toward the Dragon of Dawn open the lower route while blue corruption tries to restore the old pattern.
+* D6 - lower Observatory area not yet entered. Behind-the-screen canon: Aidron is a living bronze dragon trapped here in shifting stone and corrupted golden lines.
 
 ## Important Details
 
@@ -25,3 +25,4 @@
 ## Unvisited or Rumored
 
 * The lower Observatory beyond D5.
+* An unnamed human settlement seen only through the Observatory's distant golden connection, threatened beneath a torn sky by a dragon-shaped shadow.

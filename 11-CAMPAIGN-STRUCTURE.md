@@ -16,6 +16,22 @@ Planning structure, not canon unless later confirmed in canon files.
 * Do not assume every player is tracking complex lore, names, or factions.
 * The current priority is party cohesion and shared identity before deep plot advancement.
 
+## Table Mechanic: CLICK - Three-Second Instinct
+
+Use the **CLICK** mechanic roughly once every two to four sessions, at irregular intervals, when an environmental clue can reward close attention.
+
+* Only a loud, isolated **"CLICK"** from the DM activates the mechanic. Ordinary uses of the word do not count.
+* Before the trigger, describe at least one fair, actionable clue about the danger or rapidly changing situation.
+* When the DM says **"CLICK,"** every player has three real-world seconds to call out one short, immediate action or intention.
+* Players may not confer, ask for the description again, search their sheets, or revise an action after hearing someone else's response.
+* A player who gives no response within three seconds hesitates or freezes for that instant.
+* The declaration does not need rules language. "Run downhill," "dive aside," "grab Pat," "raise my shield," or "freeze" is enough.
+* Overlapping answers are allowed. After the three seconds, the DM repeats each declared intention back and resolves the moment using normal narration, checks, saves, and consequences.
+* Reward responses that fit the clues and situation; allow creative answers rather than requiring one exact phrase.
+* Use the declared action to set position, advantage, disadvantage, or a reasonable DC. An obviously effective action may work without a roll.
+* CLICK should create urgency, surprise, and memorable consequences, not arbitrary instant death. Do not use it for complex moral choices, dialogue, or irreversible character decisions that deserve time to think.
+* Introduce the mechanic with moderate stakes. Later uses may become more dangerous once the table understands the signal.
+
 ## Current Rift / One God Framing
 
 * The "one god" cult currently gives a human and religious face to the rift in space, time, religion, and magic.
