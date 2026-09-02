@@ -45,13 +45,28 @@
 * Throk killed Sparkrender with Eldritch Blast.
 * The session ended at the exact moment Sparkrender died.
 
+## Canonical Session 15 Sequence
+
+These events are fixed canon for the Session 15 ending but remain future relative to the played session log until they occur at the table.
+
+* Sparkrender's death destabilizes the Observatory and forces the party into the puzzle, Minn's false-Mek conflict, and Aidron's rescue.
+* Aidron is freed and returns alive to Dragon's Rest.
+* Minn carries Mek's body home. Myla receives him, the kobolds gather around him, and Minn says, "He came home."
+* Runara and Aidron tell the party that what awakened in the Observatory reached outward and that other dragons will have felt it.
+* Aidron warns that some dragons will understand more, some will lie, some will try to use it, and some may already be moving because of it.
+* Runara tells the party that if they want to understand the wound, they should follow the dragons. Aidron warns them not to interpret that as advice to trust dragons.
+* The next morning, the party sails away from Stormwreck Isle while Minn and Myla stand together, Runara raises one hand, and Aidron watches from the highest cliff.
+* After Stormwreck disappears behind them, Pat Benatar's scale becomes warm.
+* A distant point of golden light appears beyond the horizon, moves, and is accompanied by a vast winged shadow. The scale then cools.
+* The Stormwreck epilogue ends with the party sailing toward a world in which dragons are already waiting.
+
 ## Future Clocks
 
 * Grusk and Morghul remain unresolved.
 * The rift problem behind the cult remains unresolved.
-* Survive the Observatory's attempt to force the chamber back into its old pattern after Sparkrender's death.
-* Align the four scholars toward the Dragon of Dawn and open the lower route if the party chooses.
-* Find and potentially free Aidron, a living bronze dragon trapped in shifting stone and corrupted golden lines.
+* Determine what lasting consequences remain after the Observatory is broken open and Aidron is freed.
 * Resolve the gathered dragon power and the Observatory's distant connection to an endangered human settlement.
-* Search D5 and decide what to do with the unclaimed hoard.
-* Reconnect with Minn and return Mek's body to Dragon's Rest.
+* Search D5 and decide what to do with the unclaimed hoard if that remains available after the climax.
+* Determine which dragons felt the Observatory event, what they understood, and which are already moving in response.
+* Follow the draconic lead beyond Stormwreck without assuming dragons are unified or trustworthy.
+* Determine why Pat Benatar's scale responded to the distant golden light and winged shadow.
