@@ -28,7 +28,6 @@
 * What answers died with the final bounty hunter?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
 * What, if anything, answered Floyd when the golden light helped him survive?
-* Can the party free Aidron from the shifting stone and corrupted golden lines below D5?
 * What exactly was Sparkrender's ritual meant to do with the dead dragons' power?
 * What older purpose was the Observatory's forced pattern originally meant to serve?
 * What lasting effects follow when Aidron's bronze light meets the Observatory's ancient gold?
@@ -36,6 +35,10 @@
 * What does the D4 book or journal reveal about the D5 puzzle and the lower Observatory?
 * What remains hidden in the unsearched D5 chamber and hoard?
 * Where is the endangered human settlement shown through the distant connection, and who appears to look back?
+* Why can dragons beyond Stormwreck feel what awakened in the Observatory?
+* Which dragons understood the event, which will lie about it, which intend to exploit it, and which are already moving?
+* Why does Pat Benatar's scale warm after the party leaves Stormwreck?
+* What dragon or draconic presence is represented by the distant golden light and vast winged shadow?
 
 ## Plot Hooks
 
@@ -49,11 +52,15 @@
 * Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
 * Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
 * The Clifftop Observatory revealed that Sparkrender was trying to mine the power of dead dragons.
-* The party killed Sparkrender before searching the chamber, solving the puzzle, examining the hoard, entering D6, or finding Aidron.
+* The party killed Sparkrender before searching the chamber, solving the puzzle, examining the hoard, entering D6, or finding Aidron in played table history.
 * Floyd GoldSeeker carries the memory of his dead Glittervein crew and has vowed to protect his new adventuring companions.
 * Floyd's survivor story can connect to buried survivors, trapped creatures, hidden paths, divine light, stone, tools, and honoring the dead.
 * Floyd GoldSeeker reached Level 2 after hearing: "You were not the only one buried. Dig."
 * Minn asked the party to return Mek's body to Dragon's Rest.
+* Canonical Session 15 outcome: Aidron is freed and Mek is carried home to Dragon's Rest.
+* Runara's next lead is explicit: if the party wants to understand the wound, follow the dragons.
+* Aidron's warning establishes that dragons are not a unified source of truth: some may understand more, some will lie, some may exploit the event, and some may already be moving.
+* Pat Benatar's scale reacts after the party leaves Stormwreck to a distant golden light and winged shadow, providing a direct draconic lead beyond the island.
 
 ## Needs Resolution
 
