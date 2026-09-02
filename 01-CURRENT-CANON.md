@@ -43,8 +43,8 @@
 * Pat Benatar struck Sparkrender hard with her shortbow.
 * Throk killed Sparkrender with Eldritch Blast.
 * Sparkrender is dead.
-* Another dragon, Aidron, remains trapped beneath or inside the Clifftop Observatory tower and has not yet been encountered or freed.
-* The Observatory ritual, gathered dragon power, D5 puzzle, hoard, lower route, and D6 remain unresolved.
+* Another dragon, Aidron, remains trapped beneath or inside the Clifftop Observatory tower and has not yet been encountered or freed in played table history.
+* The Observatory ritual, gathered dragon power, D5 puzzle, hoard, lower route, and D6 remain unresolved in played table history.
 * CLICK is an established recurring table mechanic: after fair descriptive clues, a loud isolated "CLICK" gives each player three real-world seconds to declare one immediate instinctive action. Full procedure is in `11-CAMPAIGN-STRUCTURE.md`.
 
 ## Canonical DM Truths for Session 15
@@ -57,7 +57,15 @@ These facts are fixed behind-the-screen canon. They have not yet occurred in pla
 * Aidron is a living bronze dragon trapped below D5 in shifting stone and corrupted golden lines. Freeing him and breaking the Observatory's forced pattern are the same climax.
 * When Aidron comes free, his bronze light can meet the Observatory's ancient gold, crack the blue corruption, end the repeated moments, and expose a distant connection.
 * The connection shows an unnamed human settlement under immediate threat beneath a torn sky, including a dragon's shadow and a distant figure capable of appearing to look back through another golden device.
-* If the party returns Mek to Dragon's Rest, Myla receives his body and Minn's intended final words are: "He came home."
+* If the party returns Mek to Dragon's Rest, Myla receives his body and Minn says: "He came home."
+* The canonical Stormwreck epilogue continues after Minn's words. Aidron returns alive to Dragon's Rest and Runara meets him privately before addressing the party.
+* Runara and Aidron reveal that what awakened in the Observatory reached outward and that dragons can feel changes in the world. Other dragons will have felt it.
+* Aidron warns that some dragons will understand more, some will lie, some will try to use what happened, and some may already be moving because of it.
+* Runara gives the party the next durable lead: if they want to understand the wound, follow the dragons. Aidron explicitly warns them not to mistake that for advice to trust dragons.
+* The party leaves Stormwreck Isle by ship the next morning while Minn and Myla watch from the cliffs, Runara raises one hand, and Aidron watches from the highest cliff.
+* After Stormwreck disappears behind them, Pat Benatar's clan-marked scale becomes warm but not hot or painful.
+* A single point of golden light appears beyond the horizon, moves, and is accompanied by a vast winged shadow. The scale then cools. The identity of the distant dragon is not established.
+* The final canonical image of the Stormwreck epilogue is that Stormwreck Isle is behind the party and dragons are already waiting somewhere beyond the horizon.
 * Session 15 has no Level 3 advancement and no Scene 3 planning discussion.
 
 ## Open Canon Questions
@@ -66,11 +74,14 @@ These facts are fixed behind-the-screen canon. They have not yet occurred in pla
 * What is the scale connected to Pat Benatar's clan mark?
 * What are Grusk and Morghul doing after escaping?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
-* Can the party find and free Aidron?
 * What was Sparkrender's ritual intended to accomplish?
 * What was the Observatory's older pattern originally built to accomplish?
 * What lasting effects remain after Aidron's bronze light meets the ancient gold?
 * Where is the endangered settlement shown through the Observatory, and who is looking back?
+* Why could dragons beyond Stormwreck feel what awakened in the Observatory?
+* Which dragons understood the signal, which intend to exploit it, and which are already moving?
+* Why did Pat Benatar's scale warm after leaving Stormwreck?
+* What dragon or draconic presence produced the distant golden light and winged shadow?
 * What caused the rift?
 * Is the rift being exploited by someone or something?
 * How exactly is the rift changing the way gods interact with the world?
