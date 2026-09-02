@@ -103,13 +103,13 @@ The immediate purpose is simpler:
 * **0:20-1:20:** solve the D5 puzzle while the Observatory destabilizes and Minn faces Mek's false echo.
 * **1:20-1:30:** introduce CLICK during the collapsing descent.
 * **1:30-2:30:** reach Aidron and run his rescue together with the Observatory's final surge as the session's single climax.
-* **2:30-end:** carry Mek home, reunite Aidron and Runara, let Minn speak, and close quietly at Dragon's Rest.
+* **2:30-end:** carry Mek home, reunite Aidron and Runara, deliver the dragon warning, depart Stormwreck, and end on Pat Benatar's scale reacting to the distant golden light and winged shadow.
 
-If play runs long, shorten the travel narration but preserve Minn returning Mek, Runara embracing Aidron, and a quiet ending. There is no Level 3 advancement and no Scene 3 discussion in this session.
+If play runs long, shorten the travel narration but preserve Minn returning Mek, Aidron's reunion with Runara, the warning to follow the dragons, the departure from Stormwreck, and the final scale/golden-light image. There is no Level 3 advancement and no Scene 3 discussion in this session.
 
 ### The Observatory Climax - DM Truth for Tonight
 
-This is unplayed session prep, not established canon.
+This is unplayed session prep. The climax and the canonical ending below are fixed behind-the-screen canon, while player choices determine how the party reaches them.
 
 Run the Observatory as though it cannot accept that the moment has changed. It pulls statues back to old positions, repeats fragments of time, moves shadows ahead of their owners, and reconstructs Mek from Minn's memories. It need not be conscious; its consistent behavior is enough.
 
@@ -220,15 +220,138 @@ Ask, **"What do you do?"** Do not present a menu unless the players need help. P
 * **Send an answer:** the distant people may know they were heard, and something else may learn the same thing.
 * **Another solution:** let it work if it protects the living and makes the party accept a meaningful risk or loss.
 
-### Scene 5 - Close Scene 2 at Dragon's Rest
+### Scene 5 - Canonical Stormwreck Epilogue
 
-* Reconnect with Minn and carry Mek's body back to Dragon's Rest if the party chooses to honor its promise.
-* Runara is relieved that Aidron survived. She grieves another dragon's death but does not condemn the party for killing Sparkrender.
-* Give Minn the final word on Mek after Myla receives his body and the players have had room to speak. Minn looks down at Mek and says, **"He came home."**
-* Do not explain the larger network at Dragon's Rest. The image of the endangered townspeople is enough. Let the unanswered connection remain unsettling.
-* End on Runara holding Aidron, Myla receiving Mek, and Minn beside the brother he truly lost. The final spoken words are: **"He came home."**
+This read-aloud is canonical. Preserve the text exactly:
+
+By the time you return to Dragon’s Rest, the storm has broken.
+
+Aidron lands heavily in the courtyard, bronze wings folding against battered scales. For a moment, nobody moves.
+
+Then Runara crosses the stones toward him.
+
+Whatever words pass between the two dragons are quiet and private.
+
+Around them, the kobolds gather.
+
+Minn carries Mek.
+
+Myla sees her brothers coming up the path and runs toward them.
+
+She stops when she understands.
+
+There is no ceremony. No speech. The kobolds simply gather around Mek, touching his hands, his clothes, his horns. Some cry openly. Others sit silently beside him.
+
+Minn stays until the others have finished.
+
+Then he looks down at his brother and says:
+
+“He came home.”
+
+The courtyard is quiet for a long time.
+
+Eventually, Runara finds you overlooking the sea.
+
+Aidron is with her.
+
+“You came here looking for answers,” Runara says. “Instead, you found wounded places. Dead dragons. Old machines. Memories that refused to remain memories.”
+
+Aidron looks back toward the distant silhouette of the Observatory.
+
+“And you found something dragons have known for a very long time.”
+
+He pauses.
+
+“When the world changes, we feel it.”
+
+Runara continues.
+
+“The things happening here are not confined to Stormwreck Isle. What you awakened in the Observatory reached outward.”
+
+Aidron looks toward the eastern horizon.
+
+“Other dragons will have felt it.”
+
+“Some will understand more than I do.”
+
+“Some will lie.”
+
+“Some will try to use it.”
+
+“And some may already be moving because of it.”
+
+Runara turns toward you.
+
+“If you want to understand the wound you have been following, then follow the dragons.”
+
+Aidron gives a low, humorless rumble.
+
+“Do not mistake that for advice to trust us.”
+
+Runara almost smiles.
+
+“Dragons rarely agree on anything.”
+
+Aidron spreads one wing slightly.
+
+“But when enough dragons begin looking in the same direction, something is there.”
+
+The next morning, the kobolds gather at the cliffs as your ship pulls away from Stormwreck Isle.
+
+Minn and Myla stand together.
+
+Behind them, Runara raises one hand.
+
+Aidron watches from the highest cliff.
+
+The island grows smaller.
+
+Dragon’s Rest becomes a collection of pale stones against black rock.
+
+The Observatory becomes a broken line against the sky.
+
+Then even Stormwreck disappears into the evening haze.
+
+The sun sinks ahead of you, turning the sea to gold.
+
+For the first time in days, nothing is attacking you.
+
+Nothing is collapsing.
+
+Nothing is trying to rewrite reality.
+
+And then Pat’s scale becomes warm.
+
+Not hot.
+
+Not painful.
+
+Just warm.
+
+Far ahead, somewhere beyond the horizon, a single point of golden light appears against the darkening sky.
+
+For several seconds, it could almost be mistaken for a star.
+
+Then it moves.
+
+A vast shadow passes beneath it.
+
+Wings.
+
+Once.
+
+Twice.
+
+And gone.
+
+The scale cools.
+
+Behind you, Stormwreck Isle has disappeared.
+
+Ahead of you, somewhere beyond the horizon, dragons are already waiting.
+
 * Do not advance the party to Level 3 during this session.
-* Do not turn any unclaimed hoard, unexplained ritual result, or proposed connection into canon until the players establish it in play.
+* Do not turn any unclaimed hoard or unexplained ritual result into party property or a resolved answer unless the players establish it in play.
 
 ## Live D&D Beyond Snapshot
 
@@ -275,14 +398,16 @@ Do not convert the minor healing potion into a standard Potion of Healing unless
 ## Unresolved Questions to Preserve
 
 * What was Sparkrender's ritual intended to accomplish?
-* Did his death stop, destabilize, or leave the ritual unchanged?
+* Did his death stop, destabilize, or leave the ritual unchanged beyond the immediate climax?
 * What happens to the gathered dragon power?
 * What does the golden astronomical sculpture actually measure or control?
-* Where exactly is Aidron trapped?
-* Can Aidron be freed safely?
-* What does the D4 book or journal reveal?
-* What is hidden in the D5 room and hoard?
-* What will Minn and Myla do when Mek's body returns to Dragon's Rest?
+* What does the D4 book or journal reveal beyond the immediate puzzle?
+* What remains hidden in the D5 room and hoard?
+* Where is the endangered settlement shown through the Observatory?
+* Who was looking back through the distant golden device?
+* Why did other dragons feel what awakened at the Observatory?
+* Which dragons are already moving because of it?
+* Why does Pat Benatar's scale respond to the distant golden light and winged shadow?
 
 ## Table Notes Still Relevant
 
@@ -292,7 +417,7 @@ Do not convert the minor healing potion into a standard Potion of Healing unless
 * The party went directly into combat with Sparkrender rather than investigating.
 * Pat Benatar's shortbow attack badly wounded Sparkrender.
 * Throk's Eldritch Blast was the killing blow.
-* The Observatory remains incomplete despite Sparkrender's death.
+* The Observatory remains incomplete despite Sparkrender's death at the current played-table endpoint.
 
 ## Dragonborn Appearance Note
 
