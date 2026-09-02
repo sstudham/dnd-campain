@@ -66,6 +66,8 @@ These facts are fixed behind-the-screen canon. They have not yet occurred in pla
 * After Stormwreck disappears behind them, Pat Benatar's clan-marked scale becomes warm but not hot or painful.
 * A single point of golden light appears beyond the horizon, moves, and is accompanied by a vast winged shadow. The scale then cools. The identity of the distant dragon is not established.
 * The final canonical image of the Stormwreck epilogue is that Stormwreck Isle is behind the party and dragons are already waiting somewhere beyond the horizon.
+* The user-supplied image labeled `Act 1 Scene 2 Final.png` is the canonical closing visual reference for Act 1, Scene 2. Source attachment filename: `sunset.png`; dimensions 1672x941; SHA-256 `8a8fba63d36e47046bbded4b3611010b14db7f0f3a067d33b8b293f7d1abee53`.
+* The closing visual canonically establishes the broad composition and mood of the departure: the five adventurers aboard the departing ship, Stormwreck Isle and its cliffs behind them, Aidron and the gathered figures watching from the island, the sunset ahead, and the distant golden draconic omen in the sky. Written canon remains authoritative for exact event details and counts, and the established PC headshot files remain authoritative for exact character faces and identities if the artwork differs.
 * Session 15 has no Level 3 advancement and no Scene 3 planning discussion.
 
 ## Open Canon Questions
