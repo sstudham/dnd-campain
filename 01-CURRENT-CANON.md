@@ -43,43 +43,57 @@
 * Pat Benatar struck Sparkrender hard with her shortbow.
 * Throk killed Sparkrender with Eldritch Blast.
 * Sparkrender is dead.
-* Another dragon, Aidron, remains trapped beneath or inside the Clifftop Observatory tower and has not yet been encountered or freed in played table history.
-* The Observatory ritual, gathered dragon power, D5 puzzle, hoard, lower route, and D6 remain unresolved in played table history.
+* Sparkrender's death destabilized the Clifftop Observatory and exposed its ancient forced pattern.
+* The party solved the four-scholar / Dragon of Dawn puzzle and opened the route below the Observatory.
+* Pat Benatar studied her clan-marked scale against the Observatory pattern with a DC 19 result.
+* Pat learned that the mark on her scale is related to the same underlying pattern built into the Observatory's ancient golden lines.
+* The Observatory and its draconic pattern predate Pat's clan.
+* Pat's scale became distinctly warm and appeared to recognize or react to the ancient pattern.
+* Pat can reasonably conclude that her clan did not originate the mark; the clan inherited or adopted a much older draconic symbol or pattern connected to ancient draconic sites.
+* Pat did not learn exactly what she is, why she has the scale, the full history of her clan's connection, or the ultimate meaning of the pattern.
+* Aidron, a living bronze dragon trapped below D5, was freed by the party.
+* Breaking the Observatory's forced pattern and freeing Aidron ended the acute destabilization.
+* The party returned Mek's body to Dragon's Rest.
+* Myla and the kobolds grieved Mek; Minn's final words over his brother were: "He came home."
+* Aidron returned alive to Dragon's Rest and reunited with Runara.
+* Runara and Aidron established that what happened in the Observatory reached outward and that dragons can feel changes in the world.
+* Aidron warned that dragons are independent actors: some may understand more, some may lie, some may try to use what happened, and some may already be moving because of it.
+* Runara gave the party the next durable lead: if they want to understand the wound, follow the dragons.
+* The party sailed away from Stormwreck Isle.
+* After Stormwreck disappeared behind them, Pat Benatar's scale became warm but not hot or painful.
+* A single point of golden light appeared beyond the horizon and moved while a vast winged shadow passed beneath or behind it. The scale then cooled.
+* The identity, species, color, alignment, allegiance, and exact location of the distant dragon remain unknown.
 * CLICK is an established recurring table mechanic: after fair descriptive clues, a loud isolated "CLICK" gives each player three real-world seconds to declare one immediate instinctive action. Full procedure is in `11-CAMPAIGN-STRUCTURE.md`.
 
-## Canonical DM Truths for Session 15
+## Act 1 Scene 3 Approved Direction
 
-These facts are fixed behind-the-screen canon. They have not yet occurred in play and do not belong in the session log until the players establish the outcome.
+These are approved campaign-planning decisions from the player discussion, not events that have happened in the world.
 
-* Sparkrender's death destabilizes the Clifftop Observatory. Its ancient machinery behaves as though it is trying to force the moment back into an older pattern: statues reset, rubble pulls backward, moments repeat, and shadows move ahead of their owners. The Observatory need not be conscious.
-* The emotional conflict is painful reality versus perfect falsehood. The machinery constructs a flawless false Mek from Minn's memories. The echo is not Mek, is not a resurrection, knows nothing Minn does not know, and reforms if merely attacked.
-* Four scholar statues must face the Dragon of Dawn constellation to open the lower route. The Observatory's blue corruption pulls them away from alignment.
-* Aidron is a living bronze dragon trapped below D5 in shifting stone and corrupted golden lines. Freeing him and breaking the Observatory's forced pattern are the same climax.
-* When Aidron comes free, his bronze light can meet the Observatory's ancient gold, crack the blue corruption, end the repeated moments, and expose a distant connection.
-* The connection shows an unnamed human settlement under immediate threat beneath a torn sky, including a dragon's shadow and a distant figure capable of appearing to look back through another golden device.
-* If the party returns Mek to Dragon's Rest, Myla receives his body and Minn says: "He came home."
-* The canonical Stormwreck epilogue continues after Minn's words. Aidron returns alive to Dragon's Rest and Runara meets him privately before addressing the party.
-* Runara and Aidron reveal that what awakened in the Observatory reached outward and that dragons can feel changes in the world. Other dragons will have felt it.
-* Aidron warns that some dragons will understand more, some will lie, some will try to use what happened, and some may already be moving because of it.
-* Runara gives the party the next durable lead: if they want to understand the wound, follow the dragons. Aidron explicitly warns them not to mistake that for advice to trust dragons.
-* The party leaves Stormwreck Isle by ship the next morning while Minn and Myla watch from the cliffs, Runara raises one hand, and Aidron watches from the highest cliff.
-* After Stormwreck disappears behind them, Pat Benatar's clan-marked scale becomes warm but not hot or painful.
-* A single point of golden light appears beyond the horizon, moves, and is accompanied by a vast winged shadow. The scale then cools. The identity of the distant dragon is not established.
-* The final canonical image of the Stormwreck epilogue is that Stormwreck Isle is behind the party and dragons are already waiting somewhere beyond the horizon.
+* Strongest challenge preferences: moral choices and roleplay, followed by puzzles and party bonding.
+* Strongest adventure-structure preference: mystery, with rescue mission, mixed adventure, enemy-camp infiltration, and chase also desired.
+* The Cult of the One God should return during Scene 3.
+* Grusk and Morghul should not return during Scene 3; preserve them for a later arc.
+* Dragons should function as independent forces with their own interests and alignments rather than default allies or enemies.
+* Scene 3 should connect directly to Stormwreck through dragons and the search for information about the rift.
+* Floyd GoldSeeker is the primary character-development focus for approximately the next six months of real-world play.
+
+## Canonical Closing Visual for Act 1 Scene 2
+
 * The user-supplied image labeled `Act 1 Scene 2 Final.png` is the canonical closing visual reference for Act 1, Scene 2. Source attachment filename: `sunset.png`; dimensions 1672x941; SHA-256 `8a8fba63d36e47046bbded4b3611010b14db7f0f3a067d33b8b293f7d1abee53`.
-* The closing visual canonically establishes the broad composition and mood of the departure: the five adventurers aboard the departing ship, Stormwreck Isle and its cliffs behind them, Aidron and the gathered figures watching from the island, the sunset ahead, and the distant golden draconic omen in the sky. Written canon remains authoritative for exact event details and counts, and the established PC headshot files remain authoritative for exact character faces and identities if the artwork differs.
-* Session 15 has no Level 3 advancement and no Scene 3 planning discussion.
+* The closing visual canonically establishes the broad composition and mood of the departure: the five adventurers aboard the departing ship, Stormwreck Isle and its cliffs behind them, Aidron and the gathered figures watching from the island, the sunset ahead, and the distant golden draconic omen in the sky.
+* Written canon remains authoritative for exact event details and counts, and the established PC headshot files remain authoritative for exact character faces and identities if the artwork differs.
 
 ## Open Canon Questions
 
 * Why did the dragonborn hear "Stormwreck"?
-* What is the scale connected to Pat Benatar's clan mark?
+* What is the scale connected to Pat Benatar's clan mark beyond the ancient pattern now identified?
+* Why did Pat Benatar's clan inherit or adopt that older draconic mark?
 * What are Grusk and Morghul doing after escaping?
 * What purpose was Floyd GoldSeeker spared for at Glittervein?
 * What was Sparkrender's ritual intended to accomplish?
 * What was the Observatory's older pattern originally built to accomplish?
-* What lasting effects remain after Aidron's bronze light meets the ancient gold?
-* Where is the endangered settlement shown through the Observatory, and who is looking back?
+* What lasting effects remain after Aidron's bronze light met the ancient gold?
+* Where is the endangered settlement shown through the Observatory, and who was looking back?
 * Why could dragons beyond Stormwreck feel what awakened in the Observatory?
 * Which dragons understood the signal, which intend to exploit it, and which are already moving?
 * Why did Pat Benatar's scale warm after leaving Stormwreck?
