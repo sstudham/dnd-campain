@@ -175,6 +175,52 @@ End state:
 * Throk was poisoned in D4; the duration and current status were not established.
 * The party possesses the D4 book or journal, 2 potions of resistance, and 1 minor healing potion.
 
+### Session 15 - Observatory Resolution and Departure from Stormwreck
+
+Status: Played. Act 1, Scene 2 completed.
+
+The party continued from the instant of Sparkrender's death while the Clifftop Observatory destabilized.
+The party completed the D5 four-scholar / Dragon of Dawn puzzle and opened the route below the Observatory.
+
+Pat Benatar spent a turn studying her gold-copper clan-marked scale against the Observatory's ancient pattern and achieved DC 19.
+She learned that the mark on her scale is related to the same underlying pattern built into the Observatory's ancient golden lines.
+The Observatory and the pattern predate Pat's clan.
+Her scale became distinctly warm and appeared to recognize or react to the ancient pattern.
+Pat can reasonably conclude that her clan did not create the mark; the clan inherited or adopted a much older draconic symbol or pattern connected to ancient draconic sites.
+She did not learn exactly what she is, why she has the scale, the full history of her clan's connection, or the ultimate meaning of the pattern.
+
+The party descended into the lower Observatory and freed Aidron, the living bronze dragon trapped beneath D5.
+The Observatory's forced pattern broke and the acute destabilization ended.
+
+The party returned Mek's body to Dragon's Rest.
+Myla and the kobolds gathered around Mek and grieved him.
+Minn's final words over his brother were: "He came home."
+
+Aidron returned alive to Dragon's Rest and reunited with Runara.
+Runara and Aidron thanked the party and explained that what happened in the Observatory reached outward and that dragons can feel changes in the world.
+They warned that dragons are not a unified source of truth: some may understand more, some will lie, some will try to use what happened, and some may already be moving because of it.
+Runara gave the party its next lead: if they want to understand the wound, follow the dragons.
+Aidron explicitly warned them not to mistake that for advice to trust dragons.
+
+The party sailed away from Stormwreck Isle.
+After the island disappeared behind them, Pat Benatar's scale became warm but not hot or painful.
+A single point of golden light appeared beyond the horizon and moved.
+A vast winged shadow passed beneath or behind it and disappeared.
+The scale cooled.
+The distant dragon's identity, species, color, alignment, allegiance, and exact location remain unknown.
+
+The final visual reference for the Stormwreck departure is `Act 1 Scene 2 Final.png`; written canon and the canonical character headshots remain authoritative if the artwork differs.
+
+At the end of the Scene 3 planning discussion, the players selected the following future-play preferences. These are planning decisions, not events that have happened in the world:
+
+* Strongest challenge preferences: moral choices (3) and roleplay (3), followed by puzzles (2) and party bonding (2).
+* Strongest adventure-structure preference: mystery (5), with rescue mission, mixed adventure, enemy-camp infiltration, and chase (2) also desired.
+* The Cult of the One God should return during Scene 3.
+* Grusk and Morghul should not return during Scene 3; preserve them for a later arc.
+* Dragons should behave as independent forces with their own interests and alignments rather than default allies or enemies.
+* Scene 3 should connect directly to Scene 2 through dragons and the search for information about the rift.
+* Floyd GoldSeeker is the primary character-development focus for approximately the next six months of real-world play.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.
@@ -191,5 +237,10 @@ End state:
 * Pat Benatar badly wounded Sparkrender with her shortbow.
 * Throk killed Sparkrender with Eldritch Blast.
 * The party killed Sparkrender before searching D5, solving the puzzle, examining the hoard, entering D6, or finding Aidron.
+* In Session 15, the party solved the Dragon of Dawn puzzle and freed Aidron.
+* Pat Benatar learned that her clan-marked scale carries a pattern older than her clan and related to the Observatory's ancient draconic pattern.
+* The party returned Mek home to Dragon's Rest; Minn said, "He came home."
+* Runara and Aidron directed the party to follow the dragons for further answers about the wound.
+* The party departed Stormwreck Isle under a distant unidentified draconic omen.
 
 ## Follow-Up Notes
