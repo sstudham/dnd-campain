@@ -4,8 +4,8 @@
 
 * Why was prayer being pulled through the worshiping stone?
 * Why did the dragonborn hear "Stormwreck"?
-* What is the scale connected to Pat Benatar's clan mark?
-* Why is the rift older than Pat Benatar's clan?
+* What is the deeper meaning of the ancient pattern on Pat Benatar's scale?
+* Why did Pat Benatar's clan inherit or adopt a mark that predates the clan?
 * Why can't Severed Whisper safely return to Luskan?
 * What is the true nature of the rift?
 * Why is reality fraying across more than one plane or reality?
@@ -15,7 +15,7 @@
 * Why was the party specifically contacted?
 * What force is damaging time, space, religion, magic, prayer, memory, and reality across planes?
 * Why does even the powerful being not know the source?
-* What does the older Stormwreck pattern or mark have to do with Pat Benatar's scale and clan symbol?
+* How does the older Stormwreck pattern connect Pat Benatar's scale, her clan symbol, and other ancient draconic sites?
 * What exactly awakened in Brother Kai when his dragon claws emerged during meditation?
 * What is the orange fire crystal, and why is it connected to the blight in Seagrow Caves?
 * What ancestral, protective orcish presence answered Throk when he held the line in Seagrow Caves?
@@ -30,14 +30,12 @@
 * What, if anything, answered Floyd when the golden light helped him survive?
 * What exactly was Sparkrender's ritual meant to do with the dead dragons' power?
 * What older purpose was the Observatory's forced pattern originally meant to serve?
-* What lasting effects follow when Aidron's bronze light meets the Observatory's ancient gold?
+* What lasting effects followed when Aidron's bronze light met the Observatory's ancient gold?
 * How does the golden astronomical sculpture connect timing, pressure, celestial movement, dragon death, and hidden lines of power?
-* What does the D4 book or journal reveal about the D5 puzzle and the lower Observatory?
-* What remains hidden in the unsearched D5 chamber and hoard?
-* Where is the endangered human settlement shown through the distant connection, and who appears to look back?
+* Where is the endangered human settlement shown through the distant connection, and who appeared to look back?
 * Why can dragons beyond Stormwreck feel what awakened in the Observatory?
 * Which dragons understood the event, which will lie about it, which intend to exploit it, and which are already moving?
-* Why does Pat Benatar's scale warm after the party leaves Stormwreck?
+* Why did Pat Benatar's scale warm after the party left Stormwreck?
 * What dragon or draconic presence is represented by the distant golden light and vast winged shadow?
 
 ## Plot Hooks
@@ -52,15 +50,17 @@
 * Luskan's bounty hunters reached Stormwreck Isle and tied Sev's past directly to the party's present danger.
 * Kai's execution of the final bounty hunter may create party tension with Sev and complicate how the party understands Kai's awakened claws.
 * The Clifftop Observatory revealed that Sparkrender was trying to mine the power of dead dragons.
-* The party killed Sparkrender before searching the chamber, solving the puzzle, examining the hoard, entering D6, or finding Aidron in played table history.
 * Floyd GoldSeeker carries the memory of his dead Glittervein crew and has vowed to protect his new adventuring companions.
 * Floyd's survivor story can connect to buried survivors, trapped creatures, hidden paths, divine light, stone, tools, and honoring the dead.
 * Floyd GoldSeeker reached Level 2 after hearing: "You were not the only one buried. Dig."
-* Minn asked the party to return Mek's body to Dragon's Rest.
-* Canonical Session 15 outcome: Aidron is freed and Mek is carried home to Dragon's Rest.
+* In Session 15, the party solved the Dragon of Dawn puzzle, freed Aidron, returned Mek to Dragon's Rest, and ended Stormwreck's immediate Observatory crisis.
+* Pat Benatar learned that her clan-marked scale carries a draconic pattern older than her clan and related to the Observatory's ancient golden lines.
 * Runara's next lead is explicit: if the party wants to understand the wound, follow the dragons.
 * Aidron's warning establishes that dragons are not a unified source of truth: some may understand more, some will lie, some may exploit the event, and some may already be moving.
-* Pat Benatar's scale reacts after the party leaves Stormwreck to a distant golden light and winged shadow, providing a direct draconic lead beyond the island.
+* Pat Benatar's scale reacted after the party left Stormwreck to a distant golden light and winged shadow, providing a direct draconic lead beyond the island.
+* Scene 3 should reconnect the Cult of the One God as an independent complication, not automatically the primary antagonist.
+* Grusk and Morghul remain unresolved but are deliberately deferred until after Scene 3.
+* Floyd GoldSeeker is the primary character-development focus for the coming Scene 3 period. Preserve the question of why he survived Glittervein while repeatedly testing what he chooses to do with survival, rescue knowledge, and responsibility.
 
 ## Needs Resolution
 
