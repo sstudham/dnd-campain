@@ -64,7 +64,7 @@
 * Determine why Pat Benatar's scale responded to the distant golden light and winged shadow.
 * Preserve Floyd GoldSeeker's Glittervein mystery while making him the primary character-development focus through the coming Scene 3 period.
 
-## Greenest Background Sequence � DM Canon Approved September 9, 2026
+## Greenest Background Sequence — DM Canon Approved September 9, 2026
 
 1. Ancient dragons built a local diversion vault beneath the future Greenest settlement.
 2. Recent town foundation work damaged a branch. Merra placed her relief receiver above a surviving channel; its pulses gave limited comfort while worsening support damage.

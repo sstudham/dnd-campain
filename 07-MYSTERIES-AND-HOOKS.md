@@ -68,7 +68,7 @@
 
 * Brother Kai's custom Dragon Talons text says the claws use his Martial Arts die and are not a damage boost, but its scaling table lists 1d4 at Levels 2-4 while his current D&D Beyond Martial Arts die is 1d6. Which value governs?
 
-### Possible Future Concordance Questions � Not Canon
+### Possible Future Concordance Questions — Not Canon
 
 * What was the original cause of the wound in reality?
 * Did Acererak discover the Concordance independently, or was he led to it?
@@ -85,11 +85,11 @@
 * Can Vargun remain independent if Throk's pact becomes entangled with the Soulmonger?
 * What should happen to the Concordance if Acererak is defeated?
 
-## Scene 3 Continuity and Discovery � September 9, 2026
+## Scene 3 Continuity and Discovery — September 9, 2026
 
 The local vault, Frulam/Lennithon bargain and Merra's stone effects are now approved **DM answers** in 01/03/04/05. They remain discoveries for the players, not facts they already learned. Offer independent witness, object, document and route evidence. Preserve intercepted plate custody and permit investigation without camp infiltration or combat.
 
-### Needs Resolution � Scope of Approved Background
+### Needs Resolution — Scope of Approved Background
 
 * The older Level 3 Greenest plan in `11-CAMPAIGN-STRUCTURE.md` included Grusk/Morghul, a Throk spotlight and future-signal/Concordance explanations. This conflicted with the already-approved player direction and newer level 2/eight-session instruction. The Scene 3 section now explicitly supersedes that plan; those wider cosmic explanations remain unapproved and Grusk/Morghul remain deferred.
 * The specific Greenest vault and relief receiver are approved local canon only. This does not establish the Concordance, Acererak, an Invariant, the original rift cause or a universal explanation for every worshiping stone. Older speculative files retain their non-canon status outside this limited approval.

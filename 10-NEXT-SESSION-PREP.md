@@ -131,7 +131,7 @@ Scott's September 9 approval establishes the local background in the specific ca
 
 ## Session 16 DM preparation
 
-Smoke over Greenest � Act 1 Scene 3 � Five level 2 characters � Three hours
+Smoke over Greenest • Act 1 Scene 3 • Five level 2 characters • Three hours
 
 STORY MOVEMENT: The party follows news of a dragon into a town under attack. A practical rescue exposes a deliberate excavation. The people offering relief may be aggravating the danger beneath their feet.
 
@@ -149,35 +149,35 @@ Session 15 ended with the party sailing away. Use the approved opening travel tr
 
 - Let the party choose its next investigation. Do not turn the dragon into a level 2 combat encounter.
 
-## Tonight�s shape
+## Tonight’s shape
 
-- 0:00�0:10 � recap, travel bridge and opening art. Ask each player for one thought from the voyage.
+- 0:00–0:10 — recap, travel bridge and opening art. Ask each player for one thought from the voyage.
 
-- 0:10�0:30 � Linan�s request and route choice; optional encounter with two hired raiders.
+- 0:10–0:30 — Linan’s request and route choice; optional encounter with two hired raiders.
 
-- 0:30�1:10 � mill rescue, one short inspection, town volunteers arrive.
+- 0:30–1:10 — mill rescue, one short inspection, town volunteers arrive.
 
-- 1:10�1:20 � break. Let volunteers secure rescued people and the immediate site.
+- 1:10–1:20 — break. Let volunteers secure rescued people and the immediate site.
 
-- 1:20�2:00 � sanctuary conversation and a safe first test of the stone.
+- 1:20–2:00 — sanctuary conversation and a safe first test of the stone.
 
-- 2:00�2:40 � follow the chosen clue: mill cellar, wounded witness or raider trail.
+- 2:00–2:40 — follow the chosen clue: mill cellar, wounded witness or raider trail.
 
-- 2:40�3:00 � compare findings, choose the next lead and close. Record consequences.
+- 2:40–3:00 — compare findings, choose the next lead and close. Record consequences.
 
 ## If the clock slips
 
-At 0:30 skip the street combat if it has not begun. At 1:10 offer the external rescue route and resolve remaining work through the players� plan. At 2:00 do not add a second crisis. At 2:40 stop exploring and give the clue their current investigation has earned. Carry the stone experiment into Session 17 if rescue or roleplay deserves longer.
+At 0:30 skip the street combat if it has not begun. At 1:10 offer the external rescue route and resolve remaining work through the players’ plan. At 2:00 do not add a second crisis. At 2:40 stop exploring and give the clue their current investigation has earned. Carry the stone experiment into Session 17 if rescue or roleplay deserves longer.
 
 ## Prepare before opening Roll20
 
 The assets and documents are installed in TUG4.1 as listed above. Open S16 DM - START HERE, then the full prep and read-aloud PDFs. Two optional raiders are staged on the GM layer. Keep all future scenes and secrets private.
 
-TONIGHT�S ENDPOINT: A rescued person or a clear consequence, two dependable clues, and a player-selected next step. Everyone remains level 2.
+TONIGHT’S ENDPOINT: A rescued person or a clear consequence, two dependable clues, and a player-selected next step. Everyone remains level 2.
 
 ## Arrival and the first decision
 
-Use art 01 � Keep the opening interactive
+Use art 01 • Keep the opening interactive
 
 REVEAL IN ORDER: People need help. The mill is failing from below. Some attackers care more about a wrapped metal object than about plunder.
 
@@ -185,7 +185,7 @@ REVEAL IN ORDER: People need help. The mill is failing from below. Some attacker
 
 Linan is a practical resident from the source adventure, adapted here as the person coordinating her family and neighbors. Her family is already moving toward shelter. A mill worker is trapped beneath the floor. She wants someone who understands beams, ropes or stubborn stone. She can guide the party; she does not dictate its route.
 
-Say: �There�s a man under the mill floor. He�s answering us. Every time we pull a beam, another one moves. Please�if you know how to get him out, come now.�
+Say: “There’s a man under the mill floor. He’s answering us. Every time we pull a beam, another one moves. Please—if you know how to get him out, come now.”
 
 ## Give a real route choice
 
@@ -205,17 +205,17 @@ Their objective is escape. They do not attack unconscious creatures. If the part
 
 ## If the party captures the plate
 
-Honor it. The brass plate is a removable control key, not a bomb or a secretly empty decoy. Its scored channels match the socket beneath the mill. Frulam�s later agents now want to recover it; the camp still holds witnesses and plans. Preserve the chase as an option rather than stealing the plate back offscreen.
+Honor it. The brass plate is a removable control key, not a bomb or a secretly empty decoy. Its scored channels match the socket beneath the mill. Frulam’s later agents now want to recover it; the camp still holds witnesses and plans. Preserve the chase as an option rather than stealing the plate back offscreen.
 
 ## If they pursue instead of rescuing
 
-Resolve this as the main early scene, not as extra content. Two meaningful obstacles�an overturned cart and a stream crossing�use player plans or DC 11 checks. Two successes catch the crate; two setbacks reveal the camp road but lose immediate contact. Linan assembles volunteers. On return, the worker is recovered with an injured leg and the mill is unusable until repaired. No arbitrary offscreen death.
+Resolve this as the main early scene, not as extra content. Two meaningful obstacles—an overturned cart and a stream crossing—use player plans or DC 11 checks. Two successes catch the crate; two setbacks reveal the camp road but lose immediate contact. Linan assembles volunteers. On return, the worker is recovered with an injured leg and the mill is unusable until repaired. No arbitrary offscreen death.
 
-DRAGON: A remote silhouette passes behind clouds. Do not name its color, link it to Pat�s omen, roll Frightful Presence or use breath against the party. Its identity requires later evidence.
+DRAGON: A remote silhouette passes behind clouds. Do not name its color, link it to Pat’s omen, roll Frightful Presence or use breath against the party. Its identity requires later evidence.
 
 ## The mill rescue
 
-Use art 02 and the original mill map � About forty minutes
+Use art 02 and the original mill map • About forty minutes
 
 THE HUMAN STAKE: A conscious adult is pinned in a survivable air pocket. The mill can be abandoned. The person can be saved. The party decides how much structure and evidence to preserve.
 
@@ -241,11 +241,11 @@ If the party ignores a described imminent fall or chooses a dangerous shortcut, 
 
 ## Invite contributions without assigning them
 
-Pat can locate the vent and notice the old seam. Sev can reach the gate, crawl a safe passage or rig rope. Kai can read the worker�s breathing and coordinate timing. Throk can hold a brace, direct volunteers or move the cart. Floyd can survey and teach. Ask �What do you do?� rather than requiring these roles. Use player-declared resources; do not assume unverified spells.
+Pat can locate the vent and notice the old seam. Sev can reach the gate, crawl a safe passage or rig rope. Kai can read the worker’s breathing and coordinate timing. Throk can hold a brace, direct volunteers or move the cart. Floyd can survey and teach. Ask “What do you do?” rather than requiring these roles. Use player-declared resources; do not assume unverified spells.
 
 ## After the rescue
 
-The worker says, �I heard them below us before the fire. Hammering. Then someone said they had the plate.� He offers no cosmic explanation and does not know Frulam�s name. If Floyd stays to talk, ask what he tells a man who keeps looking back at the hole. Let the answer belong to Andy.
+The worker says, “I heard them below us before the fire. Hammering. Then someone said they had the plate.” He offers no cosmic explanation and does not know Frulam’s name. If Floyd stays to talk, ask what he tells a man who keeps looking back at the hole. Let the answer belong to Andy.
 
 Escobert the Red arrives with volunteers to secure the building. Their help lets the party move on; they do not solve the mystery. A missing control plate socket and fresh tool marks remain visible even if the floor falls.
 
@@ -253,7 +253,7 @@ FIRST ANSWER: Someone deliberately removed a fitted brass component from masonry
 
 ## The sanctuary and the stone
 
-Use art 03 � Give the One God believers a human face
+Use art 03 • Give the One God believers a human face
 
 THE TENSION: Relief is observable. So is damage. The party can learn this without being forced to endorse a faith or condemn its followers.
 
@@ -261,13 +261,13 @@ THE TENSION: Relief is observable. So is damage. The party can learn this withou
 
 Eadyan Falconmoon, the local temple healer borrowed from the module, tends refugees in the harvest temple. Sister Merra is a new One God relief worker helping there by invitation. Neither controls the whole crowd. Keep their symbols and affiliation distinct from the Cult of the Dragon raiders.
 
-Merra�s first line: �You can argue with me when they can breathe without it. Until then, will you hold this basin?� She is exhausted, capable and defensive about the stone. Eadyan says: �The relief is real. I have not yet learned what it costs.�
+Merra’s first line: “You can argue with me when they can breathe without it. Until then, will you hold this basin?” She is exhausted, capable and defensive about the stone. Eadyan says: “The relief is real. I have not yet learned what it costs.”
 
 ## The approved local effect
 
 The pale stone rests above a buried branch channel. While seated there, within 20 feet it eases pain and labored breathing for three injured, conscious civilians. This is a narrow story effect: it grants no hit points, temp HP, spell slots, immunity or general PC buff. Ordinary treatment and moving patients away from smoke can replace its immediate benefit.
 
-Every ten fictional minutes it pulses faintly. At that moment the patients relax and dust falls from a crack beside the cellar stair. Start with one witnessed pulse. The stone is routing power or prayer through a non-divine receiver; this is consistent with the earlier worshiping-stone concern, not proof that the One God is real. Merra�s belief is her interpretation.
+Every ten fictional minutes it pulses faintly. At that moment the patients relax and dust falls from a crack beside the cellar stair. Start with one witnessed pulse. The stone is routing power or prayer through a non-divine receiver; this is consistent with the earlier worshiping-stone concern, not proof that the One God is real. Merra’s belief is her interpretation.
 
 ## A safe first experiment
 
@@ -285,7 +285,7 @@ A temporary prop buys at least one night of safety at the sanctuary; tonight has
 
 ## Party tension worth offering
 
-Kai and Sev may disagree about a captured raider, recalling the bounty hunter. Let the players raise that history; do not force an accusation or reenact an execution. Throk can make protection visible by helping the relief effort. Pat can read Merra�s sincerity without treating Insight as a complete truth detector.
+Kai and Sev may disagree about a captured raider, recalling the bounty hunter. Let the players raise that history; do not force an accusation or reenact an execution. Throk can make protection visible by helping the relief effort. Pat can read Merra’s sincerity without treating Insight as a complete truth detector.
 
 SECOND ANSWER: The stone helps these people and participates in the local structural danger. A humane alternative to simply abandoning its dependents is available.
 
@@ -307,21 +307,21 @@ If Pat examines the pattern, give this directly: it belongs to the same underlyi
 
 - Witness clue: the rescued worker heard raiders below the floor before the fire. Linan saw a wrapped metal object taken away while flour was ignored. Either witness gives this freely when asked what happened.
 
-- Document clue: an original work order lies in discarded packing beside the excavation, or in the intercepted crate. Handout text: �Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn.� It has no signature.
+- Document clue: an original work order lies in discarded packing beside the excavation, or in the intercepted crate. Handout text: “Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn.” It has no signature.
 
 - Route clue: matching chalk dust marks the crate and the north road. Following the road or asking local carriers locates the cut. A scouting check can improve timing and concealment; it does not decide whether any trail exists.
 
 ## If they go somewhere else
 
-Trail first: find the discarded packing and work order, with witness corroboration available later. Sanctuary first: the basement channel points toward the mill. Keep first: Escobert has a rubbing made from the damaged cellar and asks the party to interpret it. Preserve the fact�s origin when an NPC reports it; do not magically move the arch to whichever building the PCs visit.
+Trail first: find the discarded packing and work order, with witness corroboration available later. Sanctuary first: the basement channel points toward the mill. Keep first: Escobert has a rubbing made from the damaged cellar and asks the party to interpret it. Preserve the fact’s origin when an NPC reports it; do not magically move the arch to whichever building the PCs visit.
 
 ## What the dragon evidence does and does not say
 
-One mill worker saw a winged creature remain distant while raiders worked. Another frightened witness assumes it started every fire. Charred beams show torch burns, not proof of breath damage. This undermines one accusation but does not clear the dragon of aiding the raid. Lennithon�s identity and bargain should be established later through records and conversation.
+One mill worker saw a winged creature remain distant while raiders worked. Another frightened witness assumes it started every fire. Charred beams show torch burns, not proof of breath damage. This undermines one accusation but does not clear the dragon of aiding the raid. Lennithon’s identity and bargain should be established later through records and conversation.
 
 ## Close on a choice with enough information
 
-Offer the three leads already earned: investigate the stone and buried channels with willing townspeople; follow the north-road delivery route; or seek someone who can explain the dragon�s behavior. Ask the party which comes first, who they want helping and what they want protected while away. A player choice determines Session 17�s opening.
+Offer the three leads already earned: investigate the stone and buried channels with willing townspeople; follow the north-road delivery route; or seek someone who can explain the dragon’s behavior. Ask the party which comes first, who they want helping and what they want protected while away. A player choice determines Session 17’s opening.
 
 If play is short, finish with the old arch and let the next decision happen at the next opening. If play runs fast, give a quiet meal and conversation with the rescued worker. Do not add a surprise attack just to fill time.
 
@@ -329,39 +329,39 @@ READ OUT ONLY WHAT THEY FOUND. Never narrate that they recovered a plate, saved 
 
 ## Table reference and aftermath
 
-Keep beside the play screen � All numbers below are prep or last recorded data
+Keep beside the play screen • All numbers below are prep or last recorded data
 
 RUNNING PRIORITY: Clear stakes, visible clues, one optional small fight, room for player choices. Mechanical uncertainty must not turn an investigation scene into a surprise lethal encounter.
 
 ## Character checks before play
 
-User confirmed: five characters, level 2, three hours. The repository�s September 1 sheet snapshot is not a live resource check. Record current HP, conditions, slots, consumables and once-per-rest features from the players at the start. The travel montage offers ordinary rest; it does not establish that all conditions have ended.
+User confirmed: five characters, level 2, three hours. The repository’s September 1 sheet snapshot is not a live resource check. Record current HP, conditions, slots, consumables and once-per-rest features from the players at the start. The travel montage offers ordinary rest; it does not establish that all conditions have ended.
 
-Last recorded AC / maximum HP / passive Perception: Floyd 13 / 13 / 10; Kai 14 / 13 / 13; Pat 13 / 13 / 16; Sev 17 / 13 / 12; Throk 12 / 13 / 9. Floyd�s AC conflicts with his listed equipment; use the player�s confirmed sheet, not a silent correction. Confirm Floyd�s weapon and Kai�s claw die. Throk�s known spells and invocations are incomplete in the record.
+Last recorded AC / maximum HP / passive Perception: Floyd 13 / 13 / 10; Kai 14 / 13 / 13; Pat 13 / 13 / 16; Sev 17 / 13 / 12; Throk 12 / 13 / 9. Floyd’s AC conflicts with his listed equipment; use the player’s confirmed sheet, not a silent correction. Confirm Floyd’s weapon and Kai’s claw die. Throk’s known spells and invocations are incomplete in the record.
 
-Do not assign the resistance potions a damage type or the minor healing potion a strength without checking the table�s ruling. Do not award Sparkrender�s hoard retrospectively. Keep PCs level 2 throughout Session 16 and at its close.
+Do not assign the resistance potions a damage type or the minor healing potion a strength without checking the table’s ruling. Do not award Sparkrender’s hoard retrospectively. Keep PCs level 2 throughout Session 16 and at its close.
 
 ## Quick adjudication
 
-- Core observation: automatic when meaningfully examined. Routine safe action with proper tools: automatic. An uncertain practical action: DC 10�11. Extra interpretation of the old pattern: DC 12.
+- Core observation: automatic when meaningfully examined. Routine safe action with proper tools: automatic. An uncertain practical action: DC 10–11. Extra interpretation of the old pattern: DC 12.
 
 - Declare the stake before rolling. Repeat attempts need a changed method, assistance or accepted cost. A missed roll never erases the only clue or requires an identical retry.
 
 - Allow normal class features and spells if actually known and available. Do not grant an extra action for a spotlight beat or require a spell slot to rescue a civilian.
 
-- No CLICK sequence is scheduled tonight. If you add one, use the campaign�s full established procedure and fair warnings; do not improvise a different timing rule.
+- No CLICK sequence is scheduled tonight. If you add one, use the campaign’s full established procedure and fair warnings; do not improvise a different timing rule.
 
 ## NPC voice cards
 
-Linan � direct, breathless, practical. Wants neighbors accounted for. Knows what she saw, not the raiders� theology.
+Linan — direct, breathless, practical. Wants neighbors accounted for. Knows what she saw, not the raiders’ theology.
 
-Escobert � short, competent instructions. Wants safe buildings and usable crews. Treats Floyd as a colleague and shares the work.
+Escobert — short, competent instructions. Wants safe buildings and usable crews. Treats Floyd as a colleague and shares the work.
 
-Nighthill � tired, courteous, willing to delegate. Wants a plan he can explain to the town. Offers access, labor and shelter.
+Nighthill — tired, courteous, willing to delegate. Wants a plan he can explain to the town. Offers access, labor and shelter.
 
-Eadyan � attentive, cautious about claims. Wants people cared for and repeatable observations. Separates help from certainty.
+Eadyan — attentive, cautious about claims. Wants people cared for and repeatable observations. Separates help from certainty.
 
-Merra � sincere and protective. Wants to keep helping without being treated as a monster. Will change a method before she changes her entire faith.
+Merra — sincere and protective. Wants to keep helping without being treated as a monster. Will change a method before she changes her entire faith.
 
 ## Rewards and consequences
 
@@ -369,14 +369,14 @@ Proposed rewards: safe lodging, meals, loaned tools and a volunteer rescue crew 
 
 ## After the session
 
-Record actual events and exact player choices separately from unused prep. Capture one Floyd decision in Andy�s words, each clue actually learned, the selected next lead, NPC promises, injuries and spent resources. Promote outcomes to canon only under the repository�s user-authorized canon workflow. The local background and this prep were approved September 9; record actual outcomes separately after play.
+Record actual events and exact player choices separately from unused prep. Capture one Floyd decision in Andy’s words, each clue actually learned, the selected next lead, NPC promises, injuries and spent resources. Promote outcomes to canon only under the repository’s user-authorized canon workflow. The local background and this prep were approved September 9; record actual outcomes separately after play.
 
 DM CHECK: A rescued person can be grateful without declaring Floyd chosen. A sincere believer can be wrong. A dragon can negotiate without becoming an ally.
 
 
 ## Session 16 opening read aloud
 
-DM script � Read only the scene the party enters � Approved script; read only scenes actually entered
+DM script • Read only the scene the party enters • Approved script; read only scenes actually entered
 
 DELIVERY: The opening is about two minutes at a measured pace. Pause at the end for player action. Stage directions and headings are not read aloud.
 
@@ -384,9 +384,9 @@ DELIVERY: The opening is about two minutes at a measured pace. Pause at the end 
 
 Stormwreck is behind you.
 
-You left a living dragon beside Runara, and you brought Mek home. The Observatory�s terrible insistence has ended. Whatever else is wrong with the world, that much is true. You changed something. You saved someone.
+You left a living dragon beside Runara, and you brought Mek home. The Observatory’s terrible insistence has ended. Whatever else is wrong with the world, that much is true. You changed something. You saved someone.
 
-But the sea did not give you an answer to the light beyond the horizon. Pat�s scale cooled. The shadow passed. Runara�s advice remained: follow the dragons.
+But the sea did not give you an answer to the light beyond the horizon. Pat’s scale cooled. The shadow passed. Runara’s advice remained: follow the dragons.
 
 Days later, on the mainland, the rumors become more specific. A dragon has been seen above a market town called Greenest. You take the inland road. By late afternoon, the smell reaches you before the town does: wet ash, scorched grain, and smoke.
 
@@ -398,17 +398,17 @@ Below, two figures struggle with a crate in a narrow lane. Elsewhere, neighbors 
 
 A woman runs toward the road, one sleeve torn and white with flour. She looks from your weapons to the tools you carry.
 
-�There�s a man under the mill floor. He�s answering us. Every time we pull a beam, another one moves.�
+“There’s a man under the mill floor. He’s answering us. Every time we pull a beam, another one moves.”
 
 She swallows, glances back, and points.
 
-�Please. If you know how to get him out, come now.�
+“Please. If you know how to get him out, come now.”
 
 ## At the mill  When they enter
 
 The wheel is still turning. Each rotation draws a shudder through the floor. A grinding stone rocks against its housing, and a split support ticks softly under the strain.
 
-Through the broken boards, a voice says, �Still here.�
+Through the broken boards, a voice says, “Still here.”
 
 A face turns toward your light beneath a slanted beam. There is room around his chest, but his leg is pinned. Fine flour dust moves past him toward a narrow opening in the far wall. Beside the door lie rope, wooden wedges and two unused beams.
 
@@ -420,11 +420,11 @@ Floyd, you recognize how the weight is traveling. Pulling that central beam firs
 
 What do you tell the others?
 
-PAUSE: Let the players choose their actions. Do not read a successful rescue or prescribe Floyd�s feelings.
+PAUSE: Let the players choose their actions. Do not read a successful rescue or prescribe Floyd’s feelings.
 
 ## Session 16 scene read aloud
 
-Short passages and optional closing � Keep unreached scenes private
+Short passages and optional closing • Keep unreached scenes private
 
 ART CUES: 02 for the mill; 03 for the sanctuary; 04 for the old arch. The art illustrates the prepared situation, not a recorded outcome.
 
@@ -434,11 +434,11 @@ The worker reaches open air and stays on his knees for a moment, one hand presse
 
 He looks back toward the mill.
 
-�They were below us before the fire. Hammering. I thought someone was trying to get in. Then I heard one say they had the plate.�
+“They were below us before the fire. Hammering. I thought someone was trying to get in. Then I heard one say they had the plate.”
 
 His eyes settle on the people who brought him out.
 
-�I thought that was the last voice I was going to hear.�
+“I thought that was the last voice I was going to hear.”
 
 ## The sanctuary  When they enter
 
@@ -450,11 +450,11 @@ The stone brightens once. His shoulders loosen. At the same moment, a thread of 
 
 The woman notices you watching.
 
-�You can argue with me when they can breathe without it. Until then, will you hold this basin?�
+“You can argue with me when they can breathe without it. Until then, will you hold this basin?”
 
 ## The old arch  On meaningful inspection
 
-Behind the mill�s rough foundation, the broken stone gives way to something built with much greater care. An arch stands sealed in the wall, dark blocks fitted so closely that most of the joints are almost invisible. Thin brass channels bend across its surface.
+Behind the mill’s rough foundation, the broken stone gives way to something built with much greater care. An arch stands sealed in the wall, dark blocks fitted so closely that most of the joints are almost invisible. Thin brass channels bend across its surface.
 
 At waist height, a rectangular socket stands empty. The scratches around it are fresh.
 
@@ -462,7 +462,7 @@ A bead of water trembles on one brass seam. It begins to move upward.
 
 ## Pat  On examining the pattern
 
-Pat, the marks are not identical to your clan�s symbol. But you have studied this kind of geometry before. The older lines at the Observatory belonged to the same pattern. Here, someone built them into the foundations of a town.
+Pat, the marks are not identical to your clan’s symbol. But you have studied this kind of geometry before. The older lines at the Observatory belonged to the same pattern. Here, someone built them into the foundations of a town.
 
 ## Closing  Only after the party has found the arch
 

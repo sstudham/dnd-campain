@@ -302,14 +302,14 @@ High-quality semi-realistic fantasy art with strong portrait appeal. Detailed fu
 Avoid:
 No cute house-cat face, no round kitten eyes, no tiny nose, no plush or soft pet-cat proportions, no lion mane, no tiger face, no orange tiger fur, no exaggerated cartoon look, no human face, no helmet, no glowing weapons, no magic effects, no heavy plate armor, no sleeves on the arms, no boots, and no pants covering the feline legs.
 
-## Session 16 Visuals and Map � Approved September 9, 2026
+## Session 16 Visuals and Map — Approved September 9, 2026
 
 The four generated illustrations and original mill plan are installed in TUG4.1, in page folder **Session 16 - Smoke over Greenest**. They illustrate the approved opening situations; neither a rescue image nor a discovery image proves the party completed that action. Written canon controls exact facts; individual reference portraits control faces.
 
-* **S16 00 - Arrival** � `01_Introduction_Greenest.png`, 1672x941: all five PCs on a ridge above a smoky market town, keep and stream; distant indistinct winged silhouette. Preserve Floyd GoldSeeker, Brother Kai, Pat Benatar, Severed Whisper and Throk using their authoritative portraits. Do not establish the distant dragon's color or equate it with the departure omen.
-* **S16 02 - Mill Rescue** � `02_Mill_Rescue.png`, 1672x941: Floyd GoldSeeker and helpers at a damaged working mill, beams, rope, grain dust and rescue effort. No mandatory successful outcome, revelation of his god or declaration of destiny.
-* **S16 03 - Sanctuary** � `03_Sanctuary.png`, 1672x941: ordinary refugee care in a harvest temple, Sister Merra's small pale stone and a subtle dust/crack correlation. A pictured helper is a volunteer, not an authoritative Eadyan portrait. Keep One God and Dragon cult imagery distinct.
-* **S16 04 - Old Arch** � `04_Buried_Arch.png`, 1672x941: old fitted masonry beneath the mill, dull brass channels, missing rectangular control plate and fresh tool marks. Describe water moving upward; a still image does not establish motion. No new four-statue alignment puzzle.
-* **S16 02a - Mill Map** � `Session16_Mill_Player.png`, original 1400x1120 tactical map, 20x16 five-foot squares; no secret labels. The complete DM key is in S16 DM - START HERE. Party tokens and conscious trapped worker are visible; optional raiders are GM-layer only. The separate owned Greenest town map remains a large-scale overview.
+* **S16 00 - Arrival** — `01_Introduction_Greenest.png`, 1672x941: all five PCs on a ridge above a smoky market town, keep and stream; distant indistinct winged silhouette. Preserve Floyd GoldSeeker, Brother Kai, Pat Benatar, Severed Whisper and Throk using their authoritative portraits. Do not establish the distant dragon's color or equate it with the departure omen.
+* **S16 02 - Mill Rescue** — `02_Mill_Rescue.png`, 1672x941: Floyd GoldSeeker and helpers at a damaged working mill, beams, rope, grain dust and rescue effort. No mandatory successful outcome, revelation of his god or declaration of destiny.
+* **S16 03 - Sanctuary** — `03_Sanctuary.png`, 1672x941: ordinary refugee care in a harvest temple, Sister Merra's small pale stone and a subtle dust/crack correlation. A pictured helper is a volunteer, not an authoritative Eadyan portrait. Keep One God and Dragon cult imagery distinct.
+* **S16 04 - Old Arch** — `04_Buried_Arch.png`, 1672x941: old fitted masonry beneath the mill, dull brass channels, missing rectangular control plate and fresh tool marks. Describe water moving upward; a still image does not establish motion. No new four-statue alignment puzzle.
+* **S16 02a - Mill Map** — `Session16_Mill_Player.png`, original 1400x1120 tactical map, 20x16 five-foot squares; no secret labels. The complete DM key is in S16 DM - START HERE. Party tokens and conscious trapped worker are visible; optional raiders are GM-layer only. The separate owned Greenest town map remains a large-scale overview.
 
 The images are already available in the Roll20 game; no new face designs or regeneration are authorized by this canon update.

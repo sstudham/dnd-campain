@@ -29,7 +29,7 @@
 * An unnamed human settlement seen through the Observatory's distant golden connection, threatened beneath a torn sky by a dragon-shaped shadow.
 * The location beyond the horizon associated with the golden light and winged shadow seen after the party left Stormwreck is unknown.
 
-## Greenest and the Buried Vault � Approved DM Canon September 9, 2026
+## Greenest and the Buried Vault — Approved DM Canon September 9, 2026
 
 * Greenest is relocated near the Sword Coast, approximately half a day's road inland from a mainland landing. A stream, watermill, keep and harvest temple support the settlement. The party's journey there remains the Session 16 opening transition, not completed travel.
 * Beneath the mill is a shallow working space reached through the broken floor or downstream vent. An older sealed arch has brass channels, a rectangular control-plate socket, fresh extraction scratches and a short seam along which water moves upward. It belongs to the same geometric family as the Observatory, not necessarily the same function or origin story.
