@@ -77,6 +77,20 @@ These are approved campaign-planning decisions from the player discussion, not e
 * Scene 3 should connect directly to Stormwreck through dragons and the search for information about the rift.
 * Floyd GoldSeeker is the primary character-development focus for approximately the next six months of real-world play.
 
+## Scene 3 DM Canon Approved September 9, 2026
+
+Scott explicitly authorized committing the Scene 3 / Session 16 preparation to canon. The following local background and world facts are established **DM-only canon**, not knowledge the party already possesses. Session 15 remains the last completed session; no Session 16 action or outcome has been played or logged by this update.
+
+* This campaign's Greenest is a market town near the Sword Coast, approximately half a day's road travel inland from a mainland landing. This deliberately relocates the published town; it does not identify the settlement previously glimpsed through the Observatory.
+* An ancient draconic diversion vault lies beneath Greenest. It redirects dangerous local magical pressure into an empty rock basin. Its geometric family is related to the Observatory pattern, but it does not explain the origin of the rift, Pat Benatar's ancestry or every other draconic site.
+* Recent foundation work damaged a branch. Sister Merra's One God relief stone, seated above a surviving channel, provides real limited relief while each pulse worsens damaged supports. Merra is sincere and mistakes its effect for proof of her faith; she has no secret orders from Frulam.
+* Lennithon recognized the outward Stormwreck signal as activity in an old system he had watched. Frulam Mondath offered him the vault's removable control plate in exchange for frightening defenders away from an excavation. He accepted; raiders widened existing damage while extracting it. Their target is control of the local vault, not ordinary grain or treasure.
+* Lennithon wants the vault sealed against interference and its controls surrendered to him. His claim to exclusive custody is his position, not narrator-endorsed ownership. Frulam wants exclusive local control and conceals the excavation's damage. Their bargain is expedient, not mind control or a unified cosmic conspiracy.
+* Stormwreck's successful rescue did not create Greenest's original structural fault. Other actors exploited what they sensed. Lennithon is not established as the distant golden light and winged shadow seen at departure; that omen remains unidentified.
+* The stone's precise limits are in `05-ITEMS.md`. Disabling this receiver reduces one load; it does not automatically repair the wider vault. Patients can remain stable with replacement care. No sacrifice, forced conversion or inevitable death is required.
+
+The approved play framework is roughly eight sessions (16-23), beginning with **three hours for all five PCs at level 2**. Keep everyone level 2 throughout and at the end of Session 16; later advancement remains a separate DM decision. Floyd GoldSeeker remains the primary character-development focus. Published Hoard material is a toolkit, not a commitment to Tiamat or the full published campaign. See `11-CAMPAIGN-STRUCTURE.md` and `10-NEXT-SESSION-PREP.md`.
+
 ## Canonical Closing Visual for Act 1 Scene 2
 
 * The user-supplied image labeled `Act 1 Scene 2 Final.png` is the canonical closing visual reference for Act 1, Scene 2. Source attachment filename: `sunset.png`; dimensions 1672x941; SHA-256 `8a8fba63d36e47046bbded4b3611010b14db7f0f3a067d33b8b293f7d1abee53`.

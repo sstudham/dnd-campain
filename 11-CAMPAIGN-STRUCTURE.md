@@ -191,7 +191,7 @@ Additional rules:
 
 These are DM prompts. They do not define what a player character believes or how the character must end.
 
-### Brother Kai — Control and Accountable Wisdom
+### Brother Kai � Control and Accountable Wisdom
 
 Possible pressure points:
 
@@ -212,7 +212,7 @@ Optional spotlight opportunities:
 * Late campaign:
   * Encounter a reality offering perfect certainty that every violent decision was correct.
 
-### Pat Benatar — Belonging Without Simplification
+### Pat Benatar � Belonging Without Simplification
 
 Possible pressure points:
 
@@ -233,7 +233,7 @@ Optional spotlight opportunities:
 * Late campaign:
   * Encounter contradictory versions of her ancestry without being required to accept any as definitive.
 
-### Severed Whisper — Freedom and Stewardship
+### Severed Whisper � Freedom and Stewardship
 
 Possible pressure points:
 
@@ -254,7 +254,7 @@ Optional spotlight opportunities:
 * Late campaign:
   * Encounter the offer of a private route through every reality at the cost of isolation or control.
 
-### Throk — Strength and Building a Future
+### Throk � Strength and Building a Future
 
 Possible pressure points:
 
@@ -276,7 +276,7 @@ Optional spotlight opportunities:
   * Decide whether Vargun should remain bound to the pact.
   * Encounter an offer of permanent peace that eliminates future choice.
 
-### Floyd GoldSeeker — Survival and Chosen Purpose
+### Floyd GoldSeeker � Survival and Chosen Purpose
 
 Possible pressure points:
 
@@ -301,7 +301,7 @@ Optional spotlight opportunities:
 
 ## Candidate Twenty-Level Master Spine
 
-### Level 1 — Dragons of Stormwreck Isle: Dragon's Rest, Seagrow Caves, and Compass Rose
+### Level 1 � Dragons of Stormwreck Isle: Dragon's Rest, Seagrow Caves, and Compass Rose
 
 Status and location:
 
@@ -343,7 +343,7 @@ Adaptation effort:
 
 * Low; mostly completed play.
 
-### Level 2 — Dragons of Stormwreck Isle: Clifftop Observatory
+### Level 2 � Dragons of Stormwreck Isle: Clifftop Observatory
 
 Status and location:
 
@@ -380,85 +380,51 @@ Adaptation effort:
 
 * Low, with campaign-specific finale choices.
 
-### Level 3 — Tyranny of Dragons: Greenest in Flames and Raiders' Camp
+### Act 1 Scene 3 � Greenest and the Buried Vault
 
-#### Act 1, Scene 3 Player Planning Session
+Approved September 9, 2026, replacing the earlier Level 3 Greenest outline and pre-Session 15 questionnaire. Act 1 remains Discovery. The player discussion is complete: mystery 5 votes; moral choices and roleplay 3 each; puzzles and bonding 2 each; rescue, infiltration and chase also desired. One God returns; Grusk/Morghul stay deferred; dragons remain independent. Floyd GoldSeeker is the primary emotional focus, with functional contributions for every PC.
 
-Before Session 15, discuss what kind of Level 3 experience the players want. Act 1 remains the **Discovery** phase. Scene 3 should move toward a dragon-related threat involving a settlement, a faction, civilians, secrets, and competing objectives.
+Plan roughly **eight sessions, 16-23**. Session 16 is **three hours, all five PCs level 2 through its close**. Later levels and encounter balance remain separate DM decisions. Reorder or combine situations around player choice. No route, solution, alliance, victory or character revelation is guaranteed. The local background is now approved DM canon in 01/03/04/05; the following sequence is preparation.
 
-The likely structure is Greenest-inspired, but do not call it *Tyranny of Dragons* in player-facing material. Players are choosing the experience they want, not deciding the outcomes of the adventure.
+Use the owned Hoard of the Dragon Queen, Greenest in Flames and later Raiders' Camp, as source material. No Tyranny bundle purchase is needed; selected opening assets are installed in TUG4.1. Do not import the full published storyline, Tiamat endgame or old future-signal/Concordance assumptions into local canon.
 
-Ask which challenge types the group wants more of:
+#### Session 16  Smoke over Greenest
 
-* Combat
-* Puzzles
-* Exploration
-* Investigation
-* Stealth
-* Roleplay
-* Lore
-* Moral choices
-* Character backstory
-* Party bonding
+Arrive, meet Linan Swift, rescue a trapped mill worker and encounter the One God relief effort. Discover that raiders sought a brass plate beneath the mill. Floyd directs the rescue; every PC has a job. End with evidence that the same underlying draconic pattern appears here. Answer: this raid includes a deliberate excavation, not just looting. Stay level 2.
 
-Ask which adventure structures sound most appealing:
+#### Session 17  The help that hurts
 
-* Town defense
-* Enemy camp infiltration
-* Chase
-* Mystery
-* Rescue mission
-* Political conflict
-* Dungeon exploration
-* Mixed adventure
+Interview witnesses and test the pale stone with Merra and the local healer. First puzzle: map which foundation channels carry its pulse, then isolate one without interrupting patient care. Answer: the stone relieves symptoms while a damaged buried channel transfers strain into the town. Floyd trains a volunteer crew; Pat recognizes the older pattern. The experiment is reversible.
 
-Discuss these story questions without resolving them in advance:
+#### Session 18  The road or the people
 
-* Should the Cult of One God return in Scene 3?
-* Should Grusk and Morghul return?
-* Should the dragon be an enemy, ally, victim, or independent force?
-* Which character should receive the strongest spotlight?
-* Should spotlight focus on one character per session, one character per Scene, especially at higher levels, or return home with that character's backstory?
-* How directly should Scene 3 connect to Stormwreck Isle?
+Raiders withdraw with the plate, or seek it if the party retained it. Offer pursuit, staying to investigate, or sending a scout. A chosen chase uses stream crossings, carts and a surrender opportunity, with recovery of the plate or a route as its prize. Staying earns a cellar access route and town support. Answer: the plate is a control component, not treasure. Both routes keep camp and vault accessible.
 
-Player input shapes tone, structure, spotlight, and challenge mix. Outcomes are determined in play. Use `Act 1 Scene 3 Planning.png` as the player-facing handout for this discussion.
+#### Session 19  Inside the raiders camp
 
-Local story:
+Adapt the camp for disguise, bargaining and prisoner rescue. Leosin Erlanthar can corroborate orders, but a ledger or deserter provides the same lead if he is missed. Pat and Sev lead access; Floyd helps prisoners plan their own escape. Answer: Frulam Mondath wants exclusive control of the vault and promised its plate for a dragon�s cooperation. Do not require defeating the camp.
 
-* Defend civilians.
-* Identify targeted dragon-related thefts.
-* Pursue or investigate the raiders.
-* Infiltrate, negotiate with, or assault the camp.
+#### Session 20  The dragon names a price
 
-Opposition:
+Meet Lennithon at an exposed ridge with an agreed retreat route. He wants the vault sealed against interference and its controls surrendered to him. He helped intimidate the town and bears responsibility for that choice. Evidence can win a limited ceasefire or supervised access. Answer: he sensed Stormwreck�s signal and pursued an existing local interest; he did not create the rift. His link to the departure omen remains unproven.
 
-* Cult of the Dragon.
-* Frulam Mondath.
-* Langdedrosa Cyanwrath.
-* Grusk or Morghul as independent mercenaries or political opportunists.
+#### Session 21  Under the foundations
 
-Concordance development:
+Explore the buried vault through a recovered route or an engineered bypass. Second puzzle: use a relief diagram to divert one test pulse into an empty drainage chamber before isolating the damaged branch. Missteps reveal where the pressure goes and close routes, rather than resetting progress. Floyd shares authority with trained townspeople. Answer: this site redirects a local disturbance; it is not the origin of the wound.
 
-* The cult is mapping dragon deaths and observatories.
-* Its instruments detect the future signal and misidentify it as draconic.
+#### Session 22  Who gets to decide
 
-Spotlight opportunities:
+Bring evidence to Nighthill, Merra, the healer and affected families. Let the party propose a shutdown, a supervised repair or a temporary dragon compact. Stock supports, relocate patients and arrange escape routes. Raiders may offer information for custody or safe passage. Answer: show measured costs of each plan before asking for commitment. A short private conversation with the rescued worker gives Floyd room to reflect.
 
-* Throk chooses between protecting Greenest and pursuing personal enemies.
-* Sev handles infiltration.
-* Kai confronts disciplined cruelty.
+#### Session 23  The work of getting people out
 
-Continuity payload:
+Execute the chosen intervention while a damaged conduit shifts and a raider remnant attempts to seize the controls. Prioritize changing hazards, delegation and negotiation over an obligatory boss. An invented solution can save people and evidence if its labor, risk or concessions are credible. Close with specific saved homes, debts and custodianship. Preserve a local record of another draconic site as an optional future lead, without undoing the victory.
 
-* Show the consequences of Greenest's survival, fall, or transformation.
-* Reveal a hatchery or equivalent research site.
-* Preserve at least one Grusk or Morghul thread if play supports it.
+Later levels remain a separate DM decision. These are session objectives, not balanced encounters for Sessions 17�23; tune their threats only after the party�s actual level and resources are known.
 
-Adaptation effort:
+If players move fast, combine 18/19 or 21/22; use recovered time for consequences and relationships. Resolve one local question each session. Floyd leads through practical work, teaching and chosen responsibility; do not identify his god or decide why he survived Glittervein. Pat's ancestry, the distant omen and the ultimate rift cause remain open.
 
-* Moderate; early Tyranny material requires party-level and campaign-context adjustment.
-
-### Level 4 — Tyranny of Dragons: Dragon Hatchery and Compressed Pursuit
+### Level 4 � Tyranny of Dragons: Dragon Hatchery and Compressed Pursuit
 
 Local story:
 
@@ -493,7 +459,7 @@ Adaptation effort:
 
 * Moderate.
 
-### Level 5 — Keys from the Golden Vault: Tockworth's Clockworks
+### Level 5 � Keys from the Golden Vault: Tockworth's Clockworks
 
 Location:
 
@@ -532,7 +498,7 @@ Adaptation effort:
 
 * Low to moderate.
 
-### Level 6 — Ghosts of Saltmarsh: Salvage Operation
+### Level 6 � Ghosts of Saltmarsh: Salvage Operation
 
 Location:
 
@@ -572,7 +538,7 @@ Adaptation effort:
 
 * Moderate; level and temporal elements require conversion.
 
-### Level 7 — Candlekeep Mysteries: Sarah of Yellowcrest Manor
+### Level 7 � Candlekeep Mysteries: Sarah of Yellowcrest Manor
 
 Local story:
 
@@ -607,7 +573,7 @@ Adaptation effort:
 
 * Low.
 
-### Level 8 — The Wild Beyond the Witchlight: Selected Prismeer Material
+### Level 8 � The Wild Beyond the Witchlight: Selected Prismeer Material
 
 Local story:
 
@@ -642,7 +608,7 @@ Adaptation effort:
 
 * Heavy selective conversion; use chosen locations and factions rather than compressing the entire campaign.
 
-### Level 9 — Phandelver and Below: Selected Shattered Obelisk Chapters
+### Level 9 � Phandelver and Below: Selected Shattered Obelisk Chapters
 
 Local story:
 
@@ -676,7 +642,7 @@ Adaptation effort:
 
 * Moderate.
 
-### Level 10 — Keys from the Golden Vault: Affair on the Concordant Express
+### Level 10 � Keys from the Golden Vault: Affair on the Concordant Express
 
 Local story:
 
@@ -711,7 +677,7 @@ Adaptation effort:
 
 * Moderate.
 
-### Level 11 — Candlekeep Mysteries: The Curious Tale of Wisteria Vale, Reframed
+### Level 11 � Candlekeep Mysteries: The Curious Tale of Wisteria Vale, Reframed
 
 Local story:
 
@@ -743,7 +709,7 @@ Adaptation effort:
 
 * Low to moderate.
 
-### Level 12 — Journeys Through the Radiant Citadel: The Nightsea's Succor
+### Level 12 � Journeys Through the Radiant Citadel: The Nightsea's Succor
 
 Location:
 
@@ -780,7 +746,7 @@ Adaptation effort:
 
 * Low.
 
-### Level 13 — Candlekeep Mysteries: The Canopic Being
+### Level 13 � Candlekeep Mysteries: The Canopic Being
 
 Location:
 
@@ -820,7 +786,7 @@ Adaptation effort:
 
 * Low.
 
-### Level 14 — Journeys Through the Radiant Citadel: Orchids of the Invisible Mountain
+### Level 14 � Journeys Through the Radiant Citadel: Orchids of the Invisible Mountain
 
 Location:
 
@@ -861,7 +827,7 @@ Adaptation effort:
 
 * Low.
 
-### Level 15 — Tyranny of Dragons: Selected Rise of Tiamat Material
+### Level 15 � Tyranny of Dragons: Selected Rise of Tiamat Material
 
 Location:
 
@@ -900,7 +866,7 @@ Adaptation effort:
 
 * Moderate; use selected high-level material and revise coalition history around player choices.
 
-### Level 16 — Candlekeep Mysteries: Xanthoria
+### Level 16 � Candlekeep Mysteries: Xanthoria
 
 Location:
 
@@ -938,7 +904,7 @@ Adaptation effort:
 
 * Low.
 
-### Level 17 — Dungeon of the Mad Mage: Selected Runestone, Terminus, and Shadowdusk Material
+### Level 17 � Dungeon of the Mad Mage: Selected Runestone, Terminus, and Shadowdusk Material
 
 Location:
 
@@ -980,7 +946,7 @@ Adaptation effort:
 
 * Moderate; individual Undermountain floors are usable as standalone high-level sites.
 
-### Level 18 — Tomb of Annihilation Part I: Port Nyanzaru, Jungle, and Omu
+### Level 18 � Tomb of Annihilation Part I: Port Nyanzaru, Jungle, and Omu
 
 Location:
 
@@ -1024,7 +990,7 @@ Adaptation effort:
 * Heavy / mythic conversion.
 * Tomb of Annihilation is written for much lower-level characters; use its setting, factions, routes, puzzles, and architecture rather than its original encounter balance.
 
-### Level 19 — Tomb of Annihilation Part II: Tomb of the Nine Gods
+### Level 19 � Tomb of Annihilation Part II: Tomb of the Nine Gods
 
 Location:
 
@@ -1075,7 +1041,7 @@ Adaptation effort:
 
 * Heavy / mythic conversion.
 
-### Level 20 — Vecna: Eve of Ruin Framework Adapted for Acererak
+### Level 20 � Vecna: Eve of Ruin Framework Adapted for Acererak
 
 Location:
 

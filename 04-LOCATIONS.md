@@ -28,3 +28,13 @@
 
 * An unnamed human settlement seen through the Observatory's distant golden connection, threatened beneath a torn sky by a dragon-shaped shadow.
 * The location beyond the horizon associated with the golden light and winged shadow seen after the party left Stormwreck is unknown.
+
+## Greenest and the Buried Vault � Approved DM Canon September 9, 2026
+
+* Greenest is relocated near the Sword Coast, approximately half a day's road inland from a mainland landing. A stream, watermill, keep and harvest temple support the settlement. The party's journey there remains the Session 16 opening transition, not completed travel.
+* Beneath the mill is a shallow working space reached through the broken floor or downstream vent. An older sealed arch has brass channels, a rectangular control-plate socket, fresh extraction scratches and a short seam along which water moves upward. It belongs to the same geometric family as the Observatory, not necessarily the same function or origin story.
+* The draconic diversion vault predates the town. It routes local magical pressure into an empty rock basin. Recent foundation work damaged a branch; raiders worsened it while extracting the control plate. The detailed route and repair solution remain subject to play.
+* The harvest temple is a cooperative refuge where Eadyan and Merra tend patients. A buried branch channel beneath the relief stone connects its pulse to structural strain. A temporary prop buys at least one night of local sanctuary safety; there is no concealed instant-collapse clock in Session 16.
+* The north road and a chalk cut form the raiders' delivery route. Evidence can lead toward their camp without requiring a captured enemy or a successful combat.
+
+The unnamed settlement glimpsed through the Observatory and the departure omen's exact location remain unconfirmed. Do not silently identify either as Greenest.

@@ -1,6 +1,8 @@
 # Player Characters and Party Reference
 
-Live D&D Beyond sheets refreshed September 1, 2026.
+Last successful D&D Beyond sheet refresh: September 1, 2026. **These resource values are historical, not verified current values.**
+
+September 9 update: Scott confirmed five PCs remain level 2 for the three-hour Session 16, including its close. A required sheet refresh was attempted, but no D&D Beyond MCP is exposed and the configured helper directory `C:\Users\studh\dndbeyond-mcp-main` is absent on this host. No fresh sheet values were obtained; preserve existing mechanics and table-canon mismatches. Confirm current HP, conditions, slots, limited-use features and supplies with players before play. TUG4.1's five new party portraits are generic DM-controlled staging tokens with no sheet links or resource bars; they do not replace actual character records.
 
 ## Current Party
 

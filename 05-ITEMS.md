@@ -17,3 +17,14 @@
 ## Unclaimed or Unknown
 
 * Sparkrender's hoard - present in D5. Its final claimed/distributed status was not supplied in the Session 15 update; do not assume ownership or distribution without a table note.
+
+## Greenest Objects � Approved DM Canon September 9, 2026
+
+These are local DM facts, not items already owned or identified by the party.
+
+* Brass control plate � removable palm-wide vault component extracted from the socket beneath the mill. It is a control, not ordinary treasure. Frulam promised it to Lennithon. Session 16 begins with it in the withdrawing raiders' crate; whether they deliver it or the party retains it depends on play. Reinsertion alone does not repair damaged channels.
+* Merra's pale relief stone � a distinct local One God receiver, not silently identified with the earlier damaged worshiping stone or Severed Whisper's odd stone. While seated above its channel, within 20 feet it eases pain and labored breathing for three injured, conscious civilians. It grants no HP, temporary HP, spell slots, immunity or general PC buff. Every ten fictional minutes its pulse coincides with relief and new dust from a widening nearby crack. It routes power or prayer through a non-divine receiver; this is not proof of the cult's theology.
+* Moving the stone onto an ordinary wooden bench away from the channel for one cycle stops relief, pulsing and new dust together. Fresh air, water, bandages and ordinary care keep the patients stable. Replacing it restores the paired effect. Breaking it ends its local effect and loses its potential use, without an explosion or instant deaths. Disabling it reduces one load but leaves the wider vault needing repair.
+* Unsigned work order � original clue prepared for discovery in discarded packing by the excavation or intercepted crate. Text: �Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn.� The wording establishes the raiders' intended delivery deadline, not automatic success or a rescue death timer.
+
+Track actual plate custody, stone placement, patient care and whether the work order is found after play. No ownership or Session 16 discovery is awarded by this canon update.

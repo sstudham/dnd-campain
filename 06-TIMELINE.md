@@ -63,3 +63,12 @@
 * Follow the draconic lead beyond Stormwreck without assuming dragons are unified or trustworthy.
 * Determine why Pat Benatar's scale responded to the distant golden light and winged shadow.
 * Preserve Floyd GoldSeeker's Glittervein mystery while making him the primary character-development focus through the coming Scene 3 period.
+
+## Greenest Background Sequence � DM Canon Approved September 9, 2026
+
+1. Ancient dragons built a local diversion vault beneath the future Greenest settlement.
+2. Recent town foundation work damaged a branch. Merra placed her relief receiver above a surviving channel; its pulses gave limited comfort while worsening support damage.
+3. Lennithon recognized the outward Observatory signal. Frulam offered him the vault control plate in exchange for intimidating defenders away from excavation; he accepted.
+4. Raiders extracted the plate, widening existing damage. The Session 16 opening places them withdrawing with it toward the north-road chalk cut for intended delivery before dawn.
+
+This establishes offscreen background, not a new played session. The party's last logged position remains its departure from Stormwreck. Arrival, rescue, interception, testing and pursuit await play; no unattended casualty, plate delivery or collapse is automatically resolved here.
