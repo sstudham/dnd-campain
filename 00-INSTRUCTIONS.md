@@ -37,6 +37,11 @@ When Scott gives a new canon update, post-session update, or campaign-file updat
 
 ## Shared canon saves from ChatGPT, Work, and Codex
 
+Dictated "save to cannon" means "save to canon". Feedback about the assistant or
+workflow belongs separately in `SYSTEM-FEEDBACK.md`, with source provenance and
+open status. Review unresolved entries before maintenance. Saving feedback alone
+does not authorize implementation or a change to campaign canon.
+
 Effective September 10, 2026. This workflow supersedes older instructions requiring a Codex update block, mandatory PC editing, special GitHub permission phrases, or a D&D Beyond refresh for every save.
 
 - Published campaign canon is the current `main` branch of `sstudham/dnd-campain`. ChatGPT project uploads, chat memory, generated task folders, and PC working copies are not independent published canon.
