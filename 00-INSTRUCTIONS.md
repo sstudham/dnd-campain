@@ -24,7 +24,7 @@ When Scott gives a new canon update, post-session update, or campaign-file updat
 
 * Read this file first.
 * Apply the update to the relevant campaign files using the file map below.
-* Refresh the TUG4 party character sheets from D&D Beyond using the available D&D Beyond MCP. If the MCP is not exposed as a direct tool in the current Codex thread, use the local D&D Beyond MCP project at `C:\Users\studh\dndbeyond-mcp-main` and its authenticated helpers.
+* For updates involving character mechanics or a requested sheet refresh, use the available D&D Beyond MCP when authorized and accessible. Sheet refresh is a separate operation, not a prerequisite for saving a story/canon update. If it is unavailable, preserve existing mechanical values and their dates, save the independent approved canon change, and explicitly report that sheets were not refreshed. Do not claim fresh stats or require Scott to move to a PC merely to save canon. The historical local helper at `C:\Users\studh\dndbeyond-mcp-main` may be used only from an explicitly selected host where it actually exists.
 * Update `02-PLAYER-CHARACTERS.md` with current sheet status that is useful for DM prep: level, HP, AC, ability scores, saving throws, notable skills, passive perception, important class/race features, spells, weapons, and any sheet/campaign mismatches.
 * Update `10-NEXT-SESSION-PREP.md` with current HP/status notes when those matter for the next session.
 * Include a compact next-session resource snapshot when useful: healing potions and other key consumables, spell slots or pact slots, limited-use features such as breath weapons, focus points, Adrenaline Rush, Relentless Endurance, Feline Agility, Channel Divinity, death saves, and obvious supply concerns.
@@ -34,6 +34,28 @@ When Scott gives a new canon update, post-session update, or campaign-file updat
 * If D&D Beyond conflicts with table canon, preserve table canon in campaign files and add a short note identifying the D&D Beyond mismatch.
 * Do not print, copy, or expose D&D Beyond authentication cookies, tokens, or secrets.
 * After editing, list the files changed.
+
+## Shared canon saves from ChatGPT, Work, and Codex
+
+Effective September 10, 2026. This workflow supersedes older instructions requiring a Codex update block, mandatory PC editing, special GitHub permission phrases, or a D&D Beyond refresh for every save.
+
+- Published campaign canon is the current `main` branch of `sstudham/dnd-campain`. ChatGPT project uploads, chat memory, generated task folders, and PC working copies are not independent published canon.
+- At the start of each task, read this file from the current repository, then the relevant files. Read again before writing; never replace a live file from an old chat snapshot.
+- "Save this to canon", "update canon", "make this canon", and equivalent explicit requests authorize the described canon edits and their GitHub commit. A request to save ideas or prep authorizes saving them in their non-canon files. Brainstorming alone does not authorize writes or promotion into canon.
+- Prefer the connected GitHub write tools in the current ChatGPT/Work/Codex session, including phone and Web. Do not require Scott to choose Codex or return to a computer when a working GitHub write tool is available.
+- Read the current target file and its SHA, apply a minimal edit, and use the current SHA/branch to save. For interdependent changes across several files, prefer one atomic commit when supported. Never force-push. On concurrent changes, re-read and reconcile without overwriting unrelated work.
+- Preserve the file map, names, face references, canon/non-canon distinctions, dates, and unresolved contradictions. Do not create, rename, delete, or reorganize campaign content unless requested.
+- Verify the completed write by retrieving the changed files from GitHub at the returned commit. Reply briefly with what changed, the file/commit link, and any unfinished portion. A draft, local edit, PR awaiting merge, promise to remember, or failed request is NOT a completed canon save.
+- If write tools are missing or authorization fails, report the exact missing capability/error and keep the proposed changes clearly labeled UNSAVED. Do not imply that switching mode inherently fixes permission. Offer Work on the same device only if its needed tool is verified; Remote to PC2 is an available fallback, not the default.
+- Separate independent operations: a failed D&D Beyond refresh or image-generation step does not block a valid text canon save. Do not present a multi-file partial update as complete.
+
+### PC working copy and continuity
+
+PC2 (DESKTOP-Q2Q740E) currently maintains the existing `C:\Users\studh\OneDrive\Documents\dnd-campain` working folder. PC1 is Legion (RSS_LEGION_DESK); use Remote for local campaign work on PC2. Do not create a duplicate checkout during ordinary work.
+
+Before local editing, inspect status, verify the existing origin, fetch current `main`, and safely incorporate incoming changes. Preserve tracked modifications and untracked art/drafts; never reset, clean, stash, or overwrite them silently. If local work conflicts, isolate and explain the conflict while continuing independent safe work. Publish only the requested changes, then verify their remote commit. OneDrive folder placement does not replace Git reconciliation.
+
+Distinct tasks may have separate conversations. Record durable decisions and actual play in the existing campaign files so a new conversation can continue without relying on a long old chat.
 
 ## File Map
 
