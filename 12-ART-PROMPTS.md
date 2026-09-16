@@ -313,3 +313,13 @@ The four generated illustrations and original mill plan are installed in TUG4.1,
 * **S16 02a - Mill Map** — `Session16_Mill_Player.png`, original 1400x1120 tactical map, 20x16 five-foot squares; no secret labels. The complete DM key is in S16 DM - START HERE. Party tokens and conscious trapped worker are visible; optional raiders are GM-layer only. The separate owned Greenest town map remains a large-scale overview.
 
 The images are already available in the Roll20 game; no new face designs or regeneration are authorized by this canon update.
+
+## Session 16 Live-Play Illustrations — September 15–16, 2026
+
+Three additional images were generated in the session conversation using the actual five PC headshots (the two-character library scene uses Pat and Sev only). These are scene illustrations, not proof that every background prop, map label or suggested action occurred. No additional Roll20 installation is verified.
+
+* Sanctuary arrival — wide cinematic harvest-temple infirmary: all five PCs; Eadyan tending the rescued worker's injured leg; Merra holding a basin; palm-sized pale stone in a wooden bowl on a low stool; wounded raider and other patients. Preserve the distinction between the two caregivers and between the brass plate and relief stone.
+* Mayor's library — Sev studying a parchment cavern map while Pat drinks Fireball; visual humor from a "NO FOOD OR DRINK" sign and a "PROPER CONDUCT" book used as a bottle coaster. Pat is the fictional campaign PC, not the singer. The generated label "Drumlands Caverns" and incidental map destinations do not establish geography.
+* Tavern guide — all five PCs over drinks and a cavern map, with animated-looking Boots from Dora the Explorer standing on the map in red boots. **Subsequent table clarification controls: Boots is a stuffed monkey, seen as alive during the party's LSD hallucinations after the original guide spiked their drinks.** The image depicts their subjective experience, not a real guide or a crossover entity in objective world canon.
+
+Reusable visual direction: warm lamplight, realistic cinematic fantasy environments, clear character faces matched to their authoritative portraits; Boots may retain a comic animated appearance only when representing the hallucination. Future objective depictions should show the stuffed toy. Do not use humorous art to establish new magical effects, exact cavern topology, NPC allegiance or PC resources.

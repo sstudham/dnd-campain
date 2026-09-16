@@ -51,9 +51,16 @@
 * The party sailed away from Stormwreck Isle.
 * After Stormwreck disappeared behind them, Pat Benatar's scale became warm.
 * A distant point of golden light appeared beyond the horizon, moved, and was accompanied by a vast winged shadow. The scale then cooled.
-* Act 1, Scene 2 is complete. The next arc is Act 1, Scene 3.
+* Act 1, Scene 2 is complete. Act 1, Scene 3 began in Session 16.
+* Session 16: the party attacked the withdrawing raiders, recovered the plate and rescued the trapped mill worker through a volunteer pulley rig. Throk extracted him and Floyd healed him for 2 HP.
+* They escorted him to the sanctuary, then consulted a cavern map at the mayor's library and sought a guide and cocktails at a tavern.
+* After they threatened the guide, he spiked their drinks with LSD. They navigated underground using their own map knowledge while hallucinating that the stuffed monkey Boots was guiding them.
+* They reached the old arch, debated the buyer lead, reinserted the plate and observed its pulse stop at a damaged channel. They removed it again; Throk carries it.
+* Session 16 ends with the decision to investigate the delivery location. Session 17 begins at the north-road chalk cut at dawn; the meeting has not happened.
 
 ## Future Clocks
+
+* Immediate Session 17 opening: the party plans to reach the chalk cut at dawn, while the recovered order says delivery before dawn. Exact buyer attendance, timing consequences, travel/rest interval and remaining hallucination effects need a DM decision; no encounter or missed-meeting consequence has yet occurred.
 
 * Grusk and Morghul remain unresolved but are deliberately deferred until after Scene 3.
 * The rift problem behind the Cult of the One God remains unresolved; the cult is approved to return during Scene 3.
@@ -71,4 +78,4 @@
 3. Lennithon recognized the outward Observatory signal. Frulam offered him the vault control plate in exchange for intimidating defenders away from excavation; he accepted.
 4. Raiders extracted the plate, widening existing damage. The Session 16 opening places them withdrawing with it toward the north-road chalk cut for intended delivery before dawn.
 
-This establishes offscreen background, not a new played session. The party's last logged position remains its departure from Stormwreck. Arrival, rescue, interception, testing and pursuit await play; no unattended casualty, plate delivery or collapse is automatically resolved here.
+This September 9 sequence establishes offscreen background. Session 16's played outcomes above supersede its former pre-arrival status. No unreported plate delivery, casualty, collapse, rest or buyer encounter is implied.

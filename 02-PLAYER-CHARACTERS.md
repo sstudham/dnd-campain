@@ -4,6 +4,16 @@ Last successful D&D Beyond sheet refresh: September 1, 2026. **These resource va
 
 September 9 update: Scott confirmed five PCs remain level 2 for the three-hour Session 16, including its close. A required sheet refresh was attempted, but no D&D Beyond MCP is exposed and the configured helper directory `C:\Users\studh\dndbeyond-mcp-main` is absent on this host. No fresh sheet values were obtained; preserve existing mechanics and table-canon mismatches. Confirm current HP, conditions, slots, limited-use features and supplies with players before play. TUG4.1's five new party portraits are generic DM-controlled staging tokens with no sheet links or resource bars; they do not replace actual character records.
 
+## Session 16 Close / Session 17 Resource Status
+
+* Five PCs remain level 2. September 1 sheet values below remain historical; no D&D Beyond tool was available for this September 16 save, and no refresh was performed.
+* Throk carries the recovered brass control plate after the party's brief reinsertion test.
+* Floyd GoldSeeker cast Healing Word on the rescued mill worker for 2 HP during Session 16. Current remaining spell slots and casting resource are not verified; do not infer a full refill.
+* Severed Whisper used Feline Agility while pursuing and grappling a raider. Whether it was subsequently recovered is not recorded.
+* The party's drinks were spiked with LSD by the guide they threatened; hallucinations accompanied their underground exploration. Remaining duration/effects at the dawn opening are not established. Do not invent a Poisoned condition, saving throw DC, dose, or mechanical penalty.
+* No rest, current HP/temporary HP, other conditions, ammunition expenditure or potion consumption was confirmed in the session update. Preserve earlier equipment/feature discrepancies and confirm actual player records before balancing Session 17.
+* No new magic item, reward payment or level-up was reported. Existing unverified resistance/minor healing potion mechanics remain unresolved.
+
 ## Current Party
 
 * Brother Kai - Dragonborn Monk - played by Dave

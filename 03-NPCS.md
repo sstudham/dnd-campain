@@ -26,7 +26,7 @@
 
 ## Greenest NPCs — Approved DM Canon September 9, 2026
 
-These people and motives are established background; the party has not yet met them in logged play. Scene-specific entrances and responses remain prep.
+These people and motives were approved as background on September 9. Session 16 contacts are recorded below; unplayed motives and revelations remain DM-only, not automatic party knowledge.
 
 * Linan Swift — practical Greenest resident concerned with her family and neighbors. Opening rescue contact; knows what she witnessed, not the raiders' theology or full plan.
 * Governor Nighthill — tired, courteous civic leader who wants shelter, food and a plan he can explain. Willing to delegate and share authority when shown a workable proposal.
@@ -36,4 +36,11 @@ These people and motives are established background; the party has not yet met t
 * Frulam Mondath — Cult of the Dragon leader seeking exclusive control of the local draconic vault. Offered its control plate to Lennithon for intimidation of town defenders. Conceals how much the excavation damaged the site. Cooperation is an expedient bargain.
 * Lennithon — independent dragon involved in the Greenest raid and responsible for agreeing to intimidate defenders. Wants the vault sealed and controls in his custody, fearing an uncontrolled surge may threaten his territory. May negotiate supervised maintenance or recoverable controls; no alliance or agreement with the party is predetermined. His identity is initially unknown to the PCs. Not confirmed as the Session 15 departure omen.
 
-The anonymous conscious mill worker and two optional hired raiders are Session 16 encounter preparation in `10-NEXT-SESSION-PREP.md`; survival, capture and relationships are not logged outcomes.
+## Greenest Contacts — Session 16 Outcomes
+
+* Mill worker (unnamed) — rescued with the volunteer pulley rig and pulled free by Throk; Floyd GoldSeeker's Healing Word restored 2 HP. Does not know the plate's purpose; referred the party to the injured jobsite foreman. Escorted to the sanctuary.
+* Jobsite foreman (unnamed) — injured; placed at the sanctuary in the arrival scene. The party sought his knowledge of the plate's origin. No completed interview or precise testimony was reported.
+* Hired raiders (unnamed) — the party attacked them; the second was hit, pursued using Sev's Feline Agility and grappled. A wounded raider was at the infirmary. Exact mapping of later custody, interrogation answers and final disposition remain unconfirmed; do not declare either dead.
+* Tavern guide (unnamed) — approached for help navigating underground. The party threatened him; he spiked their drinks with LSD in retaliation. He did not accompany their cavern exploration.
+* Eadyan Falconmoon and Sister Merra — present during the party's sanctuary visit caring for the injured. No completed negotiation, stone experiment or conversion is established.
+* Boots — not a living NPC. A stuffed monkey perceived as an animated guide during the party's hallucinations; see 05-ITEMS.md. Do not give him independent information or actions as objective reality.

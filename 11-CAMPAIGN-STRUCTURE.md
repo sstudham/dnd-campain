@@ -388,13 +388,15 @@ Plan roughly **eight sessions, 16-23**. Session 16 is **three hours, all five PC
 
 Use the owned Hoard of the Dragon Queen, Greenest in Flames and later Raiders' Camp, as source material. No Tyranny bundle purchase is needed; selected opening assets are installed in TUG4.1. Do not import the full published storyline, Tiamat endgame or old future-signal/Concordance assumptions into local canon.
 
-#### Session 16  Smoke over Greenest
+#### Session 16  Smoke over Greenest — Completed
 
-Arrive, meet Linan Swift, rescue a trapped mill worker and encounter the One God relief effort. Discover that raiders sought a brass plate beneath the mill. Floyd directs the rescue; every PC has a job. End with evidence that the same underlying draconic pattern appears here. Answer: this raid includes a deliberate excavation, not just looting. Stay level 2.
+Played September 15, 2026. The party recovered the plate, rescued the mill worker, visited the sanctuary and mayor's library, then sought a tavern guide. After they threatened him, he drugged their drinks; Boots was a stuffed monkey perceived as their guide while they navigated themselves using the map. They tested the plate at the old arch, found the pulse interrupted by a physical break, removed it again and chose the buyer lead. Throk carries the plate. Stay level 2. See 09-SESSION-LOG.md for actual outcomes and unresolved details.
 
-#### Session 17  The help that hurts
+#### Session 17  The chalk-cut delivery — Player-Chosen Opening
 
-Interview witnesses and test the pale stone with Merra and the local healer. First puzzle: map which foundation channels carry its pulse, then isolate one without interrupting patient care. Answer: the stone relieves symptoms while a damaged buried channel transfers strain into the town. Floyd trains a volunteer crew; Pat recognizes the older pattern. The experiment is reversible.
+Open at the north-road chalk cut at dawn, with Throk carrying the brass plate. The party wants to investigate the intended buyer. The work order says before dawn; determine attendance and timing consequences in prep, without claiming an appointment was guaranteed. No exchange, encounter, rest or recovery has happened yet. See 10-NEXT-SESSION-PREP.md for the current starting state.
+
+The earlier "help that hurts" sanctuary investigation remains an available later thread, not a required opening: interview witnesses, arrange patient care with Merra and Eadyan, and reversibly test the pale stone and damaged channels. Later numbered sessions are still flexible planning beats, not automatic world events; follow the delivery choice without forcing the party back into the original order.
 
 #### Session 18  The road or the people
 

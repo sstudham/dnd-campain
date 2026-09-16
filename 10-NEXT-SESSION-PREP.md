@@ -1,6 +1,50 @@
 # Next Session Prep
 
-## Current Starting Point
+## Current Starting Point — Session 17
+
+Session 16, "Smoke over Greenest," is complete. **Open Session 17 at dawn at the chalk cut reached by the north road. Throk holds the brass control plate.** The party chose to investigate the intended buyer after briefly replacing and then removing the plate at the mill's old arch. Do not replay the Greenest arrival or force a sanctuary-first opening.
+
+### What actually happened
+
+* Raiders were attacked; Sev pursued and grappled one using Feline Agility. The party recovered the plate.
+* Pat organized volunteers (27 Persuasion); Floyd designed a rope-and-pulley rig (6 initially, then 20 with Sev's help); Throk pulled the trapped mill worker free; Floyd's Healing Word restored 2 HP.
+* They escorted the worker to the sanctuary. He did not know the plate's purpose and referred them to the injured foreman. They wanted to question him and the wounded raider; completed interview answers were not reported.
+* The sanctuary arrival included Eadyan, Merra, injured townspeople and the pale stone's pulse/dust correlation. No completed experiment or stone disposition was confirmed.
+* They read a map in the mayor's home/town hall library; Pat drank Fireball in that scene. At a tavern, they sought a guide and cocktails, threatened the original guide, and he spiked their drinks with LSD.
+* Boots is a stuffed monkey they perceived as a living guide. They navigated the caverns themselves using the route they had already understood from the map.
+* At the mill's sealed arch, the plate fitted flush and reconnected a local amber pulse, which stopped at a shifted crack across stone and brass. Replacing it did not repair the channel, open the arch or lock the plate in place.
+* They removed the plate and chose the delivery lead. Full played record: 09-SESSION-LOG.md.
+
+### Opening facts and decisions still needed
+
+* Recovered work order: "Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn."
+* **Timing discrepancy:** the players chose dawn, but the order says before dawn. Buyer attendance and consequences are not yet established; do not silently rewrite the paper or assume they have already missed the encounter.
+* Establish who is waiting (buyer/intermediary), what they expect, and what visible evidence the party can observe before committing. Those are Session 17 prep decisions, not saved outcomes.
+* Preserve player options to observe, pose as deliverers, question, bargain, withdraw or retain the plate. Their decision to visit is not consent to surrender it or enter an unavoidable fight.
+* Frulam's bargain with Lennithon and the vault's complete purpose remain DM background; the party has not established those answers. Neither the distant omen nor Pat's ancestry is resolved.
+* The arch remains sealed and physically damaged. Do not undo the successful rescue or invent an overnight catastrophe as punishment for following this lead. Sanctuary care and stone placement need confirmation.
+* The hallucination was real in play, but its remaining duration at dawn, any mechanical effects and the PCs' awareness of its cause are unspecified. Boots has no objective agency and cannot reveal information the party never learned.
+* The dawn scene is the selected next opening, not an already-played journey, rest, meeting or exchange.
+
+### Party resources to confirm
+
+* Five PCs remain level 2; no level-up at Session 16 close.
+* Throk: brass plate in custody.
+* Floyd: Healing Word was used, restoring 2 HP to the worker. Remaining slots are unverified.
+* Sev: Feline Agility was used; later recovery is unverified.
+* Current HP, temporary HP, other conditions, rests, ammunition and consumable use were not updated. No automatic overnight recovery.
+* D&D Beyond sheet refresh unavailable in this save: no exposed tool. September 1 values remain historical; see 02-PLAYER-CHARACTERS.md. Do not build the next encounter from stale HP as if current.
+* Existing resistance-potion types, minor-healing-potion mechanics, Floyd's equipment/AC discrepancy and Brother Kai's claw-die conflict remain unresolved.
+
+### Threads available after the chalk cut
+
+Follow what the party learns about the delivery, return to the damaged mill channels, or investigate Merra's relief stone with ordinary care arranged for her patients. The earlier eight-session order is flexible; the players have selected the delivery lead first.
+
+## Archived Session 16 Preparation — Reference Only
+
+The remaining earlier material is preserved for reusable NPC voices, mechanics, Roll20 assets and unresolved investigations. Its conditional outcomes, old arrival starting point and "tonight" timing are historical prep, not additional played events and not Session 17's required sequence.
+
+### Original Session 16 Starting Point
 
 Act 1, Scene 2 is complete.
 

@@ -62,7 +62,27 @@
 * Grusk and Morghul remain unresolved but are deliberately deferred until after Scene 3.
 * Floyd GoldSeeker is the primary character-development focus for the coming Scene 3 period. Preserve the question of why he survived Glittervein while repeatedly testing what he chooses to do with survival, rescue knowledge, and responsibility.
 
+## Session 16 Discoveries and Active Leads
+
+* The recovered plate fits the old arch beneath the mill. Replacing it restores a local pulse, but a physical break interrupts the channel; the sealed arch remains closed.
+* The party chose the intended buyer lead over leaving the plate installed. Throk carries it toward Session 17's north-road chalk-cut opening.
+* The sanctuary receiver and the wider damaged vault remain unresolved. No completed stone experiment or repair has been reported.
+* Boots is resolved as a stuffed monkey perceived as a guide during hallucination, not an independent magical entity. Their knowledge of the mapped route is real.
+
 ## Needs Resolution
+
+### Session 16 Close / Session 17 Opening
+
+* Delivery timing: the paper says "Deliver before dawn"; the party chose a dawn visit. Preserve both facts. Decide buyer presence and any timing consequence without claiming a rendezvous time was promised.
+* Which buyer or intermediary will appear, and what the PCs know about the employer, remain unplayed. Existing Frulam/Lennithon background is DM-only.
+* Raider custody/interviews: one was hit and grappled by Sev; a wounded raider was at the infirmary. Their exact final custody and any statements actually obtained are unconfirmed.
+* The injured foreman was the worker's suggested source and appeared in the sanctuary narration. The suggested dialogue about excavation was not confirmed as spoken at the table.
+* The sanctuary pulse/dust observation was narrated; no actual removal/test, propping, patient-care plan or subsequent stone disposition was reported.
+* Mill rescue succeeded; permanent repairs and explicit waterwheel shutdown were not reported. Do not turn a missing procedural detail into a retroactive failed rescue.
+* Current HP, slots, rests and feature recovery are unverified. Floyd's reported Healing Word restored 2 HP; keep the table result. No fresh D&D Beyond tools are available for this save.
+* The party hallucinated during cavern exploration after the guide spiked their drinks. Dose, onset timeline, remaining effects at dawn and whether the characters themselves recognize the deception are unconfirmed. No mechanical condition is automatically assigned.
+* The mayor's home/town hall library is established. Exact building layout, map ownership and the wider cavern network remain unspecified; generated image labels are not geographical canon.
+
 
 ### Existing Mechanical Conflict
 

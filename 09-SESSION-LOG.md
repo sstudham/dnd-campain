@@ -221,6 +221,51 @@ At the end of the Scene 3 planning discussion, the players selected the followin
 * Scene 3 should connect directly to Scene 2 through dragons and the search for information about the rift.
 * Floyd GoldSeeker is the primary character-development focus for approximately the next six months of real-world play.
 
+### Session 16 - Smoke over Greenest (September 15, 2026)
+
+Status: Played and completed. Act 1, Scene 3 underway. Canon save requested September 16, 2026 after live session reporting. The record below distinguishes actual play and the delivered scene narration from unused suggestions and illustrative art.
+
+#### Raiders and the recovered plate
+
+* The party attacked the two withdrawing hired raiders. The second raider was hit; Severed Whisper used Feline Agility to run him down and successfully grapple him.
+* The party recovered the brass plate. A wounded raider was subsequently at the sanctuary infirmary, where the party intended to question him. Exact damage, the other raider's final custody, and completed interrogation answers were not supplied.
+* The plate was described as a palm-wide rectangular piece of tarnished brass with fresh pry marks and precise branching grooves continuing to its edges. No obvious writing was visible.
+* Floyd GoldSeeker investigated it with a result of 9: he could recognize a deliberately fitted component but could not establish its function without its mounting.
+
+#### Mill rescue
+
+* Floyd investigated the downstream vent, an alternate approach to the shallow working space beneath the mill. The rescue and older masonry occupy the same mill site, not separate distant destinations.
+* Pat Benatar recruited and organized outside volunteers to build a rope-and-pulley lifting rig: natural 20 plus 7, total 27.
+* Floyd designed the rig, initially rolling 6, then obtaining a total 20 with assistance from Severed Whisper. The party's coordinated rig supported the load for the rescue.
+* Throk pulled the trapped worker free. Floyd cast Healing Word and restored 2 HP, as reported at the table; preserve that result rather than retrospectively recalculating it.
+* The worker did not know what the plate was for. He referred them to the jobsite foreman, whom he believed likely injured.
+* The party escorted the worker to the sanctuary infirmary, intending to question the wounded raider and ask the foreman where the plate came from.
+
+#### Sanctuary, library and tavern
+
+* The sanctuary arrival scene placed Eadyan Falconmoon and Sister Merra caring for injured townspeople, the rescued worker, a wounded raider and the injured foreman. Merra's pale stone sat in a wooden bowl on a low stool; its faint pulse coincided with patient relief and falling dust at a cellar-stair crack.
+* No stone removal/test, repair of the sanctuary supports, or completed foreman/raider interview was reported. Suggested interview dialogue is not a confirmed exchange.
+* Severed Whisper wanted a book or map. Scott established a library at the mayor's home/town hall. The party consulted and understood a cavern map giving the route to the plate's original location beneath the mill. Pat drank Fireball in the library scene.
+* The party went to a tavern for cocktails and a guide. They threatened the original guide; he retaliated by spiking their drinks with LSD. This is a fictional campaign event, not a real-world disclosure.
+* The party hallucinated that Boots from Dora the Explorer was their living guide. Boots is actually a stuffed monkey, not an animate NPC, magical guide, summoned creature or new source of lore.
+* They traveled through the underground caverns on their own while hallucinating. Their previously acquired map knowledge, not a real guide, enabled them to navigate to the mill.
+
+#### Old arch and plate test
+
+* The party reached the sealed old arch beneath the mill from the underground approach. Its fitted dark masonry, brass channels, fresh extraction marks, empty socket and upward-moving water were described. Pat was given the connection to the Observatory's older geometric family; no new answer to her ancestry was established.
+* They had a lengthy discussion about replacing the plate versus pursuing the buyer named by implication in the paper delivery clue.
+* They inserted the plate. In the resulting scene narration it fitted flush, reconnected the local channels, vibrated faintly and sent an amber pulse along the brass. The pulse and water followed a channel until a physical break where stone and brass had shifted apart; the light gathered, flickered and faded. Later pulses stopped at the same break.
+* Floyd could identify the interrupted route. Reinserting the plate did not repair the damaged channel or open the arch. The plate stayed accessible and was not locked into place.
+* The party then chose to remove the plate and take it to the delivery location. Throk holds it at session end.
+
+#### End state and next opening
+
+* Session 16 ends with that decision; the buyer encounter has not happened. Session 17 opens at dawn at the north-road chalk cut with Throk carrying the plate.
+* The unsigned paper reads: "Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn." Preserve the difference between its deadline and the chosen dawn arrival; buyer attendance and the consequence of timing remain undecided.
+* The mill worker is rescued and received 2 HP of healing. The old arch remains sealed and its channel unrepaired. Sanctuary stone disposition, full mill repair, ongoing patient care arrangements and raider custody need confirmation.
+* Five PCs remain level 2; no advancement was awarded. Floyd's Healing Word and Sev's Feline Agility use are reported, but current HP, slots, feature recovery, elapsed time, hallucination duration and any rests are unverified. Do not silently grant a rest or clear conditions.
+* Generated sanctuary, library/Fireball and Boots tavern illustrations support the session. Boots's animated depiction represents the hallucination. Map labels, background props, dialogue jokes and unreported actions in the pictures do not independently create canon.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.

@@ -1,5 +1,14 @@
 # Current Canon
 
+## Current Position — End of Session 16
+
+* Session 16 (September 15, 2026) is complete; Act 1, Scene 3 is underway in Greenest. Five PCs remain level 2.
+* The party intercepted the raiders, recovered the brass control plate, rescued the trapped mill worker and escorted him to the sanctuary.
+* After consulting the mayor's library map, they sought a guide at a tavern. The threatened guide spiked their drinks with LSD; they navigated the caverns themselves while hallucinating that a stuffed monkey, Boots, was guiding them. Their map knowledge was real.
+* At the sealed arch beneath the mill, reinserting the plate restored a local pulse that stopped at a broken channel. It did not repair the vault or open the arch.
+* The party removed the plate again. Throk holds it. Session 17 will open at the north-road chalk cut at dawn to investigate the intended buyer; that encounter is unplayed.
+* The work order specifies delivery **before dawn**. The party's chosen dawn arrival does not change that wording or establish who will be waiting. See 07-MYSTERIES-AND-HOOKS.md for remaining uncertainties.
+
 ## Campaign Premise
 
 * This is a long-form D&D campaign in a Faerun-inspired world.
@@ -79,7 +88,7 @@ These are approved campaign-planning decisions from the player discussion, not e
 
 ## Scene 3 DM Canon Approved September 9, 2026
 
-Scott explicitly authorized committing the Scene 3 / Session 16 preparation to canon. The following local background and world facts are established **DM-only canon**, not knowledge the party already possesses. Session 15 remains the last completed session; no Session 16 action or outcome has been played or logged by this update.
+Scott explicitly authorized committing the Scene 3 / Session 16 preparation to canon. The following local background and world facts are established **DM-only canon**, not knowledge the party already possesses. At the time of the September 9 approval, Session 15 was the last completed session. Session 16 has since been played; the current outcome below and 09-SESSION-LOG.md supersede that earlier status.
 
 * This campaign's Greenest is a market town near the Sword Coast, approximately half a day's road travel inland from a mainland landing. This deliberately relocates the published town; it does not identify the settlement previously glimpsed through the Observatory.
 * An ancient draconic diversion vault lies beneath Greenest. It redirects dangerous local magical pressure into an empty rock basin. Its geometric family is related to the Observatory pattern, but it does not explain the origin of the rift, Pat Benatar's ancestry or every other draconic site.
