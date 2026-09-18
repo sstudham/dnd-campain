@@ -38,4 +38,5 @@ Updated: 2026-09-18. The owner's Spawn operations coordinator registers this cam
 - Campaign canon changes happen only on an explicit canon-save request. Brainstorming is not canon.
 - Public content only. Never put private or non-campaign material here, including notes from other systems. No start/stop applies.
 - Adapter log: Spawn adapter build/test pass (project 15), 2026-09-18.
+- Adapter log: Spawn adapter build/test pass (project 15), 2026-09-18.
 - Rollback: revert this section's commit.
