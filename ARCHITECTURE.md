@@ -30,3 +30,11 @@ This repository is currently PUBLIC. Keep non-campaign personal/private material
 
 ## Verification limits
 Repository write/readback and shared instruction settings can be checked from this maintenance session. A physical phone's plugin availability/permissions and fresh-session behavior require their own evidence. Never equate desktop connector success with a completed phone test.
+
+## Spawn Systems relationship
+Updated: 2026-09-18. The owner's Spawn operations coordinator registers this campaign as an independent, managed system. DnD must keep working without it: GitHub `main` stays the only authority, and the existing ChatGPT and PC2 Codex flows are unchanged.
+- Spawn may report and query public repository state, such as commits, file map and `00-INSTRUCTIONS.md` reachability.
+- Spawn may make maintenance edits (file map, structure, documentation) through the same read/write flow above: fetch or reconcile, a bounded commit, no competing writer, and readback.
+- Campaign canon changes happen only on an explicit canon-save request. Brainstorming is not canon.
+- Public content only. Never put private or non-campaign material here, including notes from other systems. No start/stop applies.
+- Rollback: revert this section's commit.
