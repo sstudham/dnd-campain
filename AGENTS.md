@@ -9,3 +9,5 @@ Read the current [00-INSTRUCTIONS.md](00-INSTRUCTIONS.md) first and [ARCHITECTUR
 Published authority is GitHub main. Safely fetch/reconcile before local edits; inspect and preserve all existing tracked/untracked work. On PC2 use the existing saved working folder directly. Do not create another checkout/worktree during ordinary work.
 
 Explicit canon-save requests authorize their bounded commit; brainstorming is not canon. Verify remote readback and provide a commit/file link. Missing D&D Beyond tools do not block independent text saves. Preserve the campaign file map and authoritative character face references.
+
+Spawn System standing rules (architecture-version rule, impact assessment, owner-review hold): read `SPAWN_SYSTEM_RULES.md`.
