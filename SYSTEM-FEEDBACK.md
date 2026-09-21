@@ -27,4 +27,14 @@ only from retrieved owner feedback or an explicitly identified observed failure.
 
 ## Entries
 
-None recorded yet.
+## DND-SYS-001 — Live table AI pipeline
+
+- **Date:** 2026-09-21
+- **Status:** open; idea only
+- **Source:** Scott, D&D workflow discussion in Chief of Staff chat
+- **Owner request:** Add to the D&D build ideas: use realtime audio transcription so the D&D ChatGPT session can follow play as it happens instead of relying on manual transcript paste.
+- **Desired behavior:** Capture the table audio, stream/transcribe it with speaker-aware realtime transcription, continuously feed the latest transcript into the dedicated D&D live-session context, and let the assistant respond in the moment with DM advice, read-alouds, NPC dialogue, rules help, encounter pivots, and current-scene artwork.
+- **Near-term path:** Otter/manual transcript paste is acceptable while the live pipeline does not exist.
+- **Likely long-term direction:** a Spawn-managed D&D live-audio pipeline using current OpenAI realtime transcription rather than building around legacy Whisper-1.
+- **Acceptance idea:** During a real session, the assistant can accurately state the current scene and latest player decisions from live audio without Scott manually copying transcript chunks, while preserving the rule that transcript content is not automatically campaign canon.
+
