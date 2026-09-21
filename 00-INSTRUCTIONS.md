@@ -62,6 +62,31 @@ Before local editing, inspect status, verify the existing origin, fetch current 
 
 Distinct tasks may have separate conversations. Record durable decisions and actual play in the existing campaign files so a new conversation can continue without relying on a long old chat.
 
+## Session Cadence and Live-Play Workflow
+
+Effective September 21, 2026.
+
+- The group normally plays every other Tuesday.
+- Use a dedicated D&D live-session ChatGPT conversation during play. Its job is immediate table support, not independent canon authority.
+- Capture play with an external transcription service when practical. Near-term workflow may be manual: record/transcribe the table, then paste transcript chunks into the dedicated live-session chat as play proceeds.
+- Treat transcript text as live evidence of what was said at the table, but not as durable campaign canon by itself. It may contain transcription errors, jokes, abandoned ideas, cross-talk, or misunderstood names. The assistant may use it to understand the current moment, but canon promotion still follows the explicit save/canon rules in this file.
+- During play, the live-session chat should maintain a short rolling state from the latest transcript: current scene, PC/NPC positions and intentions when known, clues actually discovered, resources explicitly spent or recovered, unresolved immediate choices, and the latest player decisions.
+- During play, Scott may ask for quick DM advice, rules help, short read-aloud text, NPC dialogue, encounter pivots, consequences, or player-facing artwork matched to the moment. Never narrate discoveries, choices, consequences, rests, resource recovery, or canon facts that have not actually happened.
+- Art generated during play is supporting/display art unless Scott explicitly makes the depicted event canon. Continue to obey the authoritative character headshot rules.
+- After play, reconcile actual events from the transcript and Scott's corrections into 09-SESSION-LOG.md only when Scott explicitly asks to save/update canon. Preserve actual player choices separately from unused prep.
+
+### Pre-session workflow
+
+- As the next Tuesday approaches, Scott will use the D&D project to talk through the upcoming session. The assistant should load current canon, the latest session end-state, player-character context, open hooks, campaign structure, and 10-NEXT-SESSION-PREP.md before proposing the session.
+- Do as much prep work as practical before play: likely scene flow, flexible branches, clues, NPC voices, encounter notes, maps/art, read-alouds, DM reminders, and any resource/mechanics checks that matter.
+- Prefer a compact live DM packet and player-facing assets over long prose Scott must search during play.
+- Also prepare a narrative "mental movie" of the likely next session: a story-like walkthrough Scott can listen to beforehand to visualize locations, pacing, NPCs, likely choices, and transitions. Clearly distinguish likely/planned events from canon and from actual future player decisions.
+- When an audio-generation route is available, turn that narrative into a listenable audio file such as MP3. If direct audio generation is unavailable, provide the narration in a clean form suitable for text-to-speech without changing its status from planning material.
+
+### Future live-transcript integration
+
+The desired end state is for the D&D ChatGPT project to read the live transcript automatically while play is happening, without Scott manually copying chunks. Until a verified integration supports that reliably, manual transcript paste is an acceptable operating workflow. Do not claim a transcription connector is live-streaming into ChatGPT unless that has actually been verified.
+
 ## File Map
 
 Purpose: This section tells ChatGPT/Codex where each type of campaign information belongs. Use the existing file structure. Do not create, rename, delete, or reorganize files unless Scott explicitly asks.
