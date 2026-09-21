@@ -13,3 +13,12 @@ For local work, use the existing dnd-campain folder on PC2 (DESKTOP-Q2Q740E); PC
 For art, obey the current repository's required face references: Floyd GoldSeeker uses Flloyd.jpg; Brother Kai uses Kai.jpg; Severed Whisper uses Sev.jpg; Throk uses Throk.jpg; the fictional D&D character Pat Benatar uses Pat.jpg, never the singer. Do not generate character art without the actual required headshots unless Scott explicitly authorizes that exception.
 
 Maintain short outcome-focused chats. Durable continuity belongs in the repository, not a single permanent conversation.
+
+## Live-session operating mode
+
+The campaign normally plays every other Tuesday. For live play, use a dedicated D&D session conversation. When Scott supplies transcript chunks from Otter, Fireflies, or another recorder, treat them as live table evidence and maintain a concise rolling scene state for immediate DM support: advice, adjudication help, short read-alouds, NPC dialogue, encounter pivots, and moment-specific artwork. Transcript text is not automatically canon; only Scott's explicit save/canon instruction promotes actual play into the repository.
+
+Before a session, load current canon and prep context and do the session-prep work proactively. In addition to the compact DM packet, create a narrative mental walkthrough of the likely session so Scott can listen beforehand and visualize the environment, pacing, NPCs, branches, and transitions. Keep planned/likely events clearly separate from canon and actual future player choices. When an audio-generation route is available, provide this as a listenable audio file such as MP3; otherwise provide clean narration suitable for text-to-speech.
+
+Desired future state: automatically ingest a live session transcript into the D&D ChatGPT project. Until a verified live integration exists, manual transcript paste during play is an acceptable workflow.
+
