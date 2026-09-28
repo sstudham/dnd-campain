@@ -44,6 +44,60 @@ Follow what the party learns about the delivery, return to the damaged mill chan
 
 Status: ready for play. This is preparation, not canon or future actual play.
 
+### DM SHORT PAGE — Session 17
+
+OPEN
+- Dawn, north-road chalk cut. Throk has the brass control plate.
+- Work order said **before dawn**.
+- Show S17 00 - Chalk Cut Intro.
+- Read the opening. Mara's first line: **"You're late."**
+
+SCENE
+- Doss Fen is pinned under chalk/timber.
+- Mara Venn wants Doss alive, the plate transferred, and the camp route protected.
+- One hired guard prioritizes Doss over the mission.
+- Floyd automatically knows the safe rescue geometry: brace the upper chalk first or dig a relief trench beside the leg.
+- Careful credible rescue: automatic. Rushed/uncertain: DC 9–11.
+
+CLUES — NEVER GATE ALL OF THESE BEHIND ONE ROLL
+1. Buyer expected the exact plate.
+2. Messenger already rode north.
+3. Frulam Mondath's people arranged the transfer.
+4. Nobody was supposed to test the plate in the channels.
+5. The plate is part of a bargain involving a dragon.
+6. Best earned line: **"The dragon gets the key; the town gets left alone."**
+7. Payment slip: 40 gp / Plate intact / No channel test / F.M. / Transfer north / Hold for L.
+
+NPC VOICES
+- Mara: controlled, transactional, tired. "I move packages. I don't worship packages."
+- Doss: scared, embarrassed. "They said this was hauling."
+- Guard: practical; protects Doss, does not die for the job.
+
+PLAYER FREEDOM
+- Keep the plate: valid.
+- Hand it over: valid.
+- Fake delivery / bargain / steal notes / tail cart / capture Mara / withdraw: all valid.
+- Never steal the plate offscreen to repair the plot.
+
+COMBAT IF THEY START IT
+- Mara + one S16 Hired Raider profile only.
+- AC 12, HP 9, club +3, 1d4+1 for the guard; Mara can use the same simple profile.
+- Doss does not fight.
+- Opponents surrender/withdraw; no reinforcements.
+
+CLIMAX
+- Once the dragon bargain is understood, show S17 03 - Dragon Flyover.
+- Read the flyover passage.
+- The dragon does not attack or land.
+- Plate vibrates once. Mara is visibly afraid.
+- Mara: **"Well. Now you know why they wanted it before dawn."**
+
+STOP
+- Ask: **"What do you do?"**
+- That is a strong session ending.
+- If the table insists on continuing, use only the chosen continuation: camp overlook, Greenest return, or short messenger chase.
+
+
 ### Session purpose
 
 The party chose the buyer lead. Let that choice pay off immediately.
@@ -402,17 +456,160 @@ Do not establish:
 - a universal explanation for every One God stone;
 - that Greenest is the settlement glimpsed from the Observatory.
 
-### Roll20 readiness
+### Roll20 build manifest — Session 17
 
-No Roll20 work is required before play.
+Target page folder: **Session 17 - The Chalk Cut**
 
-Use the existing Session 16 assets if the party returns to Greenest: town map, sanctuary art, old arch art, work-order clue and hired-raider sheet.
+Player-facing page order:
+1. **S17 00 - Chalk Cut Intro** — splash image dawn_rescue_in_the_chalk_pass.png. Player ribbon begins here.
+2. **S17 01 - Chalk Cut Map** — tactical/staging map rockfall_pass_cartway.png.
+3. **S17 02 - Payment Slip** — handout image aged_parchment_instruction_note.png; reveal only if earned.
+4. **S17 03 - Dragon Flyover** — climax splash dragon_s_shadow_over_the_mountain_pass.png.
+5. **S17 04 - Camp Overlook** — optional continuation splash adventurers_overlooking_the_raider_camp.png; use only if they push north.
 
-For Session 17:
-- Run the chalk cut theater-of-the-mind. No tactical map is needed.
-- Keep the existing S16 Hired Raider sheet available if combat occurs.
-- The payment slip is already written above and can simply be read or pasted into chat if earned; it does not need a prebuilt handout.
-- Do not import or duplicate camp material until the party actually chooses to go there.
+DM-only:
+- **S17 DM - SHORT PAGE** — use the DM SHORT PAGE section above.
+- **S17 DM - Read Alouds** — opening, rescue-success transition, dragon flyover, and camp-overlook passages below.
+- Existing **S16 Hired Raider** sheet remains the simple combat profile for the guard/Mara if needed.
+
+Map setup for S17 01 - Chalk Cut Map:
+- Source is a 4:3 overhead map.
+- Configure Roll20 page as **20 x 15 squares**, 5 ft/square.
+- Fit map edge-to-edge; grid may be visually hidden after alignment.
+- Dynamic lighting is unnecessary.
+- Party starts at the south/bottom road entrance.
+- Mule/cart sits left-center.
+- Doss is pinned at the east/right collapse.
+- Mara begins adjacent to Doss but with a route toward the cart.
+- Guard begins at the collapse with the lever.
+- Use the five existing party portrait tokens from Session 16.
+- Do not pre-place a dragon token; the dragon is a splash-image event.
+
+Read-aloud/display sequence:
+- Intro splash while opening narration is read.
+- Move ribbon to Chalk Cut Map when players act.
+- Reveal Payment Slip only if earned.
+- Move ribbon to Dragon Flyover immediately before the climax narration.
+- Move to Camp Overlook only if play continues north.
+
+Asset note:
+- These five Session 17 images have been generated in the September 28 prep conversation using the campaign's supplied PC references where PCs are visible.
+- Written canon controls any incidental visual detail. The flyover art must not be used to establish dragon identity, exact color, allegiance, or species beyond "dragon."
+- The tactical map itself contains no required secret information and is safe for players.
+
+### Session 17 read-aloud pack
+
+#### Opening — Chalk Cut
+
+> Dawn finds the north road as a gray line between low white hills.
+>
+> The chalk cut is easy to recognize. The road narrows between two raw walls of pale stone, and fresh wagon tracks disappear around the bend ahead.
+>
+> Then you hear voices.
+>
+> Not a challenge. Not a spell.
+>
+> Someone shouting, "Stop pulling. Stop. You're making it worse."
+>
+> Around the bend, a small mule cart sits half-loaded beneath the chalk wall. Three strangers are clustered beside a fresh collapse. One of them is on the ground, pinned beneath a slab of white stone and broken timber.
+>
+> The woman standing over him looks up at you, then at Throk.
+>
+> More precisely, at what Throk is carrying.
+>
+> Her expression changes.
+>
+> "You're late."
+
+#### After Doss is freed
+
+> The last brace settles with a wooden groan.
+>
+> For a moment nothing moves.
+>
+> Then Doss drags his trapped leg free and rolls onto his back in the chalk dust, laughing once because breathing is easier than admitting how scared he was.
+>
+> Mara crouches beside him, checks the leg, and looks back at you.
+>
+> Her eyes stop on the brass plate.
+>
+> "You could have let us lose him," she says. "I noticed."
+>
+> Then she stands.
+>
+> "Now. Are we doing business, or are we making this morning worse?"
+
+If they did not help Doss, skip this passage and let the negotiation remain colder.
+
+#### Dragon flyover climax
+
+> The conversation stops because the mule hears it first.
+>
+> Its ears flatten. The animal jerks hard against the traces and stares south.
+>
+> Then every bird in the chalk hills takes flight at once.
+>
+> A shadow moves across the road.
+>
+> It is too large to belong to a cloud.
+>
+> Wind slams down into the cut. Chalk dust explodes from the walls. Loose paper tears from the cart. Cloaks snap hard enough to sting.
+>
+> Above you, a dragon crosses the opening between the hills.
+>
+> Close enough now that there is no mistaking the shape.
+>
+> Huge wings. Long tail. A body built for the sky.
+>
+> But it does not dive.
+>
+> It does not breathe fire.
+>
+> It does not even look down long enough for you to know whether it has noticed you.
+>
+> It banks north.
+>
+> Toward the road the messenger took.
+>
+> Toward the camp.
+>
+> In Throk's hands, the brass plate gives one hard metallic vibration.
+>
+> Mara has gone completely still.
+>
+> Whatever else she is, whatever she knows, the look on her face is not command.
+>
+> It is fear.
+
+If they look to Mara:
+
+> "Well. Now you know why they wanted it before dawn."
+
+Then stop speaking and let the players react.
+
+#### Optional camp overlook
+
+Use only if the party follows north after the flyover.
+
+> The road climbs until the chalk drops away beneath you.
+>
+> Below, the valley is full of canvas, smoke and movement.
+>
+> Wagons stand in ordered rows. Hired laborers work beside armed raiders. Fires burn between tents. The command pavilion sits apart from the rest, guarded but not fortified like a castle.
+>
+> People throughout the camp are looking north.
+>
+> Whatever passed over you passed over them too.
+>
+> This is not a band of thieves hiding in the hills.
+>
+> It is an operation.
+>
+> And somewhere down there, someone was expecting the object you carried to the chalk cut.
+
+Stop on:
+
+> "What do you want to know before you go inside?"
 
 ### Optional player-facing art prompt — chalk cut
 
