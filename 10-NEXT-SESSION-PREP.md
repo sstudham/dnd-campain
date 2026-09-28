@@ -376,18 +376,20 @@ Relevant known resource state:
 - Resistance potion types and minor-healing-potion mechanics remain unresolved and do not need resolution unless a player tries to use one.
 - Brother Kai's claw-die mismatch does not need a campaign ruling unless it matters in combat; preserve the existing table/campaign treatment.
 
-### Pacing for 5:00–9:00 PM
+### Actual table pacing — about two hours of D&D inside 5:00–9:00 PM
 
-5:00–5:10 — recap and establish dawn arrival.
-5:10–6:10 — chalk cut observation, rescue, negotiation/deception or fight.
-6:10–6:25 — consequences, clue synthesis, decide north vs Greenest.
-6:25–6:35 — break.
-6:35–7:45 — chosen branch: camp approach/chase OR sanctuary/foreman investigation.
-7:45–8:30 — deepen the chosen branch; roleplay and one meaningful decision.
-8:30–8:50 — give the strongest earned clue and frame next choice.
-8:50–9:00 — character beat, recap what the party now knows, stop on a decision.
+Do not try to fill four hours of game content. The group normally spends substantial time drinking, talking and socializing. Prepare roughly two hours of playable material and let the social night breathe.
 
-If the chalk cut runs long, do not rush it. End with the party obtaining the camp route and deciding whether to go north or return to Greenest.
+Target actual-play budget:
+- 0:00–0:10 — very short recap and dawn arrival.
+- 0:10–1:05 — chalk-cut scene: observe, rescue Doss, bluff/negotiate, argue over the plate, or fight.
+- 1:05–1:35 — consequences and strongest earned clues. Let the players decide what they believe and what they want to do.
+- 1:35–1:50 — dragon flyover climax.
+- 1:50–2:00 — immediate reaction, decision, and stop on the next move.
+
+If the chalk-cut scene consumes the whole play window, that is acceptable. Deliver the dragon flyover once the party has earned at least one fact connecting the plate to the dragon bargain, then stop on their reaction.
+
+Do not force the camp approach, Greenest return, chase or sanctuary investigation into this session. Those are ready continuation branches if the table unexpectedly plays faster.
 
 ### What not to reveal
 
@@ -417,53 +419,226 @@ Use the five authoritative headshots only if all five PCs are visible: Flloyd.jp
 
 Cinematic 16:9 dawn scene in a narrow pale-chalk road cutting outside Greenest. The five established adventurers arrive around a bend while Throk visibly carries a palm-wide tarnished brass control plate. Ahead, a small mule cart stands half-packed beside a fresh chalk-bank collapse. A frightened young hired runner is pinned but conscious beneath a slab and broken timber; a weather-dark-coated woman gives clipped orders while another hired guard struggles with a lever. The scene should read first as tense human rescue and suspicious rendezvous, not as an active battle. Gray dawn, white chalk dust, wet road, restrained old-gold glint from the brass plate, realistic cinematic fantasy, no readable text, no dragon visible, no cult logos dominating the image, no hallucinated Boots, no gore. Preserve every visible PC's exact authoritative face and species.
 
-### DM mental movie — Session 17
+### Tomorrow live DM card — keep this at the top of the screen
 
-Dawn is colder than the night before. The absurdity of the stuffed-monkey hallucination is behind the party, but the brass plate is real, heavy and consequential in Throk's hands. They have already proven something important about it: the plate belongs in the old arch, and when it is fitted, the buried system tries to work. The failure is farther down the line. Someone removed a working component from a damaged machine and specifically ordered the couriers not to test it.
+START:
+- Throk has the brass plate.
+- Dawn at the north-road chalk cut.
+- Work order said **before dawn**.
+- Open with the collapse and Mara: **"You're late."**
 
-The north road climbs out of Greenest through low chalk country. The party is not chasing a random raider anymore. They are following a logistics chain.
+WHAT THE PLAYERS NEED TO DISCOVER TONIGHT:
+1. The buyers were expecting the plate.
+2. Frulam Mondath's network is behind the transfer.
+3. The plate is part of a bargain involving a dragon.
+4. Strongest line if earned: **"The dragon gets the key; the town gets left alone."**
 
-At the cut, the first surprise is that nobody is posed for an ambush. The buyers are in trouble. A piece of the chalk wall has come down. Doss is trapped. Mara is trying to manage a rescue while also watching the road for the plate that should have arrived before dawn. The party appears at exactly the moment when everyone has leverage over everyone else.
+THE HUMAN PROBLEM:
+- Doss is pinned under chalk and timber.
+- Floyd automatically understands the safe rescue geometry.
+- Mara wants Doss alive and the plate transferred.
+- The opposition is morally mixed, not disposable cult fodder.
 
-Mara sees Throk and the brass. She says, "You're late."
+DO NOT GATE THE STORY:
+- Conversation, Doss, Mara's satchel, tracks, deception, surrender, capture and search can all reveal the lead.
+- A failed roll changes position or trust; it does not erase the only clue.
 
-Then stop talking.
+THE PLATE:
+- Keeping it is a valid success.
+- Handing it over is a valid success.
+- Fake delivery, theft, tailing, bargaining and withdrawal all work.
+- Never steal it offscreen to repair the plot.
 
-If the party watches, Sev can read the scene: a messenger already left north, Mara has a satchel she protects, the cart is meant to move fast. If they talk, Pat and Kai can hear the difference between zeal and contract work. Mara does not preach. She negotiates. If they help Doss, Floyd sees immediately that the current rescue attempt is wrong. The visible slab is not the real problem; the cracked timber above it is carrying the next piece of wall. Floyd can make the rescue safe because he knows stone and load paths, not because a god whispers the answer.
+THE CLIMAX:
+Once the party understands that a dragon is part of the bargain, use the flyover. No attack and no combat.
 
-That moment should feel familiar without becoming a speech about Glittervein. Floyd survived under stone. Now an enemy-adjacent stranger is under stone, and Floyd is the person in the road who knows how to get him out. Andy gets to decide whether that matters to Floyd and how.
+END:
+Ask what they do next. Stop there unless the table unexpectedly wants to keep playing.
 
-If the party helps, the social scene changes. Mara is still trying to take the plate to people who damaged Greenest, but she cannot pretend the party is just another obstacle. Doss is grateful and frightened enough to talk. He was hired to haul things. He heard Mondath's name. He heard people saying the dragon gets the key and the town gets left alone.
+### Dragon flyover climax — read aloud
 
-That line reframes the whole local problem.
+Use after the party has learned enough to understand that the plate is intended for a dragon bargain. Do not name or identify the dragon.
 
-The dragon is not merely circling Greenest because dragons attack towns. Someone has offered it something. The cult does not necessarily control it. The town is part of a bargain.
+> The conversation stops because the mule hears it first.
+>
+> Its ears flatten. The animal jerks hard against the traces and stares south.
+>
+> Then every bird in the chalk hills takes flight at once.
+>
+> A shadow moves across the road.
+>
+> It is too large to belong to a cloud.
+>
+> Wind slams down into the cut. Chalk dust explodes from the walls. Loose paper tears from the cart. Cloaks snap hard enough to sting.
+>
+> Above you, a dragon crosses the opening between the hills.
+>
+> Close enough now that there is no mistaking the shape.
+>
+> Huge wings. Long tail. A body built for the sky.
+>
+> But it does not dive.
+>
+> It does not breathe fire.
+>
+> It does not even look down long enough for you to know whether it has noticed you.
+>
+> It banks north.
+>
+> Toward the road the messenger took.
+>
+> Toward the camp.
+>
+> In Throk's hands, the brass plate gives one hard metallic vibration.
+>
+> Mara has gone completely still.
+>
+> Whatever else she is, whatever she knows, the look on her face is not command.
+>
+> It is fear.
 
-The party can hand over the plate, keep it, fake the delivery, steal Mara's notes, follow the messenger or attack. All of those choices move the story. The clue network is redundant on purpose: Mara can talk, Doss can talk, the satchel can be searched, the messenger can be tracked. No single failed Persuasion roll can erase the adventure.
+Pause.
 
-If they keep the plate, Mara knows the transaction has failed and the messenger has already warned the north. That creates pressure but not an instant army. If they surrender it, the plate goes onto the cart and becomes a moving objective they can follow. Their choice has a real consequence without becoming a trap.
+If the players look to Mara, her best line is:
 
-From there, the session opens in two directions.
+> "Well. Now you know why they wanted it before dawn."
 
-North is the external mystery: tracks, messenger, temporary camp, command tents, hired muscle mixed with believers. Reaching an overlook should feel like the party has found the machine behind the raiders. The question becomes how to enter it: disguise, rescue, spying, bargaining, infiltration.
+Do not explain further unless the players force or earn more. Let the table react.
 
-Back in Greenest is the internal mystery: the injured foreman can finally explain that ordinary foundation work exposed old stone, hired crews arrived later, and those crews made the damage worse. Merra's stone creates the other half of the problem. It genuinely eases suffering. It also loads the damaged buried system. Move it away and both the comfort and the dangerous pulse stop. Nobody has to be lying for the situation to be dangerous.
+### If they unexpectedly keep playing after the flyover
 
-Those two branches are the same story from opposite sides. Outside town, people are trying to control the buried system for a dragon bargain. Inside town, sincere people are accidentally leaning on that same damaged system to help the injured.
+Use only the branch they choose.
 
-The session should end with the players understanding more, not with the DM telling them what the correct solution is.
+North:
+- Tracks and messenger lead toward the temporary camp.
+- Give a camp overlook, not a full infiltration.
+- End with the question: "What do you want to know before you go inside?"
 
-The strongest ending is a decision:
-- go inside Mondath's camp;
-- return to the buried vault with better evidence;
-- confront the town with what they have learned;
-- or invent a route the prep did not predict.
+Back to Greenest:
+- Foreman confirms hired crews widened the old damage.
+- Merra's stone can be tested reversibly using already-established mechanics.
+- End with the conflict between helping patients now and reducing stress on the buried system.
 
-Floyd's question remains unresolved. Pat's ancestry remains unresolved. The dragon remains independent and unidentified. The rift remains larger than Greenest.
+Chase:
+- Two obstacles, DC 11 if a roll is needed.
+- Catching the messenger gains conversation or documents, not a second mandatory fight.
 
-But the local mystery has tightened: someone wants the plate because it controls something ancient beneath the town, Frulam's network is moving it north, and a dragon is part of the bargain.
+Do not add Lennithon in person, a boss battle, or a new cosmic revelation because there is extra clock time.
 
-That is enough movement for one session.
+### DM mental movie — Session 17, final version
+
+Dawn is colder than the night before. The ridiculous stuffed-monkey hallucination is now a story the party can laugh about, but the brass plate in Throk's hands is not funny. They tested it. It belongs in the old machinery beneath Greenest. When fitted, the ancient channels tried to function until the pulse hit physical damage. Someone deliberately removed a working control from an already-broken system and specifically ordered the couriers not to test it.
+
+The party is no longer chasing random raiders. They are following a supply chain.
+
+The north road leaves Greenest and climbs into pale chalk country. The rendezvous should have happened before dawn. The party is late.
+
+They still find people there because the transfer has gone wrong.
+
+A section of chalk wall has collapsed. Doss Fen, a hired runner, is trapped beneath white stone and broken timber. Mara Venn is trying to free him while protecting the satchel that contains the transfer paperwork. Another guard is levering at the collapse badly enough that Floyd can see exactly how they are about to make it worse.
+
+Then Mara sees Throk carrying the plate.
+
+"You're late."
+
+That is the first real decision point.
+
+Maybe the party lies and pretends to be the couriers. Maybe Sev disappears into cover and watches. Maybe Throk simply holds the plate up and demands answers. Maybe Kai asks why they should help people who participated in the raid. Maybe somebody attacks.
+
+If Floyd steps toward the collapse, he does not need divine guidance or an Investigation roll to know what is happening. He knows stone. The slab pinning Doss is not the immediate danger; the cracked timber above it is carrying another section of bank. Brace that first, or dig pressure away from the trapped leg, and Doss can be pulled free.
+
+The scene should quietly touch Glittervein without explaining Glittervein.
+
+Floyd was once the person under the earth waiting for a way out. Now someone who helped the enemy is under the earth, and Floyd is the person standing outside who knows how to make a way out. Nothing in the narration tells Andy what Floyd thinks about that.
+
+If the party helps, Mara notices. Doss certainly notices.
+
+The social geometry changes.
+
+These people are involved with whoever damaged Greenest, but they are not screaming fanatics. Doss thought he was hired to haul crates and messages. Mara moves contraband and information. She is willing to lie, bargain and protect her operation, but she does not want Doss crushed under a hill.
+
+The party begins pulling at the actual mystery.
+
+The buyers knew exactly what the plate looked like.
+They explicitly ordered that nobody test it in the channels.
+A messenger has already ridden north because the delivery was late.
+Frulam Mondath's people are behind the transfer.
+
+Then comes the useful sentence:
+
+"The dragon gets the key; the town gets left alone."
+
+That is the moment the local story changes shape.
+
+Until now, a dragon over Greenest could have meant almost anything. Raiders could have been serving it, controlling it, worshiping it, exploiting its attack, or simply operating under its shadow.
+
+Now the party knows there is a bargain.
+
+Someone intends to give the dragon the plate.
+
+That still does not tell them whether the dragon is trustworthy, hostile, frightened, opportunistic, or trying to contain something dangerous. It does not tell Pat whether this dragon has anything to do with the golden omen after Stormwreck. It does not tell them why this old system exists.
+
+It only makes the question immediate.
+
+The party can keep the plate. They can hand it over. They can demand payment. They can fake the delivery. They can steal Mara's paperwork. They can follow the messenger. They can threaten Doss. They can let everyone go.
+
+No option breaks the session.
+
+Let them argue. This group will probably spend real time arguing. That is not lost time; the object is valuable precisely because there is no obvious correct decision.
+
+When they have reached the point where the dragon bargain is real to them, change the scale of the scene.
+
+The mule hears it first.
+
+Then the birds rise.
+
+A huge shadow crosses the chalk.
+
+The dragon passes overhead.
+
+It does not attack. It does not land. It does not solve the mystery by speaking. It simply becomes physically real.
+
+The wind from its wings blasts chalk dust through the cut. Papers tear loose. Everyone looks up.
+
+The dragon banks north.
+
+Toward the camp.
+
+The brass plate in Throk's hands gives one hard metallic vibration.
+
+And Mara is afraid.
+
+That last fact matters. Whatever arrangement exists, this woman does not look like someone whose organization commands the creature overhead.
+
+If the players look at her, she says:
+
+"Well. Now you know why they wanted it before dawn."
+
+Then give the table the silence.
+
+What do they do?
+
+That is probably the end of the actual D&D portion of the night.
+
+If they decide to race north immediately and everyone wants another twenty minutes, let them. They can follow the tracks and reach an overlook where the camp sits below them, hurried and alert, with people looking toward the same northern sky.
+
+But do not require that scene.
+
+The session has already moved.
+
+They began with a stolen piece of brass and an unsigned work order.
+
+They end knowing that Frulam's people were transferring an ancient control key as part of a bargain with a dragon that has just flown toward the next link in the chain.
+
+Floyd has had a meaningful choice without having his mystery answered.
+Pat has a living draconic lead without her ancestry being solved.
+Sev has intelligence and route opportunities.
+Kai has opponents whose humanity complicates easy judgment.
+Throk literally holds the thing everyone wants.
+
+And the players own the next move.
+
+That is enough for tomorrow.
 
 
 ## Archived Session 16 Preparation — Reference Only
