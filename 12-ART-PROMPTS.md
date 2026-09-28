@@ -329,6 +329,8 @@ Reusable visual direction: warm lamplight, realistic cinematic fantasy environme
 
 Generated September 28, 2026 for the September 29 session. These are player-facing/session-support assets, not evidence that depicted events have occurred. Written canon controls exact facts. The established character headshots remain authoritative for PC identity.
 
+Persistent prep copies are stored in the user's Library under `/DND/Session 17/` as `Session17_00_Chalk_Cut_Intro.png`, `Session17_01_Chalk_Cut_Map.png`, `Session17_02_Payment_Slip.png`, `Session17_03_Dragon_Flyover.png`, `Session17_04_Camp_Overlook.png`, and `Session17_Mara_Venn.png`.
+
 ### S17 00 - Chalk Cut Intro
 
 Asset filename: `dawn_rescue_in_the_chalk_pass.png`
