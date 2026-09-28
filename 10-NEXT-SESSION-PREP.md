@@ -15,11 +15,11 @@ Session 16, "Smoke over Greenest," is complete. **Open Session 17 at dawn at the
 * At the mill's sealed arch, the plate fitted flush and reconnected a local amber pulse, which stopped at a shifted crack across stone and brass. Replacing it did not repair the channel, open the arch or lock the plate in place.
 * They removed the plate and chose the delivery lead. Full played record: 09-SESSION-LOG.md.
 
-### Opening facts and decisions still needed
+### Opening facts preserved / prep decisions now made
 
 * Recovered work order: "Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn."
-* **Timing discrepancy:** the players chose dawn, but the order says before dawn. Buyer attendance and consequences are not yet established; do not silently rewrite the paper or assume they have already missed the encounter.
-* Establish who is waiting (buyer/intermediary), what they expect, and what visible evidence the party can observe before committing. Those are Session 17 prep decisions, not saved outcomes.
+* **Timing discrepancy:** the players chose dawn, but the order says before dawn. Prep decision: Mara's transfer team is still present only because the chalk collapse delayed departure; a messenger has already ridden north. Preserve the paper wording and treat lateness as pressure, not a failed scene.
+* Prep answer: Mara Venn is the transfer intermediary; Doss Fen is the pinned runner; one hired guard is present. Their motivations, clues and contingencies are below. These are prep, not played outcomes.
 * Preserve player options to observe, pose as deliverers, question, bargain, withdraw or retain the plate. Their decision to visit is not consent to surrender it or enter an unavoidable fight.
 * Frulam's bargain with Lennithon and the vault's complete purpose remain DM background; the party has not established those answers. Neither the distant omen nor Pat's ancestry is resolved.
 * The arch remains sealed and physically damaged. Do not undo the successful rescue or invent an overnight catastrophe as punishment for following this lead. Sanctuary care and stone placement need confirmation.
@@ -42,7 +42,7 @@ Follow what the party learns about the delivery, return to the damaged mill chan
 
 ## Session 17 Prepared Packet — September 29, 2026
 
-Status: ready for play. This is preparation, not canon or future actual play.
+Status: run packet and visual assets ready; Roll20 installation is the only external setup step not yet verified. This is preparation, not canon or future actual play.
 
 ### DM SHORT PAGE — Session 17
 
