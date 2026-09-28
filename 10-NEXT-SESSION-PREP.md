@@ -42,7 +42,7 @@ Follow what the party learns about the delivery, return to the damaged mill chan
 
 ## Session 17 Prepared Packet — September 29, 2026
 
-Status: substantially ready for play. This is preparation, not canon or future actual play.
+Status: ready for play. This is preparation, not canon or future actual play.
 
 ### Session purpose
 
@@ -402,16 +402,17 @@ Do not establish:
 - a universal explanation for every One God stone;
 - that Greenest is the settlement glimpsed from the Observatory.
 
-### Roll20 review / required changes
+### Roll20 readiness
 
-Existing Session 16 assets remain useful for the Greenest return branch: town map, sanctuary art, old arch art, work-order clue and hired-raider sheet.
+No Roll20 work is required before play.
+
+Use the existing Session 16 assets if the party returns to Greenest: town map, sanctuary art, old arch art, work-order clue and hired-raider sheet.
 
 For Session 17:
-- No new tactical map is required. Run the chalk cut and camp overlook theater-of-the-mind unless Scott later wants a battle map.
-- Keep the existing S16 Hired Raider sheet available for Mara/escort combat if needed.
-- The only new player-facing handout actually needed is the short payment slip above; it can remain DM text until earned.
-- If Roll20 editing is available later, add a single **S17 Chalk Cut** blank/illustration page and a **S17 Clue - Payment Slip** handout. These are convenience items, not blockers for play.
-- Do not duplicate imported Hoard camp material until the party actually chooses to go there.
+- Run the chalk cut theater-of-the-mind. No tactical map is needed.
+- Keep the existing S16 Hired Raider sheet available if combat occurs.
+- The payment slip is already written above and can simply be read or pasted into chat if earned; it does not need a prebuilt handout.
+- Do not import or duplicate camp material until the party actually chooses to go there.
 
 ### Optional player-facing art prompt — chalk cut
 
