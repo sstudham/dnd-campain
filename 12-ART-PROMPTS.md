@@ -323,3 +323,74 @@ Three additional images were generated in the session conversation using the act
 * Tavern guide — all five PCs over drinks and a cavern map, with animated-looking Boots from Dora the Explorer standing on the map in red boots. **Subsequent table clarification controls: Boots is a stuffed monkey, seen as alive during the party's LSD hallucinations after the original guide spiked their drinks.** The image depicts their subjective experience, not a real guide or a crossover entity in objective world canon.
 
 Reusable visual direction: warm lamplight, realistic cinematic fantasy environments, clear character faces matched to their authoritative portraits; Boots may retain a comic animated appearance only when representing the hallucination. Future objective depictions should show the stuffed toy. Do not use humorous art to establish new magical effects, exact cavern topology, NPC allegiance or PC resources.
+
+
+## Session 17 Visuals — The Chalk Cut
+
+Generated September 28, 2026 for the September 29 session. These are player-facing/session-support assets, not evidence that depicted events have occurred. Written canon controls exact facts. The established character headshots remain authoritative for PC identity.
+
+### S17 00 - Chalk Cut Intro
+
+Asset filename: `dawn_rescue_in_the_chalk_pass.png`
+
+Purpose: opening splash while the party arrives at the north-road chalk cut at dawn.
+
+Scene: all five PCs arrive at the chalk cut with Throk carrying the brass control plate. Mara Venn, Doss Fen, the hired guard, mule/cart and fresh collapse establish the situation. Doss is pinned but conscious. Use before any player decision is made.
+
+Canon limits: does not establish that the party helps Doss, negotiates, fights, surrenders the plate, or learns any clue.
+
+### S17 01 - Chalk Cut Tactical Map
+
+Asset filename: `rockfall_pass_cartway.png`
+
+Purpose: Roll20 tactical/staging page.
+
+Map direction: 4:3 overhead chalk road cut with mule/cart to the west/left, fresh collapse to the east/right and open road south/bottom for party entry. Configure as 20 x 15 squares at 5 feet per square. Add tokens in Roll20; the base image itself is the terrain.
+
+### S17 02 - Payment Slip
+
+Asset filename: `aged_parchment_instruction_note.png`
+
+Purpose: earned player handout.
+
+Visible text:
+- 40 gp on confirmed receipt.
+- Plate intact.
+- No channel test.
+- F.M.
+- Transfer north. Hold for L.
+
+Reveal only if the party earns access to Mara's paperwork or equivalent proof. The initial L does not by itself identify Lennithon to the players.
+
+### S17 03 - Dragon Flyover
+
+Asset filename: `dragon_s_shadow_over_the_mountain_pass.png`
+
+Purpose: climax splash after the party has learned that the plate is part of a dragon bargain.
+
+Canon limits: the dragon passes overhead and heads north; it does not attack or land. Any apparent color, exact anatomy, age, species details or resemblance in the generated image are illustrative only and must not establish the dragon's identity, alignment, allegiance or connection to the Stormwreck departure omen. Written narration deliberately withholds those facts.
+
+### S17 04 - Camp Overlook
+
+Asset filename: `adventurers_overlooking_the_raider_camp.png`
+
+Purpose: optional continuation splash if the party follows north after the flyover.
+
+Scene intent: the party overlooks a substantial temporary raider/cult logistics camp containing hired labor, armed raiders, wagons, tents and a separated command area. Use as atmosphere and scale, not as an exact tactical map.
+
+Canon limits: incidental banners, tent count, exact layout, NPC count, fires and props are illustrative. Do not use the image to establish specific cult heraldry or exact camp defenses.
+
+### Mara Venn portrait
+
+Generated asset filename: `a_clean_high_resolution_realistic_portrait_style.png`
+
+Purpose: NPC token/portrait for Mara Venn. Planning visual only; her written Session 17 description and motivations control.
+
+### DM visual reference boards
+
+Generated during prep:
+- `a_wide_composite_tabletop_rpg_prep_board_collage.png`
+- `a_wide_detailed_fantasy_tabletop_rpg_session_mo.png`
+- `a_composite_layout_moodboard_image_for_a_d_d_ses.png`
+
+These composite boards are optional private DM references only. They may contain generated labels, decorative text, token placements or incidental visual assumptions that are not canon. Do not use them as player-facing evidence or as a substitute for the individual Session 17 assets above.
