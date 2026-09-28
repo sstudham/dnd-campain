@@ -40,6 +40,432 @@ Session 16, "Smoke over Greenest," is complete. **Open Session 17 at dawn at the
 
 Follow what the party learns about the delivery, return to the damaged mill channels, or investigate Merra's relief stone with ordinary care arranged for her patients. The earlier eight-session order is flexible; the players have selected the delivery lead first.
 
+## Session 17 Prepared Packet — September 29, 2026
+
+Status: substantially ready for play. This is preparation, not canon or future actual play.
+
+### Session purpose
+
+The party chose the buyer lead. Let that choice pay off immediately.
+
+The session should answer one local question: **the plate theft was part of an organized transfer connected to Frulam Mondath's network and a dragon bargain, not random looting.** It should not answer who the dragon is, whether Lennithon is the Stormwreck omen, Pat Benatar's ancestry, Floyd's divine source, or the origin of the rift.
+
+Primary emotional beat: Floyd sees people who helped create the danger still trying to get one of their own out from under stone. His expertise matters, but Andy decides what Floyd thinks that means.
+
+Secondary beats:
+- Pat reads the draconic implications without receiving an ancestry answer.
+- Sev gets the best route/scouting/intelligence opportunities.
+- Kai gets a genuine accountability question: enemies can still be people worth saving.
+- Throk physically holds the object everyone wants and controls whether power is surrendered, bargained with or withheld.
+
+### Chosen DM answer to the dawn timing issue
+
+The order said **before dawn**. The party arrives at dawn.
+
+The rendezvous has not simply vanished. The transfer team waited until first light, then began packing to leave. Minutes before the PCs arrive, part of the chalk bank sloughed into the cut and pinned one of the hired runners. That delay is the only reason the intermediary is still present.
+
+Consequences of being late:
+- The intermediary is suspicious and impatient.
+- A mounted messenger has already gone north to report the missed deadline.
+- The party has less time to observe before the group withdraws.
+- No arbitrary ambush, lost clue, offscreen death, or stolen plate.
+
+This preserves the exact work-order wording and makes timing matter without punishing the players for following their chosen lead.
+
+### The chalk cut
+
+A narrow wagon cut bites through pale chalk hills. Dawn light makes the exposed walls almost white. Overnight moisture has turned the road surface gray and slick. Fresh cart tracks enter from Greenest; one rider's tracks leave north at speed.
+
+Useful visible details before any roll:
+- A mule cart stands half-packed behind a bend.
+- Three strangers are present.
+- One young hired runner is pinned from the thigh down beneath a slab of collapsed chalk and timber. He is conscious and frightened.
+- One woman in a weather-dark coat is giving calm, clipped orders while keeping one hand near a satchel.
+- A second hired guard is levering at the slab badly enough that Floyd can immediately tell another section may shift.
+- A chalk mark on the wall matches the practical route notation from the work order, not a magical rune.
+- Nobody initially knows whether the approaching PCs are the expected couriers.
+
+The collapsed runner is not dying on a round-by-round timer. Poor work can worsen his injury or trigger another small collapse, but the players have time to think.
+
+### NPCs for this session
+
+#### Mara Venn — transfer intermediary, homebrew
+
+Role: Frulam's low-level logistics intermediary, not a high-ranking cultist and not a fanatic.
+
+What she wants:
+1. Obtain the brass plate intact.
+2. Keep the route to the main camp from becoming obvious.
+3. Get her injured runner out if possible.
+4. Avoid a fight that exposes the operation.
+
+What she knows:
+- The plate was ordered by Frulam Mondath's people.
+- It is part of a bargain involving a dragon.
+- She was explicitly told nobody was to fit the plate into the old channels.
+- She does not know the vault's full function.
+- She has never spoken directly to the dragon.
+- She knows the camp route and can identify Mondath by name if pressured, bargained with or credibly deceived.
+
+Voice: controlled, transactional, tired.
+- "You're late."
+- "If that's the brass, we can finish this without making the morning worse."
+- "I move packages. I don't worship packages."
+- If Floyd helps the runner: "You could have let us lose him. I noticed."
+
+Mara is willing to trade information, coin, safe withdrawal or a route marker. She will lie about the camp's size if she thinks the party intends an assault.
+
+#### Doss Fen — pinned hired runner, homebrew
+
+Young local laborer hired for hauling and messages. Not ideologically committed.
+
+What he knows:
+- The raiders were paid to remove "brass from old stone."
+- Mondath's people were furious that someone had damaged the channels.
+- He overheard: "The dragon gets the key; the town gets left alone."
+- He does not know the dragon's name.
+- He saw a larger camp farther north but has not entered its command tent.
+
+Voice: scared, embarrassed, trying to act tougher than he feels.
+- "I can still feel my foot. That's good, right?"
+- "They said this was hauling. Nobody said anything about old dragon tunnels."
+- "Please don't leave me under this."
+
+#### Hired guard
+
+One remaining adult escort. Loyal to the money and to Doss more than to Mara's cause. If a fight starts while Doss is trapped, the guard prioritizes Doss.
+
+Use the existing S16 Hired Raider stat block if mechanics are needed: AC 12, HP 9, club +3, 1d4+1. Do not add reinforcements.
+
+### Opening read-aloud
+
+> Dawn finds the north road as a gray line between low white hills.
+>
+> The chalk cut is easy to recognize. The road narrows between two raw walls of pale stone, and fresh wagon tracks disappear around the bend ahead.
+>
+> Then you hear voices.
+>
+> Not a challenge. Not a spell.
+>
+> Someone shouting, "Stop pulling. Stop. You're making it worse."
+>
+> Around the bend, a small mule cart sits half-loaded beneath the chalk wall. Three strangers are clustered beside a fresh collapse. One of them is on the ground, pinned beneath a slab of white stone and broken timber.
+>
+> The woman standing over him looks up at you, then at Throk.
+>
+> More precisely, at what Throk is carrying.
+>
+> Her expression changes.
+>
+> "You're late."
+
+Stop there. Let the players act.
+
+### The rescue geometry
+
+Floyd gets the important structural facts without a roll:
+- The slab is bearing against a cracked timber.
+- Simply lifting the visible slab may roll a second section onto Doss.
+- Two safe approaches are obvious to a master surveyor/miner: brace the upper chalk first, or unload pressure by digging a narrow relief trench beside the trapped leg.
+- Rope, cart timber, a shovel, a hand axe and wheel chocks are immediately available.
+- Other credible plans work.
+
+Roll only if execution is genuinely uncertain. Suggested DC 11 for a rushed improvised method, DC 9 with a sound plan and help, or no roll for a careful engineering solution using the available materials.
+
+Success: Doss is freed with an injured leg but stable.
+Setback: the bank shifts; nobody dies. The party must choose between abandoning the cart load, spending more time, or accepting a minor injury/gear loss to finish the rescue.
+
+Do not make Floyd roll to know what his professional background plainly gives him.
+
+### Information ladder
+
+The party should be able to learn the core lead through several independent routes. Never gate the session on one check.
+
+Tier 1 — visible / automatic:
+- The buyers expected the plate.
+- A messenger already rode north.
+- The cart is prepared for a fast transfer, not ordinary trade.
+- Mara recognizes the plate's shape immediately.
+
+Tier 2 — conversation, search or deception:
+- Mara works for Frulam Mondath's network.
+- Nobody was supposed to insert or "turn" the plate.
+- The main camp lies farther north.
+- The plate is being transferred as part of a bargain involving a dragon.
+
+Tier 3 — earned detail:
+- Doss heard: "The dragon gets the key; the town gets left alone."
+- Mara's satchel contains a payment/receipt slip with **F.M.** and the phrase **plate intact**.
+- A route sketch marks a temporary camp and a ridge rendezvous beyond it.
+- Another note uses only the initial **L.** for the ultimate recipient/contact. Do not name Lennithon from this clue alone.
+
+The important revelation is the bargain structure, not the dragon's identity.
+
+### Ready handout text — payment slip
+
+Use only if the players search Mara, bargain for proof, steal the satchel or otherwise earn it.
+
+> 40 gp on confirmed receipt.
+>
+> Plate intact.
+>
+> No channel test.
+>
+> F.M.
+>
+> Transfer north. Hold for L.
+
+This is prep text until actually discovered.
+
+### Likely player approaches
+
+#### They pose as the expected couriers
+
+Mara tests them with one practical question: "Who told you not to turn the channels?"
+
+A convincing answer, showing the work order, or simply acting like annoyed late contractors is enough to keep the conversation going. Do not require a single exact password.
+
+Mara offers 40 gp for the plate. She wants them gone afterward. If they press for the next delivery, she says the messenger already went north and points them toward a false secondary trail unless they have earned trust or catch the lie.
+
+Pat or Kai can notice that Mara speaks about the dragon as a dangerous contracting party, not an object of worship.
+
+#### They observe first
+
+Sev has the cleanest scouting opportunity.
+
+Without a roll from a good concealed position, he can see:
+- the northbound rider tracks;
+- Mara checking the road repeatedly;
+- the satchel changing hands only when she moves to help Doss;
+- a second set of wagon tracks continuing north from earlier traffic.
+
+A good Stealth/Perception result can reveal the payment slip edge or route sketch without requiring theft.
+
+#### They rescue Doss before negotiating
+
+This changes the social geometry. Mara is still an opponent, but she owes them something real.
+
+Give advantage or lower DCs on the first reasonable Persuasion attempt after the rescue. More importantly, let Mara volunteer one truthful fact rather than making every piece of information a roll.
+
+Recommended volunteered fact:
+"Frulam wants the plate. The dragon wants the plate. I don't know why either of them cares, and I am not dying to find out."
+
+#### They refuse to surrender the plate
+
+Mara does not attack five adventurers over it unless the party creates a fight.
+
+She warns that Mondath will now know who has it because the messenger has already ridden north.
+
+The party can leave with:
+- the plate;
+- the camp route from tracks, Doss, a stolen/copied sketch or tailing the messenger;
+- confirmation that a dragon bargain exists.
+
+This is a full success state.
+
+#### They surrender the plate
+
+Honor the choice. Do not make it a trick.
+
+Mara pays them if they plausibly pose as couriers. The plate goes onto the cart. The party can:
+- tail the cart;
+- plant a marker;
+- bargain to accompany it;
+- let it go and return to town.
+
+The story does not break. The plate is recoverable later at the camp or through negotiation.
+
+#### They attack immediately
+
+Use only Mara plus the single existing hired-guard stat profile; Doss is pinned and does not fight.
+
+Mara disengages/withdraws toward the cart and tries to escape north with or without the plate. She surrenders if clearly beaten. She does not fight to the death.
+
+Any captured survivor can provide Tier 2 information. Do not punish combat by deleting clues.
+
+#### They chase the messenger
+
+Run a short chase, not a second full combat.
+
+Obstacle 1: split cart ruts around a washout.
+Obstacle 2: a narrow sheep bridge or shallow ravine.
+
+Good tracking, speed, creative magic or two successful DC 11 checks can close the distance. A setback does not erase the route; it means the messenger reaches the outer camp first and security is alert.
+
+End this branch at the camp overlook rather than forcing an infiltration late in the session.
+
+### After the chalk cut — flexible second half
+
+The players choose the next problem.
+
+#### Branch A — follow or chase north
+
+Goal: reach an overlook of the raider camp and let the players decide whether Session 18 begins with infiltration, prisoner contact, disguise or withdrawal.
+
+What they can learn from observation:
+- This is an organized temporary camp, not a marching army.
+- Hired labor, raiders and cult personnel are mixed together.
+- Some people are clearly there for money rather than ideology.
+- The command area is separated from ordinary tents.
+- A guarded excavation ledger / command tent is a plausible intelligence target.
+- Do not introduce Lennithon physically yet unless players create an extraordinary reason.
+
+End on a choice, not a forced infiltration:
+"You can see the camp. What do you want to know before you go inside?"
+
+#### Branch B — return to Greenest
+
+Use the unfinished sanctuary/foreman thread.
+
+Let the injured foreman finally provide the testimony Session 16 did not establish:
+- recent foundation work exposed older fitted stone;
+- hired crews arrived afterward claiming to be stabilization labor;
+- they widened a crack and pried at brass;
+- the foreman stopped trusting them when they ordered town workers away from the lower space.
+
+Then offer the reversible Merra-stone test exactly as established in 05-ITEMS:
+- away from the buried channel, relief and pulsing stop together;
+- ordinary care keeps patients stable;
+- replacing it restores both effects and structural dust.
+
+This gives the party evidence that "help" and danger are linked without making Merra malicious.
+
+End on the choice between pursuing Mondath's network and solving the town's damaged system.
+
+#### Branch C — split effort
+
+Allow it if the group wants it, but keep scenes short and alternate rapidly. One subgroup follows the route while the other gathers testimony. Do not make splitting automatically punitive.
+
+### Character spotlight reminders
+
+Floyd:
+- Give structural facts freely when expertise applies.
+- Let Doss's rescue echo Glittervein without declaring what Floyd must feel.
+- If Doss asks, "Why'd you help me?", do not supply Floyd's answer.
+
+Pat:
+- The "dragon gets the key" line is relevant to her current search.
+- Her scale does not automatically react here. A reaction would imply more than current canon supports.
+- Let her read motives and bargain.
+
+Sev:
+- Best route to the satchel, messenger trail and camp observation.
+- Do not force the Kai execution conflict into this session, but leave room if players raise accountability while deciding what to do with prisoners.
+
+Kai:
+- Mara and Doss create a morally mixed enemy group.
+- The question is not "are they innocent?" It is whether useful restraint and information matter when opponents are vulnerable.
+
+Throk:
+- He physically holds the plate and therefore has visible negotiating power.
+- Let Mara address him first because of the object, not because he is the party leader.
+- Protective strength can show through controlling escalation rather than only damage.
+
+### Encounter balance and resources
+
+Do not balance a mandatory combat around stale September 1 HP.
+
+Before initiative, if combat becomes likely, quickly confirm current HP and any major missing resources at the table. The session works even if the party is depleted because every hostile scene has negotiation and withdrawal routes.
+
+Relevant known resource state:
+- Five PCs remain level 2.
+- Throk starts with the brass plate.
+- Floyd used one Healing Word in Session 16; remaining slots unverified.
+- Sev used Feline Agility; current recovery state unverified.
+- LSD has no assigned mechanical condition or numeric penalty. At dawn, describe residual unreality only if Scott wants the comic callback; do not impose disadvantage, Poisoned or saves without a prior ruling.
+- Resistance potion types and minor-healing-potion mechanics remain unresolved and do not need resolution unless a player tries to use one.
+- Brother Kai's claw-die mismatch does not need a campaign ruling unless it matters in combat; preserve the existing table/campaign treatment.
+
+### Pacing for 5:00–9:00 PM
+
+5:00–5:10 — recap and establish dawn arrival.
+5:10–6:10 — chalk cut observation, rescue, negotiation/deception or fight.
+6:10–6:25 — consequences, clue synthesis, decide north vs Greenest.
+6:25–6:35 — break.
+6:35–7:45 — chosen branch: camp approach/chase OR sanctuary/foreman investigation.
+7:45–8:30 — deepen the chosen branch; roleplay and one meaningful decision.
+8:30–8:50 — give the strongest earned clue and frame next choice.
+8:50–9:00 — character beat, recap what the party now knows, stop on a decision.
+
+If the chalk cut runs long, do not rush it. End with the party obtaining the camp route and deciding whether to go north or return to Greenest.
+
+### What not to reveal
+
+Do not establish:
+- that Lennithon is the golden Stormwreck omen;
+- that Lennithon created the rift;
+- Pat's ancestry or the final meaning of her scale;
+- why Floyd survived Glittervein or the source/name of his divine power;
+- the Concordance, Acererak or Invariant as truth;
+- a universal explanation for every One God stone;
+- that Greenest is the settlement glimpsed from the Observatory.
+
+### Roll20 review / required changes
+
+Existing Session 16 assets remain useful for the Greenest return branch: town map, sanctuary art, old arch art, work-order clue and hired-raider sheet.
+
+For Session 17:
+- No new tactical map is required. Run the chalk cut and camp overlook theater-of-the-mind unless Scott later wants a battle map.
+- Keep the existing S16 Hired Raider sheet available for Mara/escort combat if needed.
+- The only new player-facing handout actually needed is the short payment slip above; it can remain DM text until earned.
+- If Roll20 editing is available later, add a single **S17 Chalk Cut** blank/illustration page and a **S17 Clue - Payment Slip** handout. These are convenience items, not blockers for play.
+- Do not duplicate imported Hoard camp material until the party actually chooses to go there.
+
+### Optional player-facing art prompt — chalk cut
+
+Use the five authoritative headshots only if all five PCs are visible: Flloyd.jpg, Kai.jpg, Pat.jpg, Sev.jpg and Throk.jpg. Pat is the fictional campaign character only.
+
+Cinematic 16:9 dawn scene in a narrow pale-chalk road cutting outside Greenest. The five established adventurers arrive around a bend while Throk visibly carries a palm-wide tarnished brass control plate. Ahead, a small mule cart stands half-packed beside a fresh chalk-bank collapse. A frightened young hired runner is pinned but conscious beneath a slab and broken timber; a weather-dark-coated woman gives clipped orders while another hired guard struggles with a lever. The scene should read first as tense human rescue and suspicious rendezvous, not as an active battle. Gray dawn, white chalk dust, wet road, restrained old-gold glint from the brass plate, realistic cinematic fantasy, no readable text, no dragon visible, no cult logos dominating the image, no hallucinated Boots, no gore. Preserve every visible PC's exact authoritative face and species.
+
+### DM mental movie — Session 17
+
+Dawn is colder than the night before. The absurdity of the stuffed-monkey hallucination is behind the party, but the brass plate is real, heavy and consequential in Throk's hands. They have already proven something important about it: the plate belongs in the old arch, and when it is fitted, the buried system tries to work. The failure is farther down the line. Someone removed a working component from a damaged machine and specifically ordered the couriers not to test it.
+
+The north road climbs out of Greenest through low chalk country. The party is not chasing a random raider anymore. They are following a logistics chain.
+
+At the cut, the first surprise is that nobody is posed for an ambush. The buyers are in trouble. A piece of the chalk wall has come down. Doss is trapped. Mara is trying to manage a rescue while also watching the road for the plate that should have arrived before dawn. The party appears at exactly the moment when everyone has leverage over everyone else.
+
+Mara sees Throk and the brass. She says, "You're late."
+
+Then stop talking.
+
+If the party watches, Sev can read the scene: a messenger already left north, Mara has a satchel she protects, the cart is meant to move fast. If they talk, Pat and Kai can hear the difference between zeal and contract work. Mara does not preach. She negotiates. If they help Doss, Floyd sees immediately that the current rescue attempt is wrong. The visible slab is not the real problem; the cracked timber above it is carrying the next piece of wall. Floyd can make the rescue safe because he knows stone and load paths, not because a god whispers the answer.
+
+That moment should feel familiar without becoming a speech about Glittervein. Floyd survived under stone. Now an enemy-adjacent stranger is under stone, and Floyd is the person in the road who knows how to get him out. Andy gets to decide whether that matters to Floyd and how.
+
+If the party helps, the social scene changes. Mara is still trying to take the plate to people who damaged Greenest, but she cannot pretend the party is just another obstacle. Doss is grateful and frightened enough to talk. He was hired to haul things. He heard Mondath's name. He heard people saying the dragon gets the key and the town gets left alone.
+
+That line reframes the whole local problem.
+
+The dragon is not merely circling Greenest because dragons attack towns. Someone has offered it something. The cult does not necessarily control it. The town is part of a bargain.
+
+The party can hand over the plate, keep it, fake the delivery, steal Mara's notes, follow the messenger or attack. All of those choices move the story. The clue network is redundant on purpose: Mara can talk, Doss can talk, the satchel can be searched, the messenger can be tracked. No single failed Persuasion roll can erase the adventure.
+
+If they keep the plate, Mara knows the transaction has failed and the messenger has already warned the north. That creates pressure but not an instant army. If they surrender it, the plate goes onto the cart and becomes a moving objective they can follow. Their choice has a real consequence without becoming a trap.
+
+From there, the session opens in two directions.
+
+North is the external mystery: tracks, messenger, temporary camp, command tents, hired muscle mixed with believers. Reaching an overlook should feel like the party has found the machine behind the raiders. The question becomes how to enter it: disguise, rescue, spying, bargaining, infiltration.
+
+Back in Greenest is the internal mystery: the injured foreman can finally explain that ordinary foundation work exposed old stone, hired crews arrived later, and those crews made the damage worse. Merra's stone creates the other half of the problem. It genuinely eases suffering. It also loads the damaged buried system. Move it away and both the comfort and the dangerous pulse stop. Nobody has to be lying for the situation to be dangerous.
+
+Those two branches are the same story from opposite sides. Outside town, people are trying to control the buried system for a dragon bargain. Inside town, sincere people are accidentally leaning on that same damaged system to help the injured.
+
+The session should end with the players understanding more, not with the DM telling them what the correct solution is.
+
+The strongest ending is a decision:
+- go inside Mondath's camp;
+- return to the buried vault with better evidence;
+- confront the town with what they have learned;
+- or invent a route the prep did not predict.
+
+Floyd's question remains unresolved. Pat's ancestry remains unresolved. The dragon remains independent and unidentified. The rift remains larger than Greenest.
+
+But the local mystery has tightened: someone wants the plate because it controls something ancient beneath the town, Frulam's network is moving it north, and a dragon is part of the bargain.
+
+That is enough movement for one session.
+
+
 ## Archived Session 16 Preparation — Reference Only
 
 The remaining earlier material is preserved for reusable NPC voices, mechanics, Roll20 assets and unresolved investigations. Its conditional outcomes, old arrival starting point and "tonight" timing are historical prep, not additional played events and not Session 17's required sequence.
