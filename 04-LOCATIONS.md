@@ -4,7 +4,7 @@
 
 [Camp and strategy maps](12-ART-PROMPTS.md) support unplayed preparation. Northern camp keys: A Delivery entrance; B Wagon yard; C Workers quarters; D Survey and records tent; E Signal and stores yard; F Watch post. D is not Frulam's personal command tent.
 
-The council puzzle uses a wagon road through the chalk cut, an east drainage track passable on foot to the mill service lane, and a signal ridge with views of both approaches. The drainage track does not enter the sealed arch or repair the vault. Keep, temple and west orchard are planning options; incidental decorative details in the generated art do not establish further geography. The party chooses whether/how to return or contact Greenest.
+The council puzzle uses a wagon road through the chalk cut, an east drainage track passable on foot to the mill service lane, and a signal ridge with views of both approaches. The drainage track reaches the mill work entrance. Spade then intends to reach the familiar shallow space and breach masonry adjacent to the sealed arch to recover what lies beyond. The route itself does not open the arch or repair the vault; no enormous unseen machine is added. Keep, temple and west orchard are planning options; incidental decorative details in the generated art do not establish further geography. The party chooses whether/how to return or contact Greenest.
 
 ---
 

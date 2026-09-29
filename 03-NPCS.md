@@ -2,7 +2,7 @@
 
 ## Approved Session 17 NPC preparation — September 29, 2026
 
-Use [the expanded guide](output/session17/Session17_DM_Guide.md), not a compulsory road fight. Mara Venn is the paid intermediary; Doss Fen is hired labor; their hired guard prioritizes the rescue. Mara may escort a party that keeps the plate. These are planned interactions, not reported outcomes.
+Use [the expanded guide](output/session17/Session17_DM_Guide.md), not a compulsory road fight. Mara Venn is the paid intermediary; Doss Fen is hired labor; their hired guard prioritizes the rescue. Mara may provide a route or escort under an agreed cover, but knowingly bringing the wanted plate into camp attracts recovery attempts. Conceal it for an ordinary infiltration; a declared delivery is a supervised negotiation. These are planned interactions, not reported outcomes.
 
 The northern camp has a delivery clerk (A), wagon clerk (B), survey assistant seeking safe passage (C), records keeper (D), equipment keeper (E), and two watch guards (F). These are roles, not new named major villains. The seven tokens are placed in Roll20. The two guards reuse S16 Hired Raider (AC 12, HP 9 each, independent HP); the five workers use Commoner (HP 4 each). Fight behavior follows the guide, with surrender/escape possible and no automatic reinforcements. [Placement record](output/session17/README.md).
 
@@ -41,8 +41,12 @@ These people and motives were approved as background on September 9. Session 16 
 * Escobert the Red — competent organizer of guards and volunteer crews. Wants buildings made safe; treats Floyd GoldSeeker's structural expertise as useful professional knowledge.
 * Eadyan Falconmoon — healer at the harvest temple. Invited Sister Merra to help refugees. Prioritizes care and repeatable observations over claims of certainty; independent of both cults.
 * Sister Merra — sincere, capable One God relief worker. Protective of patients, defensive about her pale stone, but willing to change methods when replacement care is arranged. No covert allegiance to Frulam or the Cult of the Dragon. Her doctrine is belief, not proof of the One God's existence.
-* Frulam Mondath — Cult of the Dragon leader seeking exclusive control of the local draconic vault. Offered its control plate to Lennithon for intimidation of town defenders. Conceals how much the excavation damaged the site. Cooperation is an expedient bargain.
-* Lennithon — independent dragon involved in the Greenest raid and responsible for agreeing to intimidate defenders. Wants the vault sealed and controls in his custody, fearing an uncontrolled surge may threaten his territory. May negotiate supervised maintenance or recoverable controls; no alliance or agreement with the party is predetermined. His identity is initially unknown to the PCs. Not confirmed as the Session 15 departure omen.
+* Frulam Mondath — DM-only: Cult of the Dragon organizer behind both the original attempt to retrieve the sealed arch’s contents and intact plate, and Plan B’s diversion/signal/masonry breach. Still wants the plate transferred north independently of Spade’s mission. Her name and role are unknown to the PCs at Session 17 opening; ordinary couriers need not know her. No name reveal is required to solve the operation.
+* Lennithon — DM-only: independent dragon interested in both the intact control plate and whatever lies beyond the sealed arch. Why remains unrevealed. His interests overlap with Frulam’s without making him her boss or part of a unified dragon conspiracy. Supersedes the earlier sealed-vault/territorial-surge explanation. The planned Session 17 flyover neither names him nor confirms him as the Stormwreck departure omen.
+
+## Reputation and information boundaries — September 29 revision
+
+Greenest has no established murder warrant or automatic arrest response. Credible reports of the confirmed tavern-guide threats can make Nighthill cautious, while the successful mill rescue also matters. He will hear evidence of imminent danger and test the proposed plan. Do not give him unreported knowledge of private events. Kai’s possible threat to a housekeeper is an unconfirmed memory, not established NPC history. Mara and Doss know their hauling/logistics tasks; neither delivers a speech identifying a dragon’s interest. See the guide for limited testimony and custody reactions.
 
 ## Greenest Contacts — Session 16 Outcomes
 

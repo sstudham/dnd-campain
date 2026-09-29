@@ -1,8 +1,16 @@
+PRIVATE DM REHEARSAL — REVISED SEPTEMBER 29, 2026
+
+What follows is one hypothetical route through Session 17. It is not actual play and does not prescribe player dialogue, feelings, choices, successful checks, NPC promises, rests or outcomes. Other branches remain valid. At the table stop wherever players choose differently.
+
+Before the movie, hold the causal chain in mind. The original mill team tried both to reach the contents behind the sealed arch and to recover the intact plate. Damage defeated the opening attempt. They extracted the portable plate, but the party intercepted them. Now the raiders intend a physical breach beside the arch while the plate’s northward transfer continues separately. Frulam directs the raiders; Lennithon independently wants both prizes. Those names and his reasons are not opening player knowledge. The PCs have only their actual discoveries and the delivery instruction. Nothing in this rehearsal adds a large machine that Floyd failed to notice.
+
+Imagine one possible morning.
+
 The last sound from the cavern was water.
 
 It had travelled upward through a groove in the stone, shining in the amber pulse from the little plate, until it reached the broken channel. There it trembled. For a moment the whole ancient wall seemed to be waiting for something. Then the light faded, and the water fell.
 
-Floyd GoldSeeker had watched it happen more than once. He understood broken structures. A beam could carry weight only as far as its footing. A channel could carry something only as far as its next connection. Whatever this machinery had been built to do, wishing at the gap would not make it whole.
+Floyd GoldSeeker had watched it happen more than once. He understood broken structures. A beam could carry weight only as far as its footing. A channel could carry something only as far as its next connection. Whatever these channels had been built to do, wishing at the gap would not make it whole.
 
 Now that wall was behind them. The plate was with Throk, wrapped against the road dust. Greenest lay behind them too, its injured people waking to another uncertain day. The party walked north beneath a sky turning slowly from iron to pearl.
 
@@ -20,7 +28,7 @@ Around the bend, a mule stood with its ears flat. The cart behind it leaned on u
 
 A young man's hand protruded from beneath the broken timber. His face was almost the color of the chalk.
 
-The woman looked up. Her gaze moved across the strangers and settled on the wrapped object in Throk's hand. One brass line showed where the cloth had slipped.
+The woman looked up. Her gaze moved across the strangers. For this imagined version, Throk chose to show one corner of the plate; its brass line caught the light. If he keeps it concealed at the table, she must ask about the delivery instead.
 
 "You're late."
 
@@ -92,43 +100,35 @@ Forty gold on confirmed receipt. Plate intact. No channel test. Two initials. F.
 
 Sev read it twice. He was interested in the money, but more interested in how many hands had been arranged between the payment and the person who ultimately wanted the object.
 
-"Who is F. M.?" Pat asked.
+“Who is F. M.?” Pat asked.
 
-"Frulam Mondath. Her people arranged the work."
+“The initials on the authorization,” Mara said. “I collect at this cut and pass the delivery north. The next receiver handles the next leg.”
 
-"And L.?"
+“And L.?”
 
-"Someone I don't meet."
+“Someone farther along than me.”
 
-It might have been an evasion. It might have been the only sensible employment arrangement Mara had ever made.
+This did not identify the employer. It showed a chain with more than one hand in it. Then Doss pointed toward the tool bundle under the cart.
 
-From the sacks, Doss said, "The dragon gets the key. The town gets left alone."
+“Those need to be back at the camp by midday. Another job at the mill tonight.”
 
-Mara turned sharply.
+Floyd looked up. “The mill?”
 
-He looked down at his bandaged leg. "That's what they said."
+Mara unfolded a second paper. The first crew had failed to open the old arch. New work at Greenest would begin at dusk. The intact plate’s transfer continued separately. Approach and signal orders came from the survey desk at the northern camp.
 
-For a few seconds, the only sound was the mule chewing.
+The two papers described two jobs. The party did not yet know the complete plan, but they had a reason to investigate it. Someone intended to return to Greenest soon, and the place issuing the orders was within reach.
 
-Throk looked at the object in his hand. A small rectangle of dark stone, precise brass lines, marks where somebody had pried it loose. Something a person could carry in one palm, and something a dragon apparently wanted badly enough to bargain over a town.
+“What are they doing there tonight?” Kai asked.
 
-"Who promised that?" Kai asked.
+“I move the delivery,” Mara said. “The survey desk tells the crews where to go.”
 
-Doss shook his head. "I heard it. I wasn't in the conversation."
-
-Kai's expression hardened, but he kept his hands still. Pat gave him room to ask the next question.
-
-"Do you believe it?"
-
-The runner looked toward Mara. This time he received no help.
-
-"I believed it was hauling work."
+They could return immediately with that warning. They could watch the camp, question its workers, send a scout or try to get the instructions themselves. In this imagined version, they chose to learn enough to give Greenest a useful warning before dusk. That choice, not an expected infiltration scene, took them north.
 
 Floyd finished securing the bandage. He did not tell Doss that everything would be fine. He told him which movements to avoid and which signs would mean he needed a healer. Doss listened with an attention he had not given the promises of his employers.
 
-The bargain they eventually reached was narrow. Mara would take them north as contractors with an unsettled delivery. The plate would stay with Throk. Nobody would pretend that forty gold had changed hands. Doss would ride on the cart, and the guard would keep him from falling off it.
+The bargain they eventually reached was narrow. Mara would introduce them as contractors asking about a disputed account, without declaring possession of the plate. In exchange, they offered Doss safe care and Mara a way out of the immediate trouble. Throk concealed the plate inside his pack before they approached camp. Nobody pretended forty gold had changed hands. This was a possible agreement they had to earn, not automatic loyalty from Mara.
 
-Mara was helping herself as much as them. She could bring the disputed object to the people who had ordered it without getting herself killed trying to take it. The party could enter the camp under a reason somebody there would recognize.
+Mara was helping herself as much as them. She could find someone able to resolve her account while keeping Doss safe. Her own future choices remained uncertain. The party could enter the camp under a reason somebody there would recognize.
 
 They began moving before the chalk walls had lost their morning chill.
 
@@ -154,9 +154,9 @@ Mara waited by the cart. "They'll ask why there are five of you."
 
 "Difficult load," Sev said.
 
-"They'll ask why you still have it."
+“If you show them what you have, they will want it,” Mara said.
 
-"Difficult customer."
+“Then we are asking about paperwork,” Sev answered.
 
 For the first time, Mara almost laughed.
 
@@ -172,7 +172,7 @@ It was Pat who kept the exchange from becoming an interrogation. She asked where
 
 That was a language the clerk understood.
 
-He directed them toward the wagon yard and told them not to wander. Mara took Doss toward the workers' quarters. The guard went with them, carrying the unloaded sacks. Throk kept the plate wrapped. No one at the entrance had been paid enough to seize it from him over an unresolved account.
+He directed them toward the wagon yard and told them not to wander. Mara took Doss toward the workers' quarters. The guard went with them, carrying the unloaded sacks. Throk kept the plate concealed inside his pack. The clerk knew only their cover and the account question. If the plate were exposed or Mara reported it, the clerk would call for a receiver and guards, ask for handover and watch their movements. Low pay would not make him ignore an object the camp wanted. The party would have to negotiate, withdraw, hide it or confront a recovery attempt.
 
 The wagon yard smelled of straw and axle grease. Two vehicles stood ready near the road. Their sacks rose in the suggestive shape of provisions, but a split seam showed pale stalks instead of grain. Nearby, six shields leaned against a wheel. Two drums lay under a cover.
 
@@ -234,9 +234,9 @@ Pat came over carrying the tally. She let the worker see the paper without shovi
 
 "It could be. That's what makes it difficult."
 
-The survey assistant had kept a copy of their instructions. Spade. Eight pairs of boots. Picks, pry bars, rope. Follow the water. No wagons. Reach the mill work entrance and hold it. Move only on one long shuttered flash.
+The survey assistant had kept a copy of their instructions. Spade. Eight pairs of boots. Picks, pry bars, rope and timber braces. Follow the water on foot. Reach the mill entrance, then the shallow space beneath. Brace the work, breach masonry beside the sealed arch and retrieve what lay beyond. Do not await the plate or waste time on the damaged lock. Keep the mill and channels standing. Move only on one long shuttered flash; otherwise hold.
 
-Floyd read the paper carefully. The destination was the exterior work entrance. It was not a secret way through the sealed arch. Whoever had commissioned the survey wanted control of the approach to the mill.
+Floyd read the paper carefully. The outside route brought the crew to the mill. Their tools were for the next step: physically making a way around the sealed arch. They were returning for whatever the first team had failed to reach. The plate remained valuable, but keeping it away from this crew would not prevent their work. Nothing required a machine Floyd had overlooked; the plan used masonry he had already examined.
 
 Pat asked if the worker wanted to leave.
 
@@ -260,7 +260,7 @@ The keeper pointed at the table. "Look. Don't rearrange anything."
 
 Permission was a wonderful thing. Sev liked it almost as much as the absence of witnesses.
 
-Throk stood in the doorway with the wrapped plate tucked close. Kai stayed outside, apparently studying the camp but actually watching the watch post. Pat joined Sev at the map. Floyd followed with the survey assistant, who suddenly found reasons to keep their hands occupied with a loose measuring cord.
+Throk stood in the doorway with the plate concealed inside his pack. Kai stayed outside, apparently studying the camp but actually watching the watch post. Pat joined Sev at the map. Floyd followed with the survey assistant, who suddenly found reasons to keep their hands occupied with a loose measuring cord.
 
 Greenest spread across the parchment. A main road came down from the northern camp through the chalk cut, crossed the river by the broad bridge, and reached the town's northern approach. To the east, a narrow drainage track worked through rough ground toward a foot crossing by the mill. A ridge stood above both. Westward, orchard paths threaded between trees and a narrow footbridge.
 
@@ -296,7 +296,7 @@ Its wings stretched beyond the edges of the tent opening. Sunlight hid its detai
 
 Pat looked up, her hand at the place where she carried her scale. She wanted recognition. A color. A sign that would join this shadow to the distant light beyond Stormwreck. The sky gave her none of those things.
 
-Throk felt one faint vibration through the cloth in his hand.
+Throk felt a faint vibration from the concealed plate against his back. It lasted only a moment. The flyover and northbound transfer might be connected; neither the vibration nor the silence supplied a name or a motive.
 
 The dragon continued north. It neither landed nor spoke.
 
@@ -358,11 +358,9 @@ She took them aside.
 
 "How much have you understood?"
 
-"Enough to know your town-left-alone promise has qualifications," Throk said.
+“Enough to know that tonight’s work is another attempt to get behind the arch,” Throk said.
 
-"It isn't my promise."
-
-"You carried it."
+“I told you where they issue the work,” Mara answered. “I did not promise you would like it.”
 
 For a moment Mara looked as though she might deny everything, call for the guard, and let the camp sort them out. Then Doss shifted on his improvised seat and winced. Her eyes went to him.
 
@@ -406,9 +404,9 @@ Sev moved the Wheel marker south along the only route wide enough for the wagons
 
 Floyd placed Spade on the eastern track. Boots, tools, and a way along the water. He traced the approach to the mill entrance with one thick finger.
 
-"They don't need to open the old arch tonight to make trouble. They need to take the place above it. Control who can reach it. Control the work."
+“The plate did not get the first crew through the broken mechanism,” Floyd said. “This crew means to brace beside the arch and break through the masonry. They still want what is behind it. They do not need our plate to try.”
 
-The survey assistant nodded. "That's what I measured. The outside lane."
+The assistant nodded. “I measured the outside approach. The breach order explains why they wanted the tools.”
 
 Pat read the signal instruction again. Her eyes stopped on the condition.
 
@@ -424,7 +422,7 @@ Sev lifted the Lantern stone to the ridge. Its observers could see the noisy wag
 
 Throk leaned over the three markers.
 
-"Wheel makes the town afraid. The town sends its people north. Lantern sees them leave. Spade goes in where they've left a gap."
+"Wheel makes the town afraid. The town sends its people north. Lantern sees them leave. Spade goes below the mill through the gap in the defenses and makes its breach beside the arch."
 
 "And if the town doesn't move?" Floyd asked.
 
@@ -466,9 +464,11 @@ The party did not stop to resolve the pale stone, the broken channel, or every u
 
 Governor Nighthill listened in a room whose table had already been used for too many urgent purposes. Escobert the Red stood with his arms folded, his attention moving between the strangers and their papers.
 
+Nighthill asked them to separate what they had witnessed, what the orders said and what they had inferred. This was not an arrest scene. No Greenest murder warrant existed. The mill rescue gave them something real to stand on, but it did not entitle them to unquestioned trust. If the threatened tavern guide had complained, his account would make the governor more guarded; the uncertain housekeeper memory would not be used as fact.
+
 Sev opened the map.
 
-Pat laid out the three instructions in the order they had understood them, rather than the order they had found them. Throk described the proposed transfer and the bargain Doss had overheard. Floyd explained the physical route to the mill. Kai described the watch post, the camp's readiness, and the dragon passing overhead.
+Pat laid out the three instructions in the order they had understood them, rather than the order they had found them. Throk described the separate plate transfer and the dispatch about tonight’s work. Floyd explained the physical approach and the proposed masonry breach beside the arch. Kai described the watch post, the camp's readiness, and the dragon passing overhead.
 
 Nighthill asked whether the dragon had spoken.
 
@@ -603,3 +603,6 @@ The orders went out.
 Beyond the windows, Greenest was still a town of real people doing ordinary things in the hours before evening. The map remained on the table, covered in promises that had not yet been tested.
 
 That was where the story waited.
+
+
+Step out of that possible story. At the table the party may keep the plate elsewhere, expose it, trade it, skip the camp, return with incomplete evidence, disagree about civic authority or choose a different defense. Let those choices change the scene. The prepared truth stays simple: two initial objectives, a failed opening, an interrupted transfer, and a new attempt to reach the contents by a physical breach. The dragon is evidence of a possible connection, not an exposition scene. The closing orders in this movie are examples only. Session 16 remains the last completed session until actual Session 17 events are supplied and Scott authorizes their save.

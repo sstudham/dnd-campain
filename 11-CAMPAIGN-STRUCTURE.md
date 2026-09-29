@@ -2,7 +2,7 @@
 
 ## Approved Session 17 / next-session boundary — September 29, 2026
 
-Session 17 now follows four playable arcs: missed delivery at the chalk cut; northern-camp exploration/infiltration; evidence and the council-map puzzle; player-directed orders for Greenest. Use [the current packet](output/session17/README.md). This supersedes older pacing that deferred the camp or ended at its overlook. Approximate running time is 2½–3 hours, expandable through player choices; finish council next time if necessary rather than cutting choices short.
+Session 17 now offers four playable arcs: missed delivery revealing an imminent operation at Greenest; motivated investigation of the northern camp; evidence and the council-map puzzle; an evidence-led return to Greenest and player-directed orders. Camp infiltration is an option after the threat is discovered, not a required scene. Use [the current packet](output/session17/README.md). This supersedes older pacing that deferred the camp or ended at its overlook. Approximate running time is 2½–3 hours, expandable through player choices; finish council next time if necessary rather than cutting choices short.
 
 The next session opens with ramifications of the actual recorded orders. After play, Scott and the assistant storyboard 4–6 beats on the annotated map, reflecting enemy knowledge, prepared defenses and unresolved decisions. Do not pre-decide casualties, victory, evacuation, betrayal or a town leadership title. The saved movie is a possible rehearsal only.
 
@@ -394,7 +394,7 @@ Approved September 9, 2026, replacing the earlier Level 3 Greenest outline and p
 
 Plan roughly **eight sessions, 16-23**. Session 16 is **three hours, all five PCs level 2 through its close**. Later levels and encounter balance remain separate DM decisions. Reorder or combine situations around player choice. No route, solution, alliance, victory or character revelation is guaranteed. The local background is now approved DM canon in 01/03/04/05; the following sequence is preparation.
 
-Use the owned Hoard of the Dragon Queen, Greenest in Flames and later Raiders' Camp, as source material. No Tyranny bundle purchase is needed; selected opening assets are installed in TUG4.1. Do not import the full published storyline, Tiamat endgame or old future-signal/Concordance assumptions into local canon.
+Use the owned Hoard of the Dragon Queen, Greenest in Flames and Raiders’ Camp as a toolkit. Greenest, the Cult of the Dragon, Frulam Mondath and Lennithon are adapted material; the buried arch, plate delivery mystery and Wheel/Lantern/Spade operation are custom campaign material. No Tyranny bundle purchase is needed; selected opening assets are installed in TUG4.1. Do not import the full published storyline, Tiamat endgame or old future-signal/Concordance assumptions into local canon.
 
 #### Session 16  Smoke over Greenest — Completed
 
@@ -402,21 +402,21 @@ Played September 15, 2026. The party recovered the plate, rescued the mill worke
 
 #### Session 17  The chalk-cut delivery — Player-Chosen Opening
 
-Open at the north-road chalk cut at dawn, with Throk carrying the brass plate. The party wants to investigate the intended buyer. The work order says before dawn; determine attendance and timing consequences in prep, without claiming an appointment was guaranteed. No exchange, encounter, rest or recovery has happened yet. See 10-NEXT-SESSION-PREP.md for the current starting state.
+Open at the north-road chalk cut at dawn, with Throk carrying the dark charcoal control plate with gold/brass inlay. The party wants to investigate the intended buyer. The work order says before dawn; Mara’s planned collapse delay and missed-delivery messenger explain attendance in current prep, without claiming an appointment was guaranteed. No exchange, encounter, rest or recovery has happened yet. See 10-NEXT-SESSION-PREP.md for the current starting state.
 
 The earlier "help that hurts" sanctuary investigation remains an available later thread, not a required opening: interview witnesses, arrange patient care with Merra and Eadyan, and reversibly test the pale stone and damaged channels. Later numbered sessions are still flexible planning beats, not automatic world events; follow the delivery choice without forcing the party back into the original order.
 
-#### Session 18  The road or the people
+#### Session 18  Consequences of the actual orders
 
-Raiders withdraw with the plate, or seek it if the party retained it. Offer pursuit, staying to investigate, or sending a scout. A chosen chase uses stream crossings, carts and a surrender opportunity, with recovery of the plate or a route as its prize. Staying earns a cellar access route and town support. Answer: the plate is a control component, not treasure. Both routes keep camp and vault accessible.
+After Session 17, build the next opening from the party’s actual intelligence, decisions and enemy awareness. Wheel tries to draw defenders north; Lantern observes and signals; Spade intends to exploit that opening to reach the mill and breach adjacent masonry behind the sealed arch. Spade aims to retrieve the unspecified contents and needs no plate. Preserve changes earned by blocking routes, holding defenders in place, intercepting the signal or negotiating. No automatic attack success, evacuation or breach is written into history.
 
-#### Session 19  Inside the raiders camp
+#### Session 19  The remaining delivery chain
 
-Adapt the camp for disguise, bargaining and prisoner rescue. Leosin Erlanthar can corroborate orders, but a ledger or deserter provides the same lead if he is missed. Pat and Sev lead access; Floyd helps prisoners plan their own escape. Answer: Frulam Mondath wants exclusive control of the vault and promised its plate for a dragon’s cooperation. Do not require defeating the camp.
+If still relevant, follow the plate beyond the chalk-cut couriers, return to camp records or seek a witness. Frulam Mondath’s Cult of the Dragon role can emerge through specific later evidence; no published NPC appearance or name reveal is compulsory. The network seeks to obtain the plate if it discovers the party still possesses it. Concealment, bargaining, pursuit and investigation remain choices. Do not replay a camp scene already completed in Session 17.
 
-#### Session 20  The dragon names a price
+#### Session 20  A possible dragon encounter
 
-Meet Lennithon at an exposed ridge with an agreed retreat route. He wants the vault sealed against interference and its controls surrendered to him. He helped intimidate the town and bears responsibility for that choice. Evidence can win a limited ceasefire or supervised access. Answer: he sensed Stormwreck’s signal and pursued an existing local interest; he did not create the rift. His link to the departure omen remains unproven.
+Only if actual leads and player choices support it, prepare contact with an independent dragon. DM truth: Lennithon is interested in both the intact plate and the contents beyond the arch. Keep his deeper reasons unrevealed until Scott develops them; retire the earlier fixed demand to seal the vault against a territorial surge. His identity must be earned in play, not supplied by the Session 17 flyover. He is not simply Frulam’s boss. Any link to the Stormwreck omen remains unresolved.
 
 #### Session 21  Under the foundations
 

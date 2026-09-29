@@ -8,6 +8,20 @@ Scott's visual correction: the recovered control plate is dark charcoal stone wi
 
 ---
 
+## Mill operation and plate custody — DM canon revised September 29, 2026
+
+Scott's September 29 decisions supersede the earlier plate-only raid and sealed-vault motive. These are DM-side background facts and enemy intentions, not new Session 16 events or knowledge automatically available to the PCs.
+
+* The original mill raiders had two objectives: open the sealed old arch and recover whatever lies behind it, and preserve/recover the intact control plate. The damaged mechanism would not open the arch. They pried out the portable valuable component they could recover, then the party intercepted them before delivery.
+* Failure triggers Plan B. Wheel creates a diversion north of Greenest; Lantern watches for defenders to move and signals; Spade uses that opening to reach the mill and break/excavate through masonry beside the sealed arch. Its objective is access to and recovery of the contents beyond the arch. Spade needs tools, time and access, not the plate. Destruction of the mill or ancient mechanism is not its mission.
+* The independently valuable plate is still wanted north. The interrupted chain is mill raiders → chalk-cut intermediaries/couriers → further north → eventual intended recipient/network. The party enters this chain to investigate. Couriers are not automatically senior raiders or direct dragon contacts.
+* Frulam Mondath is behind the raider operation and connected to the Cult of the Dragon. Lennithon independently wants both the intact plate and whatever lies beyond the sealed arch. Their interests overlap; Lennithon is not simply Frulam's boss. Why he wants either remains unrevealed. The earlier specific explanation about sealing the vault against a territorial surge is superseded.
+* Floyd examined the accessible structure. There is no newly invented enormous machine he failed to see. The existing sealed arch, its damaged channels and adjacent masonry are sufficient for this operation; the contents beyond remain unspecified.
+* At Session 17 opening, the party knows the plate fits, the pulse stops at the physical break, the arch stays shut, and the exact delivery instruction. Throk has the plate and they chose the dawn chalk-cut visit. They do not know Frulam, Lennithon, Wheel/Lantern/Spade, the full operation, the contents, a dragon's motive or that a larger camp necessarily exists.
+* There is no established Greenest murder warrant. Session 12's execution was Brother Kai killing the last Luskan bounty hunter on Stormwreck. Session 16's confirmed tavern bullying can affect credibility if leadership hears about it; it does not establish an arrest order. The possible housekeeper threat needs confirmation in 07-MYSTERIES-AND-HOOKS.md.
+
+Session 16's recorded rescue, plate reinsertion, correctly fitted socket, amber pulse stopping at the existing break, failed opening, removal and Throk's custody are unchanged. The Session 17 flyover is planned evidence/foreshadowing without spoken identification. Lennithon is not confirmed as the Stormwreck golden-light/winged-shadow omen. Published Hoard/Tyranny material remains a toolkit, not a mandated Tiamat plot.
+
 ## Current Position — End of Session 16
 
 * Session 16 (September 15, 2026) is complete; Act 1, Scene 3 is underway in Greenest. Five PCs remain level 2.
@@ -101,8 +115,8 @@ Scott explicitly authorized committing the Scene 3 / Session 16 preparation to c
 * This campaign's Greenest is a market town near the Sword Coast, approximately half a day's road travel inland from a mainland landing. This deliberately relocates the published town; it does not identify the settlement previously glimpsed through the Observatory.
 * An ancient draconic diversion vault lies beneath Greenest. It redirects dangerous local magical pressure into an empty rock basin. Its geometric family is related to the Observatory pattern, but it does not explain the origin of the rift, Pat Benatar's ancestry or every other draconic site.
 * Recent foundation work damaged a branch. Sister Merra's One God relief stone, seated above a surviving channel, provides real limited relief while each pulse worsens damaged supports. Merra is sincere and mistakes its effect for proof of her faith; she has no secret orders from Frulam.
-* Lennithon recognized the outward Stormwreck signal as activity in an old system he had watched. Frulam Mondath offered him the vault's removable control plate in exchange for frightening defenders away from an excavation. He accepted; raiders widened existing damage while extracting it. Their target is control of the local vault, not ordinary grain or treasure.
-* Lennithon wants the vault sealed against interference and its controls surrendered to him. His claim to exclusive custody is his position, not narrator-endorsed ownership. Frulam wants exclusive local control and conceals the excavation's damage. Their bargain is expedient, not mind control or a unified cosmic conspiracy.
+* Lennithon recognized the outward Stormwreck signal as activity in an old system he had watched. The current mill objectives and independent dragon interest are defined in the September 29 revision above; do not reuse the superseded plate-only bargain as the explanation of the raid.
+* Frulam directs the raider operation; Lennithon independently desires the intact plate and what lies beyond the sealed arch. Their overlapping interests do not make the dragon her superior or resolve his motives.
 * Stormwreck's successful rescue did not create Greenest's original structural fault. Other actors exploited what they sensed. Lennithon is not established as the distant golden light and winged shadow seen at departure; that omen remains unidentified.
 * The stone's precise limits are in `05-ITEMS.md`. Disabling this receiver reduces one load; it does not automatically repair the wider vault. Patients can remain stable with replacement care. No sacrifice, forced conversion or inevitable death is required.
 

@@ -60,7 +60,7 @@
 
 ## Future Clocks
 
-* Immediate Session 17 opening: the party plans to reach the chalk cut at dawn, while the recovered order says delivery before dawn. Exact buyer attendance, timing consequences, travel/rest interval and remaining hallucination effects need a DM decision; no encounter or missed-meeting consequence has yet occurred.
+* Immediate Session 17 opening: the party plans to reach the chalk cut at dawn, while the recovered order says delivery before dawn. The current unplayed prep keeps Mara present because a chalk collapse delays departure and sends a missed-delivery messenger north. Travel/rest interval and remaining hallucination effects still need confirmation; no encounter or missed-meeting consequence has yet occurred.
 
 * Grusk and Morghul remain unresolved but are deliberately deferred until after Scene 3.
 * The rift problem behind the Cult of the One God remains unresolved; the cult is approved to return during Scene 3.
@@ -75,7 +75,8 @@
 
 1. Ancient dragons built a local diversion vault beneath the future Greenest settlement.
 2. Recent town foundation work damaged a branch. Merra placed her relief receiver above a surviving channel; its pulses gave limited comfort while worsening support damage.
-3. Lennithon recognized the outward Observatory signal. Frulam offered him the vault control plate in exchange for intimidating defenders away from excavation; he accepted.
-4. Raiders extracted the plate, widening existing damage. The Session 16 opening places them withdrawing with it toward the north-road chalk cut for intended delivery before dawn.
+3. Revised September 29: Lennithon recognized the outward Observatory signal and has an independent interest in the intact plate and contents beyond the arch; his reasons remain unrevealed. Frulam directs the raiders, without being Lennithon’s subordinate.
+4. The first mill team attempted two objectives: access/recover the contents behind the sealed arch and preserve/recover the intact plate. The damaged mechanism defeated the first objective. They pried out the portable plate, widening existing damage, and withdrew toward the chalk-cut transfer before dawn; the party intercepted them before delivery.
+5. Failure triggers the enemy’s intended Plan B: Wheel diverts defenders north, Lantern watches and signals their movement, and Spade moves to the mill to break through adjacent masonry and retrieve the contents beyond the arch. The plate’s northward transfer remains a separate objective. This describes the plan, not a completed diversion, signal, breach or retrieval; actual timing and reactions belong to play.
 
 This September 9 sequence establishes offscreen background. Session 16's played outcomes above supersede its former pre-arrival status. No unreported plate delivery, casualty, collapse, rest or buyer encounter is implied.

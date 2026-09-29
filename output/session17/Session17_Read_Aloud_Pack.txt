@@ -1,15 +1,41 @@
-Current main-branch sources: 00, CHATGPT_PROJECT_INSTRUCTIONS, 01, 02, 03, 04, 07, 09, 10 and 11 in sstudham/dnd-campain. Revision follows Scott’s direction to make the camp playable and end with strategic decisions.
+SESSION 17 PRIVATE READ ALOUD PACK
+Revised September 29, 2026. Unplayed preparation. Read only the passage earned by actual play. Labels and directions are DM-only. Keep this full file private; share individual evidence cards when discovered.
 
-Dawn turns the chalk walls white. Fresh wagon tracks lead around the bend. Someone shouts, “Stop pulling. You’re making it worse.” A half-loaded mule cart stands beside a fresh collapse. One young man is pinned beneath stone and broken timber. A woman looks from you to the brass in Throk’s hands. “You’re late.”
+OPENING AT THE CHALK CUT
+Dawn turns the chalk walls white. Fresh wagon tracks lead around the bend. Someone shouts, “Stop pulling. You’re making it worse.” A half-loaded mule cart stands beside a fresh collapse. One young man is pinned beneath stone and broken timber. A woman turns toward your footsteps. “You’re late.”
 
-After help, Mara says: “You could have left him. I noticed. Now tell me whether we are doing business.”
+DM: If the plate is visible, Mara looks directly at it. Otherwise she asks if they brought the delivery. Neither the art nor this script forces Throk to display it.
 
-Beyond the chalk hills, cooking smoke hangs low over a shallow valley. Wagons stand among tents. Some people carry weapons; others carry tools. This is where the work was organized. You have time to watch before deciding how to enter.
+AFTER HELP ONLY IF THEY HELP
+“You could have left him. I noticed. Now tell me whether we are doing business.”
 
-Conversation thins as the animals pull at their tethers. A vast winged shadow crosses the camp. Faces turn upward. The dragon continues north without landing or speaking. Somewhere, a dropped ladle strikes a pot. For a moment, nobody is watching the records tent.
+EARNED CHALK CUT LEAD
+Doss points toward a bundle of tools. “They want those back up north by midday. Another job at the mill tonight. I thought the first crew had already finished.”
 
-Under a stack of payment sheets is a survey of Greenest and its northern approaches. Sev, its notes record where wagons fit, where feet can pass, and which heights command a view. Three symbols repeat: a wheel, a spade and a lantern. Someone has planned movements around the town. The map is useful. The loose papers will tell you what it means.
+DM: Offer the road dispatch through conversation, bargaining, observation or a search. It names the camp as the place issuing approach and signal orders. Do not name Frulam or Lennithon or explain a dragon’s interest. The question is what threatens Greenest and how to learn enough to prevent it.
 
-Escobert spreads the recovered map flat. Nighthill listens while you explain the wagons, the tools and the signal. “You have shown us where they mean to put us,” the governor says. “Now show us where we should stand. Escobert, tell them what we can actually spare.”
+CAMP OVERLOOK ONLY IF THEY FOLLOW THE LEAD
+Beyond the chalk hills, cooking smoke hangs low over a shallow valley. Wagons stand among tents. Some people carry weapons; others carry tools. You have time to watch before deciding how to approach.
 
-Escobert places markers where you have ordered them. “Then these are our positions. What is the signal to act—and what tells us to fall back?”
+SILENT FLYOVER DURING CAMP EXPLORATION
+Conversation thins as the animals pull at their tethers. A vast winged shadow crosses the camp. Faces turn upward. The dragon continues north without landing or speaking. Somewhere, a dropped ladle strikes a pot.
+
+DM: If the plate is present, tell its carrier privately, “Through the wrapping, you feel one brief vibration.” This is suggestive evidence, not identification or proof of motive. No reaction if the plate is absent. Existing guards and alarms do not disappear; any distraction is brief. Leave the Stormwreck omen unresolved.
+
+THE SURVEY MAP ONLY WHEN EXAMINED OR ACQUIRED
+Under a stack of payment sheets is a survey of Greenest and its northern approaches. Sev, its notes record where wagons fit, where feet can pass, and which heights command a view. Three symbols repeat: a wheel, a spade and a lantern. Someone has planned movements around the town. The loose papers may tell you what they mean.
+
+DM: Reveal A, B and C separately. The papers, not the narration, explain the diversion, signal and masonry breach. Do not read the solution over the players’ reasoning.
+
+COUNCIL BEFORE TRUST IS EARNED
+Nighthill looks from your papers to your faces. “Which parts did you witness, which are written orders, and which are your conclusions?”
+
+DM: If a credible report of the tavern-guide threats has reached him, he may acknowledge the complaint while still hearing the warning. Do not invent a murder warrant or treat the uncertain housekeeper memory as fact.
+
+COUNCIL AFTER CREDIBLE EVIDENCE
+Escobert checks the routes on the map. Nighthill listens while you explain the wagons, the tools and the signal. “You have shown us where they mean to put us. Now show us where we should stand. Escobert, tell them what we can actually spare.”
+
+ONLY AFTER THE PARTY MAKES A PLAN
+Escobert places markers where you have agreed to send the teams. “Then these are our positions. What is the signal to act, and what tells us to fall back?”
+
+DM: Stop at confirmed orders. Do not narrate the operation’s outcome. Record actual discoveries, custody, resources and commitments for Scott’s later authorized canon save.

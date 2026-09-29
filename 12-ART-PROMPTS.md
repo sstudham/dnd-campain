@@ -17,6 +17,8 @@ This supersedes the earlier short-session art order and schematic maps. Use thes
 [Sev-only annotated map](output/session17/S17_06_Sev_Only.png) uses the same geography and shows wagon access, foot routes and sightlines; the papers explain the operation. Keep private until delivered specifically to Sev. Roll20 currently has DM and Screen accounts, so the Sev handout remains GM-private for controlled delivery rather than shared with everyone.
 [Mara portrait](output/session17/Session17_Mara_Venn.png).
 
+September 29 causal-chain audit: retained maps label routes, work entrances and sightlines, not a plate-dependent mission. The payment slip remains valid courier handling instructions; its initials do not name the employer or recipient. The new road dispatch and revised Spade card are in the guide and rebuilt clue packet. Showing the intro does not force Throk to display the plate. The prior Roll20 screenshots record earlier setup, not deployment of this revised text.
+
 The intro plate is charcoal-colored stone with gold/brass inlay suggesting draconic forms, matching the Session 16 arch reference. It is not a solid brass disk. Camp map labels A–F match the DM guide. The dragon flies over the northern camp, not the rescue. Council art is atmosphere, not a claim that orders or outcomes have occurred.
 
 Chalk Cut tactical page remains 20 × 15 squares at 5 ft/square. Player ribbon remains at the intro; final NPC pass changed only the GM camp preparation. Payment slip is earned information; DM guide/read-aloud pack stay private. Full asset inventory and verification: [Session 17 packet](output/session17/README.md).
@@ -360,7 +362,7 @@ Asset filename: `dawn_rescue_in_the_chalk_pass.png`
 
 Purpose: opening splash while the party arrives at the north-road chalk cut at dawn.
 
-Scene: all five PCs arrive at the chalk cut with Throk carrying the brass control plate. Mara Venn, Doss Fen, the hired guard, mule/cart and fresh collapse establish the situation. Doss is pinned but conscious. Use before any player decision is made.
+Scene: all five PCs arrive at the chalk cut with Throk carrying the dark charcoal control plate with gold/brass inlay. Use the corrected final asset listed above; any visible presentation of the object is illustrative and must yield to Throk’s choice of concealment. Mara Venn, Doss Fen, the hired guard, mule/cart and fresh collapse establish the situation. Doss is pinned but conscious. Use before any player decision is made.
 
 Canon limits: does not establish that the party helps Doss, negotiates, fights, surrenders the plate, or learns any clue.
 
@@ -391,7 +393,7 @@ Reveal only if the party earns access to Mara's paperwork or equivalent proof. T
 
 Asset filename: `dragon_s_shadow_over_the_mountain_pass.png`
 
-Purpose: climax splash after the party has learned that the plate is part of a dragon bargain.
+Retired road-flyover asset reference. Use the current S17 05 camp flyover listed above during chosen camp exploration, as ambiguous evidence alongside the plate’s northbound transfer. The party need not have learned any dragon bargain; no NPC confirms one.
 
 Canon limits: the dragon passes overhead and heads north; it does not attack or land. Any apparent color, exact anatomy, age, species details or resemblance in the generated image are illustrative only and must not establish the dragon's identity, alignment, allegiance or connection to the Stormwreck departure omen. Written narration deliberately withholds those facts.
 
@@ -399,7 +401,7 @@ Canon limits: the dragon passes overhead and heads north; it does not attack or 
 
 Asset filename: `adventurers_overlooking_the_raider_camp.png`
 
-Purpose: optional continuation splash if the party follows north after the flyover.
+Purpose: show the camp only if the party follows the earned lead about imminent work at Greenest. Camp investigation can precede the camp flyover and is never mandatory.
 
 Scene intent: the party overlooks a substantial temporary raider/cult logistics camp containing hired labor, armed raiders, wagons, tents and a separated command area. Use as atmosphere and scale, not as an exact tactical map.
 

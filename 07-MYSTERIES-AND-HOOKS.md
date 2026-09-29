@@ -2,9 +2,9 @@
 
 ## Session 17 approved clue plan — September 29, 2026
 
-The [expanded guide](output/session17/Session17_DM_Guide.md) supersedes the earlier short-session path. Wheel's empty wagons and drums bait defenders north; Lantern observes and flashes only when defenders move; Spade approaches the mill service lane on foot on that signal. If defenders do not move, the written instruction is to hold/send a runner. This is discoverable enemy planning, not a guaranteed attack or outcome. All three papers plus the map make the puzzle solvable without a mandatory roll.
+The [expanded guide](output/session17/Session17_DM_Guide.md) supersedes the earlier short-session path. Wheel's empty wagons and drums bait defenders north; Lantern observes and flashes only when defenders move; Spade approaches the mill service lane on foot on that signal, then breaks/excavates through masonry beside the sealed arch to recover whatever lies beyond. Spade does not need the plate and does not aim to destroy the mill or mechanism. If defenders do not move, the written instruction is to hold/send a runner. This is discoverable enemy planning, not a guaranteed attack or outcome. All three papers plus the map make the puzzle solvable without a mandatory roll.
 
-The dragon's flyover occurs over the camp, continues north and does not identify the dragon or resolve Pat's scale, the departure omen, or Floyd's divine source. The mill approach is not a magical bypass of the sealed arch. Leadership is earned through evidence and viable orders, not granted automatically. Player orders and their ramifications remain unknown until play.
+If the party visits the camp, the planned dragon flyover occurs there, continues north and does not identify the dragon or resolve Pat's scale, the departure omen, or Floyd's divine source. The mill approach is not a magical bypass of the sealed arch. Leadership is earned through evidence and viable orders, not granted automatically. Player orders and their ramifications remain unknown until play.
 
 ---
 
@@ -79,10 +79,18 @@ The dragon's flyover occurs over the camp, continues north and does not identify
 
 ## Needs Resolution
 
+### September 29 clarifications and open questions
+
+* Scott recalls that Brother Kai may have threatened the mayor/governor’s housekeeper. The saved Session 16 record does not establish it. Needs Scott’s confirmation before adding it to history or using it as a definite grievance. The confirmed tavern-guide threats can affect credibility when credibly reported.
+* No Greenest murder warrant is established. The remembered execution is the final Luskan bounty hunter during Session 12 on Stormwreck; do not relocate it to Greenest.
+* What lies beyond the sealed arch, and why does Lennithon want it and the intact plate? Both remain unrevealed; no named artifact, large hidden machine or complete motive is invented by this revision.
+* September 29 explicitly replaces the earlier DM motive of sealing the vault against interference. It does not change Session 16 actual play. The original work order is a transfer instruction after a failed opening, not a complete statement of the raiders’ two original objectives.
+* At opening the PCs do not know Frulam/Lennithon, the operational codenames or that a larger camp exists. Chalk-cut evidence must establish an imminent mill operation and the camp’s investigative value before infiltration becomes an option.
+
 ### Session 16 Close / Session 17 Opening
 
 * Delivery timing: the paper says "Deliver before dawn"; the party chose a dawn visit. Preserve both facts. Decide buyer presence and any timing consequence without claiming a rendezvous time was promised.
-* Which buyer or intermediary will appear, and what the PCs know about the employer, remain unplayed. Existing Frulam/Lennithon background is DM-only.
+* Which buyer or intermediary will appear, and what the PCs know about the employer, remain unplayed. Current Frulam/Lennithon background is DM-only. Mara/Doss attendance is now a prep decision, still not a played meeting.
 * Raider custody/interviews: one was hit and grappled by Sev; a wounded raider was at the infirmary. Their exact final custody and any statements actually obtained are unconfirmed.
 * The injured foreman was the worker's suggested source and appeared in the sanctuary narration. The suggested dialogue about excavation was not confirmed as spoken at the table.
 * The sanctuary pulse/dust observation was narrated; no actual removal/test, propping, patient-care plan or subsequent stone disposition was reported.
@@ -115,7 +123,7 @@ The dragon's flyover occurs over the camp, continues north and does not identify
 
 ## Scene 3 Continuity and Discovery — September 9, 2026
 
-The local vault, Frulam/Lennithon bargain and Merra's stone effects are now approved **DM answers** in 01/03/04/05. They remain discoveries for the players, not facts they already learned. Offer independent witness, object, document and route evidence. Preserve intercepted plate custody and permit investigation without camp infiltration or combat.
+The local vault and Merra’s stone effects remain approved **DM answers** in 01/03/04/05. September 29 revises the raid and dragon motivation: two original objectives, a failed opening, a separate plate transfer, and Plan B to reach the sealed contents. Frulam directs the operation; Lennithon independently wants both prizes for unrevealed reasons. The earlier specific plate-only/seal-the-vault bargain explanation is superseded. They remain discoveries for the players, not facts they already learned. Offer independent witness, object, document and route evidence. Preserve intercepted plate custody and permit investigation without camp infiltration or combat.
 
 ### Needs Resolution — Scope of Approved Background
 
