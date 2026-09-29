@@ -1,5 +1,13 @@
 # Locations
 
+## Approved Session 17 playable geography — September 29, 2026
+
+[Camp and strategy maps](12-ART-PROMPTS.md) support unplayed preparation. Northern camp keys: A Delivery entrance; B Wagon yard; C Workers quarters; D Survey and records tent; E Signal and stores yard; F Watch post. D is not Frulam's personal command tent.
+
+The council puzzle uses a wagon road through the chalk cut, an east drainage track passable on foot to the mill service lane, and a signal ridge with views of both approaches. The drainage track does not enter the sealed arch or repair the vault. Keep, temple and west orchard are planning options; incidental decorative details in the generated art do not establish further geography. The party chooses whether/how to return or contact Greenest.
+
+---
+
 ## Known Locations
 
 * Blackford Road - site of Shorn's caravan ambush.

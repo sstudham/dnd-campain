@@ -1,5 +1,13 @@
 # Items
 
+## Control plate visual correction and Session 17 evidence — September 29, 2026
+
+Scott confirmed the plate's appearance from the Session 16 arch reference: dark charcoal stone with gold/brass draconic-looking inlay. It is not a solid brass plate. Preserve the established history and broken-channel test; earlier brass wording is shorthand for the markings.
+
+Approved unplayed evidence: the payment slip offers 40 gp for the intact, untested plate, initials F.M., northward transfer and “Hold for L.” Initials alone do not identify a dragon. The camp survey map and three clue cards describe Wheel, Spade and Lantern assignments. They become party possessions only if acquired/copied in play. Use the [player clue cards](output/session17/Session17_Player_Clues.pdf) and [guide solution](output/session17/Session17_DM_Guide.md); keep the solution private and Sev's annotated map controlled.
+
+---
+
 ## Party Items / Notable Objects
 
 * Odd stone - tied to Luskan, Severed Whisper, and the party's larger trouble; current holder/status unknown.

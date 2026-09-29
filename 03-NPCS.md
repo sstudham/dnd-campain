@@ -1,5 +1,13 @@
 # NPCs
 
+## Approved Session 17 NPC preparation — September 29, 2026
+
+Use [the expanded guide](output/session17/Session17_DM_Guide.md), not a compulsory road fight. Mara Venn is the paid intermediary; Doss Fen is hired labor; their hired guard prioritizes the rescue. Mara may escort a party that keeps the plate. These are planned interactions, not reported outcomes.
+
+The northern camp has a delivery clerk (A), wagon clerk (B), survey assistant seeking safe passage (C), records keeper (D), equipment keeper (E), and two watch guards (F). These are roles, not new named major villains. The seven tokens are placed in Roll20. The two guards reuse S16 Hired Raider (AC 12, HP 9 each, independent HP); the five workers use Commoner (HP 4 each). Fight behavior follows the guide, with surrender/escape possible and no automatic reinforcements. [Placement record](output/session17/README.md).
+
+---
+
 ## Allies / Contacts
 
 * Shorn - caravan leader or merchant connected to the Blackford Road caravan.

@@ -1,5 +1,13 @@
 # Mysteries and Hooks
 
+## Session 17 approved clue plan — September 29, 2026
+
+The [expanded guide](output/session17/Session17_DM_Guide.md) supersedes the earlier short-session path. Wheel's empty wagons and drums bait defenders north; Lantern observes and flashes only when defenders move; Spade approaches the mill service lane on foot on that signal. If defenders do not move, the written instruction is to hold/send a runner. This is discoverable enemy planning, not a guaranteed attack or outcome. All three papers plus the map make the puzzle solvable without a mandatory roll.
+
+The dragon's flyover occurs over the camp, continues north and does not identify the dragon or resolve Pat's scale, the departure omen, or Floyd's divine source. The mill approach is not a magical bypass of the sealed arch. Leadership is earned through evidence and viable orders, not granted automatically. Player orders and their ramifications remain unknown until play.
+
+---
+
 ## Active Mysteries
 
 * Why was prayer being pulled through the worshiping stone?

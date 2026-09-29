@@ -1,5 +1,13 @@
 # Campaign Structure
 
+## Approved Session 17 / next-session boundary — September 29, 2026
+
+Session 17 now follows four playable arcs: missed delivery at the chalk cut; northern-camp exploration/infiltration; evidence and the council-map puzzle; player-directed orders for Greenest. Use [the current packet](output/session17/README.md). This supersedes older pacing that deferred the camp or ended at its overlook. Approximate running time is 2½–3 hours, expandable through player choices; finish council next time if necessary rather than cutting choices short.
+
+The next session opens with ramifications of the actual recorded orders. After play, Scott and the assistant storyboard 4–6 beats on the annotated map, reflecting enemy knowledge, prepared defenses and unresolved decisions. Do not pre-decide casualties, victory, evacuation, betrayal or a town leadership title. The saved movie is a possible rehearsal only.
+
+---
+
 Planning structure, not canon unless later confirmed in canon files.
 
 ## Table Purpose and Campaign Mode

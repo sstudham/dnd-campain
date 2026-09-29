@@ -1,5 +1,13 @@
 # Current Canon
 
+## Session 17 preparation saved — September 29, 2026
+
+Session 16 remains the last completed session. The approved four-arc Session 17 packet is saved in [10-NEXT-SESSION-PREP.md](10-NEXT-SESSION-PREP.md) and [output/session17](output/session17/README.md). Prepared NPCs, evidence, council resources and the cinematic rehearsal are not events that have happened. Actual player choices and outcomes remain unknown.
+
+Scott's visual correction: the recovered control plate is dark charcoal stone with gold/brass details that suggest draconic forms, matching the old arch. Earlier “brass control plate” wording describes its inlay rather than a solid brass object. This changes no established plate function or Session 16 event.
+
+---
+
 ## Current Position — End of Session 16
 
 * Session 16 (September 15, 2026) is complete; Act 1, Scene 3 is underway in Greenest. Five PCs remain level 2.

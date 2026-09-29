@@ -1,5 +1,18 @@
 # Next Session Prep
 
+## Approved Session 17 packet — September 29, 2026
+
+Scott approved the expanded DM guide and art and explicitly requested saving everything to canon after the final Roll20 camp check. The authoritative playable preparation is now [Session 17 DM Guide](output/session17/Session17_DM_Guide.md), with [Word](output/session17/Session17_DM_Guide_Revised.docx) and [PDF](output/session17/Session17_DM_Guide_Revised.pdf) copies. This expanded four-arc version supersedes earlier Session 17 short-session plans below wherever they conflict.
+
+Start at dawn at the north-road chalk cut; do not advance the party directly into Greenest. Run missed delivery, playable northern camp, evidence/map puzzle, then a council where actual player choices set orders. Stop before resolving those orders. No forced plate surrender, fight, evacuation or leadership appointment. Session 17 has not been reported as played; Session 16 remains the latest actual-play record.
+
+Visual correction: the control plate is dark charcoal stone with gold/brass draconic inlay, matching its source arch. Older references to a “brass plate” are shorthand, not an instruction to depict a solid metal plate.
+
+[Packet and final Roll20 NPC manifest](output/session17/README.md) · [Opening read-aloud](output/session17/Session17_Opening_Read_Aloud.txt) · [Player clue cards](output/session17/Session17_Player_Clues.pdf) · [Private read-aloud pack](output/session17/Session17_Read_Aloud_Pack.txt).
+The [40-minute mental movie](output/session17/Session17_Mental_Movie_ElevenLabs.txt) is a hypothetical DM rehearsal, not canon events. [Kim/Andy note](output/session17/Session17_Note_Kim_Andy.txt) is a draft, not a sent message.
+
+---
+
 ## Current Starting Point — Session 17
 
 Session 16, "Smoke over Greenest," is complete. **Open Session 17 at dawn at the chalk cut reached by the north road. Throk holds the brass control plate.** The party chose to investigate the intended buyer after briefly replacing and then removing the plate at the mill's old arch. Do not replay the Greenest arrival or force a sanctuary-first opening.

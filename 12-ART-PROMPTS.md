@@ -1,5 +1,28 @@
 # Art Prompts
 
+## Approved Session 17 art and page order — September 29, 2026
+
+This supersedes the earlier short-session art order and schematic maps. Use these final assets:
+| Roll20 page | Final asset |
+|---|---|
+| S17 00 - Intro | [S17_00_Intro_Corrected.png](output/session17/S17_00_Intro_Corrected.png) |
+| S17 01 - Chalk Cut | [Session17_01_Chalk_Cut_Map.png](output/session17/Session17_01_Chalk_Cut_Map.png) |
+| S17 02 - Payment Slip | [Session17_02_Payment_Slip.png](output/session17/Session17_02_Payment_Slip.png) |
+| S17 03 - Camp Overlook | [Session17_04_Camp_Overlook.png](output/session17/Session17_04_Camp_Overlook.png) |
+| S17 04 - Northern Camp | [S17_04_Camp_Labeled.png](output/session17/S17_04_Camp_Labeled.png) |
+| S17 05 - Camp Flyover | [S17_05_Camp_Flyover.png](output/session17/S17_05_Camp_Flyover.png) |
+| S17 06 - Council Map | [S17_06_Strategy_Map.png](output/session17/S17_06_Strategy_Map.png) |
+| S17 07 - Give the Orders | [S17_07_Give_The_Orders.png](output/session17/S17_07_Give_The_Orders.png) |
+
+[Sev-only annotated map](output/session17/S17_06_Sev_Only.png) uses the same geography and shows wagon access, foot routes and sightlines; the papers explain the operation. Keep private until delivered specifically to Sev. Roll20 currently has DM and Screen accounts, so the Sev handout remains GM-private for controlled delivery rather than shared with everyone.
+[Mara portrait](output/session17/Session17_Mara_Venn.png).
+
+The intro plate is charcoal-colored stone with gold/brass inlay suggesting draconic forms, matching the Session 16 arch reference. It is not a solid brass disk. Camp map labels A–F match the DM guide. The dragon flies over the northern camp, not the rescue. Council art is atmosphere, not a claim that orders or outcomes have occurred.
+
+Chalk Cut tactical page remains 20 × 15 squares at 5 ft/square. Player ribbon remains at the intro; final NPC pass changed only the GM camp preparation. Payment slip is earned information; DM guide/read-aloud pack stay private. Full asset inventory and verification: [Session 17 packet](output/session17/README.md).
+
+---
+
 ## Character Headshot Reference Rule
 
 Character headshot files are authoritative visual canon for the player characters, not optional inspiration. When creating, editing, or prompting character images, always use the matching headshot as the required face reference and preserve the face without modification unless Scott explicitly asks to change the face.
