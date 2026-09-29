@@ -45,7 +45,7 @@ does not authorize implementation or a change to campaign canon.
 Effective September 10, 2026. This workflow supersedes older instructions requiring a Codex update block, mandatory PC editing, special GitHub permission phrases, or a D&D Beyond refresh for every save.
 
 - Published campaign canon is the current `main` branch of `sstudham/dnd-campain`. ChatGPT project uploads, chat memory, generated task folders, and PC working copies are not independent published canon.
-- At the start of each task, read this file from the current repository, then the relevant files. Read again before writing; never replace a live file from an old chat snapshot.
+- At the start of each task, read this file and `CHATGPT_PROJECT_INSTRUCTIONS.md` from the current repository, then the relevant files. Read again before writing; never replace a live file from an old chat snapshot.
 - "Save this to canon", "update canon", "make this canon", and equivalent explicit requests authorize the described canon edits and their GitHub commit. A request to save ideas or prep authorizes saving them in their non-canon files. Brainstorming alone does not authorize writes or promotion into canon.
 - Prefer the connected GitHub write tools in the current ChatGPT/Work/Codex session, including phone and Web. Do not require Scott to choose Codex or return to a computer when a working GitHub write tool is available.
 - Read the current target file and its SHA, apply a minimal edit, and use the current SHA/branch to save. For interdependent changes across several files, prefer one atomic commit when supported. Never force-push. On concurrent changes, re-read and reconcile without overwriting unrelated work.
@@ -68,7 +68,7 @@ Effective September 21, 2026.
 
 - The group normally plays every other Tuesday.
 - Use a dedicated D&D live-session ChatGPT conversation during play. Its job is immediate table support, not independent canon authority.
-- Capture play with an external transcription service when practical. Near-term workflow may be manual: record/transcribe the table, then paste transcript chunks into the dedicated live-session chat as play proceeds.
+- When Scott asks for DM copilot support, to follow the table, or to review a live session, follow the Tablekeeper connection procedure in `CHATGPT_PROJECT_INSTRUCTIONS.md`. Tablekeeper records/transcribes; this chat provides DM assistance, narration, and pictures. Use verified local transcript access when available; supplied transcript chunks remain an alternative.
 - Treat transcript text as live evidence of what was said at the table, but not as durable campaign canon by itself. It may contain transcription errors, jokes, abandoned ideas, cross-talk, or misunderstood names. The assistant may use it to understand the current moment, but canon promotion still follows the explicit save/canon rules in this file.
 - During play, the live-session chat should maintain a short rolling state from the latest transcript: current scene, PC/NPC positions and intentions when known, clues actually discovered, resources explicitly spent or recovered, unresolved immediate choices, and the latest player decisions.
 - During play, Scott may ask for quick DM advice, rules help, short read-aloud text, NPC dialogue, encounter pivots, consequences, or player-facing artwork matched to the moment. Never narrate discoveries, choices, consequences, rests, resource recovery, or canon facts that have not actually happened.
@@ -85,7 +85,7 @@ Effective September 21, 2026.
 
 ### Future live-transcript integration
 
-The desired end state is for the D&D ChatGPT project to read the live transcript automatically while play is happening, without Scott manually copying chunks. Until a verified integration supports that reliably, manual transcript paste is an acceptable operating workflow. Do not claim a transcription connector is live-streaming into ChatGPT unless that has actually been verified.
+The desired end state is for the D&D ChatGPT project to read the live transcript automatically while play is happening, without Scott manually copying chunks. Tablekeeper supports on-demand local transcript reads by a chat with access to the recording computer; this is not continuous delivery into every chat. Until continuous integration is verified, use those on-demand reads or supplied transcript chunks. Do not claim a transcription connector is live-streaming into ChatGPT unless that has actually been verified.
 
 ## File Map
 
