@@ -12,7 +12,7 @@ Rules:
 
 Pat Benatar name clarification:
 
-Always use the full name **Pat Benatar** in all read-alouds and notes. Never shorten her name to "Pat". This naming rule applies to future campaign writing; the authoritative portrait filename remains `Pat.jpg`.
+Always use the full name **Pat-Benatar**, including the hyphen, in all read-alouds and notes. Never shorten her name to "Pat". Scott corrected the spelling to Pat-Benatar on September 29, 2026; older references using "Pat Benatar" refer to the same fictional character. The authoritative portrait filename remains `Pat.jpg`.
 
 Pat Benatar is a fictional Dungeons & Dragons player character in this campaign.
 In this campaign, "Pat Benatar" does not refer to the real-world singer, celebrity, musician, or public figure.
