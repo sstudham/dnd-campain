@@ -2,6 +2,8 @@
 
 ## Session 18 starting state — after Session 17, September 29, 2026
 
+Restart assets: [final deployment image](output/session17/Session17-Closing-Deployment.png) and [exact Session 17 closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt). [All five live-session images](output/session17/README.md#session-17-live-session-images-and-closing-narration--september-29-2026) are saved in the packet. Scott's intended next-session beats: run the battle, attempt to retrieve whatever is hidden at the mill, then head north. These are plans; the contents, successful retrieval, battle outcome and departure are not established.
+
 Resume the operation at the first unresolved action as dusk approaches. Session 17 ended after council orders/deployment narration, not after combat. Use the actual log in [09-SESSION-LOG.md](09-SESSION-LOG.md); older Session 17 packets below remain historical unused/partly played prep.
 
 * Floyd GoldSeeker and Brother Kai: both volunteer work crews at the mill, digging toward the hidden contents; excavation/opening has not succeeded yet.

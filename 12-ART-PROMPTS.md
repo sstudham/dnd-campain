@@ -421,3 +421,16 @@ Generated during prep:
 - `a_composite_layout_moodboard_image_for_a_d_d_ses.png`
 
 These composite boards are optional private DM references only. They may contain generated labels, decorative text, token placements or incidental visual assumptions that are not canon. Do not use them as player-facing evidence or as a substitute for the individual Session 17 assets above.
+
+
+## Session 17 live-session illustrations — September 29, 2026
+
+Original PNGs generated during play using the actual required face references: Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg and Pat.jpg as applicable. Pat-Benatar is the fictional campaign character. These are supporting/display images; written canon controls exact facts and no incidental detail establishes new canon.
+
+* [Party before the Chalk Cut](output/session17/Party-Before-Chalk-Cut.png)
+* [Northern camp and wagon yard](output/session17/Party-Northern-Camp-Wagon-Yard.png)
+* [Survey tent and signal yard](output/session17/Survey-Tent-and-Signal-Yard.png)
+* [Split party: hospital and council](output/session17/Split-Party-Hospital-and-Council.png)
+* [Closing deployment — next-session restart image](output/session17/Session17-Closing-Deployment.png)
+
+The closing deployment image preserves the end-session split: Floyd GoldSeeker and Brother Kai with both work crews at the mill; Pat-Benatar with two guard teams toward the signal ridge; Throk with the third team on the west path; Severed Whisper alone on the north road. It depicts setup, not a resolved battle or recovered mill contents. Reuse with the [exact closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt); confirm opening posture and other unresolved choices from next-session prep.

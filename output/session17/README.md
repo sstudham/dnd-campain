@@ -1,6 +1,6 @@
 # Session 17 approved packet
 
-Saved at Scott's explicit request on September 29, 2026. This is the approved session preparation and final artwork, not a claim that Session 17 has happened. Actual history remains through Session 16.
+Saved at Scott's explicit request on September 29, 2026. The original packet below is preparation. Session 17 actual play is now recorded in [09-SESSION-LOG.md](../../09-SESSION-LOG.md); saved live-session illustrations and closing narration follow.
 
 [Playable guide](Session17_DM_Guide.md) · [Word guide](Session17_DM_Guide_Revised.docx) · [PDF guide](Session17_DM_Guide_Revised.pdf) · [Clue cards](Session17_Player_Clues.pdf) · [Opening narration](Session17_Opening_Read_Aloud.txt) · [Short read-aloud pack](Session17_Read_Aloud_Pack.txt).
 
@@ -36,3 +36,16 @@ All seven have independent HP (bar link None) and visible nameplates. Watch guar
 [Final camp screenshot](Roll20_Camp_NPC_Final_Verified.png)
 
 Earlier setup screenshots are retained as dated evidence of page order, plate correction, camp flyover, map and player view. The final camp pass confirms new NPC placement, not a new test of every prior setting. Sev-only map remains GM-private pending individual delivery. No Session 17 outcomes have been added to the session log.
+
+
+## Session 17 live-session images and closing narration — September 29, 2026
+
+All five images generated in the live-session chat are preserved here as original PNGs, using the actual required PC headshots. Supporting/display art does not establish incidental props, exact geography, resources or unplayed outcomes; written canon controls.
+
+* [Party before the Chalk Cut](Party-Before-Chalk-Cut.png)
+* [Northern camp and wagon yard](Party-Northern-Camp-Wagon-Yard.png)
+* [Survey tent and signal yard](Survey-Tent-and-Signal-Yard.png)
+* [Split party: hospital and council](Split-Party-Hospital-and-Council.png)
+* [Closing deployment — next-session restart image](Session17-Closing-Deployment.png)
+
+[Exact final closing read-aloud](Session17_Closing_Read_Aloud.txt) accompanies the closing deployment image. It ends before battle resolution or a successful mill opening. For the next session, see [restart prep](../../10-NEXT-SESSION-PREP.md). Scott's intended next beats are to run the battle, attempt to retrieve the mill contents, and head north; success, contents and departure remain unplayed.
