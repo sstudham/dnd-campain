@@ -1,5 +1,12 @@
 # Current Canon
 
+## Session 18 bounded DM background — approved September 30, 2026
+
+Scott authorized the story-aligned rebuild and its canon save. The mill's hidden contents are a portable **pressure witness**, retaining the vault's last stable local reading. Lennithon independently wants it and the control plate to compare that baseline with disturbances sensed farther north. This supersedes only the previously unspecified contents/motive; established mill damage, plate function, independent factions and Session 17 events stand. Details: [05-ITEMS.md](05-ITEMS.md), [03-NPCS.md](03-NPCS.md).
+
+These are DM-side world facts, not automatic party knowledge. Recovery, receiver testing/isolation, battle results, dragon meeting and northward departure are still unplayed. [Rebuilt Session 18](output/session18/README.md) gives conditional encounters. The homebrew connection is a local damaged-channel/relief decision; the wider rift cause and Concordance/Acererak proposals remain unresolved/non-canon.
+
+
 ## Session 17 completed — September 29, 2026
 
 Session 17 is now the latest completed session. The party rescued Doss at the Chalk Cut, investigated the northern camp, acquired the three operation clues and survey map, witnessed an unidentified northbound dragon flyover, retained the plate without payment, returned Doss to Greenest care and earned a council planning role by presenting evidence. The coordinated operation is understood; its outcome is **not played**. Full actual-play record and uncertainties: [09-SESSION-LOG.md](09-SESSION-LOG.md).

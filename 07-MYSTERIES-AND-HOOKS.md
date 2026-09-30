@@ -1,5 +1,12 @@
 # Mysteries and Hooks
 
+## Session 18 DM resolutions and player questions — September 30, 2026
+
+Previously unspecified mill contents and Lennithon's reason to want both objects now have bounded approved DM answers: a pressure witness preserves a stable local reading; he wants comparison against northern disturbances. See [05](05-ITEMS.md) and [03](03-NPCS.md). The party has not learned these answers or recovered the witness. Historical statements that the contents/motive were unspecified describe the earlier prep.
+
+Still unresolved: exact false signal, deployment plate carrier, Throk's purpose, Severed Whisper's opening posture, resource recovery, both dragon-sighting identities, ultimate rift cause and character origins. Frulam's name/faction requires earned evidence. The care decision can create a limited improvement without curing the fault. Leosin captivity and dragon eggs remain optional published-story candidates, not retroactive Session 17 discoveries.
+
+
 ## Session 17 discovered evidence and remaining questions — September 29, 2026
 
 Party acquired Wheel, Spade and Lantern evidence and survey map, understood diversion/routes/conditional signal, and presented them to Greenest council. An unidentified dragon flew north over camp. F.M., L., final recipient, dragon identity/motives and sealed contents remain unresolved; no identity was confirmed.

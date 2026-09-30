@@ -1,5 +1,12 @@
 # NPCs
 
+## Session 18 DM motive clarification — September 30, 2026
+
+Lennithon wants a supervised comparison of the pressure witness's stored local baseline and the plate's interface against draconic disturbances he has sensed northward. He recognized outward activity from Stormwreck; he neither caused Greenest's original physical damage nor commands Frulam. He prefers custody but can negotiate copied readings or inspection under party control. These motives are DM background, not a completed meeting or identification of either prior distant dragon sighting.
+
+Frulam Mondath's Cult of the Dragon operation seeks possession and northward transfer. Her full name/faction can become supported party knowledge through an earned dispatch or captive in Session 18. Sister Merra's separate One God belief remains sincere; Eadyan's priority is safe ordinary care. The two cults are not silently merged. Prepared dialogue/choices: [guide](output/session18/Session18_DM_Guide.md).
+
+
 ## Approved Session 17 NPC preparation — September 29, 2026
 
 Use [the expanded guide](output/session17/Session17_DM_Guide.md), not a compulsory road fight. Mara Venn is the paid intermediary; Doss Fen is hired labor; their hired guard prioritizes the rescue. Mara may provide a route or escort under an agreed cover, but knowingly bringing the wanted plate into camp attracts recovery attempts. Conceal it for an ordinary infiltration; a declared delivery is a supervised negotiation. These are planned interactions, not reported outcomes.

@@ -1,6 +1,18 @@
-# Session 18 read-aloud pack
+# Session 18 read-aloud pack — rebuilt September 30
 
-Use only the paragraph whose release gate has happened. New object and northern rendezvous are prepared proposals. Never read outcomes before resolving them. Always say Pat-Benatar in full.
+Use only the paragraph whose release gate has happened. The pressure witness and bounded dragon motive are approved DM background; discoveries and outcomes remain unplayed. A0 and A1 are alternate openings: choose one. Always say Pat-Benatar in full.
+
+## A0 — Story-so-far recap (opening; about two minutes)
+At Stormwreck, you stopped Sparkrender's exploitation of the dead, opened the ancient pattern and brought Aidron back alive. You carried Mek home. Runara gave you a direction: follow the dragons if you want to understand the wound. Aidron warned you that finding a dragon would not make it trustworthy.
+
+Greenest put that question into your hands. A dark stone plate, taken from beneath the mill, fits an ancient socket. Its pulse stops at a broken channel. The arch stays shut. Whoever ordered it moved north also wanted what was left behind.
+
+At the Chalk Cut you pulled Doss from fallen stone. At the northern camp you refused payment for the plate and discovered a plan: wagons to draw defenders north, observers to release a signal, a work party to reach the mill. Severed Whisper took the survey map while a dragon passed overhead and continued north. Its identity remains unknown.
+
+You brought Doss home and took the evidence to Greenest's leaders. Now Floyd GoldSeeker and Brother Kai have both work crews at the mill. Pat-Benatar has two guard teams at the ridge. Throk holds the west path with the third. Severed Whisper watches the north road.
+
+The town has listened. The next orders belong to you.
+
 
 ## A1 — Opening recap and dusk (before the first action)
 
@@ -66,6 +78,14 @@ Mixed result: The drums have stopped, but the work is not finished. There are pe
 
 Shared ending: Escobert listens to each report before answering. "Tell me what is secure. Tell me who needs help. Then tell me what we must keep watching while you work."
 
+## A7B — The cult dispatch (after actually acquiring H1)
+The lower part of the paper is written with fewer abbreviations. The name beneath the orders is Frulam Mondath. Beside it, someone has written Cult of the Dragon.
+
+The mill is a recovery objective. The plate is to go north separately. Another line orders an accounting of prisoners and stock in a guarded cave. These are not the notes of people preparing to settle in Greenest.
+
+You have the shape of the operation. Now you have a name attached to it, and a reason to wonder what else is being moved out of the camp.
+
+
 ## A8 — Under the mill (before side access)
 
 The mill's ordinary smells follow you down: flour, river water, damp timber. Beneath them lies the colder smell of stone that has not seen daylight in a long time.
@@ -84,7 +104,7 @@ Behind the wall is a small recess, older than the mill above it. There is no roo
 
 The crews fall quiet. For the first time, you can see what the raiders meant to take.
 
-## A10 — The pressure witness (proposed object; after inspection)
+## A10 — The pressure witness (approved DM object; after inspection)
 
 The object is about the length of a forearm: smoky crystal held within three bronze ribs. It rests above the stone rather than against it, supported by small fittings that look made to be released. Inside the crystal, a single amber thread hangs motionless.
 
@@ -129,3 +149,41 @@ Greenest has become a cluster of roofs behind you. The road ahead climbs toward 
 Somewhere ahead, a dragon has been moving for reasons you have not yet heard. You have its possible trail, two pieces of an older mystery, and your own questions.
 
 This time, you mean to ask them face to face.
+
+## A15 — The pulse and its price (observe at sanctuary with permission)
+Merra rests her fingers beside the pale stone. A patient lets out a breath that sounds as though it has been held for hours. The tightness around their mouth eases.
+
+Below the plinth, a narrow line brightens and fades. From the damaged channel comes a soft fall of grit. The moment of relief and the movement in the stone are close enough that everyone has time to notice both.
+
+Merra looks from the patient to the dust. “It helps,” she says. “You can see that it helps.”
+
+Eadyan steadies the patient's cup. “Then we need to find a way to keep helping without asking the broken stone to carry more.”
+
+They wait for your proposal.
+
+## A16 — A limited improvement (only after the chosen intervention works)
+Isolation version: With replacement care ready, the receiver is lifted clear. The next expected pulse does not come. No new dust falls from that particular seam. The patient still needs tending. The channel is still broken. But one source of strain has stopped, and someone has written down who will watch the supports while you are gone.
+
+Monitored-use version: The receiver remains under watch. Fresh timber carries the vulnerable load, and the next pulse is observed rather than ignored. Merra checks the patient; Eadyan records the interval; a volunteer checks the brace. The problem remains, but it has people responsible for it now.
+
+Shared ending: You have not healed the whole town with a gesture. You have changed what will happen when you leave.
+
+## A17 — The dragon's first bargain (after objects disclosed and conversation begins)
+The dragon studies the wrapped burden without moving closer.
+
+“Frulam sends hands to take what she cannot read. You brought it yourselves.”
+
+A slow breath stirs the grass against the shelf. The road remains open behind you.
+
+“The bronze dragon on the island was freed. Something old changed its note. That did not break your mill. Your mill was already damaged.”
+
+The eyes turn from the smaller bundle to the longer one.
+
+“I can tell you what those pieces compare. You can decide whether I am allowed to examine them. Ask your first question.”
+
+## A18 — Closing on a chosen next step
+The answer you came north for has become something more precise. Old draconic work lies beneath ordinary lives. People can exploit it without understanding it. A dragon can understand part of it and still want something from you.
+
+Behind you are the workers, the patients and the defenses you chose to leave. Before you is an offer, a cult's trail and a damaged place that has not stopped needing care.
+
+This time you have more than a delivery order. You have enough information to choose what comes next.

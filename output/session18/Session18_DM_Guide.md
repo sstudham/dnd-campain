@@ -1,14 +1,32 @@
-# Session 18: The False Light
+# Session 18: The False Light and the Buried Memory
 
-DM guide | Prepared from GitHub main and Session 17, September 29, 2026
+Rebuilt September 30, 2026 from Session 17 and the current story arc. Supersedes the September 29 Session 18 outline. Scott authorized this rebuild and its repository save. This guide is preparation; outcomes remain unplayed. New bounded DM background is recorded separately in the canon files. The Concordance/Acererak spine remains unconfirmed.
 
-## Run this tonight
+## The session's story
+The party already stole the information needed to stop Frulam's operation. Now use it. After defending Greenest, discover why the mill's old draconic structure matters to people above it. The hidden object preserves a local stable reading; the relief stone is adding strain to damaged supports. Protect patients while gaining evidence, then carry the plate and witness north to question an independent dragon. This continues Runara's lead while revealing the Cult of the Dragon as a recognizable opponent.
 
-The intended arc is to manage the attack on Greenest, recover the hidden mill object, and leave north carrying it and the control plate to seek the dragon. This is prepared play, not a report of completed events. Start at the ending deployments; do not replay the council or camp. Allow a sensible plan to succeed. Resolve the attack through command decisions, short local confrontations and consequences, then give the mill discovery room to breathe.
+Three promises: their defense choices matter; Floyd GoldSeeker's practical leadership opens the mystery; the dragon offers partial information at a negotiable price. Avoid another session spent mainly collecting papers.
 
-Target: three hours. Opening 10 minutes; four-front operation 65; aftermath and regroup 15; mill recovery 45; northbound journey and dragon approach 35; close and record 10. If play runs long, cut repeated combat and travel checks. Preserve the reveal and a real departure choice. Excavation may finish next morning: elapsed fictional hours can pass in a brief montage after safety and care are arranged.
+## Three-hour running order
+| Beat | Minutes | Choice / payoff |
+|---|---|---|
+| Restart | 10 | Confirm orders, signal intent, resources and plate holder; drums begin. |
+| Operation | 50 | Cut rapidly between four fronts; let good disruption stop the raid. |
+| Cult evidence / regroup | 15 | One witness or dispatch identifies Frulam and faction. |
+| Mill recovery | 35 | Safe shoring, portable witness, familiar draconic geometry. |
+| Relief and cost | 25 | Arrange care and choose reversible receiver isolation or monitored continuation. |
+| North / dragon | 35 | Earn route; choose how to approach and bargain for information. |
+| Close | 10 | Record real results and next objective. |
 
-Preparation decisions introduced in this packet are marked PROPOSED. Scott's requested arc authorizes preparation; it does not establish future victory, deaths, item ownership, new world truth or an automatic level-up. Existing actual play controls wherever a prepared scene conflicts with it.
+When behind, remove extra fights and travel checks. A protected overnight work montage can finish excavation; no automatic long rest. If dragon dialogue must wait, end northbound with two concrete questions and a reliable route. Do not rush a patient's care choice to hit a timetable.
+
+## Five-character spotlight card
+Floyd GoldSeeker: decide how crews shore a loaded wall, teach a volunteer and invite help. Payoff is safer people and a useful reading, not a compelled revelation about Glittervein. Brother Kai: keep workers safe, decide how to treat a captive, listen to Merra without automatic conversion or condemnation. Pat-Benatar: choose an exact false signal, recognize old geometry and ask the dragon what predates her clan. Severed Whisper: control the road encounter, decide which map information to share and scout a safe northbound approach. Throk: define his west-path purpose, protect runners or intercept the ordinary messenger, account for his team's people. Give one short decision to each every operation beat; reunite them for discovery.
+
+## RAW and homebrew boundaries
+Use the official Greenest/camp functions: defend townspeople and mill, recover prisoner intelligence, expose a cult operation and offer a camp/hatchery trail. The modified signal network and buried vault are custom. Do not claim to be executing the published encounters unchanged. No mandatory dragon breath attack, siege, champion duel or extra wave.
+
+Frulam is an active antagonist through orders and surviving personnel. Lennithon is an independent actor with overlapping interests. Sister Merra's One God belief is a separate religious response to the local fault, not a Cult of the Dragon disguise. The mill predates the recent raid and Stormwreck signal. Repairs are a net good. No universal machine, future villain identity or compulsory collection of keys.
 
 ## Opening dashboard
 
@@ -27,7 +45,7 @@ Preserve the existing protected background: town guards outside the three reassi
 
 ## Enemy order card: what actually releases Spade
 
-Wheel has two straw-loaded wagons, six shields originally (two taken at camp), two drums, no ram, ladders or occupation supplies. They arrive visibly at dusk, make noise and await further orders before entering. Prepared head count: PROPOSED four hired raiders, two per wagon; not a new historical fact.
+Wheel has two straw-loaded wagons, six shields originally (two taken at camp), two drums, no ram, ladders or occupation supplies. They arrive visibly at dusk, make noise and await further orders before entering. Prepared head count: four hired raiders, two per wagon; not a new historical fact.
 
 Lantern has two observers on the ridge. After drums begin, they watch defenders. One long shuttered flash only when defenders move north. Otherwise hold and send a runner. These are observers, not suicidal champions.
 
@@ -39,11 +57,11 @@ Enemies do not know secret friendly deployments unless they observe them or rece
 
 Use three operation beats of roughly five to ten fictional minutes. At each beat, give every front a short scene and one consequential choice, then update only effects actually caused. When a local fight needs initiative, stop the operation clock for its few rounds; do not let ten fictional minutes pass while another player says one sentence. Across distant fronts use local initiative; characters cannot share spells, sight or turns across the town.
 
-Write four states on paper: Ridge [enemy / contested / party]; Wheel [waiting / suspicious / withdrawing / advancing]; Spade [holding / scouting / moving / withdrawn]; Mill [unbraced / braced / clearance / access / recovery]. Add each runner's departure, destination and arrival. PROPOSED communication: a nearby post takes one beat; opposite fronts two beats. These are broad scene durations, not surveyed distances. Confirm against the established strategy map; never promise remote help in the same six-second round.
+Write four states on paper: Ridge [enemy / contested / party]; Wheel [waiting / suspicious / withdrawing / advancing]; Spade [holding / scouting / moving / withdrawn]; Mill [unbraced / braced / clearance / access / recovery]. Add each runner's departure, destination and arrival. Prepared communication: a nearby post takes one beat; opposite fronts two beats. These are broad scene durations, not surveyed distances. Confirm against the established strategy map; never promise remote help in the same six-second round.
 
 A credible task within a team's capacity succeeds without a roll. Roll only when opposition, risk or timing matters. Prepared command DCs: 10 straightforward under pressure, 12 disputed or watched, 14 difficult deception with contradictory evidence. Clear tools, terrain or preparation may grant advantage. State what failure costs before rolling. One failed command changes a position or costs time; it does not randomly kill a team.
 
-PROPOSED guard-team abstraction for scenes without PCs: Fresh -> Pressed -> Withdrawn. Good cover and explicit limited orders hold a matching threat. A costly unsupported move makes the team Pressed; a second unsupported setback makes it Withdrawn with injuries needing care. Do not declare deaths from this track. If individual lives become central, resolve their actual situation. Both ridge teams cooperate against two observers; do not invent extra enemies to erase their numerical advantage. Volunteers brace, haul and dig; they do not become combat squads.
+Prepared guard-team abstraction for scenes without PCs: Fresh -> Pressed -> Withdrawn. Good cover and explicit limited orders hold a matching threat. A costly unsupported move makes the team Pressed; a second unsupported setback makes it Withdrawn with injuries needing care. Do not declare deaths from this track. If individual lives become central, resolve their actual situation. Both ridge teams cooperate against two observers; do not invent extra enemies to erase their numerical advantage. Volunteers brace, haul and dig; they do not become combat squads.
 
 ## Beat 1: the drums and the shutter
 
@@ -53,7 +71,7 @@ At the ridge show two observers, shuttered lantern, hooded supply light, rock co
 
 At the mill Floyd GoldSeeker can freely distinguish the old arch from the adjacent breach route. The lock is physically damaged; fitting the plate will not make the break disappear. Both crews can start quiet shoring. Brother Kai decides entrance watch, labor assistance or patient protection if someone is hurt. The old structure requires engineering, not a new four-statue puzzle.
 
-At the west path give Throk a fair visible cue: a person on foot stops to look uphill toward the ridge, carrying no wagon load. PROPOSED this is the ordinary messenger allowed by the signal order. Throk can observe, question, stop, escort or let the messenger pass. The west path is not silently renamed the east drainage route. This front supports information and protects cross-town runners; it is not automatically Spade's route.
+At the west path give Throk a fair visible cue: a person on foot stops to look uphill toward the ridge, carrying no wagon load. Prepared this is the ordinary messenger allowed by the signal order. Throk can observe, question, stop, escort or let the messenger pass. The west path is not silently renamed the east drainage route. This front supports information and protects cross-town runners; it is not automatically Spade's route.
 
 ## Beat 2: the party's signal changes the enemy's choices
 
@@ -76,7 +94,7 @@ Throk's team can secure a messenger and ask what was actually written. Useful pl
 
 If Spade holds, reward the signal plan. No obligatory mill combat. A brief attempted reconnaissance or negotiation is enough; the party has prevented the coordinated opening. If it advances, show water splashing and a covered tool knocking stone before contact. Eight pairs of boots is a count of the work party, not eight soldiers of equal threat.
 
-PROPOSED Spade staging: two hired-raider escorts with six laborers. Laborers do not attack in formation; they drop tools, take cover, bargain or flee. A foreman can be one of the laborers, with no elite block. The escorts' goal is access and safe withdrawal. In tactical play place both escorts and the visible workers. Do not add a boss or hidden waves. Floyd GoldSeeker and Brother Kai can hold a braced choke, warn workers of collapse, negotiate with the foreman or call support. A sensible barrier changes the encounter before initiative.
+Prepared Spade staging: two hired-raider escorts with six laborers. Laborers do not attack in formation; they drop tools, take cover, bargain or flee. A foreman can be one of the laborers, with no elite block. The escorts' goal is access and safe withdrawal. In tactical play place both escorts and the visible workers. Do not add a boss or hidden waves. Floyd GoldSeeker and Brother Kai can hold a braced choke, warn workers of collapse, negotiate with the foreman or call support. A sensible barrier changes the encounter before initiative.
 
 If ridge and road clashes happen, use only brief local combats necessary for choices. Large forces retreat when their cover story or coordination fails. Capture is a real option. Wheel is not equipped to besiege Greenest. A battle can conclude with frightened hired people alive and the town secure.
 
@@ -88,70 +106,62 @@ Existing campaign S16 Hired Raider: AC 12, HP 9, speed 30 feet, club +3 to hit, 
 
 Resolve allied guard help as position, containment and sensible pressure rather than adding a dozen NPC turns. If the team is physically in a fight and a player needs precise attacks, use its existing Roll20 guard record; do not use the Fresh/Pressed track as extra HP or an undisclosed combat buff.
 
-## Aftermath: the town is safe enough to work
 
-Regroup only after runners actually communicate. Read A7 aftermath with the appropriate success or mixed-result paragraph. Nighthill wants confirmed facts: who is hurt, who is missing, which approach is secure, and whether the mill crew can continue. Escobert restores ordinary watches and keeps the two carts useful for casualties or hauling. He does not automatically award a title. No invented bounty or 40 gp courier payment.
+## Regroup: an enemy with a name
+Give one earned clue, not another hunt. A captured observer, interrupted messenger, abandoned wagon docket or withdrawn Spade foreman's satchel holds H1. Do not conjure it in a pocket the party never searches. If all enemies escape, a dispatched courier drops the duplicate at the deserted ridge only if that is actually inspected; otherwise an existing town prisoner may know the employer when asked. Critical faction information is not locked behind one successful check.
 
-Offer a brief personal question to each PC: what do you check before leaving your post? Pat-Benatar can inspect the lamp or prisoners; Severed Whisper can retain convoy papers; Throk can account for his team; Brother Kai can check workers; Floyd GoldSeeker can verify the supports. This records care and supplies instead of assuming a flawless victory.
+H1 is an original adapted document: two short paragraphs naming Frulam Mondath and the Cult of the Dragon; recovery priorities and a separate northern transfer; one note that camp prisoners and guarded cave stock must be counted. It identifies neither a captured monk nor dragon eggs as confirmed discoveries. Read A7B. The paper turns F.M. into a supported identification. A common worker knows wage/order information; do not make them a cult theologian.
 
-## The mill: earn access without losing the session
+Nighthill asks who is hurt and who is held. Escobert returns ordinary watches; care continues. A live prisoner has information and a human decision attached. Pat-Benatar's proposed lethal attack remains her choice; do not impose a moral lecture. Brother Kai and Severed Whisper can speak about capture if they want, without replaying their old disagreement as scripted conflict.
 
-Both crews may need until next morning. Initial work before the attack creates real progress; a successful defense permits uninterrupted continuation. Keep a progress record: support plan; safe clearance; accessible opening; supported recovery. A correct practical description accomplishes its step. Use DC 12 only for rushed or uncertain execution, DC 14 if attempted under attack. Help and suitable tools matter. A setback costs an hour, bent equipment or a need for extra bracing, not removal of the only clue. Stop and secure the structure before retrying.
+## Mill recovery: competent people, careful work
+Show safe progress from crews' actual effort: brace, clear, supported access, supported recovery. Both crews may need until morning. DC12 for uncertain rushed execution; DC14 under active attack. State a time/bracing setback first. Competent tools and a good described plan need no roll. Volunteers are not expendable tokens. Floyd GoldSeeker shares authority with trained hands. Brother Kai watches the entrance or helps the lifting line.
 
-Floyd GoldSeeker spots load lines, old masonry and ordinary tool marks freely. Name the problem: remove the mortar/stone beside the sealed arch without letting the mill's newer load settle into it. Timber wedges and transverse bracing support that load. Crews work in shifts; Brother Kai can hold a guide rope, pass tools, keep dust clear or protect an entrant. No skill roll makes workers immune to danger.
+The old arch stays shut. Clear adjacent masonry into a small maintenance recess. No enormous machinery appears. The removed plate does not repair the broken branch. New access is shored and kept out of public use. Read A8-A10 only at their gates. Optional CLICK requires an actionable slipping-brace/grit clue, only present PCs, three seconds, normal resolution, no instant death.
 
-The familiar seam still carries water upward. The arch remains shut; the side access is a separate human-sized aperture into a small maintenance recess. The crews are not repairing the ancient mechanism merely by removing bricks. After completion they stabilize the hole, mark it unsafe for casual visitors and leave the channels standing. Make a final custody check for the plate.
+## What is recovered: a pressure witness
+Bounded DM background approved for this rebuild: a forearm-long, roughly ten-pound smoky crystal spindle in three old bronze ribs, three retaining clips and a single still amber line. It is a removable reference component retaining this vault's last stable local pressure reading. It is not a soul, egg, weapon or second plate. Release clips while supported, lift and pad. Correct practical action succeeds. No combat/healing powers. Removal leaves the architecture and damaged channels in place.
 
-Optional CLICK, only if not overused recently: first describe a brace end sliding in damp stone, a slow shower of grit and a worker leaning beneath the load. Then the isolated CLICK prompts one immediate action per present PC in three seconds. Nearby PCs only; distant PCs cannot teleport. Appropriate actions secure position or protect the worker. Use normal checks when needed; no instant death. This is an avoidable engineering complication, not punishment for good work. Omit if the pacing does not need it.
+If the party actually brings the plate close, the witness shows a second offset line briefly. Explain the useful observation plainly: one stored reading and one present reading differ. They have found a way to compare, not a way to cure everything. If they do not test the plate, do not narrate that result. Pat-Benatar recognizes the geometric family; her scale need not produce a new involuntary vision. Floyd GoldSeeker can safely extract it; the whole party helps secure and understand it.
 
-## PROPOSED reveal: the pressure witness
+## The homebrew turning point: help that loads the broken stone
+While the group inspects the still-damaged mill channel, show one faint pulse from the sanctuary-facing branch and a fall of grit at its damaged support. This is a cue, not proof of all causes. A worker/runner reports that the timing resembles the sanctuary's relief stone; a visit to Merra/Eadyan allows a matched observation. Do not claim an offscreen new injury, cure or collapse.
 
-Default prepared object if Scott supplies no other design: a forearm-length, roughly ten-pound smoky crystal spindle seated in three aged bronze ribs, resting in a padded stone cradle. It is portable. A thin amber thread hangs motionless inside. Small repeated lines resemble the geometric family of the Observatory and the old channels. Name "pressure witness" is a DM working label; players may name it.
+At sanctuary Merra sincerely wants patients comfortable. Her stone provides real bounded relief. Eadyan wants a safe care plan, not a theological contest. Show relief and strain together using a short controlled pulse with consent and bracing. Read A15. Existing background defines its effects; new certainty must come through the test. If they question whether it caused the original fault, answer no: recent foundation work broke the branch; the receiver worsens stress at that break.
 
-Its proposed function is to retain a limited record of the local vault's last stable pressure pattern. It is a removable measuring/reference component, not the entire apparatus, a trapped soul, a dragon egg or another control plate. Removing it after disengaging its three retaining clips does not switch off the whole town. It grants no combat power, healing, prophecy or map overlay. The plate remains a separate interface component from the damaged socket. Neither item alone fixes the broken masonry channel.
+Decision: temporarily lift/isolate the receiver with replacement care, or continue monitored use with a propped channel and a scheduled review. No patient sacrifice, forced conversion or automatic death. Baseline healing/medicine does not vanish. Explain observed costs before asking. Merra may disagree but is persuadable; her sincerity is not a lie check. Reasonable plans succeed. If the party refuses to engage, the town can keep ordinary care/watch and the issue remains unresolved. Do not trap them in Greenest or prevent discovery/exit as punishment.
 
-Give one major observation now: the contained amber line briefly makes a second offset line when brought near the plate, then steadies. This demonstrates relationship, not a full cosmic explanation. Floyd GoldSeeker can recognize deliberate suspension and safe release. Brother Kai may hear an ordinary slight mechanical hum; no compulsory vision. Pat-Benatar can recognize familiar geometry without a forced ancestry answer. Severed Whisper can find the exit and packing route. Throk can protect the group while the item is lifted. Give everyone a useful action; do not force a divine voice or rewrite Glittervein.
+Isolation benefit if chosen and actually completed: the receiver's extra pulse stops and dust fall from that specific loading source ceases. The damaged branch stays broken; patients need the agreed replacement care. Monitored continuation benefit: safer support and explicit custodians reduce immediate risk, but strain remains. Record the chosen limited improvement. Both routes preserve a later return-to-Greenest problem. The portable witness is not required to remove the relief stone.
 
-Removal procedure: inspect cradle; support spindle with two hands or a sling; withdraw three visible clips; lift and wrap. Competent execution succeeds. If rushed, a warning scrape precedes damage: stop, support, retry. Do not shatter the session objective on one low roll. If players choose to smash or leave it, honor the choice and preserve route evidence independently.
+## Why go north now?
+Two intelligible questions: who understands the familiar draconic pattern, and why is a dragon interested in this local reading? Runara said follow dragons, not trust them. The cult wants possession; the party wants answers and decides custody. The local care/handoff makes leaving a responsible choice rather than abandoning Doss.
 
-DM-only PROPOSED dragon motive: Lennithon wants the witness's old baseline and the plate's interface to compare local pressure changes with a disturbance farther north. He is gathering useful measurements for his own interests. Frulam wants possession and leverage; she is not his commanding superior or subordinate by default. He knows more than the party about this instrument, but is not an all-knowing teacher and does not explain the entire rift. This reveal neither identifies the old departure omen nor makes dragons one united faction.
+Use H2 transfer instruction from an earned messenger/docket, Mara at her next stop or recent tracks at the chalk fork. A split basalt shelf beyond the camp, foot track marked by three pale stones, is a rendezvous rather than a proven lair. Directions are approximate; no spindle GPS or instant travel. Confirm supplies, rest intention, item carriers, care custodian, team return orders and any prisoner arrangement. Avoid repeating the full camp investigation.
 
-## Three independent ways to get a northbound lead
+## Lennithon: a limited independent bargaining encounter
+The contact can initially remain shadowed. If players establish speech and ask a name, he may give Lennithon. This names the present speaker; it does not prove he was either prior distant omen or Session 17 flyover. No magical awareness of concealed inventory. No attack merely because adventurers came to talk. Do not put an adult dragon in obligatory level-2 combat.
 
-PROPOSED transfer destination: a split basalt shelf beyond the northern camp, reached by following the cart road to its final chalk fork, then a foot track marked with three pale stones. It is a rendezvous, not an exact confirmed lair. Travel suggestion: a morning's journey beyond the camp; treat map distances as approximate and disclose supplies before departure.
+His new bounded DM motive: he wants to compare the witness's stored local baseline and plate's interface with draconic disturbances he has sensed northward. He recognized outward Stormwreck activity, but neither created Greenest's original damage nor controls Frulam. He values information and independent access, not simply town loot.
 
-1. A surviving/captured messenger or convoy docket carries the short transfer instruction in the handout. This is a logistics destination; it does not identify L.
-2. Mara can be found at the next transfer stop, if the party chooses to seek her. She knows the appointment place, not the crystal's function. Doss's care gives her a credible reason to help; no invented promise forces her loyalty.
-3. Follow the northbound road and recent transfer tracks toward the three-stone fork. A failed tracking check costs time or exposes a nearby lookout; it does not delete the only road. The remembered northbound dragon flight supports the search but is not an exact bearing to a lair.
+Opening: with objects disclosed, “Frulam sends hands to take what she cannot read. You brought it yourselves. What do you want to know?” If objects concealed, ask what they came to discuss; no accusation based on invisible knowledge.
 
-Reveal the route through one earned source and keep the other two as backups. Do not conjure a map from the spindle. Players can make a copy, ask directions, choose a scout or delay to rest. Set the plate and spindle holders explicitly before leaving.
+Negotiation menu: supervised inspection with party holding objects; copied measurements for copied information; information first, examination second; temporary custody with explicit return terms; refusal. He prefers retaining both but can accept a bounded exchange. No automatic surrender, forced oath, magical contract or allegiance. His threat is withheld information and departure, not a scripted breath weapon. Players can bargain, withdraw, distrust him or ask about the cult.
 
-## Leaving Greenest
+Answers to release through actual discussion:
+- The mill and Observatory share old draconic design principles. Same family does not mean every site has the same job.
+- This witness preserves a local stable reading. The plate addresses its local interface. Neither contains the cause of the wider wound.
+- The rescued bronze dragon's release changed something dragons could feel. This did not create the mill's prior physical fault.
+- Frulam's people want possession and northern transfer; the dragon has his own reasons. He can explain his own interest, not everyone's plans.
+- He cannot identify the ultimate rift cause, Pat-Benatar's ancestry or Floyd GoldSeeker's divine source. He need not know the unidentified departure omen.
 
-Nighthill can arrange ordinary food, water, blankets and a practical carrying sling as civic support; any coin reward needs Scott's decision. Escobert asks what repair/watch the town must continue after departure. Crews stay in Greenest unless asked and willing. Guard teams return to town duties; they are not a permanent adventuring army. Confirm Doss's continuing care, prisoners, and secured mill aperture.
+One supported connection, one limited answer, one new choice is enough. Avoid formal Concordance terms, Acererak, destiny speech or five new artifacts. If Pat-Benatar asks about her scale, “Older than the people who named it” is a partial inference from geometry, not a species/bloodline solution.
 
-A long rest happens only if players choose it and the conditions/time satisfy the table's rules. A dawn excavation does not itself grant rest to anyone who worked or stood watch. Do not force a no-rest departure. If departure is next morning, use A11 dawn version; if they leave at night, use its night version. Their northbound objective is finding the dragon and deciding what to do with both objects, not an automatic surrender.
+## Distinct forward leads
+Cult route: named Frulam + camp/prisoner/guarded-cave reference makes investigating captives or hatchery activity an optional next adventure. Leosin Erlanthar and dragon eggs are published candidates only until specifically introduced; no claim they were visible and missed in Session 17.
+Homebrew route: return with the copied reading to investigate/repair the damaged branch and arrange community custody. The witness does not cure the architecture.
+Dragon route: a bounded observation north can supply information without collecting another object or agreeing to serve him. Let the party choose which next objective is urgent.
 
-## Journey and dragon approach
+## Closing and durable record
+Read A18 after earned conversation or A14 if ending on the journey. Ask each player what they need next. Record actual operation outcome, casualties, captives, volunteers' status, spent resources, plate/witness custody, receiver care decision, permanent improvement, remaining scar, dragon promises and chosen route. Session 18 remains unplayed until the table reports it.
 
-Run one travel scene with a choice: main cart road offers clear tracks but observers; the foot route offers concealment but awkward hauling and slower progress. Keep supplies and injured characters relevant. No unrelated random fight needed. An old wheel rut, rubbed packing cloth and the three pale stones provide physical route confidence. Do not make the party solve the Wheel/Spade/Lantern puzzle again.
-
-At the split shelf show the scale of a waiting presence without rolling dragon initiative. A low voice asks, "Which of you decided to bring both?" Only use this after the party approaches with both objects visibly or credibly declared. If concealed, the speaker asks what they came to deliver. No automatic detection through bags.
-
-PROPOSED encounter is Lennithon, an independent dragon. Reveal name if he chooses to introduce himself or they ask; do not retrospectively confirm the flyover or departure omen as the same creature. Species/color depiction remains concealed in the approach artwork. There is no fair level-2 battle against a fully engaged adult dragon; stage conversation at a boundary with an open retreat route. Do not use him to punish the party for carrying the intended bargaining objects.
-
-He wants to inspect the witness and plate, prefers controlled exchange, and offers a limited true observation: the spindle preserves how the place behaved before a recent change. He asks where it was found and whether the damaged channel was repaired. He can refuse to answer a larger question, propose terms or reveal his own concern. He does not own the items merely because he wants them. If attacked, let the first observable response communicate scale and allow withdrawal; do not manufacture a required suicide fight.
-
-End option 1: first voice at the shelf, ready for Session 19 negotiation. End option 2 if time: one exchange, name earned, clear proposed terms, then end before handover. Ending read-aloud A13 must reflect actual custody and decisions. No obligatory bargain, friendship or dragon defeat.
-
-## Branches that keep the intended arc playable
-
-If the false light fails: town defenders retain most posts; Spade's arrival becomes the short main confrontation. If an observer escapes: warning reaches a specific recipient after time, not every enemy instantly. If Wheel withdraws: take the earned breathing room and inspect abandoned evidence only where actually left. If the enemy gets into the mill: compete over access, use worker safety or negotiate; retrieval can remain a contested scene. If opening takes until dawn: montage the safe work, account for watches and recovery, then reveal. If the party refuses the item: still give the earned route and let them choose a different mission. If the party cannot safely leave: end with the recoverable situation and revise, rather than pretending the requested arc occurred.
-
-## Closing record
-
-Actual front outcomes; observer/worker/prisoner status; guard injuries; precise signal used; Wheel/Spade awareness; mill damage/repair; object's observed appearance/function only; custody of plate and recovered object; whether supports remain safe; care promises; HP/resources/rests/advancement actually declared; northbound route and companions; any dragon name or statement actually heard. Keep testimony distinct from accepted fact. Save after play only on Scott's explicit request.
-
-## Packet use
-
-[Read-aloud pack](Session18_Read_Aloud_Pack.md) contains gated player narration. [Mental movie](Session18_Mental_Movie_40min.txt) is a roughly forty-minute possible DM rehearsal, not scripted player decisions. [Player handouts](Session18_Player_Handouts.md) are individual release gates. [Roll20 manifest](Session18_Roll20_Manifest.md) records page order and actual installation status. New art uses the actual repository face references. Keep this guide, the movie and hidden handouts GM-only.
+Sources: current campaign 01/02/03/05/07/09/11 and [Wizards official Hoard opening material](https://media.wizards.com/downloads/dnd/HoardDragonQueen_Encounters.pdf). Full diagnosis: [Session17_Postmortem.md](Session17_Postmortem.md).

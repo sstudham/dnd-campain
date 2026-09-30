@@ -1,9 +1,10 @@
 # Next Session Prep
 
-## Session 18 complete preparation packet — September 29, 2026
+## Session 18 rebuilt packet — September 30, 2026
 
-[Open the packet](output/session18/README.md): DM guide and PDF, 14 gated read-alouds, approximately 40-minute mental-movie rehearsal, player handouts, run sheet, three tactical maps and three scene illustrations. The session supports Scott's intended route: manage the attack, recover the mill contents, then head north with both objects to seek the dragon. Play resolves the outcomes. The proposed portable pressure-witness reveal, northern route and dragon dialogue remain preparation, not established canon. Preserve the Session 17 unresolved signal, plate custody, west-path purpose and resource state. Roll20 art installation is BLOCKED by Chrome's ChatGPT extension file-URL setting; an empty Session 18 folder was created, but no art has been installed. See the [installation manifest](output/session18/Session18_Roll20_Manifest.md).
+[The False Light and the Buried Memory](output/session18/README.md) supersedes the September 29 outline. [Session 17 postmortem](output/session18/Session17_Postmortem.md) separates planning/execution strengths, AI support failures and next-session adjustments. Rebuilt guide/PDF, gated read-alouds/PDF, four handouts/PDF, run sheet, 6,116-word approximately forty-minute mental rehearsal, three tactical maps and four scene illustrations are saved.
 
+Playable route: resolve the actual defense orders; earn evidence naming Frulam and the Cult of the Dragon; safely recover the mill pressure witness; arrange care and make a reversible local relief/strain decision; follow Runara's lead north to negotiate with an independent dragon. Approved DM background defines contents/motive, not played outcomes or automatic knowledge. All existing resource freshness and unresolved signal/custody/west-path/posture questions stand. No extra battles to erase successful coordination. Roll20 extension now works; [manifest](output/session18/Session18_Roll20_Manifest.md) records verified installation and reveal gates.
 
 ## Session 18 starting state — after Session 17, September 29, 2026
 

@@ -1,5 +1,14 @@
 # Items
 
+## Mill contents defined — approved DM canon September 30, 2026
+
+**Pressure witness:** forearm-long smoky crystal spindle, roughly ten pounds, three old bronze ribs and retaining clips, one still amber line. A removable reference component retaining this vault's last stable local pressure reading, not an egg, soul, weapon or second plate. Support, release clips, lift and pad for safe recovery. No HP, healing, spell, combat or general PC benefit.
+
+If the plate is actually brought close, a second offset amber line briefly compares the stored local reading with a present reading. It does not repair the existing physical break or open the sealed arch. Removing the witness leaves the damaged architecture in place. Adjacent shored masonry provides the prepared access, not a newly enormous machine.
+
+No retrieval, test or party custody has occurred yet. Merra's receiver retains all existing bounded effects below: genuine relief for three patients, no HP/slots, paired ten-minute strain, reversible bench isolation with ordinary care. This component does not replace or identify any earlier stone. Local receiver isolation can reduce one load; wider repair remains necessary.
+
+
 ## Control plate visual correction and Session 17 evidence — September 29, 2026
 
 Scott confirmed the plate's appearance from the Session 16 arch reference: dark charcoal stone with gold/brass draconic-looking inlay. It is not a solid brass plate. Preserve the established history and broken-channel test; earlier brass wording is shorthand for the markings.

@@ -38,3 +38,23 @@ only from retrieved owner feedback or an explicitly identified observed failure.
 - **Likely long-term direction:** a Spawn-managed D&D live-audio pipeline using current OpenAI realtime transcription rather than building around legacy Whisper-1.
 - **Acceptance idea:** During a real session, the assistant can accurately state the current scene and latest player decisions from live audio without Scott manually copying transcript chunks, while preserving the rule that transcript content is not automatically campaign canon.
 
+
+
+## DND-SYS-002 — Live support responsiveness and continuity
+
+- **Recorded:** September 30, 2026.
+- **Source:** Scott's September 29 Session 17 live chat, reviewed with read-only Tablekeeper test17; this Session 18 rebuild request.
+- **Observed problem:** Scott said checks were taking too long and blocking interaction; he asked for on-demand or ten-minute checks. Narration/art also needed corrections for overlook versus flyover, unvisited tents and the full name Pat-Benatar.
+- **Concrete example:** “you are thinking a long time every time you read tablekeeper and making it so I can't interact with you.”
+- **Expected behavior:** Prioritize the live question, read minimal new transcript, reply from latest confirmed scene, preserve full names, and avoid repeated unchanged alerts. Preloaded sources/links should shorten live lookup.
+- **Status:** open. Revised prep includes restart/continuity checks; no evidence yet of successful next-session responsiveness. Existing monitor is not restarted or redesigned by this save. Broader pipeline implementation is not authorized by recording feedback.
+
+## DND-SYS-003 — Tactical prep drifting from the story arc
+
+- **Recorded:** September 30, 2026.
+- **Source:** Scott's request: “I'm not seeing much of the RAW story or our homebrew story in session 17 or 18”; first Session 18 packet at 891ea1429d37dddb099c23e84a3b5aa40d1d9609.
+- **Observed problem:** Clue/transfer logistics dominated; the first follow-up outline had little earned faction identification or local One God consequence.
+- **Concrete example:** Signal resolution -> measuring-object recovery -> transfer marker, without a meaningful sanctuary decision or recognizable Cult antagonist at the table.
+- **Expected behavior:** Each prepared session should state its immediate human stakes, earned faction lead, homebrew consequence and connection to established character/story promises. Future player actions must remain conditional.
+- **Status:** open for table validation. Scott explicitly authorized this Session 18 story rebuild; the new packet implements named Cult evidence, bounded receiver/care choice and a dragon negotiation. This is not authorization for unrelated workflow architecture or new long-term antagonist canon.
+

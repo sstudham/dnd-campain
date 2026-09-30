@@ -1,13 +1,20 @@
-# Session 18 packet: The False Light
+# Session 18: The False Light and the Buried Memory
 
-Prepared from current campaign GitHub main and the saved Session 17 ending. Intended arc: manage Greenest's attack, recover the mill contents, and head north carrying the control plate and recovered object to seek the dragon. Future player choices and outcomes remain unplayed.
+Rebuilt September 30, 2026 after the [Session 17 postmortem](Session17_Postmortem.md). Supersedes the September 29 outline.
 
-Start with [quick run sheet](Session18_Run_Sheet.md), then [DM guide](Session18_DM_Guide.md) / [printable guide](Session18_DM_Guide.pdf). Use [read-aloud pack](Session18_Read_Aloud_Pack.md) / [PDF](Session18_Read_Aloud_Pack.pdf) by release gate. [Player handouts](Session18_Player_Handouts.md) / [PDF](Session18_Player_Handouts.pdf) release individually.
+Start with [quick run sheet](Session18_Run_Sheet.md), then [DM guide](Session18_DM_Guide.md) / [PDF](Session18_DM_Guide.pdf). [Gated read-alouds](Session18_Read_Aloud_Pack.md) / [PDF](Session18_Read_Aloud_Pack.pdf), [four handouts](Session18_Player_Handouts.md) / [PDF](Session18_Player_Handouts.pdf). A0 and A1 are alternate openings; choose one.
 
-[Forty-minute mental movie](Session18_Mental_Movie_40min.txt): private possible DM rehearsal, 6,076 words, approximately 40 minutes at 152 words/minute (about 42 at 145). It is text ready for narration, not a rendered video or generated audio file. No future player dialogue or success is canonical by being described here.
+Story: defend Greenest, expose a recognizable Cult of the Dragon opponent, recover the mill witness, make a local relief/care decision, then follow Runara's dragon lead north. All five PCs receive choices; actual Session 17 deployments and unresolved orders stand.
 
-[Roll20 manifest](Session18_Roll20_Manifest.md) records installation status, page order, grids and reveal gates. Original required face references were checked against current repository blob hashes before generation. Art is planning/display support; written facts control.
+[Forty-minute mental movie](Session18_Mental_Movie_40min.txt): 6,116 words, about 40 minutes at 153 words/minute. Private rehearsal, not mandatory table narration or future history. Clean narration text; audio status is recorded separately if successfully generated.
 
-Proposed mill reveal: a portable smoky-crystal pressure witness in bronze ribs retaining a local baseline; the plate stays a separate interface component. Proposed Lennithon interest: compare the old reading with changes farther north. Proposed split-shelf rendezvous supplies a destination without claiming the earlier flyover/departure omen has been identified. These are new preparation, not established world truth or completed retrieval. Replace this design if Scott supplies another object.
+Bounded approved DM background defines the pressure witness and Lennithon's independent comparison motive, not automatic party knowledge. Battle results, successful retrieval, receiver decision, dragon meeting and departure remain unplayed. Concordance/Acererak and optional Leosin/eggs remain unconfirmed.
 
-No D&D Beyond refresh has been performed; September 1 sheet freshness remains. Confirm table resources before balancing the split operation. No automatic rest, level-up, payment, casualty, title or item handover.
+[Art prompts](Art_Prompts.md) and [Roll20 manifest](Session18_Roll20_Manifest.md) record page settings, reveal gates and verified installation. Face references remain authoritative; art establishes no incidental facts. Sanctuary art is atmosphere: apparent stone size and decorative carvings do not replace the existing palm-sized receiver description.
+
+No D&D Beyond refresh was performed; September 1 stats/freshness stand. Confirm resources at opening. No automatic rest, level-up, payment, casualties or custody transfer.
+
+
+## Listening copy
+
+[Play the full DM rehearsal in Speechify](https://app.speechify.com/soundbite/367fc662fb2245dfa8b61cb53fda4654?utm_source=chatgpt_app&utm_medium=punchout). The service accepted the complete 36,137-character script. This is an external listening copy; no downloadable MP3 file was returned. The repository text remains the durable version.

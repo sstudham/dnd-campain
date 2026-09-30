@@ -1,5 +1,14 @@
 # Campaign Structure
 
+## Session 18 story alignment revision — September 30, 2026
+
+Current prep: [The False Light and the Buried Memory](output/session18/README.md). Preserve the Session 17 split, resolve the defense briskly, identify the Cult through earned evidence, recover the mill witness, make a local care/receiver decision, then follow Runara's dragon lead north. This combines the immediate defense, discovery and northern transition into Session 18 rather than extending transfer logistics across several sessions. Later repair/community/faction choices remain open.
+
+RAW functions remain recognizable: protect Greenest and its mill, learn through captives, expose cult operations and retain a camp/cave lead. Custom buried channels, receiver and dragon bargain remain explicitly adapted material. Do not retrofit published encounters, Leosin or eggs into past play. Local choices serve the homebrew story without revealing the ultimate cause or promoting Concordance/Acererak into canon.
+
+Floyd GoldSeeker leads through practical protection and teaching; all five PCs receive consequential choices. Ordinary care and competent repairs produce a bounded lasting good. Social play, agency, humane consequences and actual table outcomes control pacing. The 40-minute narration is private rehearsal. [Postmortem](output/session18/Session17_Postmortem.md).
+
+
 ## Approved Session 17 / next-session boundary — September 29, 2026
 
 Session 17 now offers four playable arcs: missed delivery revealing an imminent operation at Greenest; motivated investigation of the northern camp; evidence and the council-map puzzle; an evidence-led return to Greenest and player-directed orders. Camp infiltration is an option after the threat is discovered, not a required scene. Use [the current packet](output/session17/README.md). This supersedes older pacing that deferred the camp or ended at its overlook. Approximate running time is 2½–3 hours, expandable through player choices; finish council next time if necessary rather than cutting choices short.

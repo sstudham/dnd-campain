@@ -1,35 +1,27 @@
-# Session 18 quick run sheet
+# Session 18 quick run sheet — rebuilt September 30, 2026
 
-Intended finish: Greenest attack managed; mill object recovered; party carrying object and plate north toward dragon. Outcomes remain playable. Proposed reveal: pressure witness (see guide).
+Story: protect Greenest -> identify the Cult -> recover the old reading -> choose safe relief/care -> seek the dragon's answers. The battle, retrieval and departure remain playable.
 
-## First ten minutes
+## 0–10: Restart
+Read A0 OR A1, not both. Confirm current resources, equipped shields, plate carrier, carts, runner route/fallback, Severed Whisper's posture and Throk's west task. Ask Pat-Benatar's exact signal and intended enemy belief. Drums begin; no council replay.
 
-Read A1. Confirm HP/resources, shields, exact plate carrier, carts, runner route, fallback, Severed Whisper's posture and Throk's west-path task. Ask Pat-Benatar for the exact false signal. Do not replay council or camp.
+## 10–60: Operation
+Rotate four fronts every 3–5 real minutes with one choice each. Write Ridge / Wheel / Spade / Mill and runner arrivals. No flash or repeated flashes -> Spade holds/checks. Long flash plus believable north movement -> advances. Contradictory flash -> scout. Successful disruption can prevent combat; no compensating ambush.
+Existing hired raider: AC12 HP9 speed30 club+3 1d4+1. Ridge two; Wheel prepared four; Spade two escorts plus six laborers. Independent HP; no multiattack/boss. Guards contain; volunteers dig. Use actual individual guard sheet if precision needed.
 
-## Operation: 65 minutes
+## 60–75: Cult evidence / regroup
+Earn H1 through actual search/captive. Read A7 true result and A7B dispatch. Frulam Mondath + Cult of the Dragon now supported; cave stock remains ambiguous. Account for wounded, prisoners and team return. No automatic payment/title.
 
-Beat 1: drums/Wheel visible; two ridge observers hold shutter; mill bracing; west messenger if appropriate. Each player gets one meaningful choice.
+## 75–110: Mill
+Brace -> clear -> access -> recover. Good method works; uncertain rushed execution DC12, active attack DC14, declared time/bracing setback. Dawn montage allowed, no automatic rest. Arch stays shut; breach beside it, existing broken channel unchanged.
+A8–A10 gated. Pressure witness: ten pounds, smoky crystal/bronze ribs, three clips. Support, release, lift, wrap. Optional plate comparison shows stored vs present difference, no universal answer or PC buff.
 
-Beat 2: signal changes information. No light or repeated flashes -> Spade holds/checks. Long flash + convincing north movement -> Spade advances. Contradictory long flash -> scout. Good strategy can prevent combat.
+## 110–135: Relief and cost
+Sanctuary-facing pulse/grit invites actual investigation. A15 matched relief and strain. Merra sincere, Eadyan practical. Arrange ordinary care before a reversible receiver isolation; monitored continuation with support/watch is also possible. A16 only actual outcome. No sacrifice, conversion, forced death or required test to recover contents. Record limited improvement; wider fault remains.
 
-Beat 3: short local confrontations or earned containment; runners take time. Two ridge teams against two observers remain an advantage. Spade eight people proposed as two escorts plus six laborers. No surprise boss.
+## 135–170: North and dragon
+Earn H2 route; confirm carriers, care custodian, supplies, rest and prisoners. Three pale stones -> split basalt shelf. A11/A12 threshold; A17 first exchange. Lennithon name only through conversation; prior sightings still unidentified.
+Offer supervised inspection/copies/information first/refusal. One connection, one limited answer, one new choice. Keep Cult camp/cave lead distinct. No compulsory surrender/adult dragon combat.
 
-Existing hired-raider block: AC12, HP9, speed30, club +3, 1d4+1. No added multiattack. Guard teams contain/support; volunteers work. Use existing individual guards if exact combat attacks are needed.
-
-## Aftermath: 15 minutes
-
-Read A7 true result. Account for injuries, prisoners, watches, carts, Doss's care. No automatic town title/payment. Regroup through actual communication.
-
-## Mill: 45 minutes
-
-Progress: support -> clearance -> access -> recovery. Good method works; uncertain rush DC12, under attack DC14. Setback costs time or bracing; not the only clue. Dawn completion montage allowed; no assumed rest. Still-sealed arch, separate side aperture, existing broken channel unchanged.
-
-Read A8/A9/A10 only when earned. Proposed portable smoky crystal pressure witness, ten pounds, bronze ribs, three clips. Support, unclip, lift, wrap. Near plate optional offset amber line. No combat buff or complete rift answer.
-
-## North: 35 minutes
-
-Earn H1 directions from docket, messenger, Mara or tracks. Confirm custody, supplies, rest and town promises. Read A11 chosen time. Travel choice: road visibility vs slower concealed foot route. Three pale stones -> split shelf. Read A12/A13. Proposed Lennithon conversation; identity/name only earned. No forced surrender or adult-dragon fight.
-
-## Final ten minutes
-
-Stop at dragon voice or first actual terms. Record actual signal/outcomes, casualties, item custody, mill safety, rests/resources, route, names/statements learned. Full movie is rehearsal only. Do not promote planned successful events to history.
+## 170–180: Close
+A18 earned terms or A14 northbound ending. Record actual results, resources, custody, receiver plan, care/support, promises and next objective. If behind, cut extra fights/travel before player choices; dragon talk can wait.

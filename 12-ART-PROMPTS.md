@@ -1,9 +1,10 @@
 # Art Prompts
 
-## Session 18 preparation art — September 29, 2026
+## Session 18 art and installation — September 30, 2026
 
-Six new reviewed PNGs are in [output/session18](output/session18/README.md): signal ridge, north road, mill worksite, proposed mill discovery, northbound party, and dragon threshold. The latter three illustrate proposed scenes, not completed events. Character scenes use verified current required headshots. Full [prompts](output/session18/Art_Prompts.md) and [Roll20 page order/settings](output/session18/Session18_Roll20_Manifest.md) are saved. Roll20 upload remains blocked by Chrome's ChatGPT extension file-URL permission; no installed-art claim is made.
+Seven reviewed PNGs are in [the rebuilt packet](output/session18/README.md): three tactical maps, mill discovery, northbound party, shadowed dragon threshold and the new sanctuary relief/strain close-up. The Session 17 final deployment image supplies the opening. **Eight backgrounds installed and verified in TUG4.1**; the fixed extension resolved the earlier upload blocker. [Exact page/settings/reveal manifest](output/session18/Session18_Roll20_Manifest.md), [full prompts](output/session18/Art_Prompts.md).
 
+Character scenes retain the verified required headshots. Sanctuary art contains no PCs; its decorative carving and apparent stone size are atmosphere, not new receiver facts. Written canon and actual choices control. Future recovery, care decisions, custody, journey and dragon meeting remain unplayed. The party ribbon remains at the Session 17 ending. No sheet/resource refresh is claimed.
 
 ## Approved Session 17 art and page order — September 29, 2026
 
