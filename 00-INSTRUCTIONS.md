@@ -385,3 +385,8 @@ Do not use for:
 * If it is about long-term structure, put it in 11-CAMPAIGN-STRUCTURE.md.
 * If it is an image prompt or reusable visual direction, put it in 12-ART-PROMPTS.md.
 * If it changes how the repo should be used, put it in 00-INSTRUCTIONS.md.
+
+
+## DM guide delivery format
+
+Scott confirmed September 30, 2026: deliver DM guides as editable Word `.docx`, with one page per event. Each event page should include its read-aloud, DM direction, choices and release gates. Verify the rendered page layout. Do not deliver PDFs unless Scott explicitly requests them. Markdown may remain as a repository source, but it does not replace the requested Word guide.

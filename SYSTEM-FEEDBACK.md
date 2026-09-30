@@ -58,3 +58,12 @@ only from retrieved owner feedback or an explicitly identified observed failure.
 - **Expected behavior:** Each prepared session should state its immediate human stakes, earned faction lead, homebrew consequence and connection to established character/story promises. Future player actions must remain conditional.
 - **Status:** open for table validation. Scott explicitly authorized this Session 18 story rebuild; the new packet implements named Cult evidence, bounded receiver/care choice and a dragon negotiation. This is not authorization for unrelated workflow architecture or new long-term antagonist canon.
 
+
+## DND-SYS-004 — DM guide format
+
+- **Recorded:** September 30, 2026.
+- **Source:** Scott's Session 18 follow-up: “word doc with one page per event” and “I do not want PDFs.”
+- **Observed problem:** The Session 18 rebuild delivered Markdown and PDF instead of the requested Word event guide.
+- **Concrete example:** The packet index at 4e6cf0fd2c1c4dc837802a8f59606f9e60dcd321 linked a DM guide PDF and had no DM guide DOCX.
+- **Expected behavior:** Editable Word DM guide, one page per event, with narration and practical DM notes on the same page; no PDF delivery unless requested.
+- **Status:** corrected September 30 under Scott's explicit format request. Session18_DM_Guide.docx was rendered in Microsoft Word and all twelve event pages visually inspected; twelve pages, one event per page. The repository format rule and current packet index were updated. This entry is assistance feedback, not campaign history.

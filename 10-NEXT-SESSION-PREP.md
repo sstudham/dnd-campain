@@ -1,5 +1,7 @@
 # Next Session Prep
 
+Current table copy: [Session 18 Word DM guide](output/session18/Session18_DM_Guide.docx), twelve pages with one event per page, including gated narration and DM notes. Deliver Word guides, not PDFs, unless Scott explicitly asks.
+
 ## Session 18 rebuilt packet — September 30, 2026
 
 [The False Light and the Buried Memory](output/session18/README.md) supersedes the September 29 outline. [Session 17 postmortem](output/session18/Session17_Postmortem.md) separates planning/execution strengths, AI support failures and next-session adjustments. Rebuilt guide/PDF, gated read-alouds/PDF, four handouts/PDF, run sheet, 6,116-word approximately forty-minute mental rehearsal, three tactical maps and four scene illustrations are saved.

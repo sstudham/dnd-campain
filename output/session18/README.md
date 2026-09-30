@@ -2,7 +2,7 @@
 
 Rebuilt September 30, 2026 after the [Session 17 postmortem](Session17_Postmortem.md). Supersedes the September 29 outline.
 
-Start with [quick run sheet](Session18_Run_Sheet.md), then [DM guide](Session18_DM_Guide.md) / [PDF](Session18_DM_Guide.pdf). [Gated read-alouds](Session18_Read_Aloud_Pack.md) / [PDF](Session18_Read_Aloud_Pack.pdf), [four handouts](Session18_Player_Handouts.md) / [PDF](Session18_Player_Handouts.pdf). A0 and A1 are alternate openings; choose one.
+Start with the editable [Word DM guide](Session18_DM_Guide.docx): twelve pages, one event per page, with gated read-aloud and DM direction together. Use the [quick run sheet](Session18_Run_Sheet.md), [full gated read-alouds](Session18_Read_Aloud_Pack.md) and [four handouts](Session18_Player_Handouts.md) as companions. A0 and A1 are alternate openings; choose one. [Markdown guide source](Session18_DM_Guide.md) retains the expanded reference material. Word is the primary guide delivery format; PDF copies from the earlier build are historical outputs.
 
 Story: defend Greenest, expose a recognizable Cult of the Dragon opponent, recover the mill witness, make a local relief/care decision, then follow Runara's dragon lead north. All five PCs receive choices; actual Session 17 deployments and unresolved orders stand.
 
