@@ -322,3 +322,8 @@ Severed Whisper explicitly reported holding the plate at camp; exact final carri
 * The party departed Stormwreck Isle under a distant unidentified draconic omen.
 
 ## Follow-Up Notes
+
+
+### Session 17 approved visual and narration record
+
+Scott confirmed these saved assets as approved campaign canon references after Session 17: [all five live-session images](output/session17/README.md#session-17-live-session-images-and-closing-narration--september-29-2026), especially the [final deployment image](output/session17/Session17-Closing-Deployment.png), and the [exact closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt). They preserve the established scenes and closing assignments. Written session facts and recorded uncertainties control incidental visual details. The battle, successful mill retrieval and northward departure remain next-session plans.

@@ -49,3 +49,5 @@ All five images generated in the live-session chat are preserved here as origina
 * [Closing deployment — next-session restart image](Session17-Closing-Deployment.png)
 
 [Exact final closing read-aloud](Session17_Closing_Read_Aloud.txt) accompanies the closing deployment image. It ends before battle resolution or a successful mill opening. For the next session, see [restart prep](../../10-NEXT-SESSION-PREP.md). Scott's intended next beats are to run the battle, attempt to retrieve the mill contents, and head north; success, contents and departure remain unplayed.
+
+Scott confirmed the five saved live-session images and exact final read-aloud as approved campaign canon references. Their established scenes and closing assignments are canonical; incidental visual details yield to the written record, and next-session outcomes remain unplayed.

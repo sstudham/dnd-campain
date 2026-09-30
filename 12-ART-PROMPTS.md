@@ -434,3 +434,5 @@ Original PNGs generated during play using the actual required face references: F
 * [Closing deployment — next-session restart image](output/session17/Session17-Closing-Deployment.png)
 
 The closing deployment image preserves the end-session split: Floyd GoldSeeker and Brother Kai with both work crews at the mill; Pat-Benatar with two guard teams toward the signal ridge; Throk with the third team on the west path; Severed Whisper alone on the north road. It depicts setup, not a resolved battle or recovered mill contents. Reuse with the [exact closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt); confirm opening posture and other unresolved choices from next-session prep.
+
+Scott subsequently confirmed all five images and the exact closing narration as approved campaign canon references for the recorded scenes and ending deployment. Existing factual limits and unresolved outcomes above still apply.

@@ -4,6 +4,8 @@
 
 Session 17 is now the latest completed session. The party rescued Doss at the Chalk Cut, investigated the northern camp, acquired the three operation clues and survey map, witnessed an unidentified northbound dragon flyover, retained the plate without payment, returned Doss to Greenest care and earned a council planning role by presenting evidence. The coordinated operation is understood; its outcome is **not played**. Full actual-play record and uncertainties: [09-SESSION-LOG.md](09-SESSION-LOG.md).
 
+Scott confirmed these saved assets as approved campaign canon references after Session 17: [all five live-session images](output/session17/README.md#session-17-live-session-images-and-closing-narration--september-29-2026), especially the [final deployment image](output/session17/Session17-Closing-Deployment.png), and the [exact closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt). They preserve the established scenes and closing assignments. Written session facts and recorded uncertainties control incidental visual details. The battle, successful mill retrieval and northward departure remain next-session plans.
+
 ### Confirmed ending assignments
 * Floyd GoldSeeker and Brother Kai: both volunteer work crews at the mill, digging toward the hidden contents; excavation/opening has not succeeded yet.
 * Pat-Benatar: **two guard teams** at signal ridge, intending to kill the two signalers and replace the expected long flash with a false signal. Repeated/panic flashes were proposed; closing banter also proposed no light. The intended disruption is the main bet; precise signal and enemy response remain unresolved.
