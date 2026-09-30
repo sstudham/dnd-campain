@@ -1,5 +1,15 @@
 # Player Characters and Party Reference
 
+## Session 17 actual status — September 29, 2026
+
+Names in new notes/read-alouds use Pat-Benatar. No advancement or fresh D&D Beyond values established; earlier sheet data remains historical.
+* Severed Whisper explicitly held the control plate at camp and pocketed the survey map. Plate's exact deployment carrier/location needs confirmation; no handover/payment completed.
+* Healing Word was cast on rescued Doss; caster and HP amount uncertain. A short rest was initiated; exact HP/hit-dice/slot/feature recovery is not confirmed.
+* Two shields were taken at the wagon yard; individual recipients/equipping uncertain.
+* Ending duties: Floyd GoldSeeker and Brother Kai with both work crews at mill; Pat-Benatar with two guard teams at signal ridge; Throk with third guard team west; Severed Whisper north road solo (tree concealment versus cocky visible posture needs confirmation). Operation outcomes unplayed.
+* Full actual play: [09-SESSION-LOG.md](09-SESSION-LOG.md). Preserve existing stats and freshness labels; no sheet refresh performed for this text save.
+
+
 Last successful D&D Beyond sheet refresh: September 1, 2026. **These resource values are historical, not verified current values.**
 
 September 9 update: Scott confirmed five PCs remain level 2 for the three-hour Session 16, including its close. A required sheet refresh was attempted, but no D&D Beyond MCP is exposed and the configured helper directory `C:\Users\studh\dndbeyond-mcp-main` is absent on this host. No fresh sheet values were obtained; preserve existing mechanics and table-canon mismatches. Confirm current HP, conditions, slots, limited-use features and supplies with players before play. TUG4.1's five new party portraits are generic DM-controlled staging tokens with no sheet links or resource bars; they do not replace actual character records.

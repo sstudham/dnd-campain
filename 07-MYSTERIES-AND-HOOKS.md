@@ -1,5 +1,17 @@
 # Mysteries and Hooks
 
+## Session 17 discovered evidence and remaining questions — September 29, 2026
+
+Party acquired Wheel, Spade and Lantern evidence and survey map, understood diversion/routes/conditional signal, and presented them to Greenest council. An unidentified dragon flew north over camp. F.M., L., final recipient, dragon identity/motives and sealed contents remain unresolved; no identity was confirmed.
+
+Needs Resolution:
+* Worker hearsay said the original crew forgot to open the arch; established DM background says the damaged lock defeated them. Preserve unreliable testimony and background distinctly.
+* Doss Fen was called Ross/Roz/Voss and varied pronouns at table; no formal rename established.
+* Live council occurred at harvest temple; relationship to earlier town hall/library labels remains unclarified.
+* Severed Whisper's tree concealment versus closing cocky north-road posture, precise false signal (repeated panic flashes versus no light), plate deployment custody and resource recovery require confirmation.
+* Chosen deployments are in [09-SESSION-LOG.md](09-SESSION-LOG.md); outcomes have not happened.
+
+
 ## Session 17 approved clue plan — September 29, 2026
 
 The [expanded guide](output/session17/Session17_DM_Guide.md) supersedes the earlier short-session path. Wheel's empty wagons and drums bait defenders north; Lantern observes and flashes only when defenders move; Spade approaches the mill service lane on foot on that signal, then breaks/excavates through masonry beside the sealed arch to recover whatever lies beyond. Spade does not need the plate and does not aim to destroy the mill or mechanism. If defenders do not move, the written instruction is to hold/send a runner. This is discoverable enemy planning, not a guaranteed attack or outcome. All three papers plus the map make the puzzle solvable without a mandatory roll.

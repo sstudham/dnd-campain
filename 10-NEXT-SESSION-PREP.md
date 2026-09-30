@@ -1,5 +1,22 @@
 # Next Session Prep
 
+## Session 18 starting state — after Session 17, September 29, 2026
+
+Resume the operation at the first unresolved action as dusk approaches. Session 17 ended after council orders/deployment narration, not after combat. Use the actual log in [09-SESSION-LOG.md](09-SESSION-LOG.md); older Session 17 packets below remain historical unused/partly played prep.
+
+* Floyd GoldSeeker and Brother Kai: both volunteer work crews at the mill, digging toward the hidden contents; excavation/opening has not succeeded yet.
+* Pat-Benatar: **two guard teams** at signal ridge, intending to kill the two signalers and replace the expected long flash with a false signal. Repeated/panic flashes were proposed; closing banter also proposed no light. The intended disruption is the main bet; precise signal and enemy response remain unresolved.
+* Throk: the third guard team on the west path. His position is chosen; its precise tactical purpose was not explained.
+* Severed Whisper: north road alone. Scott described him as cocky; Erik also said he would initially hide high in a tree, assess the wagons, then potentially drop to the bridge. Preserve both; clarify his opening posture next session.
+* Runners connect the separated groups. Two transport carts are available, but their assignment, fallback orders and exact plate location at deployment were not finalized.
+
+Confirm opening concealment, plate carrier, precise false-signal plan, runner routes, retreat triggers and cart tasks before resolving action. Pat-Benatar has two **teams**, not two individuals. Volunteers are laborers, not soldiers. Both crews may need until next morning for the excavation; do not grant an offscreen breach. The sealed arch and unknown contents remain unresolved. Doss is with sanctuary caregivers; no full cure assumed.
+
+Honor the enemy's written conditional signal: drums alone do not release Spade; defender movement north followed by one long flash does. Assess any false/no signal based on what enemies actually observe. Play ridge confrontation, west watch, north-road encounter and mill work without pre-deciding casualties or victory. The final table agreed battle roleplay happens next time.
+
+Resource check: short rest was initiated but individual recovery is unverified; Healing Word on Doss spent a casting resource of uncertain attribution/amount; two shields acquired with holders uncertain. No long rest, level-up or 40 gp payment. Preserve September 1 mechanical freshness labels and confirm table sheets.
+
+
 ## Session 17 rebuilt packet — September 29, 2026
 
 Use the [current DM guide](output/session17/Session17_DM_Guide.md), [Word](output/session17/Session17_DM_Guide_Revised.docx), [PDF](output/session17/Session17_DM_Guide_Revised.pdf), [player clues](output/session17/Session17_Player_Clues.pdf), [opening](output/session17/Session17_Opening_Read_Aloud.txt), [private read-aloud pack](output/session17/Session17_Read_Aloud_Pack.txt) and [mental rehearsal](output/session17/Session17_Mental_Movie_ElevenLabs.txt). The guide contains the exact clue text used for the generated cards. The packet replaces the earlier contradictory Session 17 short-session variants; Session 16 actual-play history is unchanged.

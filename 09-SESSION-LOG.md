@@ -266,6 +266,39 @@ Status: Played and completed. Act 1, Scene 3 underway. Canon save requested Sept
 * Five PCs remain level 2; no advancement was awarded. Floyd's Healing Word and Sev's Feline Agility use are reported, but current HP, slots, feature recovery, elapsed time, hallucination duration and any rests are unverified. Do not silently grant a rest or clear conditions.
 * Generated sanctuary, library/Fireball and Boots tavern illustrations support the session. Boots's animated depiction represents the hallucination. Map labels, background props, dialogue jokes and unreported actions in the pictures do not independently create canon.
 
+## Session 17 — September 29, 2026: Chalk Cut, camp evidence and Greenest orders
+
+Source: Scott's explicit canon-save instruction, his corrections in this live chat, and read-only Tablekeeper session `test17` (`4df3a5095fe14af7b697e92340475257`). Pre-session social chatter is excluded. Transcript is imperfect; canonical names follow repository rules, including **Pat-Benatar**. The closing narration ends before battle; the table explicitly agreed the operation will be played next time.
+
+### Actual play
+* At dawn the party met Mara Venn, pinned worker Doss Fen and a hired guard at the Chalk Cut. Floyd GoldSeeker identified leverage/bracing and coordinated the rescue. Doss was pulled free with an injured, bleeding leg; Healing Word was cast. Caster/HP total were not reliably attributed. Severed Whisper took an overlook. No prior long rest was granted.
+* Mara's apparent indifference was explicitly corrected by the DM: she cares about Doss. Doss's pronouns varied, and later table names included Ross/Roz/Voss; these are unresolved table variants, not a silent canonical rename.
+* The party read the 40 gp payment slip, F.M., transfer north and Hold for L. Mara knew courier/payment instructions, not the final buyer. They examined the inert removed plate and its draconic-looking channels; the DM said meaningful use relates to the mill apparatus and their examination did not establish how to operate it.
+* A collapse-site investigation with Floyd GoldSeeker's help (14) found nothing further. The road dispatch was read: tools due at northern camp by midday, failed old-arch opening, Greenest work at dusk, separate northward plate delivery, survey-desk approach/signal orders. Picks/pickaxes, rope and braces were identified in the mule cart.
+* After bargaining and threats, the party accompanied Mara, Doss, the tools and plate north. No 40 gp payment or plate handover completed. Mara introduced them at camp and openly said they had the plate; entrance personnel admitted them. The DM placed arrival around 10 a.m.
+* At the wagon yard they saw empty wagons, straw sacks, drums and shields. Two shields were taken according to the DM's later count; a trade for horse-hobbling instructions was discussed/accepted, but exact recipients and equipment use were not reliably attributed.
+* Doss still needed medical attention. In the workers' quarters the survey assistant said they were a Greenest native and opposed harm to local friends. A claimed raider cover (Deception 12) was challenged. Practical concern about stopping the raid earned the Spade paper.
+* All three clue texts were acquired/read during play: Wheel's two straw-loaded wagons, six shields (two subsequently taken), two drums and absence of siege/occupation supplies; Spade's eight people, foot-only water route and braced masonry breach beside the sealed arch without waiting for the plate; Lantern's two observers and conditional one-long-flash release only when defenders move north. Otherwise hold/send a runner.
+* A short rest was initiated in workers' quarters. Some interface rest/reset actions occurred; no complete character-by-character HP, hit-dice or feature/slot recovery was recorded. Do not assume a full refill. Severed Whisper and Pat-Benatar discussed walking during others' rest.
+* Severed Whisper explored the survey/records tent; the others examined signal/stores. A dragon flew over camp and continued north without landing or speaking. Identity was not revealed. Plate vibration was not reported. During the distraction Severed Whisper pocketed the regional survey map; the party viewed the shared map and Scott provided/requested its private annotated version for Severed Whisper.
+* A guard offered 40 gp for the plate; the party refused. A disputed Deception 8 was followed by an honest Persuasion 26; the guard accepted their visitor explanation and suggested returning tomorrow. No camp combat was reported.
+* The party identified Wheel as the visible north-road diversion, Lantern on signal ridge, and Spade on the foot approach to the mill. They chose to return to Greenest with evidence and Doss. Mara remained to continue north and entrusted Doss's care to them.
+* Back in Greenest midafternoon, Floyd GoldSeeker and Throk delivered Doss to sanctuary/infirmary sisters, who accepted care. They warned of possible casualties that night. A permanent cure was not narrated.
+* Brother Kai, Pat-Benatar and Severed Whisper gained an audience with Nighthill (entrance Persuasion 12), presented dispatch/orders/map and explained the threat at dusk. Escobert checked routes, diversion and trigger; the council invited their defense recommendations. Live dialogue located this council at the harvest temple; do not silently rewrite the earlier town hall/library geography.
+* Available reassignable forces were confirmed: three small guard teams, two volunteer work crews, one transport team with two carts and runners. Existing sanctuary/temple care and baseline guards remain. Bridge burning was discussed and rejected; no bridge was destroyed.
+
+### Chosen ending orders — outcomes unplayed
+* Floyd GoldSeeker and Brother Kai: both volunteer work crews at the mill, digging toward the hidden contents; excavation/opening has not succeeded yet.
+* Pat-Benatar: **two guard teams** at signal ridge, intending to kill the two signalers and replace the expected long flash with a false signal. Repeated/panic flashes were proposed; closing banter also proposed no light. The intended disruption is the main bet; precise signal and enemy response remain unresolved.
+* Throk: the third guard team on the west path. His position is chosen; its precise tactical purpose was not explained.
+* Severed Whisper: north road alone. Scott described him as cocky; Erik also said he would initially hide high in a tree, assess the wagons, then potentially drop to the bridge. Preserve both; clarify his opening posture next session.
+* Runners connect the separated groups. Two transport carts are available, but their assignment, fallback orders and exact plate location at deployment were not finalized.
+
+The closing narration staged the separated positions as dusk approached. No enemy signalers killed, false signal sent, wagons stopped, vault breached, hidden contents discovered or operation victory/failure was resolved. The DM warned even both work crews might not complete excavation before next morning. Plans to dig early do not establish success.
+
+### Evidence uncertainty / resources
+Severed Whisper explicitly reported holding the plate at camp; exact final carrier/location needs confirmation. No level-up, long rest, potion use or payment was confirmed. Existing sheet freshness labels remain unchanged. Worker hearsay claimed the first raiders forgot to open the door and that a dragon wants the plate/contents; retain as unreliable testimony, distinct from established failed damaged-lock background. No dragon identity or final buyer was learned.
+
 ## Important Moments
 
 * Throk joined Shorn's caravan after fighting beside them on the Blackford Road.

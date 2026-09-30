@@ -1,5 +1,19 @@
 # Current Canon
 
+## Session 17 completed — September 29, 2026
+
+Session 17 is now the latest completed session. The party rescued Doss at the Chalk Cut, investigated the northern camp, acquired the three operation clues and survey map, witnessed an unidentified northbound dragon flyover, retained the plate without payment, returned Doss to Greenest care and earned a council planning role by presenting evidence. The coordinated operation is understood; its outcome is **not played**. Full actual-play record and uncertainties: [09-SESSION-LOG.md](09-SESSION-LOG.md).
+
+### Confirmed ending assignments
+* Floyd GoldSeeker and Brother Kai: both volunteer work crews at the mill, digging toward the hidden contents; excavation/opening has not succeeded yet.
+* Pat-Benatar: **two guard teams** at signal ridge, intending to kill the two signalers and replace the expected long flash with a false signal. Repeated/panic flashes were proposed; closing banter also proposed no light. The intended disruption is the main bet; precise signal and enemy response remain unresolved.
+* Throk: the third guard team on the west path. His position is chosen; its precise tactical purpose was not explained.
+* Severed Whisper: north road alone. Scott described him as cocky; Erik also said he would initially hide high in a tree, assess the wagons, then potentially drop to the bridge. Preserve both; clarify his opening posture next session.
+* Runners connect the separated groups. Two transport carts are available, but their assignment, fallback orders and exact plate location at deployment were not finalized.
+
+The older Session 17 preparation below is preserved as historical prep; actual play above and the session log supersede its “last completed session”/unknown-choice status. No hidden contents or battle outcome is established.
+
+
 ## Session 17 preparation saved — September 29, 2026
 
 Session 16 remains the last completed session. The approved four-arc Session 17 packet is saved in [10-NEXT-SESSION-PREP.md](10-NEXT-SESSION-PREP.md) and [output/session17](output/session17/README.md). Prepared NPCs, evidence, council resources and the cinematic rehearsal are not events that have happened. Actual player choices and outcomes remain unknown.
