@@ -389,4 +389,8 @@ Do not use for:
 
 ## DM guide delivery format
 
-Scott confirmed September 30, 2026: deliver DM guides as editable Word `.docx`, with one page per event. Each event page should include its read-aloud, DM direction, choices and release gates. Verify the rendered page layout. Do not deliver PDFs unless Scott explicitly requests them. Markdown may remain as a repository source, but it does not replace the requested Word guide.
+Scott confirmed September 30, 2026: deliver DM guides as editable Word `.docx`, with one page per event. Each event page should include its read-aloud, DM direction, choices and release gates. Verify the rendered page layout. Never deliver PDFs unless PDF is the only available option. Scott needs to edit deliverables. Prefer editable formats such as Word `.docx`; when PDF truly is the only option, explain why an editable version cannot be provided. Markdown may remain as a repository source, but it does not replace the requested Word guide.
+
+## Editable deliverables
+
+Scott's rule, September 30, 2026: never give him PDFs unless PDF is the only option, because he cannot edit them. This applies to all campaign deliverables, not only DM guides. Use an appropriate editable format whenever available. Internal PDF rendering for layout checks is allowed; those intermediates are not delivered.

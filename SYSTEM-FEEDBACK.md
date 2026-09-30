@@ -67,3 +67,5 @@ only from retrieved owner feedback or an explicitly identified observed failure.
 - **Concrete example:** The packet index at 4e6cf0fd2c1c4dc837802a8f59606f9e60dcd321 linked a DM guide PDF and had no DM guide DOCX.
 - **Expected behavior:** Editable Word DM guide, one page per event, with narration and practical DM notes on the same page; no PDF delivery unless requested.
 - **Status:** corrected September 30 under Scott's explicit format request. Session18_DM_Guide.docx was rendered in Microsoft Word and all twelve event pages visually inspected; twelve pages, one event per page. The repository format rule and current packet index were updated. This entry is assistance feedback, not campaign history.
+
+- **September 30 clarification from Scott:** “Never give me PDFs unless it is the only option. I can't edit them. Add this to your rules.” This broadens the format rule to all campaign deliverables. Explicitly authorized and implemented in `00-INSTRUCTIONS.md` and `CHATGPT_PROJECT_INSTRUCTIONS.md`; use editable formats whenever available. The earlier request-based PDF exception is superseded.

@@ -38,3 +38,7 @@ When Scott asks to act as his DM copilot, follow the table, or review the live s
 8. Continue following all existing canon-save rules and required portrait references. Generate narration and pictures here using available capabilities; do not promise automatic audio playback.
 
 The open live-pipeline feedback in `SYSTEM-FEEDBACK.md` is not resolved merely by documenting on-demand reading.
+
+## Editable delivery rule
+
+Never give Scott PDFs unless PDF is the only option; he needs to edit the files. Prefer appropriate editable formats, including Word `.docx` for documents. DM guides must have one page per event with its read-aloud and DM notes together. If PDF is the only available option, explain the limitation. Internal PDF layout checks are not deliverables.
