@@ -1,5 +1,10 @@
 # Art Prompts
 
+## Session 18 preparation art — September 29, 2026
+
+Six new reviewed PNGs are in [output/session18](output/session18/README.md): signal ridge, north road, mill worksite, proposed mill discovery, northbound party, and dragon threshold. The latter three illustrate proposed scenes, not completed events. Character scenes use verified current required headshots. Full [prompts](output/session18/Art_Prompts.md) and [Roll20 page order/settings](output/session18/Session18_Roll20_Manifest.md) are saved. Roll20 upload remains blocked by Chrome's ChatGPT extension file-URL permission; no installed-art claim is made.
+
+
 ## Approved Session 17 art and page order — September 29, 2026
 
 This supersedes the earlier short-session art order and schematic maps. Use these final assets:

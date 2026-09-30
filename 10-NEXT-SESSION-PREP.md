@@ -1,5 +1,10 @@
 # Next Session Prep
 
+## Session 18 complete preparation packet — September 29, 2026
+
+[Open the packet](output/session18/README.md): DM guide and PDF, 14 gated read-alouds, approximately 40-minute mental-movie rehearsal, player handouts, run sheet, three tactical maps and three scene illustrations. The session supports Scott's intended route: manage the attack, recover the mill contents, then head north with both objects to seek the dragon. Play resolves the outcomes. The proposed portable pressure-witness reveal, northern route and dragon dialogue remain preparation, not established canon. Preserve the Session 17 unresolved signal, plate custody, west-path purpose and resource state. Roll20 art installation is BLOCKED by Chrome's ChatGPT extension file-URL setting; an empty Session 18 folder was created, but no art has been installed. See the [installation manifest](output/session18/Session18_Roll20_Manifest.md).
+
+
 ## Session 18 starting state — after Session 17, September 29, 2026
 
 Restart assets: [final deployment image](output/session17/Session17-Closing-Deployment.png) and [exact Session 17 closing read-aloud](output/session17/Session17_Closing_Read_Aloud.txt). [All five live-session images](output/session17/README.md#session-17-live-session-images-and-closing-narration--september-29-2026) are saved in the packet. Scott's intended next-session beats: run the battle, attempt to retrieve whatever is hidden at the mill, then head north. These are plans; the contents, successful retrieval, battle outcome and departure are not established.
