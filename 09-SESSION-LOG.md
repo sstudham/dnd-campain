@@ -63,9 +63,12 @@ Sev does not like people touching his mini.
 ### Session 10 - Dragon's Rest and Seagrow Caves
 
 The party met the kobolds, Tarak, and Runara at Dragon's Rest.
+Myla borrowed Throk's axe, mistaking it for a sword. Severed Whisper found Tarak farther uphill and brought him to the wounded party.
+The party later traveled to Seagrow Caves by canoe.
 Tarak healed and stabilized the wounded party after the dock fight.
 Runara noticed Pat Benatar's special scale and Brother Kai's discipline and dragonborn nature.
 Tarak sent the party to recover medicinal fungus from Seagrow Caves.
+The party later traveled to Seagrow Caves by canoe.
 The party encountered myconids and learned that the caves were affected by a deeper blight.
 Brother Kai's dragon claws awakened while meditating before the elder mushrooms.
 The party fought fume drakes in the crystal cave.
@@ -80,7 +83,7 @@ The session ended in the crystal cave with the orange fire crystal still blockin
 The party removed the orange fire crystal from the cave's vent.
 Throk's Level 2 patron awakening occurred during the resulting crystal, fire, and fume burst.
 An ancestral orcish presence told him: "Strength is not rage. Strength is choosing what happens after the blow lands."
-Ghostly ancestral orc shields protected the party.
+Ghostly ancestral orc shields protected the party; the reported mechanical effect was resistance to the crystal/fire burst. Throk led the rope pull that dislodged the crystal, and Floyd GoldSeeker was knocked down by the blast.
 The party killed a fire snake and the cave began to heal.
 The elder mushrooms healed Floyd and gave the party the medicinal fungus.
 The party returned to Dragon's Rest and received further clues from Runara.
@@ -123,6 +126,7 @@ The party examined the golden astronomical sculpture and five dragon effigies.
 The blue energy was trying to dominate the others.
 Floyd realized Sparkrender was trying to mine the power of dead dragons.
 Floyd experienced his Level 2 awakening and heard: "You were not the only one buried. Dig."
+He heard many pickaxes in rhythm, sensed the memory or presence of his fallen crew, and saw his holy symbol burn with golden light; his warhammer felt like his old pickaxe. During the stirge fight, a stirge attached to his neck, but he continued swinging his warhammer.
 The party learned another dragon was trapped beneath or inside the Observatory tower.
 
 ### Session 14 - Minn, D4, and Sparkrender's Death

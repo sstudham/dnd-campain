@@ -98,6 +98,10 @@ If the party visits the camp, the planned dragon flyover occurs there, continues
 
 ## Needs Resolution
 
+### Historical Seagrow chronology - recovered October 1, 2026
+
+Scott's saved Session 10 update places Brother Kai's claw awakening during meditation before the elder mushrooms. His Session 11 update later describes meeting the elder mushrooms "for the first time." Preserve the established Session 10 awakening and Session 11 healing; clarify whether the later wording meant first proper conversation or is a recap error. Do not silently move the awakening or invent a second group of elders.
+
 ### September 29 clarifications and open questions
 
 * Scott recalls that Brother Kai may have threatened the mayor/governor’s housekeeper. The saved Session 16 record does not establish it. Needs Scott’s confirmation before adding it to history or using it as a definite grievance. The confirmed tavern-guide threats can affect credibility when credibly reported.
