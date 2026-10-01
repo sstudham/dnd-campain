@@ -9,8 +9,43 @@ These two created campaign images were retained in the PC2 working folder but we
 | 15 | [Opening Rift Climax - historical draft](output/session15/Session15-Opening-Rift-Climax-Historical-Draft.png): five PCs around fallen Sparkrender and the Observatory star-map/rift reaction | Original `Session 15 Opening Rift Climax.png`; SHA-256 `9B1D7466FA51813514EDA2CFB5031A15B768BD2DDE8A3DB1F6209B02D253EAF9`. Superseded for use by `Session 15 Opening Rift Climax FINAL.png`, which corrects Throk's face. |
 | 15 | [D5 Puzzle Rift Climax - historical draft](output/session15/Session15-D5-Puzzle-Rift-Climax-Historical-Draft.png): party acting around four scholar figures and a false-brother apparition | Original `Session 15 D5 Puzzle Rift Climax.png`; SHA-256 `EBA4F02293B1009750986188003A8B4C167F0B9AFDEF393629FB75AC7BC3CB1F`. Superseded for use by `Session 15 D5 Puzzle Rift Climax FINAL.png`, which corrects Throk's face. |
 
-Written actual-play records control; illustrated proposals and incidental details do not become canon. Twenty-eight local run-sheet page previews are document-render intermediates, not separately recovered campaign artwork. Existing portrait copies match the tracked public references and are not duplicated here. This recovery covers known PC2 local sources only; additional cloud/Library/device sources are reviewed separately.
+Written actual-play records control; illustrated proposals and incidental details do not become canon. Twenty-eight local run-sheet page previews are archived below as historical document derivatives; they are not standalone artwork or new canon. Existing portrait copies match the tracked public references and are not duplicated here. This recovery covers known PC2 local sources only; additional cloud/Library/device sources are reviewed separately.
 
+
+## Archived Session 15 document previews - October 1, 2026
+
+Twenty-eight historical run-sheet page previews are preserved as 20 unique document derivatives. Eight exact byte duplicates reference the same archived images. These are historical editing stages, not standalone artwork or played canon; final/QA source labels do not establish current authority. Current written canon and approved final packets control.
+
+| Historical source group/page | Archived preview | SHA-256 |
+|---|---|---|
+| tmp/session15-click-after/page-1.png | [preview](output/session15/historical-document-previews/session15-click-after-page-1.png) | `A247C7E97CB16A60F47CF7E7942DBB5581EABDDB40C1BBBA2135746B8EF857FA` |
+| tmp/session15-click-after/page-2.png | [preview](output/session15/historical-document-previews/session15-click-after-page-2.png) | `748440184A4428E2561C55B73F93EE4904B70F4E5B577D2F5332F7FC0CFCF843` |
+| tmp/session15-click-after/page-3.png | [preview](output/session15/historical-document-previews/session15-click-after-page-3.png) | `AC6E70CA8A92B68ACE925EE93A1CA225EFCB506B09EB181CC66EA8AECBFAD3B0` |
+| tmp/session15-click-after/page-4.png | [preview](output/session15/historical-document-previews/session15-click-after-page-4.png) | `8A6CB15207C6D5791B36BF1FF9A0671FA82FF3EC260B768384C7CB7344BFE653` |
+| tmp/session15-click-before/page-1.png | [preview](output/session15/historical-document-previews/session15-click-before-page-1.png) | `16C5BB00B0C71B3DF01F5AD2DCE91DD0D838C6CB36776868047E16EC92136BCA` |
+| tmp/session15-click-before/page-2.png | [preview](output/session15/historical-document-previews/session15-click-after-page-2.png) | `748440184A4428E2561C55B73F93EE4904B70F4E5B577D2F5332F7FC0CFCF843` |
+| tmp/session15-click-before/page-3.png | [preview](output/session15/historical-document-previews/session15-click-before-page-3.png) | `24769F2D9D5318E2771AE9C94A11AB7AA748A1F558C774DA7D339534E54A728B` |
+| tmp/session15-click-before/page-4.png | [preview](output/session15/historical-document-previews/session15-click-after-page-4.png) | `8A6CB15207C6D5791B36BF1FF9A0671FA82FF3EC260B768384C7CB7344BFE653` |
+| tmp/session15-click-final/page-1.png | [preview](output/session15/historical-document-previews/session15-click-after-page-1.png) | `A247C7E97CB16A60F47CF7E7942DBB5581EABDDB40C1BBBA2135746B8EF857FA` |
+| tmp/session15-click-final/page-2.png | [preview](output/session15/historical-document-previews/session15-click-after-page-2.png) | `748440184A4428E2561C55B73F93EE4904B70F4E5B577D2F5332F7FC0CFCF843` |
+| tmp/session15-click-final/page-3.png | [preview](output/session15/historical-document-previews/session15-click-final-page-3.png) | `BA504961A194EC95AC8C35B641E4E625F719390040265CBD9EF3A4573CB57CBA` |
+| tmp/session15-click-final/page-4.png | [preview](output/session15/historical-document-previews/session15-click-after-page-4.png) | `8A6CB15207C6D5791B36BF1FF9A0671FA82FF3EC260B768384C7CB7344BFE653` |
+| tmp/session15-rescue-climax-final/page-1.png | [preview](output/session15/historical-document-previews/session15-rescue-climax-final-page-1.png) | `263EECEEBBEA22129EE6805CAE0C830CDBFFACA9301B3CB2F409DC6614987B51` |
+| tmp/session15-rescue-climax-final/page-2.png | [preview](output/session15/historical-document-previews/session15-rescue-climax-final-page-2.png) | `4B6A8E79E2D9C2C83539A4581FCED547638719EFA1722DD185CBE8A0B3799A99` |
+| tmp/session15-rescue-climax-final/page-3.png | [preview](output/session15/historical-document-previews/session15-rescue-climax-final-page-3.png) | `F395651B3C5C5A4525F3B29D8D75B39249E23341706F14604421BF462131ECFE` |
+| tmp/session15-rescue-climax-final/page-4.png | [preview](output/session15/historical-document-previews/session15-rescue-climax-final-page-4.png) | `5143C845217E4D656108A39E2033C26335D6DB93E2140E008E5007C65C68C9F6` |
+| tmp/session15-story-final/page-1.png | [preview](output/session15/historical-document-previews/session15-story-final-page-1.png) | `F919D6EB3A494F103FFF7BD3098623C2CE3D89C0AE602412E7A94CD9968E8E7D` |
+| tmp/session15-story-final/page-2.png | [preview](output/session15/historical-document-previews/session15-story-final-page-2.png) | `2934FECE72D44DCDEE67840FE8199C2B1BC36C882D833A711B9F42823E2D1149` |
+| tmp/session15-story-final/page-3.png | [preview](output/session15/historical-document-previews/session15-story-final-page-3.png) | `443A74B8BBCB5F5ECD7363526CE4DAD31124C41D67DD1C2C2CDB87FA5DA9430C` |
+| tmp/session15-story-final/page-4.png | [preview](output/session15/historical-document-previews/session15-story-final-page-4.png) | `134EF8A26326BE64353DF48F995F1E39463EADBE3CD56A88C7016A4A2824F4CE` |
+| tmp/session15-story-qa1/page-1.png | [preview](output/session15/historical-document-previews/session15-story-final-page-1.png) | `F919D6EB3A494F103FFF7BD3098623C2CE3D89C0AE602412E7A94CD9968E8E7D` |
+| tmp/session15-story-qa1/page-2.png | [preview](output/session15/historical-document-previews/session15-story-final-page-2.png) | `2934FECE72D44DCDEE67840FE8199C2B1BC36C882D833A711B9F42823E2D1149` |
+| tmp/session15-story-qa1/page-3.png | [preview](output/session15/historical-document-previews/session15-story-qa1-page-3.png) | `C6C10015FCFA3609042F011228578D69D8F15B9E33013D89196A65E368CC59DF` |
+| tmp/session15-story-qa1/page-4.png | [preview](output/session15/historical-document-previews/session15-story-final-page-4.png) | `134EF8A26326BE64353DF48F995F1E39463EADBE3CD56A88C7016A4A2824F4CE` |
+| tmp/session15-story-spine-qa1/page-1.png | [preview](output/session15/historical-document-previews/session15-story-spine-qa1-page-1.png) | `01AB95B7CD26EAAFC87583E56001FFF46F17319B4F076AF90543FB09327B8123` |
+| tmp/session15-story-spine-qa1/page-2.png | [preview](output/session15/historical-document-previews/session15-story-spine-qa1-page-2.png) | `9310DBADF73DC0A524F4D59E24CCF0C6ABC64918691016C7C85A2BBB0EAD67E9` |
+| tmp/session15-story-spine-qa1/page-3.png | [preview](output/session15/historical-document-previews/session15-story-spine-qa1-page-3.png) | `E34D63111548EFA827DF2B61C31A5E214E89B94DDB3318AE714FDA2734ECE31B` |
+| tmp/session15-story-spine-qa1/page-4.png | [preview](output/session15/historical-document-previews/session15-story-spine-qa1-page-4.png) | `863D3705258157C25403B775FB935F960A79F365D56789589136BC0F932676C6` |
 
 ## Session 18 art and installation — September 30, 2026
 
