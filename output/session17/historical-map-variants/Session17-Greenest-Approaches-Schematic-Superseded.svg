@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120">
+<rect width="1600" height="1120" fill="#f6f1e5"/>
+<style>text{font-family:Arial,sans-serif;fill:#26372f}.title{font-size:36px;font-weight:700}.sub{font-size:19px}.label{font-size:22px;font-weight:700}.small{font-size:18px}.tiny{font-size:16px}</style>
+<text x="45" y="58" class="title">GREENEST APPROACHES</text>
+<text x="45" y="91" class="sub">Survey copy recovered from the camp • Mark your own routes and orders • Schematic, not to scale</text>
+<path d="M 520 270 L 520 825" fill="none" stroke="#977b52" stroke-width="20" stroke-linecap="round"/>
+<path d="M 720 260 Q 850 360 830 480 Q 850 650 760 815" fill="none" stroke="#577b66" stroke-width="10" stroke-linecap="round" stroke-dasharray="15 10"/>
+<path d="M 760 215 L 1020 290" fill="none" stroke="#87749a" stroke-width="8" stroke-linecap="round" stroke-dasharray="4 13"/>
+<path d="M 60 720 Q 200 680 390 730 T 830 750" fill="none" stroke="#8cb4bf" stroke-width="32" stroke-linecap="round"/>
+<path d="M 790 730 L 790 845" fill="none" stroke="#8cb4bf" stroke-width="15" stroke-linecap="round"/>
+<rect x="340" y="140" width="440" height="110" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="358" y="174" class="label">NORTHERN CAMP</text>
+<text x="358" y="208" class="small">Departure yard and command records</text>
+<rect x="45" y="140" width="250" height="200" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="63" y="174" class="label">MOVEMENT MARKS</text>
+<text x="63" y="208" class="small">WHEEL</text>
+<text x="63" y="235" class="small">SPADE</text>
+<text x="63" y="262" class="small">LANTERN</text>
+<text x="63" y="289" class="small">Place each on a route.</text>
+<rect x="330" y="345" width="380" height="100" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="348" y="379" class="label">CHALK CUT</text>
+<text x="348" y="413" class="small">North road • carts can pass</text>
+<rect x="50" y="490" width="350" height="120" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="68" y="524" class="label">WEST ORCHARD</text>
+<text x="68" y="558" class="small">Covered foot approach to town</text>
+<text x="68" y="585" class="small">No cart track through the trees</text>
+<path d="M 515 450 Q 280 425 225 485" fill="none" stroke="#577b66" stroke-width="8" stroke-linecap="round" stroke-dasharray="15 10"/>
+<path d="M 225 610 L 225 810" fill="none" stroke="#577b66" stroke-width="8" stroke-linecap="round" stroke-dasharray="15 10"/>
+<rect x="645" y="495" width="320" height="125" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="663" y="529" class="label">EAST DRAINAGE TRACK</text>
+<text x="663" y="563" class="small">Foot travel and hand tools</text>
+<text x="663" y="590" class="small">No wagons • approaches mill</text>
+<rect x="1050" y="205" width="490" height="130" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="1068" y="239" class="label">SIGNAL RIDGE</text>
+<text x="1068" y="273" class="small">Clear view of the north approach</text>
+<text x="1068" y="300" class="small">Ridge trail is too narrow for wagons</text>
+<text x="1068" y="327" class="small">Road and ditch cannot see both ends</text>
+<path d="M 1030 300 L 1045 280" fill="none" stroke="#87749a" stroke-width="5" stroke-linecap="round"/>
+<text x="540" y="675" class="small">ROAD BRIDGE</text>
+<text x="63" y="680" class="small">STREAM</text>
+<rect x="365" y="820" width="290" height="100" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="383" y="854" class="label">NORTH APPROACH</text>
+<text x="383" y="888" class="small">Open road into Greenest</text>
+<rect x="690" y="835" width="305" height="110" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="708" y="869" class="label">MILL SERVICE LANE</text>
+<text x="708" y="903" class="small">Drainage entrance nearby</text>
+<text x="708" y="930" class="small">Old arch remains sealed</text>
+<rect x="45" y="830" width="270" height="90" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="63" y="864" class="label">KEEP</text>
+<text x="63" y="898" class="small">Shelter and guard reserve</text>
+<rect x="360" y="955" width="330" height="85" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="378" y="989" class="label">HARVEST TEMPLE</text>
+<text x="378" y="1023" class="small">Patients need assisted travel</text>
+<rect x="1050" y="395" width="490" height="165" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="1068" y="429" class="label">ROUTE FACTS</text>
+<text x="1068" y="463" class="small">Solid brown = wagon road</text>
+<text x="1068" y="490" class="small">Green dashes = foot routes</text>
+<text x="1068" y="517" class="small">Purple dots = ridge trail</text>
+<text x="1068" y="544" class="small">Blue = stream and drainage</text>
+<rect x="1050" y="585" width="490" height="170" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="1068" y="619" class="label">MAP MARGIN</text>
+<text x="1068" y="653" class="small">Wagon wheels cannot use the east track.</text>
+<text x="1068" y="680" class="small">The east track reaches the mill lane.</text>
+<text x="1068" y="707" class="small">Only the ridge overlooks both approaches.</text>
+<text x="1068" y="734" class="small">Do not confuse a route with an objective.</text>
+<rect x="1050" y="785" width="490" height="225" rx="9" fill="#fffdf6" stroke="#929c89" stroke-width="2"/>
+<text x="1068" y="819" class="label">YOUR COUNCIL ORDERS</text>
+<text x="1068" y="853" class="small">Main objective _____________________</text>
+<text x="1068" y="880" class="small">Where do we stand? ________________</text>
+<text x="1068" y="907" class="small">Where do civilians go? ______________</text>
+<text x="1068" y="934" class="small">Signal to act _______________________</text>
+<text x="1068" y="961" class="small">Fallback ___________________________</text>
+<text x="1068" y="988" class="small">Who holds the plate? ________________</text>
+<text x="45" y="1090" class="tiny">North is toward the camp. Mark positions, routes, signals and fallback orders on this copy.</text>
+</svg>

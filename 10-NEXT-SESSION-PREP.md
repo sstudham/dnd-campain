@@ -581,3 +581,8 @@ Which lead do you want to follow first, and what do you want protected while you
 Under the mill. Brass plate intact. Do not turn the channels. North road, then the chalk cut. Deliver before dawn.
 
 IF THE PARTY DOES SOMETHING ELSE: Summarize only its actual discoveries and consequences, then ask the same closing question. Do not force the cellar ending.
+
+
+## Historical Session 17 staging clarification — recovered October 1, 2026
+
+On September 29, after approving the revised guide/art and asking to save the preparation, Scott reported adding about six more guards to the camp tower to discourage an unwinnable assault. Source: PC1 Session 17 setup conversation, owner message at 2026-09-29T15:21:00.385Z. This is an owner-confirmed Roll20/prep adjustment, not a reported combat, casualty count or verified present token roster. Preserve the actual Session 17 log and current Session 18 starting state; do not replay this prep or infer a fight.
