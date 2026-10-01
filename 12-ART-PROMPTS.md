@@ -1,5 +1,17 @@
 # Art Prompts
 
+## Recovered Session 15 historical drafts - October 1, 2026
+
+These two created campaign images were retained in the PC2 working folder but were not tracked in Git. Original filenames and bytes are preserved locally; these archived copies add descriptive names. Session attribution comes from those filenames and the existing Session 15 prompt sections below, which identify the corrected FINAL versions. These are historical planning drafts, not preferred replacements or additional canon.
+
+| Session | Image / subject | Source and status |
+|---|---|---|
+| 15 | [Opening Rift Climax - historical draft](output/session15/Session15-Opening-Rift-Climax-Historical-Draft.png): five PCs around fallen Sparkrender and the Observatory star-map/rift reaction | Original `Session 15 Opening Rift Climax.png`; SHA-256 `9B1D7466FA51813514EDA2CFB5031A15B768BD2DDE8A3DB1F6209B02D253EAF9`. Superseded for use by `Session 15 Opening Rift Climax FINAL.png`, which corrects Throk's face. |
+| 15 | [D5 Puzzle Rift Climax - historical draft](output/session15/Session15-D5-Puzzle-Rift-Climax-Historical-Draft.png): party acting around four scholar figures and a false-brother apparition | Original `Session 15 D5 Puzzle Rift Climax.png`; SHA-256 `EBA4F02293B1009750986188003A8B4C167F0B9AFDEF393629FB75AC7BC3CB1F`. Superseded for use by `Session 15 D5 Puzzle Rift Climax FINAL.png`, which corrects Throk's face. |
+
+Written actual-play records control; illustrated proposals and incidental details do not become canon. Twenty-eight local run-sheet page previews are document-render intermediates, not separately recovered campaign artwork. Existing portrait copies match the tracked public references and are not duplicated here. This recovery covers known PC2 local sources only; additional cloud/Library/device sources are reviewed separately.
+
+
 ## Session 18 art and installation — September 30, 2026
 
 Seven reviewed PNGs are in [the rebuilt packet](output/session18/README.md): three tactical maps, mill discovery, northbound party, shadowed dragon threshold and the new sanctuary relief/strain close-up. The Session 17 final deployment image supplies the opening. **Eight backgrounds installed and verified in TUG4.1**; the fixed extension resolved the earlier upload blocker. [Exact page/settings/reveal manifest](output/session18/Session18_Roll20_Manifest.md), [full prompts](output/session18/Art_Prompts.md).
