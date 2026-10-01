@@ -64,7 +64,6 @@ Sev does not like people touching his mini.
 
 The party met the kobolds, Tarak, and Runara at Dragon's Rest.
 Myla borrowed Throk's axe, mistaking it for a sword. Severed Whisper found Tarak farther uphill and brought him to the wounded party.
-The party later traveled to Seagrow Caves by canoe.
 Tarak healed and stabilized the wounded party after the dock fight.
 Runara noticed Pat Benatar's special scale and Brother Kai's discipline and dragonborn nature.
 Tarak sent the party to recover medicinal fungus from Seagrow Caves.
