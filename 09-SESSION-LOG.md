@@ -102,9 +102,17 @@ Throk killed another bounty hunter with Eldritch Blast.
 The party learned that Luskan mayor's people had hired the bounty hunters and that Sev was the easiest identifiable target.
 Sev wanted the final bounty hunter kept alive.
 Brother Kai interrogated the bounty hunter, then killed him over Sev's protest by slicing his throat with his dragon claws.
-The party found 75 gp and 5 silver bars.
+The party found loot worth 75 gp and 5 silver bars.
 The party returned to Dragon's Rest, where Runara pointed them toward the Clifftop Observatory.
 The party completed a long rest.
+
+Recovered detail from Scott's June 30 post-session campaign update:
+- Severed Whisper inspected the half-sunk, broken, unstable Compass Rose from the dinghy. He spotted a second boat tied low on the far side, fresh rope, a clean knot, wet boot prints, and a crossbow bolt foreign to the wreck, then explored C2 / Forecastle while Hidden.
+- Brother Kai meditated in C6 / Crew Quarters; his low Perception missed the trapped floorboard and hidden stash. He joined the others in C4 / Captain's Quarters, where Throk killed the first zombie and the party cleared the rest.
+- Pat-Benatar attacked the crossbow bounty hunter; Kai cornered the final hunter. The hunter linked the targets to Braddok Ironhand, the odd stone, the bar fight, the mayor's son and the dock warehouse trouble. Both dragonborn were wanted too; Sev was easiest to identify and most valuable alive for answers.
+- Kai's execution of the hunter was controlled, cold and decisive rather than enraged.
+- On the lower deck, Pat-Benatar, Floyd GoldSeeker and Throk damaged a zombie before Kai finished it. Sev found the five silver bars and tried to persuade the party to return to the island.
+- Kobolds met the returning party at Dragon's Rest. Runara contrasted sickness in stone, fungus, heat and breath in the caves with death, memory, fear and things refusing burial in the wreck. Luskan had reached the island; Sev's past now endangered the party.
 
 ### Session 13 - Clifftop Observatory Arrival and Floyd's Awakening
 

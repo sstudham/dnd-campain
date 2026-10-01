@@ -592,3 +592,97 @@ The existing image-generation manifests and conversation-specific generated-imag
 * [Campaign-Wide-Fractured-Reality-Showcase-NonCanon.png](output/campaign-showcase/Campaign-Wide-Fractured-Reality-Showcase-NonCanon.png) — September 9 non-canon campaign-wide showcase, not attributable to a played session; future imagery and background figure establish no canon.
 * [Session17-Sev-Survey-With-Sightline-Arrows-Superseded.png](output/session17/historical-map-variants/Session17-Sev-Survey-With-Sightline-Arrows-Superseded.png) — September 29 private-DM/Sev survey variant, superseded by S17_06_Sev_Only.png after the owner-requested arrow removal. Preserve as historical prep; do not show its notes indiscriminately to players.
 * [Session17-Generated-Party-Identity-Board-Historical.png](output/session17/Session17-Generated-Party-Identity-Board-Historical.png) — September 29 image-generation reference board made from fantasy character portraits; generated DnD art, not an original personal photo. The individual required portraits remain visual authority; old shortened labels do not supersede full character names.
+
+
+## Recovered Library artwork (October 1, 2026)
+
+28 original PNGs are archived in `output/recovered-library-artwork/`. These preserve additional scenes, concepts and variants. They do not replace approved final assets or authoritative character headshots. Written canon controls details and outcomes; prep art does not establish completed events. **Unassigned** means no numbered session has been verified.
+
+| Session | Image | Subject and status |
+|---|---|---|
+| 11 | [Session11-Pat-Dragon-Breath-Harpy-Alternate.png](output/recovered-library-artwork/Session11-Pat-Dragon-Breath-Harpy-Alternate.png) | Pat-Benatar using dragon breath against the harpy; alternate composition |
+| 12 | [Session12-Kai-Bounty-Hunter-Execution-Alternate.png](output/recovered-library-artwork/Session12-Kai-Bounty-Hunter-Execution-Alternate.png) | Kai executing the bounty hunter while Sev objects; alternate composition |
+| 16 | [Session16-Greenest-Sanctuary-Arrival.png](output/recovered-library-artwork/Session16-Greenest-Sanctuary-Arrival.png) | Party and caregivers in the infirmary; live-play illustration |
+| 16 | [Session16-Mayors-Library-Sev-Pat-Fireball.png](output/recovered-library-artwork/Session16-Mayors-Library-Sev-Pat-Fireball.png) | Sev, Pat-Benatar and the cavern map; live-play illustration, incidental map labels noncanonical |
+| 16 | [Session16-Mill-Rescue-Burning-Mill-Variant-01.png](output/recovered-library-artwork/Session16-Mill-Rescue-Burning-Mill-Variant-01.png) | Burning-mill rescue at dusk; first archived September 9 prep variant |
+| 16 | [Session16-Mill-Rescue-Burning-Mill-Variant-02.png](output/recovered-library-artwork/Session16-Mill-Rescue-Burning-Mill-Variant-02.png) | Burning-mill rescue; second archived September 9 prep variant |
+| 16 | [Session16-Mill-Rescue-Ruined-Mill-Variant-03.png](output/recovered-library-artwork/Session16-Mill-Rescue-Ruined-Mill-Variant-03.png) | Ruined-mill rescue; third archived September 9 prep variant |
+| 16 | [Session16-Tavern-Boots-Hallucination.png](output/recovered-library-artwork/Session16-Tavern-Boots-Hallucination.png) | Tavern and Boots; subjective hallucination illustration, with Boots a stuffed toy in canon |
+| 17 | [Session17-Chalk-Cut-DM-Composite-Layout.png](output/recovered-library-artwork/Session17-Chalk-Cut-DM-Composite-Layout.png) | Chalk Cut scenes and handouts; DM-only composite layout |
+| 17 | [Session17-Chalk-Cut-DM-Moodboard.png](output/recovered-library-artwork/Session17-Chalk-Cut-DM-Moodboard.png) | Chalk Cut scene, map and NPC collage; DM-only moodboard |
+| 17 | [Session17-Chalk-Cut-DM-Session-Board.png](output/recovered-library-artwork/Session17-Chalk-Cut-DM-Session-Board.png) | Chalk Cut prep collage; DM-only reference board |
+| 17 | [Session17-Chalk-Cut-Intro-Original-Superseded.png](output/recovered-library-artwork/Session17-Chalk-Cut-Intro-Original-Superseded.png) | Original dawn intro; superseded plate depiction, use the approved corrected intro |
+| 17 | [Session17-Chalk-Cut-Road-Dragon-Flyover-Retired.png](output/recovered-library-artwork/Session17-Chalk-Cut-Road-Dragon-Flyover-Retired.png) | Dragon over the road; retired version, superseded by camp flyover |
+| Unassigned | [Unsorted-Cat-Warrior-Shadowy-Alley.png](output/recovered-library-artwork/Unsorted-Cat-Warrior-Shadowy-Alley.png) | Level 1 tabaxi rogue concept; early shadowy-alley variant |
+| Unassigned | [Unsorted-Dwarf-Cleric-Golden-Emblem.png](output/recovered-library-artwork/Unsorted-Dwarf-Cleric-Golden-Emblem.png) | Painted dwarf-cleric icon for D&D Beyond; character identity unconfirmed |
+| Unassigned | [Unsorted-Feline-Rogue-Dark-Alley.png](output/recovered-library-artwork/Unsorted-Feline-Rogue-Dark-Alley.png) | Level 1 tabaxi rogue concept; dark-alley variant |
+| Unassigned | [Unsorted-Feline-Warrior-Shadowed-Alley.png](output/recovered-library-artwork/Unsorted-Feline-Warrior-Shadowed-Alley.png) | Level 1 tabaxi rogue concept; shadowed-alley variant |
+| Unassigned | [Unsorted-Feline-Warrior-Smoky-Alley.png](output/recovered-library-artwork/Unsorted-Feline-Warrior-Smoky-Alley.png) | Level 1 tabaxi rogue concept; smoky-alley variant |
+| Unassigned | [Unsorted-Observatory-Arcane-Tome.png](output/recovered-library-artwork/Unsorted-Observatory-Arcane-Tome.png) | Party studying a book in the ruins; scene illustration |
+| Unassigned | [Unsorted-Observatory-Kobold-Camp.png](output/recovered-library-artwork/Unsorted-Observatory-Kobold-Camp.png) | Party meeting kobolds near the observatory; scene illustration |
+| Unassigned | [Unsorted-Observatory-Sleeping-Blue-Dragon.png](output/recovered-library-artwork/Unsorted-Observatory-Sleeping-Blue-Dragon.png) | Party before a sleeping blue dragon; prep illustration |
+| Unassigned | [Unsorted-Party-Dragonfall-Cliffs-Concept.png](output/recovered-library-artwork/Unsorted-Party-Dragonfall-Cliffs-Concept.png) | Party, dragons and fortress; campaign concept art |
+| Unassigned | [Unsorted-Pixel-Dwarf-Knight-Golden-Emblem.png](output/recovered-library-artwork/Unsorted-Pixel-Dwarf-Knight-Golden-Emblem.png) | Pixel dwarf-cleric icon for D&D Beyond; companion variant, character identity unconfirmed |
+| Unassigned | [Unsorted-Ruined-Orrery-Kobold-Aftermath.png](output/recovered-library-artwork/Unsorted-Ruined-Orrery-Kobold-Aftermath.png) | Party and fallen/injured kobolds by the orrery; scene illustration |
+| Unassigned | [Unsorted-Ruined-Ritual-Site-Magical-Rift.png](output/recovered-library-artwork/Unsorted-Ruined-Ritual-Site-Magical-Rift.png) | Roll20 ruined cult-site/rift map; encounter concept with no PCs |
+| Unassigned | [Unsorted-Sev-and-Kai-Tavern-Selfie.png](output/recovered-library-artwork/Unsorted-Sev-and-Kai-Tavern-Selfie.png) | Sev and Kai in a tavern selfie; fictional-character artwork, no session event established |
+| Unassigned | [Unsorted-Sparkrender-Fall-Astral-Orrery-Variant.png](output/recovered-library-artwork/Unsorted-Sparkrender-Fall-Astral-Orrery-Variant.png) | Fallen blue dragon and orrery; archived alternate composition |
+| Unassigned | [Unsorted-Stormwreck-Departure-Sunset-Voyage.png](output/recovered-library-artwork/Unsorted-Stormwreck-Departure-Sunset-Voyage.png) | Party sailing from a dragon-bearing island; departure illustration |
+
+## Recovered laptop artwork and historical document previews (October 1, 2026)
+
+Original image bytes are preserved. These archival assets do not replace approved final artwork, authoritative face references, or the current editable Session 18 Word guide. Images are not evidence that depicted events happened. Unassigned concepts have no verified session attribution.
+
+- [Session 18 Signal Ridge perspective draft](output/session18/historical-map-variants/Session18-Signal-Ridge-Perspective-Superseded.png): generated September 30 during Session 18 preparation; superseded by the approved top-down Signal Ridge map.
+- [Unassigned cavern monster battle](output/recovered-laptop-artwork/Unassigned-Party-Cavern-Monster-Battle-Concept.png): generated-image download dated June 2; no numbered session or depicted outcome verified.
+- [Unassigned legacy skull carriage concept](output/recovered-laptop-artwork/Unassigned-Legacy-Goat-Pulled-Skull-Carriage-Concept.png): September 2023 DnD concept of adventurers on a goat-pulled floating skull carriage; not established campaign transport.
+
+### Session 18 historical document previews
+
+43 reviewed campaign-only preview images are retained below. Earlier drafts and intermediate layouts may differ from current preparation. These are archival previews, not recommended deliverables; use the current editable Word guide. No future choices or outcomes are established by these pages.
+
+| Preview | Status |
+|---|---|
+| [Session18-Early-DM-Guide-Page-1.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-2.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-2.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-3.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-3.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-4.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-4.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-5.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-5.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-6.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-6.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-DM-Guide-Page-7.png](output/session18/historical-document-previews/Session18-Early-DM-Guide-Page-7.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-Player-Handout-Page-1.png](output/session18/historical-document-previews/Session18-Early-Player-Handout-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-Read-Aloud-Page-1.png](output/session18/historical-document-previews/Session18-Early-Read-Aloud-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-Read-Aloud-Page-2.png](output/session18/historical-document-previews/Session18-Early-Read-Aloud-Page-2.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-Read-Aloud-Page-3.png](output/session18/historical-document-previews/Session18-Early-Read-Aloud-Page-3.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Early-Read-Aloud-Page-4.png](output/session18/historical-document-previews/Session18-Early-Read-Aloud-Page-4.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Packet-Contact-Sheet-0.jpg](output/session18/historical-document-previews/Session18-Rebuilt-Packet-Contact-Sheet-0.jpg) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Packet-Contact-Sheet-1.jpg](output/session18/historical-document-previews/Session18-Rebuilt-Packet-Contact-Sheet-1.jpg) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Packet-Contact-Sheet-2.jpg](output/session18/historical-document-previews/Session18-Rebuilt-Packet-Contact-Sheet-2.jpg) | Archival Session 18 preparation/layout preview |
+| [Session18-Revised-Read-Aloud-Page-5.png](output/session18/historical-document-previews/Session18-Revised-Read-Aloud-Page-5.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-1.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-2.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-2.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-3.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-3.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-4.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-4.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-5.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-5.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-6.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-6.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-7.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-7.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-DM-Guide-Page-8.png](output/session18/historical-document-previews/Session18-Rebuilt-DM-Guide-Page-8.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Player-Handouts-Page-1.png](output/session18/historical-document-previews/Session18-Rebuilt-Player-Handouts-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-1.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-1.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-2.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-2.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-3.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-3.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-4.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-4.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-5.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-5.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Rebuilt-Read-Aloud-Page-6.png](output/session18/historical-document-previews/Session18-Rebuilt-Read-Aloud-Page-6.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-01.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-01.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-02.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-02.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-03.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-03.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-04.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-04.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-05.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-05.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-06.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-06.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-07.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-07.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-08.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-08.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-09.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-09.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-10.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-10.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-11.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-11.png) | Archival Session 18 preparation/layout preview |
+| [Session18-Word-Event-Guide-Page-12.png](output/session18/historical-document-previews/Session18-Word-Event-Guide-Page-12.png) | Archival Session 18 preparation/layout preview |
