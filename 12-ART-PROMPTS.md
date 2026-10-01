@@ -583,3 +583,12 @@ These are preserved assets, not new played events. Historical Session 17 maps an
 | [session17-guide-flow-layout-sep29-page-8.png](output/session17/historical-document-previews/session17-guide-flow-layout-sep29-page-8.png) | Historical document render; superseded prep/format variant, not current canon or preferred deliverable |
 | [session17-guide-flow-layout-sep29-page-9.png](output/session17/historical-document-previews/session17-guide-flow-layout-sep29-page-9.png) | Historical document render; superseded prep/format variant, not current canon or preferred deliverable |
 | [Session16-Old-Arch-Stone-and-Brass-Owner-Reference.png](output/session16/Session16-Old-Arch-Stone-and-Brass-Owner-Reference.png) | Owner-supplied September 29 appearance reference; no new arch function |
+
+
+### Additional surviving PC1 generated-image variants
+
+The existing image-generation manifests and conversation-specific generated-image folders supplied these remaining originals. Each image was individually visually inspected and hash-deduplicated against current main. No raw conversation, original personal photo or private non-campaign material is included.
+
+* [Campaign-Wide-Fractured-Reality-Showcase-NonCanon.png](output/campaign-showcase/Campaign-Wide-Fractured-Reality-Showcase-NonCanon.png) — September 9 non-canon campaign-wide showcase, not attributable to a played session; future imagery and background figure establish no canon.
+* [Session17-Sev-Survey-With-Sightline-Arrows-Superseded.png](output/session17/historical-map-variants/Session17-Sev-Survey-With-Sightline-Arrows-Superseded.png) — September 29 private-DM/Sev survey variant, superseded by S17_06_Sev_Only.png after the owner-requested arrow removal. Preserve as historical prep; do not show its notes indiscriminately to players.
+* [Session17-Generated-Party-Identity-Board-Historical.png](output/session17/Session17-Generated-Party-Identity-Board-Historical.png) — September 29 image-generation reference board made from fantasy character portraits; generated DnD art, not an original personal photo. The individual required portraits remain visual authority; old shortened labels do not supersede full character names.
