@@ -58,9 +58,9 @@ Effective September 10, 2026. This workflow supersedes older instructions requir
 
 ### PC working copy and continuity
 
-PC2 (DESKTOP-Q2Q740E) currently maintains the existing `C:\Users\studh\OneDrive\Documents\dnd-campain` working folder. PC1 is Legion (RSS_LEGION_DESK); use Remote for local campaign work on PC2. Do not create a duplicate checkout during ordinary work.
+Work executes locally on the computer Scott selects; verify the actual hostname and available local tools. PC2 (DESKTOP-Q2Q740E) retains the sole existing Git checkout at `C:\Users\studh\OneDrive\Documents\dnd-campain`. PC1 (Legion / RSS_LEGION_DESK) and laptop folders are thin local clients for current GitHub canon and authorized local files, not duplicate campaign checkouts. Remote to PC2 is an optional fallback for capabilities or unpublished files on PC2, not required for ordinary local Work. Do not create another checkout or worktree during ordinary work.
 
-Before local editing, inspect status, verify the existing origin, fetch current `main`, and safely incorporate incoming changes. Preserve tracked modifications and untracked art/drafts; never reset, clean, stash, or overwrite them silently. If local work conflicts, isolate and explain the conflict while continuing independent safe work. Publish only the requested changes, then verify their remote commit. OneDrive folder placement does not replace Git reconciliation.
+Before editing the PC2 Git working copy, inspect status, verify the existing origin, fetch current `main`, and safely incorporate incoming changes. This Git reconciliation requirement does not apply to every local draft in a thin client folder; local drafts remain unpublished. Preserve tracked modifications and untracked art/drafts; never reset, clean, stash, or overwrite them silently. If local work conflicts, isolate and explain the conflict while continuing independent safe work. Publish only the requested changes, then verify their remote commit. OneDrive folder placement does not replace Git reconciliation.
 
 Distinct tasks may have separate conversations. Record durable decisions and actual play in the existing campaign files so a new conversation can continue without relying on a long old chat.
 

@@ -7,12 +7,13 @@ Updated: 2026-09-10.
 - Entry point for every client: [00-INSTRUCTIONS.md](00-INSTRUCTIONS.md).
 - Shared ChatGPT project: DnD ChatGPT, ID `g-p-6a0b7f537e8481918d1c60a7a6305c21`.
 - Reinstallable project instruction text: [CHATGPT_PROJECT_INSTRUCTIONS.md](CHATGPT_PROJECT_INSTRUCTIONS.md).
-- PC2 working folder: `C:\Users\studh\OneDrive\Documents\dnd-campain`. It may contain unpublished work. Reconcile before treating it as equal to GitHub.
+- Sole existing Git checkout: PC2 (DESKTOP-Q2Q740E), `C:\Users\studh\OneDrive\Documents\dnd-campain`. It may contain unpublished work. Reconcile before editing that Git working copy or treating it as equal to GitHub.
 - PC1 is Legion / RSS_LEGION_DESK; PC2 is DESKTOP-Q2Q740E. These are current host locations, not permanent dependencies of canon.
 
 ## Read and write flow
 Phone/Web/desktop ChatGPT -> authenticated GitHub plugin -> current repository files -> approved minimal edit -> GitHub commit -> independent readback/link.
-PC2 Codex -> fetch/reconcile same repository -> local edit -> publish -> readback. PC1 uses Remote for this local path.
+Local Work -> execute on the computer Scott selects -> verify hostname/tools -> current GitHub canon and authorized files local to that computer. PC1 and laptop folders are thin local clients, not duplicate checkouts; local drafts are unpublished and do not require Git reconciliation merely to draft.
+PC2 Git working copy -> fetch/reconcile same repository -> local edit -> publish -> readback. Do not create another checkout/worktree during ordinary work. Remote to PC2 is an optional fallback for its capabilities or unpublished files, not required for ordinary local Work.
 Do not run competing writers on the same files. A matching repository name does not guarantee a working copy is current.
 
 ## External dependencies
