@@ -2,9 +2,9 @@
 
 ## Session 18 collaborative NPC revision — October 20, 2026
 
-Ryan joins Scott in collaborative NPC play: commands prepared opening raiders with local knowledge, then becomes one improvised present NPC at the mill and is planned to accompany the party in the final scene. Identity and capture/cooperation/friendship remain open. Scott retains adjudication and resumes opposition after handoff. The current [packet](output/session18/README.md) includes the revised twelve-page Word guide, Ryan brief, run sheet, gated read-alouds/handouts, rehearsal and companion-inclusive art. Primary Roll20 opening: S18 08 - Four Fronts, a four-panel lookout/bridge/west trail/mill map; separate panels do not shorten travel. See the manifest for verified settings. Earlier PDFs/listening copy are historical. All existing Session 17 facts, unresolved orders and resource freshness remain; no outcome or new character canon is created.
+Ryan joins Scott in collaborative NPC play: commands prepared opening raiders with local knowledge, then becomes one improvised present NPC at the mill and is planned to accompany the party in the final scene. Identity and capture/cooperation/friendship remain open. Scott retains adjudication and resumes opposition after handoff. The current [packet](output/session18/README.md) includes the compact five-page Word guide, Ryan brief, run sheet, gated read-alouds/handouts, rehearsal and companion-inclusive art. Primary Roll20 opening: S18 08 - Four Fronts, a four-panel lookout/bridge/west trail/mill map; separate panels do not shorten travel. See the manifest for verified settings. Earlier PDFs/listening copy are historical. All existing Session 17 facts, unresolved orders and resource freshness remain; no outcome or new character canon is created.
 
-Current table copy: [Session 18 Word DM guide](output/session18/Session18_DM_Guide.docx), twelve pages with one event per page, including gated narration and DM notes. Deliver Word guides, not PDFs, unless Scott explicitly asks.
+Current table copy: [Session 18 Word DM guide](output/session18/Session18_DM_Guide.docx), five pages with one major section per page and references to the separate read-aloud pack; no full narration. Deliver Word guides, not PDFs, unless Scott explicitly asks.
 
 ## Session 18 rebuilt packet — September 30, 2026
 
