@@ -1,6 +1,8 @@
-# Session 18 read-aloud pack — rebuilt September 30
+# Session 18 read-aloud pack — revised October 20
 
 Use only the paragraph whose release gate has happened. The pressure witness and bounded dragon motive are approved DM background; discoveries and outcomes remain unplayed. A0 and A1 are alternate openings: choose one. Always say Pat-Benatar in full.
+
+Ryan voices assigned opening NPCs; Scott reads scene framing and adjudicates. At the mill Ryan becomes one improvised NPC. Use A19/A20 only after their gates. The Four Fronts page holds all opening locations; borders do not mean adjacency.
 
 ## A0 — Story-so-far recap (opening; about two minutes)
 At Stormwreck, you stopped Sparkrender's exploitation of the dead, opened the ancient pattern and brought Aidron back alive. You carried Mek home. Runara gave you a direction: follow the dragons if you want to understand the wound. Aidron warned you that finding a dragon would not make it trustworthy.
@@ -120,7 +122,7 @@ Dawn version: Morning reaches Greenest quietly. The stone is pale again. Smoke r
 
 Night version: Greenest's lamps follow you to the edge of town. Beyond the last doorway, the road becomes a darker line between fields. The burden you chose to carry is wrapped and secured. Behind you, people are returning to watches, beds and unfinished repairs.
 
-Shared ending: North lies the camp, the transfer route, and the direction taken by the dragon. This time you are not following someone else's delivery schedule. You have chosen to carry both pieces yourselves.
+Shared ending: North lies the camp, the transfer route, and the direction taken by the dragon. This time you are not following someone else's delivery schedule. You choose what travels with you, who carries it, and whom you will allow to walk beside you.
 
 ## A12 — Northern transfer marker (after earned route evidence)
 
@@ -187,3 +189,13 @@ The answer you came north for has become something more precise. Old draconic wo
 Behind you are the workers, the patients and the defenses you chose to leave. Before you is an offer, a cult's trail and a damaged place that has not stopped needing care.
 
 This time you have more than a delivery order. You have enough information to choose what comes next.
+
+## A19 — A person at the mill (after identity/presence is established)
+The work pauses long enough for another voice to be heard. Dust settles around the lantern. Someone near you looks from the braced wall to the people holding it steady.
+
+Scott: describe only the NPC Ryan has actually chosen and established. If captured, describe the real custody state; if a helper, describe the task being done. Give Ryan the voice: "What do you say?" No automatic name, trust, confession or surrender is read aloud.
+
+## A20 — A place on the road (after agreement to accompany)
+At the edge of Greenest, there is one more person waiting beside the road. The arrangement you made at the mill now has a journey attached to it.
+
+Scott: state the actual agreed terms in one sentence, including escort/custody if applicable. Ryan: ask one question or describe one small action as the group sets off. No new friendship, freedom or loyalty is assumed.

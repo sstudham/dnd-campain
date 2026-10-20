@@ -1,6 +1,9 @@
-# Session 18 quick run sheet — rebuilt September 30, 2026
+# Session 18 quick run sheet — revised October 20, 2026
 
 Story: protect Greenest -> identify the Cult -> recover the old reading -> choose safe relief/care -> seek the dragon's answers. The battle, retrieval and departure remain playable.
+
+## Shared roles and primary page
+Scott: world, adjudication, clocks, allies and final dragon. Ryan: opening raiders with received information only; one improvised NPC from mill onward. Primary page: S18 08 - Four Fronts (lookout/bridge/west trail/mill). Separate panels are not adjacent locations. Zoom maps remain available.
 
 ## 0–10: Restart
 Read A0 OR A1, not both. Confirm current resources, equipped shields, plate carrier, carts, runner route/fallback, Severed Whisper's posture and Throk's west task. Ask Pat-Benatar's exact signal and intended enemy belief. Drums begin; no council replay.
@@ -8,6 +11,9 @@ Read A0 OR A1, not both. Confirm current resources, equipped shields, plate carr
 ## 10–60: Operation
 Rotate four fronts every 3–5 real minutes with one choice each. Write Ridge / Wheel / Spade / Mill and runner arrivals. No flash or repeated flashes -> Spade holds/checks. Long flash plus believable north movement -> advances. Contradictory flash -> scout. Successful disruption can prevent combat; no compensating ambush.
 Existing hired raider: AC12 HP9 speed30 club+3 1d4+1. Ridge two; Wheel prepared four; Spade two escorts plus six laborers. Independent HP; no multiattack/boss. Guards contain; volunteers dig. Use actual individual guard sheet if precision needed.
+
+## Mill handoff (during action or regroup)
+Scott resumes all opposition. Ryan chooses an eligible present worker/escort or local helper; identity remains open. Capture, parley or friendship follows actual decisions. Make one practical exchange. Do not add an enemy or force Spade to attack to introduce him.
 
 ## 60–75: Cult evidence / regroup
 Earn H1 through actual search/captive. Read A7 true result and A7B dispatch. Frulam Mondath + Cult of the Dragon now supported; cave stock remains ambiguous. Account for wounded, prisoners and team return. No automatic payment/title.
@@ -20,8 +26,8 @@ A8–A10 gated. Pressure witness: ten pounds, smoky crystal/bronze ribs, three c
 Sanctuary-facing pulse/grit invites actual investigation. A15 matched relief and strain. Merra sincere, Eadyan practical. Arrange ordinary care before a reversible receiver isolation; monitored continuation with support/watch is also possible. A16 only actual outcome. No sacrifice, conversion, forced death or required test to recover contents. Record limited improvement; wider fault remains.
 
 ## 135–170: North and dragon
-Earn H2 route; confirm carriers, care custodian, supplies, rest and prisoners. Three pale stones -> split basalt shelf. A11/A12 threshold; A17 first exchange. Lennithon name only through conversation; prior sightings still unidentified.
+Agree Ryan NPC travel reason, party acceptance and any escort/release terms; use A20 only then. Scott plays the dragon while Ryan remains his companion. Earn H2 route; confirm carriers, care custodian, supplies, rest and prisoners. Three pale stones -> split basalt shelf. A11/A12 threshold; A17 first exchange. Lennithon name only through conversation; prior sightings still unidentified.
 Offer supervised inspection/copies/information first/refusal. One connection, one limited answer, one new choice. Keep Cult camp/cave lead distinct. No compulsory surrender/adult dragon combat.
 
 ## 170–180: Close
-A18 earned terms or A14 northbound ending. Record actual results, resources, custody, receiver plan, care/support, promises and next objective. If behind, cut extra fights/travel before player choices; dragon talk can wait.
+A18 earned terms or A14 northbound ending. Record Ryan NPC identity, knowledge, bond, injuries and travel terms only as established. Record actual results, resources, custody, receiver plan, care/support, promises and next objective. If behind, cut extra fights/travel before player choices; dragon talk can wait.

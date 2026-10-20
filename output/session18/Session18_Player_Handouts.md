@@ -1,4 +1,4 @@
-# Session 18 player handouts — revised September 30, 2026
+# Session 18 player handouts — revised October 20, 2026
 Release individually after each gate. Future findings are not discoveries until played.
 
 ## H1 — Recovered operation dispatch
@@ -22,5 +22,11 @@ Receiver plan: isolated / monitored / unresolved.
 Replacement patient care and responsible person: ______.
 Support watch and return date: ______.
 Prisoners and promised treatment: ______.
+Accompanying NPC name/role: ______. Agreed reason to travel: ______.
+Guest / paid help / willing witness / escort / other: ______.
+Promises, custody/release terms and responsible person: ______.
+Known injuries, equipment and information actually shared: ______.
 Northern route source: ______. Dragon inspection/return terms, if any: ______.
 Gate: town handoff, amended only with actual decisions.
+
+Ryan's command brief stays separate from H1–H4. Do not release battle orders or hidden motives as a player handout. Fill the companion fields only with actual agreements.

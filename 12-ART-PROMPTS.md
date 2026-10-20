@@ -1,5 +1,9 @@
 # Art Prompts
 
+## Session 18 collaborative NPC art — October 20, 2026
+
+Current [Session 18 art prompts](output/session18/Art_Prompts.md) add the [Four Fronts primary map](output/session18/S18_08_Four_Fronts.png), with lookout/bridge/west trail/mill as separated tactical panels, and replace northbound/threshold art with the five required PC faces plus one indistinct companion. Ryan NPC identity is open for improvisation; the hooded placeholder fixes no face, allegiance or bond. Display only after actual travel/scene gates. Unaffected terrain/discovery/sanctuary and the canonical Session 17 closing image remain unchanged. This is prep/display art, not actual-play evidence.
+
 ## Recovered Session 15 historical drafts - October 1, 2026
 
 These two created campaign images were retained in the PC2 working folder but were not tracked in Git. Original filenames and bytes are preserved locally; these archived copies add descriptive names. Session attribution comes from those filenames and the existing Session 15 prompt sections below, which identify the corrected FINAL versions. These are historical planning drafts, not preferred replacements or additional canon.

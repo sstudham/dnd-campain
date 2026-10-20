@@ -75,3 +75,6 @@ Before the break, every PC should have made an observable decision. Before depar
 
 At close record actual casualties, prisoners, team status, plate/witness carriers, receiver disposition, care plan, permanent improvement, route and promises. Future events remain unplayed. The review and rebuilt prep are saved separately from actual-play history.
 
+
+## October 20 prep follow-through
+The Session 17 assessment above remains historical. The current Session 18 revision adds Ryan as collaborative NPC performer, a bounded raider brief, an improvised mill handoff and a planned accompanying role for the final scene. A four-panel primary map reduces page switching while preserving distance and knowledge boundaries. No new Session 17 or Session 18 outcome is asserted.

@@ -1,6 +1,20 @@
 # Session 18: The False Light and the Buried Memory
 
-Rebuilt September 30, 2026 from Session 17 and the current story arc. Supersedes the September 29 Session 18 outline. Scott authorized this rebuild and its repository save. This guide is preparation; outcomes remain unplayed. New bounded DM background is recorded separately in the canon files. The Concordance/Acererak spine remains unconfirmed.
+Revised October 20, 2026 for collaborative NPC play and the Four Fronts map; the September 30 story rebuild remains the basis. Supersedes the September 29 Session 18 outline. Scott authorized this rebuild and its repository save. This guide is preparation; outcomes remain unplayed. New bounded DM background is recorded separately in the canon files. The Concordance/Acererak spine remains unconfirmed.
+
+## Collaborative NPC play — October 20, 2026
+
+Scott remains DM and adjudicates rules, world facts, clocks and consequences. Ryan collaborates by voicing NPCs and commanding the prepared raider groups in the opening operation. Give him the separate Ryan brief; the full DM guide and mental rehearsal contain secrets his eventual NPC does not know.
+
+Ryan chooses the raiders' speech, legal actions, morale, scouting and responses to information actually received. Scott gives him a short private update at each front. No cross-map omniscience: knowing the party's plan as a collaborator does not inform an enemy. Honor the written release signal and existing force sizes. Successful disruption can prevent combat. There is no obligation for Ryan to win, lose or sacrifice troops.
+
+At the mill, pause briefly and hand Ryan one persistent NPC. Scott and Ryan choose identity in improvisation: a surviving hired worker/escort if events support it, or a local worker/helper if the raiders never arrive. Name, appearance, history and relationship remain open. Do not add a ninth Spade member or revive a dead character. If the selected person dies or leaves, use a different present, plausible person rather than undoing play.
+
+Capture, negotiated cooperation, help with a brace, mutual curiosity or friendship are possibilities. Capture does not automatically create trust. Ask what each side needs and let a small practical act establish the relationship. The intended later role is traveling with the party in the final scene; agree the reason, consent or escort terms at the table. If one route fails, offer another plausible introduction without forcing acceptance.
+
+After the handoff Scott resumes command of remaining opposition. Ryan stays with his NPC in mill work, sanctuary care and the northbound/dragon scene. His NPC knows only their own work, observed events and information actually shared. No automatic dragon identity, witness function, hidden route, prophecy or answer to the rift. Offer one useful question or practical contribution, then return important decisions to the five PCs. No new PC, level, free healing or combat feature is granted.
+
+The combined Four Fronts map is the primary opening page: LOOKOUT top left; BRIDGE top right; WEST TRAIL bottom left; MILL bottom right. Borders separate locations; they are not traversable edges. Local distance is measured within a panel only. Use the regional map and declared travel times for runners and movement between fronts. The trail stays west; Spade still comes by the eastern drainage approach to the mill. Zoomed scene maps remain available.
 
 ## The session's story
 The party already stole the information needed to stop Frulam's operation. Now use it. After defending Greenest, discover why the mill's old draconic structure matters to people above it. The hidden object preserves a local stable reading; the relief stone is adding strain to damaged supports. Protect patients while gaining evidence, then carry the plate and witness north to question an independent dragon. This continues Runara's lead while revealing the Cult of the Dragon as a recognizable opponent.
@@ -107,6 +121,9 @@ Existing campaign S16 Hired Raider: AC 12, HP 9, speed 30 feet, club +3 to hit, 
 Resolve allied guard help as position, containment and sensible pressure rather than adding a dozen NPC turns. If the team is physically in a fight and a player needs precise attacks, use its existing Roll20 guard record; do not use the Fresh/Pressed track as extra HP or an undisclosed combat buff.
 
 
+## Ryan handoff at the mill
+At the end of local action, Scott takes remaining opposition. Invite Ryan to choose an eligible present NPC, with a local helper fallback if Spade held. Let the party respond to one practical offer or request before discussing travel. Use A19 only for the established person; leave dialogue to Ryan.
+
 ## Regroup: an enemy with a name
 Give one earned clue, not another hunt. A captured observer, interrupted messenger, abandoned wagon docket or withdrawn Spade foreman's satchel holds H1. Do not conjure it in a pocket the party never searches. If all enemies escape, a dispatched courier drops the duplicate at the deserted ridge only if that is actually inspected; otherwise an existing town prisoner may know the employer when asked. Critical faction information is not locked behind one successful check.
 
@@ -132,6 +149,9 @@ At sanctuary Merra sincerely wants patients comfortable. Her stone provides real
 Decision: temporarily lift/isolate the receiver with replacement care, or continue monitored use with a propped channel and a scheduled review. No patient sacrifice, forced conversion or automatic death. Baseline healing/medicine does not vanish. Explain observed costs before asking. Merra may disagree but is persuadable; her sincerity is not a lie check. Reasonable plans succeed. If the party refuses to engage, the town can keep ordinary care/watch and the issue remains unresolved. Do not trap them in Greenest or prevent discovery/exit as punishment.
 
 Isolation benefit if chosen and actually completed: the receiver's extra pulse stops and dust fall from that specific loading source ceases. The damaged branch stays broken; patients need the agreed replacement care. Monitored continuation benefit: safer support and explicit custodians reduce immediate risk, but strain remains. Record the chosen limited improvement. Both routes preserve a later return-to-Greenest problem. The portable witness is not required to remove the relief stone.
+
+## Companion departure gate
+Before leaving, ask Ryan what his NPC wants and the PCs what arrangement they accept: guest, paid help, witness or escorted captive. Record equipment, injuries, actual knowledge and who is responsible for any restraint or release. Use A20 only once this is agreed. Ryan remains in character during the final scene; Scott voices the dragon so Ryan never negotiates with himself.
 
 ## Why go north now?
 Two intelligible questions: who understands the familiar draconic pattern, and why is a dragon interested in this local reading? Runara said follow dragons, not trust them. The cult wants possession; the party wants answers and decides custody. The local care/handoff makes leaving a responsible choice rather than abandoning Doss.

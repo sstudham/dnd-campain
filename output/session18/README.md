@@ -1,20 +1,29 @@
 # Session 18: The False Light and the Buried Memory
 
-Rebuilt September 30, 2026 after the [Session 17 postmortem](Session17_Postmortem.md). Supersedes the September 29 outline.
+Revised October 20, 2026 for collaborative NPC play. The September 30 story rebuild remains the foundation; these are unplayed preparations.
 
-Start with the editable [Word DM guide](Session18_DM_Guide.docx): twelve pages, one event per page, with gated read-aloud and DM direction together. Use the [quick run sheet](Session18_Run_Sheet.md), [full gated read-alouds](Session18_Read_Aloud_Pack.md) and [four handouts](Session18_Player_Handouts.md) as companions. A0 and A1 are alternate openings; choose one. [Markdown guide source](Session18_DM_Guide.md) retains the expanded reference material. Word is the primary guide delivery format; PDF copies from the earlier build are historical outputs.
+## Table packet
+- [Editable Word DM guide](Session18_DM_Guide.docx): twelve pages, one event per page, read-aloud and DM direction together; Ryan cues throughout.
+- [Ryan brief — Word](Session18_Ryan_Brief.docx) / [text](Session18_Ryan_Brief.md): three pages covering opening raiders, mill handoff and northbound companion.
+- [Quick run sheet — Word](Session18_Run_Sheet.docx) / [text](Session18_Run_Sheet.md): two-page dashboard.
+- [Gated read-alouds — Word](Session18_Read_Aloud_Pack.docx) / [text](Session18_Read_Aloud_Pack.md): choose A0 OR A1; A19/A20 support the improvised handoff and agreed journey.
+- [Four player handouts — Word](Session18_Player_Handouts.docx) / [text](Session18_Player_Handouts.md): release H1–H4 separately; H4 now records the companion agreement.
+- [Expanded guide](Session18_DM_Guide.md), [revision inventory](Session18_Revision_Checklist.md), [historical Session 17 postmortem with current follow-through](Session17_Postmortem.md).
 
-Story: defend Greenest, expose a recognizable Cult of the Dragon opponent, recover the mill witness, make a local relief/care decision, then follow Runara's dragon lead north. All five PCs receive choices; actual Session 17 deployments and unresolved orders stand.
+## Ryan's role
+Scott is DM. Ryan commands/voices prepared opening raiders from information those people actually receive. At the mill Scott resumes opposition and Ryan becomes one present, eligible NPC. Identity stays open for improvisation: surviving hired worker/escort or local helper. Capture, cooperation and friendship are options. The intended final role is traveling with the party after an agreed reason and relationship. Scott plays the dragon while Ryan remains his companion. No new PC, omniscience or forced friendship.
 
-[Forty-minute mental movie](Session18_Mental_Movie_40min.txt): 6,116 words, about 40 minutes at 153 words/minute. Private rehearsal, not mandatory table narration or future history. Clean narration text; audio status is recorded separately if successfully generated.
+## Roll20 and pictures
+Primary opening page: **S18 08 - Four Fronts**, [combined map](S18_08_Four_Fronts.png). LOOKOUT upper left; BRIDGE upper right; WEST TRAIL lower left; MILL lower right. These are separate locations. Measure locally only; use regional routes/travel time between panels. Zoom maps remain available. The west trail is not Spade's east drainage route.
 
-Bounded approved DM background defines the pressure witness and Lennithon's independent comparison motive, not automatic party knowledge. Battle results, successful retrieval, receiver decision, dragon meeting and departure remain unplayed. Concordance/Acererak and optional Leosin/eggs remain unconfirmed.
+Companion-inclusive [northbound](S18_05_Northbound_Party.png) and [dragon threshold](S18_06_Dragon_Threshold.png) use all five authoritative PC headshots and one indistinct hooded traveler. The placeholder fixes no NPC identity or relationship. Display only when actual travel/meeting gates are met. Terrain, mill discovery and sanctuary pictures remain valid. Session 17 closing art remains a record of that earlier moment and is not retroactively edited.
 
-[Art prompts](Art_Prompts.md) and [Roll20 manifest](Session18_Roll20_Manifest.md) record page settings, reveal gates and verified installation. Face references remain authoritative; art establishes no incidental facts. Sanctuary art is atmosphere: apparent stone size and decorative carvings do not replace the existing palm-sized receiver description.
+[Roll20 manifest](Session18_Roll20_Manifest.md) records verified installation/settings. [Art prompts](Art_Prompts.md) preserve asset instructions and limitations.
 
-No D&D Beyond refresh was performed; September 1 stats/freshness stand. Confirm resources at opening. No automatic rest, level-up, payment, casualties or custody transfer.
+## Private rehearsal
+[Revised mental movie](Session18_Mental_Movie_40min.txt): 6,685 words, about 44 minutes at 153 words/minute. The original filename is retained for continuity. Ryan's contributions and mill/travel branches are now included. Private rehearsal, not mandatory narration or future history.
 
+[Listen to the revised rehearsal with Ryan](https://app.speechify.com/soundbite/a47b599e90d249feb417988ee11314d9?utm_source=chatgpt_app&utm_medium=punchout). Speechify accepted the full 39,605-character script on October 20; this is an external listening copy, with no downloadable MP3 returned. The earlier September 30 listening copy is historical. Earlier PDFs/preview images are historical builds; use current editable Word files. No new PDFs are delivered.
 
-## Listening copy
-
-[Play the full DM rehearsal in Speechify](https://app.speechify.com/soundbite/367fc662fb2245dfa8b61cb53fda4654?utm_source=chatgpt_app&utm_medium=punchout). The service accepted the complete 36,137-character script. This is an external listening copy; no downloadable MP3 file was returned. The repository text remains the durable version.
+## Continuity
+Session 17 remains the latest completed session. Preserve actual split deployments, unresolved signal/custody/resource questions and earned information. Battle, recovery, relief decision, companion relationship, dragon meeting and departure remain unplayed. Pressure witness and bounded dragon motive are DM background, not automatic party knowledge. No D&D Beyond refresh was performed; September 1 sheet freshness remains. No automatic rest, level-up, payment, casualties or custody transfer.

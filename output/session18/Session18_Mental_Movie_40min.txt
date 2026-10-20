@@ -1,7 +1,10 @@
-SESSION 18: THE FALSE LIGHT AND THE BURIED MEMORY — REBUILT SEPTEMBER 30, 2026
+SESSION 18: THE FALSE LIGHT AND THE BURIED MEMORY — REVISED OCTOBER 20, 2026
+A possible private DM rehearsal, updated for Ryan. The earlier listening copy predates this revision. About 45 minutes at 153 words per minute; the retained filename identifies the original rehearsal.
 A possible DM rehearsal. This is preparation, not a prediction of player decisions or a report of events. Listen privately. The successful route follows Scott's intended arc: manage the attack, recover the mill object, and head north with it and the plate. Alternative choices remain playable. Bounded DM background is approved; all imagined outcomes and player choices remain a possible rehearsal.
 
 ONE. THE MAP BECOMES A TOWN
+
+Before imagining the action, imagine another collaborator at your side. Ryan has the raider brief. You frame the situation and resolve consequences; he supplies the opposing voices and decisions from information those people actually have. The combined page shows lookout, bridge, west trail and mill at once. Its borders separate places, not five-foot steps. Let each front remain a real distance from the others.
 
 Imagine the last light of the afternoon resting on Greenest. It touches roof tiles, the rough edges of the road, and the flour dust on the mill's upper window. Nothing about the town suggests that it understands the plan being made around it. A woman gathers washing before the damp comes up from the river. A child carries a bowl toward the sanctuary. Somewhere a door is being repaired, and the repeated knock of a hammer sounds ordinary enough to be reassuring. These small tasks are what the party is protecting. The attack should feel important because people have lives here, not because the sky needs another spectacle.
 
@@ -12,6 +15,8 @@ Give the opening recap in a voice that moves from memory into the immediate pres
 The first drum sounds beyond the fields. Leave a little room after it. The second is farther away or merely softened by the road, and then the two begin to establish a rhythm. At the mill, a worker raises their head. On the west path, a guard stops adjusting a strap. On the ridge, a hand rests closer to a lantern shutter. On the north road, Severed Whisper hears the wheels. You now have four scenes connected by one sound. You can move between them without pretending that everyone can hear everybody else's conversation.
 
 TWO. PAT-BENATAR AND THE LIGHT
+
+Ryan now plays the observers as people watching a town, not as a player watching all four maps. Tell him what is visible. Let him choose whether they speak, reach for the lamp, retreat or surrender when confronted. Pat-Benatar's plan can work. Ryan does not need another wave to have participated well.
 
 The ridge is a place of cooling stone and grass that brushes the guards' legs. Below it, Greenest is beginning to show its lamps. One patch of road is visible, then another, and the low eastern route can be picked out by its darker line along the water. This is the place the signal paper described. The players solved that geography last session; reward it with immediate recognition. Pat-Benatar does not have to roll to discover that she came to the right hill. The question is what she does with the people and equipment already there.
 
@@ -29,6 +34,8 @@ Now picture the lure version. She wants Spade to come toward the prepared mill. 
 
 THREE. SEVERED WHISPER ON THE ROAD
 
+Give Ryan Wheel's waiting posture and the information that has actually arrived. He can make the drum falter, a driver bluff, or a frightened raider ask what the lone figure wants. Keep retreat and conversation available. Four raiders do not become an excuse to force a lone wounded adventurer into a lethal fight.
+
 The wagons make noise before they make shapes. A rim knocks against a stone. Harness creaks. The drums become clearer, and then the first wagon comes around the bend, sacks piled high and shields displayed along its sides. The second follows at an interval that gives the occupants room to look impressive. Their load is straw. Their purpose is visibility. The party knows that now, and Severed Whisper can watch the performance with the confidence of somebody who has read its script. He is still alone. Confidence gives the scene flavor, not extra hit points.
 
 If he begins hidden in the tree, describe branches, a patch of open road, and the angle from which he can see the wagon leader's face. He can count the occupants and notice that nobody is carrying a siege ladder. If he begins standing in the road, let the wagons notice him. The leader asks whom he speaks for. That gives him a chance to bluff, threaten, delay or negotiate. Do not decide that the convoy attacks a lone tabaxi on sight. Its orders are to arrive visibly, make noise, and await further instructions before entering. Severed Whisper is a complication in a demonstration.
@@ -38,6 +45,8 @@ In one possible successful version, he refuses to give them the response they wa
 The convoy can leave papers, but only where that makes sense. A docket tied beneath a seat can be found if they gain access to the wagon. A captured leader can answer about the next transfer point. A runner can carry an instruction. Do not place the next adventure's entire secret on the road merely because the scene is ending. The useful clue is ordinary: a northern fork, three pale stones, a shelf where hand-carried pieces are received. The people hauling tools can know that route without knowing why a dragon wants the cargo.
 
 FOUR. THROK'S QUIETER FRONT
+
+Here Ryan can voice an ordinary messenger if one is introduced. One short honest answer can make Throk's patient watch matter. A collaborator can know a dramatic truth without giving it to a courier who never learned it.
 
 The west path is quieter than the other positions. That does not make it useless. It runs past an orchard or low bank, with town lights visible through the branches. Throk has the third guard team, people who are looking to him for an order that turns waiting into a purpose. At the beginning, ask what he intends to watch or protect. Scott said the reason for this position was unclear. Do not retroactively invent a brilliant secret plan on his behalf. Give Mike a simple chance to make the choice now, with the information his character has.
 
@@ -59,6 +68,8 @@ Nighthill wants enough information to protect Greenest. He is interested in pris
 
 FIVE. BELOW THE MILL, ABOVE THE RISK
 
+At the mill, pause together for the handoff. You take back command of remaining enemies. Ryan chooses one person whose presence is now plausible. Perhaps a surviving hired worker asks for fair treatment. Perhaps a local helper has been holding the line beside the volunteers. No identity is fixed in advance. If the raiders never came, do not bring them in merely to capture Ryan. Let the successful defense stand and choose the local entrance.
+
 At the mill, the air carries damp wood and flour. The upper building is familiar. The party has already saved someone here. That matters emotionally. Floyd GoldSeeker should recognize the place where a person was trapped and the practical changes made since then. Do not reset the rescue or invent a new enormous machine he somehow missed. The old arch is still below, with its socket, its damaged channel, and the strange seam along which water climbs. The world has not changed simply because the next session needs a reveal. The next step is beside the arch, through the masonry the Spade note described.
 
 Both crews are present. They have hands for hauling timber, passing tools and moving spoil, but they still need a safe plan. Floyd GoldSeeker can see load lines and understand why a careless breach could pull the newer mill's weight into the old structure. Give him this knowledge freely. The challenge is the choice of method, the time he takes, and the people he protects. It should feel like expertise being used, not a player being asked to roll high enough to deserve the identity already established for his dwarf cleric.
@@ -77,6 +88,8 @@ When the operation ends, take a breath with the town. Runners collect reports. C
 
 SIX. THE THING THEY WANTED
 
+The small new bond can grow beside ordinary work. Ryan's person offers a free hand, asks about a safe foothold or admits a limited task. Floyd GoldSeeker still makes the engineering choices; Brother Kai still chooses how to help. The newcomer does not recognize the hidden instrument on sight unless actual experience supports that knowledge. Let a question carry the scene rather than an explanation.
+
 The last block comes away after the dangerous work has been supported. Use the sound of stone grinding against grit rather than a burst of triumphant magic. Cool air slips through the gap. There is a small recess beyond, old enough that the mill feels like a newer layer placed above it. The arch itself remains closed. The party has made side access, not repaired the lock or discovered a cavern full of giant machinery. That distinction preserves what they saw in Session 16 and what the enemy orders promised in Session 17.
 
 For this rehearsal, imagine the approved pressure witness. It is about the length of a forearm, smoky crystal held within three old bronze ribs. It rests in a shaped cradle. One amber thread hangs still inside it. The casing bears repeated geometric marks that look related to the Observatory and the mill channels. There are no glowing words that summarize the campaign. There is no voice naming the villain, no dragon egg demanding a parental relationship, and no imprisoned soul announcing that it was Floyd GoldSeeker's missing miner. The discovery can be strange without consuming every unresolved mystery at once.
@@ -92,6 +105,8 @@ In the approved bounded background, the pressure witness retains a limited recor
 Floyd GoldSeeker's old words, you were not the only one buried, dig, may be remembered by Andy. Let that happen without forcing a new divine message. He has chosen to dig with care and has brought something hidden into daylight. That action can matter to him before you decide what being spoke at Glittervein or the Observatory. If he asks whether it feels like the same light, describe only what he can observe: color, warmth, pattern, memory. Do not use a prepared reveal to settle a character's deepest question without the player's participation.
 
 THE SANCTUARY. TWO TRUE THINGS AT ONCE
+
+Ryan stays with the same person now. A cup, bandage or awkward question gives him a place in the room. He cannot decide the patients' care for the party or reveal Merra's whole truth. Scott voices Merra and Eadyan. Their practical disagreement remains a choice for the players.
 
 After the mill recess opens, the newly recovered witness holds one amber line steady within its smoky crystal. The plate, if actually brought near, makes a second line appear slightly apart. The practical discovery is small and valuable. A stable earlier reading and a disturbed current reading do not match. Floyd GoldSeeker can understand that without knowing every term in an ancient system. The whole party can understand that something changed here, and that the change can be compared.
 
@@ -119,6 +134,8 @@ A useful ending contains one answer and one next choice. Their old rescue change
 
 SEVEN. GREENEST LETS THEM GO
 
+Before the departure image, agree how the extra traveler belongs on this road. A guest, paid helper, willing witness and escorted captive make different scenes. Ask Ryan what his person wants and the party what it will accept. Record promises, equipment, wounds and any release terms. The plan is for him to travel in the final scene; the relationship is something you make together. If the first person cannot join, offer another plausible introduction without reviving anyone or dictating trust.
+
 Before departure, give the town a short aftermath that reflects the actual operation. If the plan held cleanly, the quiet after the drums feels like relief, and doors open wider. If it held at a cost, there are injuries, missing equipment, and guards who need a meal before another watch. If one front remains uncertain, Escobert asks for a clear report and assigns a sensible remaining watch. Do not declare a perfect victory because the next scene is northbound. The town's condition is part of what the players chose to do, and the departure should acknowledge it.
 
 Nighthill's thanks can be plain. He has seen evidence and now has reports. He can offer food, water, blankets and a safe place for those who rest. A coin reward or formal title is a separate decision, not something you need to invent for the plan to feel satisfying. Escobert is interested in the mill supports. He asks what the crews should keep in place and where nobody should put a load. Floyd GoldSeeker can explain. Brother Kai can confirm which people still need watching. The party has become useful to Greenest through actions, and that is stronger than an automatic appointment to command the town forever.
@@ -134,6 +151,8 @@ Picture the dawn version. Workers stand aside as the object is carried out in it
 Then the group chooses marching order and custody. The control plate is wrapped, the recovered spindle supported. Two objects do not make them two matching keys to a final campaign door. They are evidence, leverage, responsibilities and questions. The party is heading north because it wants to find the dragon and understand why these things matter. That is the connection to Runara's advice: follow the dragons. You do not need to repeat the full Stormwreck history. One remembered sentence can bridge the stories while the practical road carries them forward.
 
 EIGHT. THE ROAD ENDS AT A VOICE
+
+Ryan remains the companion while you play the dragon. He can be nervous, curious or skeptical in a way the table has earned. Give him room for a question, then leave the bargain, custody and next destination with the PCs. The sixth hooded traveler in the revised art is only a flexible visual placeholder. It does not settle his face, species, history or loyalty.
 
 Keep the northern journey simple enough that it feels like movement rather than a new session of delay. The road beyond the camp has ordinary marks: wheel ruts, rubbed cloth on a branch, packed earth where somebody shifted a load. At the fork, three pale stones have been placed too evenly to be accidental. The cart road continues one way. A narrower foot track climbs toward dark rock. Show these details before asking what the party does. Their route evidence should match enough of the ground that they can make a confident decision without a chain of mandatory navigation checks.
 
