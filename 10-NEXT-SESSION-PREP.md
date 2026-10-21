@@ -1,5 +1,15 @@
 # Next Session Prep
 
+## Session 19 current prep — saved October 20, 2026
+
+Session 18 is complete. Resume the mill standoff, not the four-front opening. [Session 19 packet](output/session19/README.md) includes four-page editable Word DM guide, separate editable read-alouds, starting deployment map, balance/setup notes, brief mental rehearsal and actual Session 18 summary. Ryan absent: Scott controls supporting NPCs and opposition. No new companion required.
+
+Inside-out order: Brother Kai/Floyd GoldSeeker behind barricade (Kai holds pink crystal); commander; Severed Whisper; four forward friendly guards; later enemy wagon group; Throk/Pat-Benatar and rear allies. Spatial order only, not initiative. Preserve damage, existing movement and cover. Before initiative confirm Severed Whisper HP, commander wounds, enemy wagon count, rear allied count and crystal/plate custody. No rest, refill or level-up. Details and conflicts in 07 and 09.
+
+Opening proposal: a short balanced confrontation with negotiation/surrender/extraction possible, no extra waves. Front/rear guards handled as groups to reduce solo-DM burden. Proposed unresolved wagon cap two escorts/four noncombatant workers; this is prep, not a canonical roster. Then protect crews, reconcile objects and decide care/sanctuary or earned north route. Relief-stone decisions and dragon meeting remain conditional.
+
+Session 18 packet below is historical prep, not a script to replay or proof every planned scene occurred. Use current Session 19 guide; narration stays in separate pack.
+
 ## Session 18 collaborative NPC revision — October 20, 2026
 
 Ryan joins Scott in collaborative NPC play: commands prepared opening raiders with local knowledge, then becomes one improvised present NPC at the mill and is planned to accompany the party in the final scene. Identity and capture/cooperation/friendship remain open. Scott retains adjudication and resumes opposition after handoff. The current [packet](output/session18/README.md) includes the compact five-page Word guide, Ryan brief, run sheet, gated read-alouds/handouts, rehearsal and companion-inclusive art. Primary Roll20 opening: S18 08 - Four Fronts, a four-panel lookout/bridge/west trail/mill map; separate panels do not shorten travel. See the manifest for verified settings. Earlier PDFs/listening copy are historical. All existing Session 17 facts, unresolved orders and resource freshness remain; no outcome or new character canon is created.

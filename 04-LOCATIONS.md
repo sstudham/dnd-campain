@@ -1,5 +1,13 @@
 # Locations
 
+## Mill and defense positions at Session 18 close — October 20, 2026
+
+Mill crews completed shoring and broke adjacent masonry into a small cavity. Brother Kai removed a fist-sized pink crystal from four prongs/gold channels. Removal caused a pulse and short tremor; shoring held. The original arch and previously damaged channel remain distinct; no whole-structure repair or newly surveyed exit is inferred. Scorched wooden entrance barricade still stands, separating inside PCs from enemy commander.
+
+Closing physical order: inside Brother Kai/Floyd GoldSeeker; commander; Severed Whisper; four friendly guards; later enemy wagon group; rear Throk/Pat-Benatar/allies. Proposed map spacing and decorative bridges/doors are not surveyed canon. The Session 18 table staged an enemy wagon on the eastern drainage approach, contrary to earlier foot-only prep; passability and exact route width need reconciliation rather than silent rewriting.
+
+Lookout lantern repaired after being extinguished. Two scouts left bound alive. West-path messenger escaped; pursuit unresolved. See Session 19 packet and 07-Needs Resolution for roster/route uncertainty.
+
 ## Approved Session 17 playable geography — September 29, 2026
 
 [Camp and strategy maps](12-ART-PROMPTS.md) support unplayed preparation. Northern camp keys: A Delivery entrance; B Wagon yard; C Workers quarters; D Survey and records tent; E Signal and stores yard; F Watch post. D is not Frulam's personal command tent.

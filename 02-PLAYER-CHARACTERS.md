@@ -1,5 +1,14 @@
 # Player Characters and Party Reference
 
+## Session 18 actual character updates — October 20, 2026
+
+* Throk: first summoned ghostly hawk familiar and experienced shared sight; unexplained patron connection, no revealed identity or physical shapeshift. Hawk name not chosen. His Eldritch Blast at escaped messenger missed; no slot deduction inferred from the cantrip.
+* Brother Kai: used one fire breath at barricade; 13 damage opened adjacent wall; lifted fist-sized pink crystal with claws and holds it at close. Focus/Flurry expenditure uncertain; no new automatic combat/healing feature. His earlier claw awakening is unchanged.
+* Severed Whisper: recorded damage 8 + 6 = 14; continued active and described as bloodied. Actual current/max HP must be confirmed, not derived from stale September 1 HP. Three diversion raiders killed across his attacks; final one captured with allied support. No healing or resource refill confirmed.
+* Floyd GoldSeeker: directed successful shoring and excavation, protected the work crews; inside mill beside Brother Kai at close. Pat-Benatar: took lookout with guard support, repaired lantern, sent warning that also triggered enemy movement, and spared bound scouts before moving millward.
+
+Five PCs remain level 2; no level-up or long rest reported. D&D Beyond sheets were not refreshed. Confirm current HP, slots, focus, hit dice, ammunition, consumables and once-per-rest recovery at Session 19 opening. Do not apply retrospectively discussed Uncanny Metabolism as completed healing. Full chronology: 09-SESSION-LOG.md.
+
 ## Session 17 actual status — September 29, 2026
 
 Names in new notes/read-alouds use Pat-Benatar. No advancement or fresh D&D Beyond values established; earlier sheet data remains historical.

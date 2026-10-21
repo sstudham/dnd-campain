@@ -1,5 +1,15 @@
 # Current Canon
 
+## Current position — Session 18 completed October 20, 2026
+
+Session 18 is the latest completed session. The party disrupted the operation, resolved the diversion wagon group (three raiders dead, one captured), obtained two living bound lookout captives, and recovered a fist-sized pink crystal from beneath the mill. Brother Kai holds it; the control plate is with the mill group. Throk summoned his first ghostly hawk familiar and shared its sight; his patron remains unidentified. The escaped enemy messenger and two pursuing guards remain unresolved.
+
+Play stops before the mill confrontation is resolved. From inside outward: Brother Kai and Floyd GoldSeeker behind the barricade; enemy commander; Severed Whisper; four friendly guards; later enemy wagon group; Throk and Pat-Benatar with rear allies. Enemy/rear counts remain uncertain. This is spatial order, not initiative. [Actual play and uncertainties](09-SESSION-LOG.md); [Session 19 packet](output/session19/README.md).
+
+The timber shoring held when the crystal was lifted and the channels pulsed. The breached adjacent masonry is distinct from the original old arch. No whole-vault repair, new item power, sanctuary solution, departure or dragon meeting is established. The played pink-crystal appearance differs from the prepared smoky pressure-witness spindle; preserve the observed object and flag identification/background reconciliation in 07 rather than silently granting its prepared function as player knowledge.
+
+All Session 18 unplayed-prep statements below are historical where superseded by this record. Ryan will not attend Session 19; Scott runs opposition and support NPCs, with no invented companion.
+
 ## Session 18 bounded DM background — approved September 30, 2026
 
 Scott authorized the story-aligned rebuild and its canon save. The mill's hidden contents are a portable **pressure witness**, retaining the vault's last stable local reading. Lennithon independently wants it and the control plate to compare that baseline with disturbances sensed farther north. This supersedes only the previously unspecified contents/motive; established mill damage, plate function, independent factions and Session 17 events stand. Details: [05-ITEMS.md](05-ITEMS.md), [03-NPCS.md](03-NPCS.md).

@@ -1,5 +1,9 @@
 # Session 18: The False Light and the Buried Memory
 
+## Session 18 completed October 20, 2026
+
+Actual play and closing deployment are saved in [Session 18 summary](../session19/Session18_Summary.md) and the main session log. [Live-session art](Live_Art_Index.md) is supporting visual reference. The remaining mill standoff opens [Session 19](../session19/README.md); Ryan will be absent. The earlier preparation below is historical where superseded. Sanctuary intervention, northbound journey and dragon meeting did not occur.
+
 Revised October 20, 2026 for collaborative NPC play. The September 30 story rebuild remains the foundation; these are unplayed preparations.
 
 ## Table packet

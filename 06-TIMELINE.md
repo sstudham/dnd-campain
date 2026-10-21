@@ -1,5 +1,11 @@
 # Timeline
 
+## Session 18 sequence — October 20, 2026
+
+At dusk the prepared operation began. Diversion fight: Severed Whisper defeated three of four wagon raiders; allies captured the last. Lookout: scouts surrendered, lantern extinguished then repaired; Pat-Benatar's two flashes plus steady warning light released the east advance under the actual table ruling. Throk's first hawk awakening followed his messenger capture; the messenger escaped after guards moved, with two guards pursuing.
+
+Mill crews shored and excavated, erected barricade; Brother Kai breathed fire at attackers, opened adjacent wall and recovered pink crystal. Pulse/tremor followed; supports held. Severed Whisper arrived and scattered rank-and-file; one commander remained. Session stopped with the separately staged later wagon group between forward guards and approaching rear allies. Session 19 resumes this same confrontation without automatic overnight recovery. Later routes and sanctuary/dragon scenes remain unplayed.
+
 ## Past Events
 
 * Brother Kai was given to a quiet monastery on the north Sword Coast at age 5.

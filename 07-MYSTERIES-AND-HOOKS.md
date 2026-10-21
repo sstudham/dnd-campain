@@ -1,5 +1,17 @@
 # Mysteries and Hooks
 
+## Session 18 close — Needs Resolution for Session 19
+
+* Crystal: played fist-sized pink crystal on four prongs differs from prepared forearm-long smoky pressure witness with bronze ribs/clips. Actual appearance/custody is established; resolve identification and whether prepared DM function still applies. Do not give party unseen baseline-reading knowledge.
+* Plate: at mill confirmed, exact personal carrier/socket placement unknown; spoken 18-inch-square size conflicts with earlier palm-wide. Earlier table description connected plate removal to structural shaking, whereas published prior test recorded an existing physical break. Preserve reports; do not silently rewrite prior damage cause or grant plate a universal repair.
+* Troops: initial eight-person mill team versus later 'eight laborers' roll language; rout occurred, yet final closing order places a later wagon group behind four friendly guards. Exact later roster and whether distinct personnel/remaining elements need Scott's clarification. No resurrected enemies or invented extra wave. East-route wagon staging differs from foot-only prep; map does not settle traversability.
+* Closing forward guard count four explicitly supersedes earlier five-to-mill order for starting placement. Rear count near ten is ambiguous about PC/pursuer inclusion; two messenger pursuers have unresolved outcome. Bound lookout scouts, wagon captive escort and escaped messenger destination/delivery remain open.
+* Severed Whisper took 14 recorded damage and remained standing; confirm actual current/max HP rather than stale 13-max snapshot. Brother Kai focus-point/Flurry usage and all recovery/ammo are uncertain. Uncanny Metabolism was discussed as a missed opportunity, not confirmed retroactive healing. No new sheet refresh.
+* Lantern warning: actual two short flashes plus sustained light triggered enemy advance at table. Preserve that consequence; old conditional northward-defender trigger was preparation, not an excuse to undo play.
+* Crystal removal pulse/tremor occurred but shoring held. No new catastrophe, pressure comparison, complete repair or sanctuary intervention was reported. No Frulam dispatch disclosure or dragon identity established during this session.
+
+These supersede older 'contents not discovered' and 'outcome unknown' entries only where actual play above supplies an answer. Unrelated open mysteries and older conflicts remain.
+
 ## Session 18 DM resolutions and player questions — September 30, 2026
 
 Previously unspecified mill contents and Lennithon's reason to want both objects now have bounded approved DM answers: a pressure witness preserves a stable local reading; he wants comparison against northern disturbances. See [05](05-ITEMS.md) and [03](03-NPCS.md). The party has not learned these answers or recovered the witness. Historical statements that the contents/motive were unspecified describe the earlier prep.

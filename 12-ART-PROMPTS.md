@@ -1,5 +1,11 @@
 # Art Prompts
 
+## Session 18 actual-play art and Session 19 deployment — October 20, 2026
+
+[Session 18 live art](output/session18/Live_Art_Index.md) preserves six supporting images: four-front montage, Severed Whisper in oak, Throk's first hawk, Brother Kai barricade breath, crossbow pursuit and rapier/capture. Actual required PC headshots were supplied to built-in generation. Written outcomes control incidental gear, counts, architecture and inferred emotions; art does not establish extra deaths, powers or discoveries.
+
+[Session 19 starting map](output/session19/Session19-Mill-Starting-Map.png) uses A-F group markers, not PC face substitutes. Exact spatial order from Scott's closing clarification; spacing/painted grid are proposed, headcount explicitly unconfirmed. No new Roll20 installation, exact calibration, initiative order or side exit claimed. [Prompts](output/session19/Art_Prompts.txt). Ryan absent; no companion figure added.
+
 ## Session 18 collaborative NPC art — October 20, 2026
 
 Current [Session 18 art prompts](output/session18/Art_Prompts.md) add the [Four Fronts primary map](output/session18/S18_08_Four_Fronts.png), with lookout/bridge/west trail/mill as separated tactical panels, and replace northbound/threshold art with the five required PC faces plus one indistinct companion. Ryan NPC identity is open for improvisation; the hooded placeholder fixes no face, allegiance or bond. Display only after actual travel/scene gates. Unaffected terrain/discovery/sanctuary and the canonical Session 17 closing image remain unchanged. This is prep/display art, not actual-play evidence.

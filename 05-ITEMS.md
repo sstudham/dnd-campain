@@ -1,5 +1,13 @@
 # Items
 
+## Session 18 recovered crystal and custody — October 20, 2026
+
+Played observation: a fist-sized handheld pink crystal rested on four prongs/gold channels in the newly opened mill cavity. Two front channels led toward the plate position; two rear channels entered the wall. Brother Kai lifted it using his claws and holds it at session close. A pulse, brief tremor and dust followed; timber shoring held. No glow before discovery, proven stored reading, plate-comparison test, healing/combat power or complete repair was observed.
+
+Control plate is with the mill PCs after a predeployment handoff from Severed Whisper accepted at table. Exact carrier/socket insertion is unresolved; no silent custody transfer to another PC. Session 18 spoken approximate size (18 inches square) differs from earlier palm-wide description; see 07.
+
+The older prepared pressure-witness description below is DM background, not the played object's appearance or automatic party knowledge. Its smoky forearm-long spindle, bronze ribs and clips differ from the pink four-prong object actually narrated. Reconcile identity/function explicitly; do not invent two recovered artifacts or retroactively replace the table discovery. Merra's pale relief stone, Pat-Benatar's scale and other stones remain separate. Earlier 'no retrieval yet' statements are historical.
+
 ## Mill contents defined — approved DM canon September 30, 2026
 
 **Pressure witness:** forearm-long smoky crystal spindle, roughly ten pounds, three old bronze ribs and retaining clips, one still amber line. A removable reference component retaining this vault's last stable local pressure reading, not an egg, soul, weapon or second plate. Support, release clips, lift and pad for safe recovery. No HP, healing, spell, combat or general PC benefit.

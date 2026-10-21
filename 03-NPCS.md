@@ -1,5 +1,13 @@
 # NPCs
 
+## Session 18 NPC status — October 20, 2026
+
+Diversion wagon group: three hired raiders dead, one captured alive by Severed Whisper and supporting guards. Two lookout scouts: surrendered and bound; Pat-Benatar ultimately left them alive at lookout. Enemy messenger: escaped unguarded bonds, missed by Throk's Eldritch Blast; two guards pursuing under kill orders, outcome unknown. None is automatically the commander or Ryan's future NPC.
+
+Mill first-wave rank-and-file scattered after Severed Whisper's roar/intimidation; one commander remained at barricade. Closing staging separately includes a later enemy wagon group, exact roster unresolved. Do not restore routed personnel or add a wave to explain that uncertainty. Commander's identity among previously burned warriors, remaining HP and name are unconfirmed; retirement/pension jokes do not establish a backstory.
+
+No persistent Ryan companion identity or relationship was established. Ryan absent Session 19; Scott runs NPCs. Frulam/Lennithon background below remains DM-only unless actually earned in later play. The session did not establish a new dragon meeting or name/faction disclosure.
+
 ## Session 18 DM motive clarification — September 30, 2026
 
 Lennithon wants a supervised comparison of the pressure witness's stored local baseline and the plate's interface against draconic disturbances he has sensed northward. He recognized outward activity from Stormwreck; he neither caused Greenest's original physical damage nor commands Frulam. He prefers custody but can negotiate copied readings or inspection under party control. These motives are DM background, not a completed meeting or identification of either prior distant dragon sighting.
