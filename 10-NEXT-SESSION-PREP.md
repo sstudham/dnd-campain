@@ -2,7 +2,9 @@
 
 ## Session 19 revised plan — October 26, 2026
 
-Five event pages in the [editable Word guide](output/session19/Session19_DM_Guide.docx): mill standoff; secure mill/earn lead; sanctuary choice if visited; northbound travel if chosen; independent dragon negotiation if reached. Five PCs attend, about three hours, no Ryan. Resume the [saved closing battle map](output/session19/Session19-Mill-Starting-Map.png), with a separate enemy wagon group. Later events are conditional, not scheduled outcomes.
+Five event pages in the [editable Word guide](output/session19/Session19_DM_Guide.docx): mill standoff; secure mill/earn lead; sanctuary choice if visited; northbound travel if chosen; independent dragon negotiation if reached. Five PCs, about three hours. Rebuilt with NPC stats, motives, checks, consequences and clue gates. Resume the [saved closing battle map](output/session19/Session19-Mill-Starting-Map.png), with a separate enemy wagon group. Later events are conditional, not scheduled outcomes.
+
+The [complete packet](output/session19/README.md) includes a [run sheet](output/session19/Session19_Run_Sheet.docx), [editable handouts](output/session19/Session19_Player_Handouts.docx), rewritten mental rehearsal with listening link and five scene assets. Roll20 folder **Session 19 - The Mill and the Dragon** has all five pages, private full GM reference and three gated handouts; [manifest](output/session19/Session19_Roll20_Manifest.md) records actual token/reveal state. One encounter map and four illustrations; no filler battles. The five-event range is 160–220 minutes, so the dragon can carry into the following session.
 
 Severed Whisper: **3/17 HP, 0 temp HP, AC 17** from read-only D&D Beyond browser check October 26; **no inspiration** per Scott. No healing, rest or sheet changes. Other sheets retain earlier freshness. Pink crystal is the pressure witness with its approved baseline/comparison function, played appearance preserved; DM knowledge is not party knowledge.
 

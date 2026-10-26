@@ -1,123 +1,125 @@
 # Session 19 DM notes
 
-Revised October 26, 2026. Five events, one Word page per event. No read-aloud prose. All five PCs; Ryan absent. Later scenes are conditional prep.
+Five playable events, one Word page each. No read-aloud prose. Later scenes are conditional. Allow roughly three hours; the dragon meeting can carry into the following session. NPC fallback profiles and task modifiers are preparation, not new character canon. Reference stat profiles: [Guard](https://www.dndbeyond.com/monsters/16915-guard), [Commoner](https://www.dndbeyond.com/monsters/16829-commoner), [Adult Blue Dragon](https://www.dndbeyond.com/monsters/16765-adult-blue-dragon), Basic Rules 2014; campaign Hired Raider stays unchanged.
 
-## 1  The mill standoff
+## 1  Break the mill standoff
 
-35–45 minutes • Resume the closing map
+40–55 minutes • S19 01 • Protect the crews and escape the choke
 
-### Start and stakes
+### Starting positions and stakes
 
-Brother Kai holds the pink crystal beside Floyd GoldSeeker behind the scorched barricade (A). Outside: commander (B), Severed Whisper (C), four friendly guards (D), separate enemy wagon group (E), then Throk, Pat-Benatar and rear allies (F). Preserve this spatial order; it is not initiative. Recover the people as well as the object.
+A: Brother Kai/crystal and Floyd GoldSeeker behind scorched barricade. B: enemy commander. C: Severed Whisper. D: four town guards. E: separate enemy wagon. F: Throk, Pat-Benatar and rear allies. Severed Whisper has 3/17 HP, AC 17, no inspiration. Preserve earlier wounds; the barricade stands. Ask each PC for an immediate action before resolving the next exchange.
 
-### Opening check
+### NPC combat reference
 
-Severed Whisper: 3/17 HP, 0 temporary HP, AC 17 on D&D Beyond, October 26. No inspiration (Scott). Keep all other PCs’ actual resources; Kai has used one fire breath. No automatic healing, rest or level-up. Confirm commander’s earlier fire wound and rear guard total before attacks.
+Commander/escorts — existing Hired Raider: AC 12; HP 9 maximum; speed 30 ft; club +3, 1d4+1 bludgeoning, reach 5 ft. Commander has 3 or 6 HP left if one of the burned warriors: confirm which. Town guard — AC 16; HP 11; speed 30; spear +3, 1d6+1 piercing, reach 5 or range 20/60; Perception +2, passive 12. Worker — AC 10; HP 4; speed 30; club +2, 1d4, reach 5; other ordinary checks +0. Track each person’s HP separately. Guard/Commoner are 2014 reference profiles; established token wounds control.
 
-### Opposition and pace
+### What the opposition does
 
-Wagon is separate from the routed first group. Recorded sighting: two fighters plus six people inside; map says headcount TBD. Six occupants need not be six additional fighters. Use their existing labor role; frightened workers seek shelter or surrender. Commander uses existing Hired Raider unless an established record says otherwise: AC 12, max HP 9, club +3, 1d4+1. Preserve his damage (3 or 6 HP remaining if one of the burned warriors). No extra waves.
+Commander wants the recovered object and a way out, but his first crew has fled. He demands the barricade opened and tries to keep Severed Whisper away from the entrance. Wagon: recorded two fighters and six occupants; use workers as laborers unless an existing roster says otherwise. Escorts turn toward whichever guard line actually closes. Workers duck, drop tools or seek surrender. No automatic extra wave.
 
-### Choices and solo-DM handling
+### Run the pressure, not a dozen guard turns
 
-Give each PC an immediate decision: protect crews/crystal, cover Severed Whisper, block the wagon, negotiate terms, or direct hawk/guards. Keep retreat and surrender visible. Resolve matched guard/escort clashes as one group exchange per round; use individual attacks only where PCs’ stakes require them. Do not grant extra PC actions. Existing barricade blocks both directions; decorative map exits are not new access.
+First exchange: commander threatens entry while wagon escorts assess the pinch. Next: if either escort falls or retreat is blocked, offer a surrender/parley opening; let their response decide it. Four forward guards contain escorts; rear guards block escape when they arrive. Use shared initiative and batch their attacks, but individual HP. A PC can negotiate, cover the bloodied rogue, protect workers, direct allies or reach the commander. Use normal movement and cover; map labels are not initiative.
 
-### Release gate and record
+### Adjudication and exit
 
-Finish when opposition is contained, withdraws, surrenders or otherwise resolves through play. Do not require a fight to the death. Record casualties, prisoners and new positions. Then move to Event 2. Opening narration is separate; all later narration is requested live.
+A believable safe surrender offer needs no roll when the enemy is clearly beaten. Uncertain bluff or pressure: DC 12; harder demands need concrete leverage. Failure costs position/cooperation, not an unavoidable massacre. Barricade removal needs deliberate work from inside; it is not a free exit. Finish on surrender, retreat or actual defeat. Record captives and injuries; put a searchable dispatch in an established dispatch-carrying opponent’s possessions, not in every worker’s pocket.
 
-## 2  Secure the mill and earn a lead
+## 2  Captives, clues and the crystal
 
-25–35 minutes • After immediate opposition resolves
+30–40 minutes • S19 02 • Turn victory into a useful lead
 
-### People and custody
+### Put the decisions on the table
 
-Ask who needs treatment, who escorts the wagon captive, and who retrieves the two living bound lookouts. Two guards still pursue the escaped messenger; no result is assumed. Floyd can assign a crew lead, inspect shoring and establish a safe exclusion area. Sensible work with tools succeeds unless haste, load or opposition creates real uncertainty.
+Escobert arrives only once the approach is secure. He wants a clear report: who is hurt, who is captured, what needs guarding. The workers want safe passage home. The captured commander wants survival and terms. Let PCs decide interrogation, treatment and custody while Floyd inspects the shoring. The two bound lookouts and escaped messenger’s pursuit remain outstanding responsibilities, not automatic new encounters.
 
-### Pink crystal: DM truth
+### People you can play
 
-Scott confirmed October 26 that the improvised pink crystal IS the approved pressure witness. Preserve its fist size, pink appearance and four-prong mounting; discard the older smoky spindle appearance. It retains the vault’s last stable local pressure reading. It is not a soul, egg, weapon, healing item or general PC buff. Brother Kai holds it; plate is at the mill, exact carrier/socket placement still to confirm.
+Commander/escort: Hired Raider, AC 12, max HP 9, club +3/1d4+1; use actual wounds. Knows the recovery task and immediate orders, not the rift’s cause. Hired worker: Commoner, AC 10, HP 4, speed 30, checks +0; knows employer, tools, route and wages. Escobert: practical, terse, protective of townspeople; use Guard AC 16/HP 11/spear +3/1d6+1 as a session fallback if a roll is needed, not a new permanent sheet.
 
-### What a test can reveal
+### Interrogation answers and evidence
 
-Only if the plate is actually brought close: a second offset amber line briefly compares the stored baseline with the current reading. Describe the observation first; give interpretation through examination or a knowledgeable source. No automatic recognition, full-vault repair, opened original arch, or knowledge of Lennithon’s motive. Shoring held after removal; the broken branch still needs work.
+Purpose: recover the contents through the side breach, preserve mill/channels, send the intact plate north separately. Who: an informed commander or the recovered H1 dispatch identifies Frulam Mondath and the Cult of the Dragon. Camp clue: returning hands/prisoners are counted there; a guarded cave holds stock. Do not identify the stock as eggs. Where next: H2 gives cart road beyond camp → last chalk fork → three pale stones → foot track to split basalt shelf. Release each handout only from an actually obtained source; ordinary workers cannot explain the dragon.
 
-### Earn faction and route information
+### A short practical discovery
 
-Use the existing dispatch or an informed captive after an actual search/interview: Frulam Mondath and the Cult of the Dragon seek possession and northward transfer. Workers know wages, tools and instructions, not cosmic explanations. Use the prior H1/H2 clue text if found. If nothing is searched or learned, keep these facts private. Do not replay the earlier camp investigation.
+The fist-sized pink crystal stores the vault’s last stable local reading. Bring the plate close: a second offset amber line appears briefly, showing a difference between stored and present readings. Investigation/Arcana DC 12 adds the reference-versus-current interpretation; the visible reaction is automatic. Failure leaves a concrete observation and the need for an expert. This is a measuring component, not a cure. The original arch remains shut.
 
-### Release gate and record
+### Give the discovery a human consequence
 
-Secure item carriers, wounded people, prisoners and a watch plan. Offer care at the sanctuary or the earned northern lead; let the party choose order. Record actual tests and knowledge separately from DM truth. Ordinary town cooperation can reward successful protection without a title, payment or magic item being assumed.
+Floyd can check braces, appoint a foreman and keep workers out of the damaged branch. A faint pulse on the sanctuary-facing channel can shed grit; a local worker can compare its timing with Merra’s relief stone. This points toward care and investigation, not another artifact hunt. Record plate/crystal carriers, prisoner escort, treatment and watch orders. Offer sanctuary or the earned northern route; the PCs choose which comes first.
 
-## 3  The sanctuary choice
+## 3  Relief without the hidden cost
 
-25–35 minutes if visited • Relief with a visible cost
+35–45 minutes • S19 03 • A moral choice with a practical solution
 
-### Human stakes
+### Scene and NPCs
 
-Eadyan Falconmoon provides ordinary care. Sister Merra is a sincere One God relief worker, separate from Frulam’s Cult of the Dragon. Doss remains in care unless play establishes a change. No offscreen death, instant cure or mandatory religious verdict.
+At the harvest sanctuary, three conscious injured civilians breathe more easily near Merra’s pale stone. Eadyan keeps ordinary treatment moving; Doss is still in care. Merra wants suffering relieved and her help taken seriously. Eadyan wants a method he can rely on. Merra is sincere; neither healer serves Frulam. Play them as colleagues who disagree about evidence, not opponents waiting for a persuasion roll.
 
-### Show the bounded effect
+### Quick profiles for unexpected rolls
 
-The pale receiver above the buried branch eases pain and labored breathing for three conscious injured civilians within 20 feet. It grants no HP, slots or PC buff. About every ten fictional minutes, a pulse coincides with fresh grit at damaged supports. Observation establishes a correlation, not the rift’s cause. The pale receiver and pink crystal are separate objects.
+Merra and Eadyan: noncombatant Commoner fallback, AC 10, HP 4, speed 30, ordinary saves/checks +0; no combat spell list or magical healing pool assumed. Prepared scene modifiers only: Merra Persuasion +2; Eadyan Medicine +4. Injured patients are stable story patients, not four-HP combat targets. These task modifiers support this scene and do not establish class levels. Helpers/volunteers: Commoner AC 10/HP 4.
 
-### Make a humane alternative practical
+### What the party can observe
 
-Fresh air, water, bandages, helpers and a suitable place replace the immediate relief. With this complete respectful plan, Merra agrees to a brief test without a Persuasion gate. Lift the pale stone onto an ordinary wooden bench away from the channel for one cycle: relief and added pulsing stop together, while patients remain stable with care.
+Within 20 ft, the seated pale receiver eases pain/labored breathing for those three patients. Every ten fictional minutes, relief coincides with a pulse and falling grit at a damaged support. Anyone watching a full cycle sees the connection. Medicine or Arcana DC 11 corroborates the pattern; failure costs a cycle, not the clue. The old fault remains a physical repair problem.
 
-### Choices and consequences
+### Run a real choice
 
-Isolation reduces this load; it does not repair the wider fault. Continued monitored use is possible with bracing, a named watcher and a review time. A temporary prop buys at least one night; there is no hidden instant-collapse deadline. Rough confiscation damages trust. Breaking the receiver loses its potential use without an explosion or automatic deaths. Deferral is allowed.
+Ask for the party’s proposed care plan. Fresh air, water, bandages, helpers and a suitable place allow lifting the receiver onto a wooden bench away from its channel for one cycle. Merra accepts a respectful complete plan without a social gate. Relief and extra pulsing stop together; ordinary care keeps patients stable. Alternative: leave it active, brace the support and assign patient/structure watchers with a review time. A temporary prop buys at least one night.
 
-### Release gate and record
+### Let the PCs change minds through action
 
-Record only the chosen intervention, observed results, patient-care custodian and receiver location. Give a visible lasting benefit for work actually completed. Leave the wider repair and theology open. Move north only if the party chooses; this scene may instead be the session’s satisfying endpoint. Request any read-aloud live after the choice is known.
+If Merra resists: show her the timed dust/relief evidence and invite her to supervise care. If players dismiss her faith: she defends the patients, not a secret villain. If they confiscate roughly: cooperation suffers, but caregivers continue helping. If they break it: relief stops without an explosion or instant deaths. Keep the whole-vault repair unresolved. Close with named responsibility and a visible limited improvement. Do not make departure depend on solving religion.
 
-## 4  Choose the northern road
+## 4  Follow the northern lead
 
-15–25 minutes if chosen • Handoff, supplies and approach
+20–30 minutes • S19 04 • Choose what to carry and what to ask
 
-### Earned departure
+### Purpose and scene flow
 
-Follow Runara’s existing lead to seek answers from dragons. Require a discovered route, agreed carriers and practical care/guard handoff; do not demand town perfection before departure. Use actual H2/docket, informed messenger/captive, Mara, or tracks at the chalk fork. Three pale stones mark the foot track to the split basalt shelf beyond the camp.
+Give the party a change of pace: leave the crowd, follow the earned route, and decide how to approach a powerful independent actor. Use the existing camp/council geography and H2. The cart road reaches the last chalk fork; three pale stones mark the narrower foot track. It climbs to a split basalt shelf overlooking the valley. It is a rendezvous, not a confirmed lair.
 
-### Resources and responsibility
+### NPC reference and useful questions
 
-Explicitly resolve any rest, healing, supplies and ammunition. Severed Whisper begins at 3 HP unless changed through play; make that visible before travel. Confirm potion holders and table mechanics rather than inventing strengths or damage types. Preserve the two pursuing guards’ unresolved status. No automatic recovery, reward or level-up.
+Mara Venn, if actually encountered on her route: paid intermediary, pragmatic, wants distance from trouble. Use Commoner AC 10/HP 4/speed 30/checks +0 as fallback. She can corroborate transfer directions, not identify every dragon or explain the old system. Ask players: what answer do you want; what will you reveal; what would make you walk away? The hawk can scout an approach without learning concealed thoughts or detecting hidden objects.
 
-### Keep the party together
+### Before departure
 
-All five PCs attend; Ryan is absent and no companion was established. Scott runs support NPCs and opposition. Use the existing five-PC northbound art or terrain, not companion variants. Invite each player to name one question or concern for the dragon. Floyd’s practical protection remains a focus without prescribing his faith or feelings.
+Ask who carries plate/crystal, who has food and healing, what rest they intend, and who is responsible for captives/patients. Resolve actual healing or rest if chosen; do not quietly refill resources. Severed Whisper’s 3 HP makes care consequential. The town can continue competent work after a reasonable handoff. Do not demand every loose end be resolved before the party can leave.
 
-### Travel without filler
+### Exploration that pays off
 
-Use a short transition after arrangements. Do not add another combat merely to fill time or replay the whole camp. The crystal is not a compass; tracks and evidence supply the route. The old table runner ruling was two rounds around the table in theater play, not twelve seconds of regional travel. Use actual distances when tactical time matters.
+Following complete directions requires no roll. Survival DC 11 improves confidence/timing if tracks are confused. Perception DC 12 on a declared scout identifies a useful exposed approach or sheltered place to wait; failure changes position/time, not whether the route exists. Ground near the shelf bears recent passage; no compulsory ambush. Offer distant scale, wind and the open return track as approach information, not a surprise initiative roll.
 
-### Release gate and record
+### Choices and pacing
 
-At the shelf, let players choose scouting, approach, concealment, negotiation or refusal. No hidden inventory detection and no forced handover. Keep the return route available. If time is short, close at the threshold with clear questions and use Event 5 next session. Later scene narration stays live.
+Party may wait openly, hail from a distance, scout first, conceal the items or turn back. Honor those preparations in the meeting. No forced object surrender or magical compass. If town play has already filled the evening, close on the shelf’s threshold with their questions clearly stated. If time remains, move directly into Event 5. Keep ten minutes at the end for choosing and recording the next objective.
 
-## 5  Negotiate with an independent dragon
+## 5  Lennithon’s bargain
 
-35–45 minutes if reached • One answer and a real choice
+35–50 minutes • S19 05 • Answers have terms
 
-### Dragon’s purpose: DM only
+### Play the dragon
 
-Lennithon independently wants the intact plate and pink pressure witness to compare the stable local baseline with disturbances sensed farther north. He recognized outward activity from Stormwreck. He is not Frulam’s subordinate or master. Meeting him does not identify the earlier golden-light/winged-shadow omen or solve Pat-Benatar’s ancestry.
+Patient, exacting and interested in evidence. Lennithon wants to compare the crystal’s stable local reading and the plate interface with northern disturbances. He prefers custody, but possession is negotiable. He is independent of Frulam. Begin by hearing the party’s purpose; answer one actual question before asking for inspection. He can give his name when asked. Keep retreat available.
 
-### Run the conversation
+### Adult blue dragon reference (2014; emergency only)
 
-Begin with his attention on what the party says and visibly carries. He may name himself when asked. Ask what brought them and what they seek. Give a response to their actual question before making another demand. Scott voices him. His independence is shown through specific interests and limits, not an obligatory attack on level 2 PCs.
+AC 19; HP 225; speed 40, burrow 30, fly 80 ft. STR +7 DEX +0 CON +6 INT +3 WIS +2 CHA +4; saves Dex +5/Con +11/Wis +7/Cha +9. Perception +12, Stealth +5, passive 22; blindsight 60, darkvision 120; lightning immune. Legendary Resistance 3/day. Multiattack: bite +12, reach 10, 2d10+7 piercing +1d10 lightning; two claws +12, reach 5, 2d6+7 slashing. Tail +12, reach 15, 2d8+7. Breath recharge 5–6: 90×5-ft line, Dex DC19, 12d10 lightning, half on save. Frightful Presence: chosen aware creatures within 120 ft, Wis DC17, frightened 1 minute, repeat end-turn saves. Three legendary actions/round: Detect; tail; or wing (cost 2), nearby 10-ft Dex DC20, 2d6+7 and prone, fly 40 ft. No lair actions at this rendezvous. This is negotiation, not a balanced level-2 fight.
 
-### Bargaining options
+### Offer concrete terms
 
-He prefers custody but can accept supervised inspection while PCs hold both objects, copied observations, answers before examination, or explicit temporary custody with return terms. PCs can counteroffer, withhold, leave or refuse. Do not force an oath, surrender or friendship. A refusal may limit further information without triggering combat.
+A: PCs keep both objects, allow supervised comparison, receive his interpretation. B: exchange copied observations without handing over objects; he gives less certainty. C: answers first, then temporary custody with an explicit duration and return location. D: refuse and leave; he withholds further help. A useful offer needs no Persuasion gate. DC 14 Persuasion may improve one uncertain term when backed by leverage; failure preserves the current offer.
 
-### Bounded answers
+### Answers and limits
 
-The objects share an old draconic design family with other sites, not necessarily the same function. The crystal preserves a local stable reading; the plate supplies comparison, not universal repair. Stormwreck’s signal was felt outward; it did not create Greenest’s physical fault. Cult transfer interests and Lennithon’s comparison motive overlap independently. No rift solution, patron reveal, ancestry answer or speculative Concordance/Acererak reveal.
+What is it? A local reference reading; plate comparison reveals change, not the cause. Why Greenest? The damaged branch predates Stormwreck’s outward signal. Why him? Dragons sensed that outward change; he wants to compare northern disturbances. Who is Frulam? Cult recovery/transfer interests overlap with his; she does not command him. Do not identify the earlier golden omen, Throk’s patron, Pat-Benatar’s ancestry or the rift’s ultimate cause.
 
-### Closing gate and record
+### Close on agency
 
-One supported answer plus a consequential choice is enough. Record item custody, exact promises, observations copied, trust/refusal and chosen next objective. If time runs out earlier, end at the actual point rather than skipping patient care or player decisions. All future outcomes remain prep until played; ask for live narration only after the scene is established.
+Offer routes already supported: investigate Frulam’s camp/cave lead; use the readings toward Greenest’s repair; or negotiate a bounded northern observation. Do not introduce Leosin or eggs as if already found. Record inspection, custody, answers, promises and the chosen next step. One meaningful answer and an agreement or refusal make a complete ending.
+
+

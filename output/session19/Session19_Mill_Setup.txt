@@ -16,7 +16,7 @@ RELEASE GATE AND RECORD
 Finish when opposition is contained, withdraws, surrenders or otherwise resolves through play. Do not require a fight to the death. Record casualties, prisoners and new positions. Then move to Event 2. Opening narration is separate; all later narration is requested live.
 
 ROLL20
-S19 01 - Mill Standoff, existing Session 18 - The False Light folder. Existing A-F starting map uploaded unchanged, 1536x1024, Roll20 grid off. Markers are baked into background; no new HP-linked token roster. Party ribbon remains on Four Fronts; Scott moves players at session start. S19 DM - START HERE contains private GM notes/links. Later five-PC art already available; avoid companion variants.
+Folder: Session 19 - The Mill and the Dragon. Five pages 01 Mill Standoff, 02 Crystal Discovery, 03 Sanctuary Choice, 04 Northbound, 05 Dragon Threshold. 01 uses the unchanged 1536x1024 closing map; Roll20 grid off. Later pages are display illustrations, not extra scheduled battles. Full private guide/stats in S19 DM - START HERE; three gated S19 handouts staged. Party ribbon remains on Four Fronts until play starts. See Session19_Roll20_Manifest.md for independent token staging and reveal details.
 
 NARRATION
 Opening prepared separately. All later read-alouds live on request; narration only, no intro or extra text. Five-page Word guide has DM notes only.

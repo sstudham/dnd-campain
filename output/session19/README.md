@@ -1,23 +1,38 @@
-# Session 19 — The mill standoff
+# Session 19 — The Mill and the Dragon
 
-Revised October 26, 2026 after Scott reviewed Session 18. Actual play is recorded in [09](../../09-SESSION-LOG.md); later scenes remain conditional prep.
+Rebuilt October 26, 2026 after Scott's prep review. Actual play remains in [09](../../09-SESSION-LOG.md); later scenes are conditional preparation.
 
-## Use at the table
+## Table packet
 
-- [Editable Word DM guide](Session19_DM_Guide.docx) / [text](Session19_DM_Guide.md): **five pages, one event per page, no read-aloud prose**. Standoff; mill aftermath; sanctuary choice; northern road; independent dragon negotiation. About three hours; stop at the actual point reached.
-- [Separate opening narration](Session19_Read_Aloud_Pack.docx) / [text](Session19_Read_Aloud_Pack.md): opening only. All later narration is generated live on request. No introductory or extra text when Scott requests a read-aloud.
-- [Existing starting map](Session19-Mill-Starting-Map.png): Scott confirms this closing deployment reference. A–F order, not initiative. Proposed spacing and headcount TBD remain visible.
-- [Setup details](Session19_Mill_Setup.txt) and [Session 18 summary](Session18_Summary.md).
-- Earlier [mental rehearsal](Session19_Mental_Rehearsal.txt) is private historical prep; current guide and Scott’s corrections control. It is not a player-facing script or a claim of future events.
+- [Editable Word DM guide](Session19_DM_Guide.docx) / [text](Session19_DM_Guide.md): five pages, one event per page, no read-aloud prose. Each page includes practical NPC profiles, intentions, checks, branches and release gates.
+- [Quick run sheet](Session19_Run_Sheet.docx) / [text](Session19_Run_Sheet.md): timing, immediate state, NPCs and clue sources.
+- [Player handouts](Session19_Player_Handouts.docx) / [text](Session19_Player_Handouts.md): H1 dispatch, H2 transfer directions and H3 blank arrangements worksheet. Reveal only when earned.
+- [Opening narration](Session19_Read_Aloud_Pack.docx) / [text](Session19_Read_Aloud_Pack.md): opening only. All later read-alouds are generated from actual play on request, with narration only.
+- [Private mental rehearsal](Session19_Mental_Rehearsal.txt), rewritten to match this guide; [listen](https://app.speechify.com/soundbite/c42cad02394c4f02a47d133c61238a3b?utm_source=chatgpt_app&utm_medium=punchout). Listening link generated through Speechify; no automatic playback claimed.
+- [Starting encounter setup](Session19_Mill_Setup.txt), [Roll20 manifest](Session19_Roll20_Manifest.md), [Session 18 actual-play summary](Session18_Summary.md).
 
-## Current corrections
+## Enough for the evening
 
-Five PCs attend; no Ryan and no companion. Severed Whisper: **3/17 HP, 0 temporary HP, AC 17**, read-only D&D Beyond check October 26. **No inspiration**, per Scott. Other sheets not refreshed; no rest/healing applied. Pink fist-sized crystal is the approved pressure witness with the same baseline/comparison function, appearance preserved. This function is DM truth until learned. Separate wagon group confirmed; exact final roster/roles and rear allied total remain open.
+Five events cover about 160–220 minutes: standoff 40–55; captives/discovery 30–40; sanctuary 35–45; north road 20–30; dragon bargain 35–50. Allow recap and close, and stop at the actual point reached. A full town evening can end at the earned northern route; do not force the dragon or add filler combat.
 
-## Roll20 verified October 26
+## Roll20
 
-[TUG4.1](https://app.roll20.net/campaigns/details/21496002/tug4-dot-1): **S19 01 - Mill Standoff**, in existing **Session 18 - The False Light** folder. Original 1536×1024 closing map uploaded as background; Roll20 grid disabled to avoid an overlapping uncalibrated grid. Painted 5-ft squares/proposed spacing remain a play aid, not surveyed measurements. A–F markers are part of the background, not independent HP-linked tokens. Existing PC records and old pages preserved. GM views new page; party ribbon remains on S18 08 - Four Fronts until Scott moves players at session start.
+[TUG4.1](https://app.roll20.net/campaigns/details/21496002/tug4-dot-1), folder **Session 19 - The Mill and the Dragon**, now has five scene pages:
 
-New **S19 DM - START HERE** handout has the opening state, five-event route, resource correction and links in **GM Notes only**; player journal/edit access left empty. No hidden clue handout shown to players. Existing S18 04 Mill Discovery and S18 07 Sanctuary Choice retained; use S18 05 Northbound and S18 06 Dragon Threshold five-PC art when reached, not companion variants.
+| Page | Asset | Use / reveal |
+|---|---|---|
+| S19 01 - Mill Standoff | [Saved A–F starting map](Session19-Mill-Starting-Map.png) | Opening encounter, preserve closing positions and wounds |
+| S19 02 - Crystal Discovery | [Pink crystal illustration](S19_02_Crystal_Discovery.png) | Reference to its mount before lifting; Kai currently holds it |
+| S19 03 - Sanctuary Choice | [Sanctuary illustration](S19_03_Sanctuary.png) | Only when visited; no choice depicted |
+| S19 04 - Northbound | [Five-PC route illustration](S19_04_Northbound.png) | Only if they depart on the earned route |
+| S19 05 - Dragon Threshold | [Five-PC approach illustration](S19_05_Dragon_Threshold.png) | Only when the meeting is reached |
 
-No campaign outcome, recording change, full-party sheet refresh, precise grid calibration or live narration/audio playback is claimed.
+One encounter map and four scene illustrations; later scenes are conversation/investigation, not scheduled fights. All have Roll20 grid off. The opening image's painted squares are approximate; exact scale is not calibrated. New group art uses all five required headshots and does not prescribe item custody.
+
+The private **S19 DM - START HERE** handout contains the run sheet and full revised guide with stats. **S19 H1 - Cult Dispatch**, **S19 H2 - Northern Transfer**, and **S19 H3 - Party Arrangements** are staged with blank player journal/edit access; none shown to players. Originals in Session 18 are preserved. Superseded task-created S19 north/dragon copies are archived; corrected versions are active in S19.
+
+Party ribbon remains on S18 08 - Four Fronts; move players to S19 01 when play starts. GM view is the mill. See manifest for token staging and final checks.
+
+## Resource limits to resolve at the table
+
+Severed Whisper: 3/17 HP, 0 temporary HP, AC17, read-only D&D Beyond check October26; no inspiration per Scott. No recovery applied. Other sheets retain older freshness. Confirm commander burn wound, rear allied total, final wagon roles/count and plate carrier; do not replace uncertainty with new troops, healed enemies or assumed custody.
