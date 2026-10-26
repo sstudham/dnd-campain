@@ -1,5 +1,10 @@
 # NPCs
 
+## Session 19 clarification — October 26, 2026
+
+Scott confirms the later wagon group is separate from the routed first attackers; use the saved closing battle map's placement. The earlier eastern sighting described two fighters and six occupants; do not silently turn every occupant into a fighter or add another wave. Final roster/roles remain to confirm. Lennithon wants the played pink crystal as the pressure witness, retaining his approved comparison motive; party knowledge remains gated by actual discovery.
+
+
 ## Session 18 NPC status — October 20, 2026
 
 Diversion wagon group: three hired raiders dead, one captured alive by Severed Whisper and supporting guards. Two lookout scouts: surrendered and bound; Pat-Benatar ultimately left them alive at lookout. Enemy messenger: escaped unguarded bonds, missed by Throk's Eldritch Blast; two guards pursuing under kill orders, outcome unknown. None is automatically the commander or Ryan's future NPC.

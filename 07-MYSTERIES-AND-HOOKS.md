@@ -1,5 +1,15 @@
 # Mysteries and Hooks
 
+## October 26 resolutions and remaining limits
+
+* Crystal identity/function resolved by Scott: the fist-sized pink crystal is the approved pressure witness; played appearance replaces old spindle appearance. Hidden function remains unrevealed to PCs until learned.
+* Severed Whisper: no inspiration (Scott); D&D Beyond read-only snapshot 3/17 HP, 0 temp HP, AC 17. No healing assumed.
+* Scott confirms the later wagon group is separate and directs use of the existing [closing battle map](output/session19/Session19-Mill-Starting-Map.png). Preserve A–F positions. Earlier recorded east-wagon sighting was two fighters and six occupants; exact final occupant roles/count and rear allied count remain unconfirmed. Map is spatial order, not initiative, and labels enemy headcount TBD.
+* Plate personal carrier/socket, approximate size and earlier damage-cause wording remain open. No reconciliation of those unrelated uncertainties is implied.
+
+Older unresolved crystal/HP entries below are historical where superseded here.
+
+
 ## Session 18 close — Needs Resolution for Session 19
 
 * Crystal: played fist-sized pink crystal on four prongs differs from prepared forearm-long smoky pressure witness with bronze ribs/clips. Actual appearance/custody is established; resolve identification and whether prepared DM function still applies. Do not give party unseen baseline-reading knowledge.

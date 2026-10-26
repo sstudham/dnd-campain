@@ -1,5 +1,10 @@
 This is the source of truth for my D&D campaign.
 
+## Current DM guide and live narration rule — October 26, 2026
+
+Scott clarified October 26, 2026: DM guides are editable Word documents with 4–5 events, exactly one page per event, containing DM notes, choices and release gates but **no read-aloud prose**. Prepare only the opening read-aloud in advance, separately. Generate all later read-alouds on demand from the actual current scene. When Scott asks for a read-aloud or asks to read it aloud, respond with **only the narration**: no introduction, heading, explanation, stage direction, source note, closing offer or other extra text. Preserve full Pat-Benatar. This supersedes earlier instructions requiring narration on each event page.
+
+
 Rules:
 - Canon only goes in canon files when I explicitly say CANON or “make this canon.”
 - Brainstormed ideas, maybes, possible twists, alternate villains, or unused scenes go in 08-IDEAS-NOT-CANON.md.
@@ -389,7 +394,7 @@ Do not use for:
 
 ## DM guide delivery format
 
-Scott confirmed September 30, 2026: deliver DM guides as editable Word `.docx`, with one page per event. Each event page should include its read-aloud, DM direction, choices and release gates. Verify the rendered page layout. Never deliver PDFs unless PDF is the only available option. Scott needs to edit deliverables. Prefer editable formats such as Word `.docx`; when PDF truly is the only option, explain why an editable version cannot be provided. Markdown may remain as a repository source, but it does not replace the requested Word guide.
+Scott confirmed September 30, 2026: deliver DM guides as editable Word `.docx`, with one page per event. October 26 clarification supersedes the earlier narration layout: each event page contains DM direction, choices and release gates, with no read-aloud prose. Prepare the opening separately; generate later narration live on request, with narration only and no introductory or closing text. Verify the rendered page layout. Never deliver PDFs unless PDF is the only available option. Scott needs to edit deliverables. Prefer editable formats such as Word `.docx`; when PDF truly is the only option, explain why an editable version cannot be provided. Markdown may remain as a repository source, but it does not replace the requested Word guide.
 
 ## Editable deliverables
 

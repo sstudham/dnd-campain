@@ -1,5 +1,10 @@
 # Timeline
 
+## Session 19 continuity — October 26, 2026
+
+Resume the Session 18 mill confrontation from the saved closing map. Scott confirms the later wagon is a separate group. No intervening rest, recovery, victory, sanctuary test or departure is inserted. Pink crystal retains pressure-witness DM function; this clarification is not a newly played event.
+
+
 ## Session 18 sequence — October 20, 2026
 
 At dusk the prepared operation began. Diversion fight: Severed Whisper defeated three of four wagon raiders; allies captured the last. Lookout: scouts surrendered, lantern extinguished then repaired; Pat-Benatar's two flashes plus steady warning light released the east advance under the actual table ruling. Throk's first hawk awakening followed his messenger capture; the messenger escaped after guards moved, with two guards pursuing.

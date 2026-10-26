@@ -1,5 +1,12 @@
 # Current Canon
 
+## Crystal reconciliation — confirmed October 26, 2026
+
+Scott confirmed the improvised fist-sized pink crystal is the previously approved **pressure witness**, with the same stable-local-reading/comparison function and Lennithon motive. Its played pink appearance, four-prong mounting and Brother Kai's custody supersede the older smoky forearm-long spindle/ribs/clips description. There is one recovered object, not two. Function is DM canon, not automatic party knowledge. The nearby-plate comparison remains conditional on actual testing; no universal repair, healing or combat power is granted.
+
+Severed Whisper has no inspiration (Scott). Read-only D&D Beyond sheet check October 26: current/max HP **3/17**, temporary HP **0**, AC **17**, Rogue 2. No rest or healing was applied. Other PC sheets retain their prior freshness labels. All five players attend Session 19; Ryan absent.
+
+
 ## Current position — Session 18 completed October 20, 2026
 
 Session 18 is the latest completed session. The party disrupted the operation, resolved the diversion wagon group (three raiders dead, one captured), obtained two living bound lookout captives, and recovered a fist-sized pink crystal from beneath the mill. Brother Kai holds it; the control plate is with the mill group. Throk summoned his first ghostly hawk familiar and shared its sight; his patron remains unidentified. The escaped enemy messenger and two pursuing guards remain unresolved.

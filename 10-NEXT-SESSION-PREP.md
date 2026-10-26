@@ -1,5 +1,15 @@
 # Next Session Prep
 
+## Session 19 revised plan — October 26, 2026
+
+Five event pages in the [editable Word guide](output/session19/Session19_DM_Guide.docx): mill standoff; secure mill/earn lead; sanctuary choice if visited; northbound travel if chosen; independent dragon negotiation if reached. Five PCs attend, about three hours, no Ryan. Resume the [saved closing battle map](output/session19/Session19-Mill-Starting-Map.png), with a separate enemy wagon group. Later events are conditional, not scheduled outcomes.
+
+Severed Whisper: **3/17 HP, 0 temp HP, AC 17** from read-only D&D Beyond browser check October 26; **no inspiration** per Scott. No healing, rest or sheet changes. Other sheets retain earlier freshness. Pink crystal is the pressure witness with its approved baseline/comparison function, played appearance preserved; DM knowledge is not party knowledge.
+
+No read-aloud prose in DM notes. [Separate opening only](output/session19/Session19_Read_Aloud_Pack.md); all later narration generated live from actual play. When Scott requests narration/read-aloud, output only the narration with no intro or extra text. The old later-scene scripts are superseded. Use five-PC art, no companion assumptions. Roll20 installation details are in the current packet index.
+
+Older October 20 prep below is historical where superseded by this revision.
+
 ## Session 19 current prep — saved October 20, 2026
 
 Session 18 is complete. Resume the mill standoff, not the four-front opening. [Session 19 packet](output/session19/README.md) includes four-page editable Word DM guide, separate editable read-alouds, starting deployment map, balance/setup notes, brief mental rehearsal and actual Session 18 summary. Ryan absent: Scott controls supporting NPCs and opposition. No new companion required.

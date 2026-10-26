@@ -1,5 +1,12 @@
 # Session 18 actual summary
 
+## Session 18 review clarifications — October 26, 2026
+
+Scott confirmed the pink crystal keeps the approved pressure-witness function; this is a DM-background reconciliation, not a new discovery in Session 18. He confirmed the later wagon group is separate from routed attackers and the saved closing map controls starting placement. All five players attend Session 19; Ryan absent. Severed Whisper has no inspiration at the next opening (Scott); the transcript's earlier award is not an available reroll. D&D Beyond read-only check October 26 shows 3/17 HP, 0 temp HP, AC 17; no intervening recovery was applied.
+
+Additional transcript details: Severed Whisper was awarded inspiration during Session 18 for remembering the messenger mechanic; Scott's current no-inspiration correction controls the present resource. Runner travel in the four-front theater scene was ruled as two rounds around the table, explicitly distinct from six-second combat rounds. At the eastern wagon sighting, two fighters and six people inside were narrated; final roster/roles still require confirmation. These details do not create more enemies or alter the closing A–F order. Raw transcript remains private.
+
+
 
 Saved at Scott's explicit instruction to summarize, prepare Session 19 and add to canon. Sources: Otter Session 18 inspected incrementally during play, Scott's direct rapier/capture correction, and his explicit final spatial-order clarification. Raw transcript and unrelated personal/social conversation are excluded. Transcript speakers were unidentified; uncertain mechanics and headcounts stay uncertain. Session ended at the mill standoff; no victory, rest, sanctuary intervention or departure is implied.
 

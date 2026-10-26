@@ -69,3 +69,12 @@ only from retrieved owner feedback or an explicitly identified observed failure.
 - **Status:** corrected September 30 under Scott's explicit format request. Session18_DM_Guide.docx was rendered in Microsoft Word and all twelve event pages visually inspected; twelve pages, one event per page. The repository format rule and current packet index were updated. This entry is assistance feedback, not campaign history.
 
 - **September 30 clarification from Scott:** “Never give me PDFs unless it is the only option. I can't edit them. Add this to your rules.” This broadens the format rule to all campaign deliverables. Explicitly authorized and implemented in `00-INSTRUCTIONS.md` and `CHATGPT_PROJECT_INSTRUCTIONS.md`; use editable formats whenever available. The earlier request-based PDF exception is superseded.
+
+
+## DND-SYS-005 — Live narration and compact DM notes
+
+- **Recorded:** October 26, 2026.
+- **Source:** Scott, Session 19 preparation chat: “I don't want the read alounds in the DM Notes” and “not include extra intro text... add that to your instructions”.
+- **Owner direction:** 4–5 events, one Word page per event; DM notes contain no read-alouds. Prepare opening separately; all later narration is requested live because play changes.
+- **Expected behavior:** When asked for a read-aloud or to read it aloud, give only the narration without intro, headings, commentary or a closing offer.
+- **Status:** implementation explicitly authorized October 26. Current instruction files and five-event guide updated; guide rendered and all five pages inspected. Live-play adherence remains to be demonstrated.

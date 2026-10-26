@@ -1,5 +1,10 @@
 # Player Characters and Party Reference
 
+## Session 19 resource correction — October 26, 2026
+
+Scott confirms Severed Whisper has **no inspiration**. Read-only browser inspection of [his D&D Beyond sheet](https://www.dndbeyond.com/characters/151283816) shows Rogue 2, **3/17 HP**, **0 temporary HP**, **AC 17**, speed 30 ft. This supersedes his older HP snapshot for Session 19 prep and is consistent with 14 recorded damage. No sheet values, rest, healing or inspiration were changed. Only Severed Whisper was checked; other PC mechanical/resource freshness remains September 1 unless separately confirmed. Exact ammunition, consumable and focus/slot expenditure still needs the table's records.
+
+
 ## Session 18 actual character updates — October 20, 2026
 
 * Throk: first summoned ghostly hawk familiar and experienced shared sight; unexplained patron connection, no revealed identity or physical shapeshift. Hawk name not chosen. His Eldritch Blast at escaped messenger missed; no slot deduction inferred from the cantrip.

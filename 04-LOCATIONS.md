@@ -1,5 +1,10 @@
 # Locations
 
+## Session 19 deployment reference — October 26, 2026
+
+Scott confirms the existing [Session 19 starting battle map](output/session19/Session19-Mill-Starting-Map.png) carries forward the closing positions: A mill interior, B commander, C Severed Whisper, D four guards, E separate enemy wagon, F rear allies. It is spatial order, not initiative. Its proposed spacing, painted grid and decorative terrain do not establish new exits or settle roster/route uncertainties.
+
+
 ## Mill and defense positions at Session 18 close — October 20, 2026
 
 Mill crews completed shoring and broke adjacent masonry into a small cavity. Brother Kai removed a fist-sized pink crystal from four prongs/gold channels. Removal caused a pulse and short tremor; shoring held. The original arch and previously damaged channel remain distinct; no whole-structure repair or newly surveyed exit is inferred. Scorched wooden entrance barricade still stands, separating inside PCs from enemy commander.

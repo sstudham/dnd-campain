@@ -1,5 +1,10 @@
 # Items
 
+## Crystal reconciliation — confirmed October 26, 2026
+
+Scott confirmed the improvised fist-sized pink crystal is the previously approved **pressure witness**, with the same stable-local-reading/comparison function and Lennithon motive. Its played pink appearance, four-prong mounting and Brother Kai's custody supersede the older smoky forearm-long spindle/ribs/clips description. There is one recovered object, not two. Function is DM canon, not automatic party knowledge. The nearby-plate comparison remains conditional on actual testing; no universal repair, healing or combat power is granted.
+
+
 ## Session 18 recovered crystal and custody — October 20, 2026
 
 Played observation: a fist-sized handheld pink crystal rested on four prongs/gold channels in the newly opened mill cavity. Two front channels led toward the plate position; two rear channels entered the wall. Brother Kai lifted it using his claws and holds it at session close. A pulse, brief tremor and dust followed; timber shoring held. No glow before discovery, proven stored reading, plate-comparison test, healing/combat power or complete repair was observed.
@@ -10,11 +15,11 @@ The older prepared pressure-witness description below is DM background, not the 
 
 ## Mill contents defined — approved DM canon September 30, 2026
 
-**Pressure witness:** forearm-long smoky crystal spindle, roughly ten pounds, three old bronze ribs and retaining clips, one still amber line. A removable reference component retaining this vault's last stable local pressure reading, not an egg, soul, weapon or second plate. Support, release clips, lift and pad for safe recovery. No HP, healing, spell, combat or general PC benefit.
+**Pressure witness (appearance reconciled October 26):** the fist-sized pink crystal recovered from four prongs/gold channels, held by Brother Kai. It retains this vault's last stable local pressure reading, not an egg, soul, weapon or second plate. The earlier smoky spindle, ten-pound weight, ribs and clips were unused description, superseded by actual play. Carry it securely and pad it against damage. No HP, healing, spell, combat or general PC benefit.
 
 If the plate is actually brought close, a second offset amber line briefly compares the stored local reading with a present reading. It does not repair the existing physical break or open the sealed arch. Removing the witness leaves the damaged architecture in place. Adjacent shored masonry provides the prepared access, not a newly enormous machine.
 
-No retrieval, test or party custody has occurred yet. Merra's receiver retains all existing bounded effects below: genuine relief for three patients, no HP/slots, paired ten-minute strain, reversible bench isolation with ordinary care. This component does not replace or identify any earlier stone. Local receiver isolation can reduce one load; wider repair remains necessary.
+Retrieval and Brother Kai's custody occurred in Session 18; comparison testing remains unplayed. Merra's receiver retains all existing bounded effects below: genuine relief for three patients, no HP/slots, paired ten-minute strain, reversible bench isolation with ordinary care. This component does not replace or identify any earlier stone. Local receiver isolation can reduce one load; wider repair remains necessary.
 
 
 ## Control plate visual correction and Session 17 evidence — September 29, 2026

@@ -1,27 +1,25 @@
-SESSION 19 MILL STANDOFF
-Working encounter prep from Scott's closing clarification in Otter Session 18, retrieved October 20, 2026. Closing facts published with the Session 18 canon save; balance proposals remain unplayed prep. Ryan will be absent; Scott controls opposition and supporting NPCs. No new companion is assumed.
+SESSION 19 SETUP — REVISED OCTOBER 26, 2026
 
-CONFIRMED SPATIAL ORDER FROM MILL OUTWARD
-A. Brother Kai and Floyd GoldSeeker inside the mill, behind the scorched wooden barricade. Brother Kai holds the fist-sized pink crystal removed from four gold prongs/channels. Control plate is at mill; exact personal carrier/socket placement remains unconfirmed. Excavation has opened adjacent masonry; original old arch remains a distinct feature.
-B. One remaining first-wave enemy commander outside the barricade.
-C. Severed Whisper immediately beyond the commander, bloodied after his run and intimidation.
-D. Four friendly guards already sent toward mill, between Severed Whisper and the later enemy group. Closing clarification says four here; preserve this over earlier five-to-mill planning.
-E. Later enemy group with a wagon. Scott's final ordering explicitly places them here. This is distinct from the people who fled Severed Whisper. Exact number and injury state are not confirmed; don't silently treat earlier rout as having never happened.
-F. Throk and Pat-Benatar with rear friendly forces arriving behind the wagon. Final dialogue suggests about ten allies total with staggered arrival, but whether that includes the two PCs and the two messenger pursuers is unclear. Keep exact count open.
+START AND STAKES
+Brother Kai holds the pink crystal beside Floyd GoldSeeker behind the scorched barricade (A). Outside: commander (B), Severed Whisper (C), four friendly guards (D), separate enemy wagon group (E), then Throk, Pat-Benatar and rear allies (F). Preserve this spatial order; it is not initiative. Recover the people as well as the object.
 
-This is spatial order, NOT an initiative order. Map spacing is proposed staging; it does not replace final table measurements. No new bridge path, outside roof opening or side exit is automatically accessible merely because terrain art shows it. Apply existing access rulings.
+OPENING CHECK
+Severed Whisper: 3/17 HP, 0 temporary HP, AC 17 on D&D Beyond, October 26. No inspiration (Scott). Keep all other PCs’ actual resources; Kai has used one fire breath. No automatic healing, rest or level-up. Confirm commander’s earlier fire wound and rear guard total before attacks.
 
-BALANCED OPENING PROPOSAL
-Use a short confrontation over control, surrender and safe extraction, not an obligatory full-force slaughter. Start with the remaining commander plus the later wagon force. Add no reinforcements or surprise boss powers. Do not restore enemies who fled.
-If the later wagon has no settled roster, proposed cap: TWO fighting escorts and FOUR frightened workers. These are a proposed subset/interpretation of the unresolved wagon group, not six newly discovered people. If actual closing roster is clarified differently, use that count and keep workers noncombatant.
-Existing Hired Raider reference for genuinely uninjured escorts: AC12, maximumHP9, speed30ft, club+3, 1d4+1. The commander uses the same existing campaign record unless Scott establishes another one; no multiattack or new ranged power. Preserve prior wounds: two first-wave warriors took6 and3 fire respectively; the surviving commander's identity among them is unresolved. If this is that commander, verify whether3 or6HP remain rather than resetting to9.
-Workers drop tools, take cover, flee or surrender when clearly outmatched. Keep the route out usable. They can bargain and answer ordinary work-order questions; they do not know hidden lore.
-Front four friendly guards form one blocking group: contain the wagon escorts and keep pressure off Severed Whisper. Rear friendly group secures retreat/captives when it actually arrives. Resolve matching NPC clashes as one group exchange per round; use existing guard records if individual attacks become material. No unearned extra PC actions or blanket HP buffs.
-Let each PC choose one important action: Brother Kai safeguards crystal/controls choke; Floyd GoldSeeker protects workers and manages exit; Severed Whisper can withdraw to guards, negotiate or confront commander; Throk directs hawk/guards; Pat-Benatar decides interception/surrender terms. These are opportunities, not assigned actions.
-Commander can surrender, bargain for a route out, or fight according to actual choices. A surrender is a valid conclusion; no required last stand. Ryan's absence is handled by grouped NPC turns, not by inventing his NPC or increasing lethality.
+OPPOSITION AND PACE
+Wagon is separate from the routed first group. Recorded sighting: two fighters plus six people inside; map says headcount TBD. Six occupants need not be six additional fighters. Use their existing labor role; frightened workers seek shelter or surrender. Commander uses existing Hired Raider unless an established record says otherwise: AC 12, max HP 9, club +3, 1d4+1. Preserve his damage (3 or 6 HP remaining if one of the burned warriors). No extra waves.
 
-RESOURCE CONTINUITY
-Resume without automatic rest, level-up or healing. Severed Whisper took14 recorded damage (8+6) and was still standing; current/maxHP must be confirmed. Brother Kai used one fire breath and dealt13 to wall; a focus point was discussed but exact expenditure is unclear. Throk has a hawk familiar and missed an Eldritch Blast at the escaped messenger. Two guards pursued that messenger; outcome still unknown. Wagon group from bridge ended three dead, one captive. Two lookout scouts left alive and bound. Those captives are not extra combatants on this map.
+CHOICES AND SOLO-DM HANDLING
+Give each PC an immediate decision: protect crews/crystal, cover Severed Whisper, block the wagon, negotiate terms, or direct hawk/guards. Keep retreat and surrender visible. Resolve matched guard/escort clashes as one group exchange per round; use individual attacks only where PCs’ stakes require them. Do not grant extra PC actions. Existing barricade blocks both directions; decorative map exits are not new access.
 
-MAP USE
-Session19-Mill-Starting-Map.png is a GM deployment image. A-F are location/group markers, not character portraits or HP-linked tokens. Painted grid is a planning aid; verify grid fit before Roll20 use. No Roll20 installation or exact calibration claimed. Source art used built-in image generation and the existing mill worksite terrain reference.
+RELEASE GATE AND RECORD
+Finish when opposition is contained, withdraws, surrenders or otherwise resolves through play. Do not require a fight to the death. Record casualties, prisoners and new positions. Then move to Event 2. Opening narration is separate; all later narration is requested live.
+
+ROLL20
+S19 01 - Mill Standoff, existing Session 18 - The False Light folder. Existing A-F starting map uploaded unchanged, 1536x1024, Roll20 grid off. Markers are baked into background; no new HP-linked token roster. Party ribbon remains on Four Fronts; Scott moves players at session start. S19 DM - START HERE contains private GM notes/links. Later five-PC art already available; avoid companion variants.
+
+NARRATION
+Opening prepared separately. All later read-alouds live on request; narration only, no intro or extra text. Five-page Word guide has DM notes only.
+
+CRYSTAL
+Pink fist-sized crystal retains approved pressure-witness stable reading/comparison function (Scott October26); Kai holds it. No automatic party knowledge. Plate exact carrier/socket remains to confirm.
