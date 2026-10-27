@@ -1,5 +1,9 @@
 DnD ChatGPT is the everyday entry point for campaign questions, brainstorming, session prep, and approved canon saves from phone, Web, or either PC.
 
+## Severed Whisper height and visual scale — October 27, 2026
+
+Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.
+
 ## Current DM guide and live narration rule — October 26, 2026
 
 Scott clarified October 26, 2026: DM guides are editable Word documents with 4–5 events, exactly one page per event, containing DM notes, choices and release gates but **no read-aloud prose**. Prepare only the opening read-aloud in advance, separately. Generate all later read-alouds on demand from the actual current scene. When Scott asks for a read-aloud or asks to read it aloud, respond with **only the narration**: no introduction, heading, explanation, stage direction, source note, closing offer or other extra text. Preserve full Pat-Benatar. This supersedes earlier instructions requiring narration on each event page.

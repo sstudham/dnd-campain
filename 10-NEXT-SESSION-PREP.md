@@ -1,5 +1,9 @@
 # Next Session Prep
 
+## Standing visual correction — October 27, 2026
+
+Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.
+
 ## Session 19 revised plan — October 26, 2026
 
 Five event pages in the [editable Word guide](output/session19/Session19_DM_Guide.docx): mill standoff; secure mill/earn lead; sanctuary choice if visited; northbound travel if chosen; independent dragon negotiation if reached. Five PCs, about three hours. Rebuilt with NPC stats, motives, checks, consequences and clue gates. Resume the [saved closing battle map](output/session19/Session19-Mill-Starting-Map.png), with a separate enemy wagon group. Later events are conditional, not scheduled outcomes.

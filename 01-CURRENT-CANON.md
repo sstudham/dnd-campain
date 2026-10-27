@@ -1,5 +1,9 @@
 # Current Canon
 
+## Severed Whisper height and visual scale — October 27, 2026
+
+Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.
+
 ## Crystal reconciliation — confirmed October 26, 2026
 
 Scott confirmed the improvised fist-sized pink crystal is the previously approved **pressure witness**, with the same stable-local-reading/comparison function and Lennithon motive. Its played pink appearance, four-prong mounting and Brother Kai's custody supersede the older smoky forearm-long spindle/ribs/clips description. There is one recovered object, not two. Function is DM canon, not automatic party knowledge. The nearby-plate comparison remains conditional on actual testing; no universal repair, healing or combat power is granted.

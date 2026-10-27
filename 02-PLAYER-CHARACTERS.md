@@ -1,5 +1,9 @@
 # Player Characters and Party Reference
 
+## Severed Whisper height and visual scale — October 27, 2026
+
+Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.
+
 ## Session 19 resource correction — October 26, 2026
 
 Scott confirms Severed Whisper has **no inspiration**. Read-only browser inspection of [his D&D Beyond sheet](https://www.dndbeyond.com/characters/151283816) shows Rogue 2, **3/17 HP**, **0 temporary HP**, **AC 17**, speed 30 ft. This supersedes his older HP snapshot for Session 19 prep and is consistent with 14 recorded damage. No sheet values, rest, healing or inspiration were changed. Only Severed Whisper was checked; other PC mechanical/resource freshness remains September 1 unless separately confirmed. Exact ammunition, consumable and focus/slot expenditure still needs the table's records.
@@ -146,6 +150,7 @@ These image files are the authoritative visual canon and required face reference
 ### Severed Whisper
 
 * Headshot image reference: Sev.jpg
+* Canonical height: **6'3" (6 feet 3 inches; approximately 191 cm)**. Tall adult Tabaxi; lean and athletic, never diminutive. Scott confirmed October 27, 2026. Preserve this scale in all solo/group art.
 * D&D Beyond live sheet: https://character-service.dndbeyond.com/character/v5/character/151283816
 * Tabaxi Rogue 2
 * Background: Custom Background

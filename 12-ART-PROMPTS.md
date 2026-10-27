@@ -1,5 +1,9 @@
 # Art Prompts
 
+## Severed Whisper height and visual scale — October 27, 2026
+
+Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.
+
 ## Session 18 actual-play art and Session 19 deployment — October 20, 2026
 
 [Session 18 live art](output/session18/Live_Art_Index.md) preserves six supporting images: four-front montage, Severed Whisper in oak, Throk's first hawk, Brother Kai barricade breath, crossbow pursuit and rapier/capture. Actual required PC headshots were supplied to built-in generation. Written outcomes control incidental gear, counts, architecture and inferred emotions; art does not establish extra deaths, powers or discoveries.
@@ -360,6 +364,8 @@ This is planning art for an unplayed puzzle climax. It does not make the propose
 ## Severed Whisper Image Prompt
 
 Tabaxi Rogue for Dungeons & Dragons.
+
+Required body-scale lock: Severed Whisper stands **6 feet 3 inches tall**. Show a tall adult humanoid Tabaxi, lean and athletic, with long adult proportions. Use companions and environmental scale consistently; crouching or distance must not be mistaken for a small body. Never render him as a small, squat, child-sized or diminutive cat-person. Preserve the exact face from Sev.jpg.
 
 Subject:
 A dark-furred feline humanoid Tabaxi rogue with a serious, watchful, slightly suspicious expression. He should look like a clever but low-level adventurer: dangerous, cautious, agile, and streetwise, but not legendary or overpowered.
