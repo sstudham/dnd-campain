@@ -1,5 +1,14 @@
 # NPCs
 
+## Session 19 NPC outcomes — October 27, 2026
+
+* Mill commander: killed by Severed Whisper, rose undead after two rounds with a violet draconic mark and a claim of unreleased service to the dragon, finally killed by rapier throat strike and decapitation. Scott established the bond in live direction; no shared Cult/dragon hierarchy or repeatable resurrection rule is inferred. Immediate wagon attackers also defeated.
+* Wounded soldier at the infirmary: named Frulam Mondath and the Cult of the Dragon, warned against Frulam, claimed an old dragon resurrection objective and reported hearing the camp was dismantled. He could not clarify Frulam's relationship to the northern dragon. Testimony is not independently verified world truth; the soldier is not silently identified as the final undead commander.
+* Doss Fen: remains in infirmary care, thankful for rescue; voiced suspicions about the relief worker's role and stone dependence. Neither suspicion nor joking descriptions prove a hidden allegiance.
+* Sister Merra / Mara Venn: the sincere relief worker received a natural-20 Insight result, visited the tavern with the party, became drunk with Pat-Benatar and was escorted back. However courier dialogue belonging to Mara Venn was delivered through this character while the names were interchanged. Preserve the separate established NPCs and affiliations pending resolution in 07. The barkeep's cousin claim is tied to the ambiguously named woman, not safely attributed.
+* Lennithon: not encountered. Party now knows a blue dragon north wants the objects and associates it with “L.”; full name and motive still unrevealed. Frulam's name/faction are now party knowledge, unlike older unrevealed-name notes.
+
+
 ## Session 19 clarification — October 26, 2026
 
 Scott confirms the later wagon group is separate from the routed first attackers; use the saved closing battle map's placement. The earlier eastern sighting described two fighters and six occupants; do not silently turn every occupant into a fighter or add another wave. Final roster/roles remain to confirm. Lennithon wants the played pink crystal as the pressure witness, retaining his approved comparison motive; party knowledge remains gated by actual discovery.

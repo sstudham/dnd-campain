@@ -1,5 +1,16 @@
 # Player Characters and Party Reference
 
+## Session 19 actual resources — October 27, 2026
+
+All five completed a long rest and returned to full HP by Scott's explicit morning ruling. This supersedes the October 26 3/17 HP opening snapshot and battle injuries; current numerical maxima/AC still retain their sheet freshness labels. No D&D Beyond refresh or sheet edits were performed. No level-up occurred.
+
+Brother Kai reported Uncanny Metabolism at initiative, used breath, focus strikes and a 7-HP healing spell (recipient uncertain). Floyd GoldSeeker used Turn Undead, fell to 0 HP and was restored to 3 HP by Throk's healer's kit before the later long rest. Throk cast Arms of Hadar, used Adrenaline Rush and one healer's-kit use; Pat-Benatar used breath and shortbow. Exact ammunition, remaining kit uses and other consumables remain unconfirmed. Apply only normal long-rest recovery to rest-recovering resources; no replacement of spent supplies.
+
+Severed Whisper spent heroic inspiration on the reroll against the turned undead commander, then received another award; Floyd GoldSeeker received an award for remembering infirmary care. No later expenditure is recorded for either. The pre-session “no inspiration” statement is historical, not their closing award state. Confirm any sheet/rules handling of inspiration at resumption.
+
+Brother Kai holds the pink crystal; plate remains with the party, personal carrier uncertain. Final commander kill: Severed Whisper's rapier throat strike and head ripped off; preserve his established 6'3" adult scale in future art.
+
+
 ## Severed Whisper height and visual scale — October 27, 2026
 
 Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.

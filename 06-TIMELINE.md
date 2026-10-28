@@ -1,5 +1,12 @@
 # Timeline
 
+## Session 19 sequence — October 27, 2026
+
+Mill standoff resumed → living commander killed while the wagon fight continued → commander rose undead after two dead rounds → wagon attackers defeated and undead commander finally killed by Severed Whisper → route cleared → party returned to infirmary/tavern → all five completed an overnight long rest and returned to full HP → morning questioning named Frulam/Cult and repeated the northern delivery lead → relief-worker tavern outing and return → stopped in Greenest before northern travel or dragon meeting.
+
+Next game: Tuesday, November 3, 2026, per Scott's “next week” instruction and table agreement. Begin from recovered party status and their intention to approach the dragon; do not replay the mill battle or grant a meeting retroactively.
+
+
 ## Session 19 continuity — October 26, 2026
 
 Resume the Session 18 mill confrontation from the saved closing map. Scott confirms the later wagon is a separate group. No intervening rest, recovery, victory, sanctuary test or departure is inserted. Pink crystal retains pressure-witness DM function; this clarification is not a newly played event.

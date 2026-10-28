@@ -1,5 +1,20 @@
 # Next Session Prep
 
+## Session 20 starting point — after Session 19, October 27, 2026
+
+**Next game: Tuesday, November 3, 2026.** Scott confirms next week, ready to talk to the dragon. Session 19 only reached mill victory, recovery and Greenest questioning. The party is still in Greenest, after the tavern outing and return to the infirmary; northward travel and dragon meeting have not happened.
+
+All five completed a long rest/full HP; no level-up. Brother Kai holds the pink crystal and the party retains the plate (carrier uncertain). Do not resume old 3/17 HP/no-inspiration opening state. Severed Whisper and Floyd GoldSeeker received heroic inspiration awards; see 02 for expenditures and resource limits. Sheets not refreshed; spent healer's-kit supplies/ammo are not rest-replenished.
+
+Party knows: Frulam Mondath/Cult of the Dragon from the wounded soldier; F.M.'s orders, 40 gp, “Transfer north. Hold for L.”; a blue dragon north wants the objects. Full name Lennithon and comparison motive remain DM knowledge. Soldier's resurrection/camp claims are unverified. No payment/handover completed.
+
+Resume with the party's chosen approach to the dragon, avoiding replay of completed combat or forcing a repeat sanctuary puzzle. Existing unplayed northern travel/dragon material remains usable as conditional prep. Lennithon wants a supervised comparison of the stored local baseline and plate against northern disturbances; custody, inspection or copied readings remain negotiable. Make his purpose and the party's reason to engage clear when actually disclosed, preserving independent factions.
+
+Before definitive NPC/stone explanations, consult 07: Mara Venn/Sister Merra were conflated in the played tavern testimony; pale stone instantly sobered drinkers; closing object-combination answer was “Nothing happens.” These need reconciliation, not silent retcons. No new guide, Roll20 changes or art installation is asserted by this canon save. Future DM guide remains editable Word, 4–5 one-page events, with no read-aloud prose; live narration only on request.
+
+The Session 19 plans below are historical where completed or superseded. Do not treat their unused beats as actual events.
+
+
 ## Standing visual correction — October 27, 2026
 
 Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.

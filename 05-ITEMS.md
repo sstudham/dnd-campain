@@ -1,5 +1,14 @@
 # Items
 
+## Session 19 observations and custody — October 27, 2026
+
+Brother Kai retained the pink pressure witness after briefly replacing it in its mill holder. Reinsertion briefly charged the walls and appeared to strengthen them, but no completed repair resulted. Later the pink crystal and pale relief stone pulsed with similar energy. These observations do not automatically reveal the pressure witness's stored-reading function. Party retains the control plate; individual carrier remains uncertain.
+
+The relief worker said villagers found the pale stone in a cavern. It eased pain, and Scott explicitly distinguished this comfort from the full HP recovered by the party's later long rest. On returning from tavern drinking, Scott narrated immediate sobriety near the pale stone. This new played observation conflicts with the older bounded effects; retain it as an observed event pending scope reconciliation in 07, without granting portable intoxication immunity or merging the objects. A fragment was said not to work; no completed removal, theft or destructive test is established.
+
+A closing question about combining the plate and crystal received “Nothing happens”; exact setup is unclear. No released offset-amber comparison reading, functional explanation, whole-vault repair or receiver-isolation test was established. Preserve the prepared DM function pending reconciliation rather than silently replacing either actual narration or background.
+
+
 ## Crystal reconciliation — confirmed October 26, 2026
 
 Scott confirmed the improvised fist-sized pink crystal is the previously approved **pressure witness**, with the same stable-local-reading/comparison function and Lennithon motive. Its played pink appearance, four-prong mounting and Brother Kai's custody supersede the older smoky forearm-long spindle/ribs/clips description. There is one recovered object, not two. Function is DM canon, not automatic party knowledge. The nearby-plate comparison remains conditional on actual testing; no universal repair, healing or combat power is granted.

@@ -1,5 +1,16 @@
 # Current Canon
 
+## Current position — Session 19 completed October 27, 2026
+
+Session 19 supersedes the unresolved Session 18 mill standoff below. The immediate mill/wagon attackers were defeated. Severed Whisper killed the commander, who rose after two dead rounds as an undead servant bound to the dragon; Severed Whisper finally killed him by a rapier throat strike and decapitation. Floyd GoldSeeker fell and Throk restored him to consciousness with 3 HP. Allies cleared the wagon route.
+
+The party returned to Greenest's infirmary and tavern and all five completed a long rest, explicitly returning to full HP. Brother Kai retains the pink crystal; the party retains the plate, individual carrier uncertain. No completed wider repair, artifact handover or northern departure occurred. Exact sheets were not refreshed.
+
+The party has now heard Frulam Mondath's name and Cult of the Dragon affiliation from a wounded soldier. Claims of an old dragon resurrection and a dismantled camp remain witness reports. They know the northern blue dragon wants the objects and associate the delivery's “L.” with it, but do not know the full name Lennithon or his comparison motive. The dragon remains independent of Frulam in DM canon.
+
+Play stopped in Greenest, ready to approach/talk to the dragon next time. Scott confirms the next game is next week: Tuesday, November 3, 2026. See 09 for actual events and 07 for the unresolved Mara Venn/Sister Merra identity mix-up and the pale stone's played sobriety effect. Earlier “no rest,” “no faction/name reveal,” and Session 18 latest-session statements below are historical.
+
+
 ## Severed Whisper height and visual scale — October 27, 2026
 
 Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.

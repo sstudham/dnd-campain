@@ -1,5 +1,18 @@
 # Mysteries and Hooks
 
+## Session 19 resolutions and Needs Resolution — October 27, 2026
+
+Resolved: immediate mill battle/wagon opposition defeated; commander rose undead and was finally decapitated; all five later completed a long rest/full HP. Frulam Mondath and Cult of the Dragon named to the party. Northern blue-dragon lead is now explicit, but name/motive, exact route/meeting and negotiation remain ahead. Older contrary state below is historical.
+
+Needs Resolution:
+* **Mara Venn versus Sister Merra:** the transcript calls the relief worker Mara/Mira/Merra, gives her courier/payment testimony belonging to Mara Venn, and calls her the barkeep's cousin. Previously Mara stayed north and Merra was an independent sincere One God relief worker. Do not silently merge them, move Mara back without explanation, make Merra a Dragon Cult operative, or assign the cousin relationship without clarification. Doss's suspicion remains suspicion; the successful Insight result supported sincerity.
+* **Pale stone:** immediate sobriety was narrated on return from the tavern, beyond its earlier bounded pain-relief effect. Preserve this observed event, but its scope/mechanism and repeatability are unresolved. Comfort during the night did not itself grant the party's full HP; Scott explicitly granted a long rest.
+* **Artifact test:** crystal reinsertion briefly charged/strengthened the mill structure without full repair. A closing plate/crystal question got “Nothing happens,” with unclear setup. Reconcile that limited result with the prepared offset-line comparison function before presenting a definitive explanation; no automatic repair or party identification.
+* **Witness limits:** wounded soldier claimed an old-dragon resurrection objective and a dismantled camp; neither is independently verified. Frulam was spoken of with male pronouns at table; preserve canonical identity/name and flag portrayal rather than inventing a new NPC. No proof Frulam was the commander, that the camp actually vanished, or that Frulam commands/serves Lennithon.
+* **Undead bond:** Scott established the commander's service to the dragon, but nature/source of that bond and any connection to Frulam remain unexplained. “No HP until two down” was encounter pacing direction, not a universal canon mechanic; only Floyd GoldSeeker's fall is securely recorded.
+* Plate personal carrier/size, exact consumables/ammo and current numerical sheet maxima remain uncertain. Escaped messenger, two pursuing guards and earlier bound captives remain unresolved. No automatic offscreen outcomes.
+
+
 ## October 26 resolutions and remaining limits
 
 * Crystal identity/function resolved by Scott: the fist-sized pink crystal is the approved pressure witness; played appearance replaces old spindle appearance. Hidden function remains unrevealed to PCs until learned.
