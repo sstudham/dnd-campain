@@ -11,6 +11,21 @@ November 3, 2026. Scott explicitly approved the complete session summary, played
 
 Written events control incidental props, exact architecture, markings and visual scale. Images do not establish new relatives, lineage, powers, an arrived wizard or a guest destination. Required headshots remain unchanged.
 
+## Roll20 scene backgrounds — archive completed November 4, 2026
+
+The four cave maps omitted from the initial archive are now preserved below. Together with the corrected north-path image above, these are all five unique backgrounds installed across Session 20's six Roll20 pages.
+
+| Roll20 page | Saved source image |
+|---|---|
+| S20 00 — North from Greenest | [Corrected north path](S20_00_Northbound_Sev_Height_Corrected.png) |
+| S20 01 — The Shadow Lock | [Fire cavern](S20_01_Fire_Cavern.png) |
+| S20 02 — Wayfarer and Commander | [Hallway and commander chamber](S20_02_Hall_And_Commander.png) |
+| S20 03 — The Exit Goes Dark | [Hallway after the entrance closes](S20_03_Exit_Dark.png) |
+| S20 04 — Lennithon's Lair | [Deep lair](S20_04_Deep_Lair.png) |
+| S20 05 — Shared Meditation | [Deep lair, reused background](S20_04_Deep_Lair.png) |
+
+Original PNG sources are saved; Roll20's uploaded copies may be converted to WebP. These gridless maps illustrate the played locations. Decorative proportions do not override written room descriptions, adjudicated positions, movement or the actual final-arrow line. NPC tokens and reveal masks are separate Roll20 elements, not baked into these backgrounds.
+
 ## Seven separate ElevenLabs clips and dialogue
 
 * [01-Lennithon-Questions — spoken script](01-Lennithon-Questions.txt) · [separate audio flow](https://elevenlabs.io/app/flows/7y17CdIalhWMqql4iSiT) · Smoke — The Dragon
