@@ -1,5 +1,16 @@
 # Campaign Structure
 
+## Session 20 transition and guest arc — November 3, 2026
+
+Actual milestone: the party followed Runara's dragon lead to Lennithon, recognized a Stormwreck/mill pattern connection, learned artifact comparison purpose and One God opportunism, disclosed the monastery vision and accepted shared meditation. Their awareness crossed toward another reality; home bodies remain in the guarded lair. Full actual chronology is in 09; earlier unplayed north/dragon scenes below are historical.
+
+Pat-Benatar's new personal lead is a custodian tradition behind her inherited clan emblem (“those entrusted to keep watch”), not a solved ancestry or new druid class. Continue with old sites/records and player choices; do not force a bloodline answer. Both dragons and the wizard-shaped contact lack the crisis's cause. One God opportunism and Frulam's cult stay separate from that still-open mystery.
+
+Guest arc preparation remains non-event material: up to three sessions, flexible world/system/characters, with no need to use this campaign's villains or map. Required eventual insight is a damaged thing still holding existence together; Dragon's Rest and mill are examples. The Session 20 entry imagery only begins the connection and does not supply that final experience or a literal cosmological map. Destination, wizard contact and cause remain for future play.
+
+Keep home and guest mechanics separate, honor recorded bodies/gear/custody and negotiate exceptions/return interval. Do not reset resources or grant loot/levels merely because the vision lasts several sessions. See 10 for the handoff checklist.
+
+
 ## Session 18 story alignment revision — September 30, 2026
 
 Current prep: [The False Light and the Buried Memory](output/session18/README.md). Preserve the Session 17 split, resolve the defense briskly, identify the Cult through earned evidence, recover the mill witness, make a local care/receiver decision, then follow Runara's dragon lead north. This combines the immediate defense, discovery and northern transition into Session 18 rather than extending transfer logistics across several sessions. Later repair/community/faction choices remain open.

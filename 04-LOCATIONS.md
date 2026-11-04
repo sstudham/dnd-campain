@@ -1,5 +1,16 @@
 # Locations
 
+## Lennithon's lair — visited Session 20, November 3, 2026
+
+Northern approach from Greenest leads into a vast outer cavern with a huge iron fire cauldron, suspended water cistern, release assembly/cable and drainage channels. The great fire appeared persistently maintained without an obvious fuel supply. A freestanding stone frame has no physical lock, but casts a shadow containing a keyhole on the eastern wall. Brother Kai used the nearby iron key's shadow to open the shadow passage. Neither party artifact was required.
+
+Immediately beyond the passage is a hallway alcove containing the living Wayfarer, meditation mat, bedding, food, water and written pages. He was encountered before the guardian. Farther along is the guardian's chamber and the deeper route.
+
+After Throk killed the guardian, its final arrow struck the cistern release through the entrance. Water quenched the fire and the shadow doorway vanished, leaving solid stone; no whole-lair flood or PC scalding was narrated. The room remains physically inaccessible by that closed passage at the stopping point. No relighting/reopening has occurred.
+
+The deeper cavern has massive supporting pillars, treasure, a rest/meditation area, four undead guards and a high flight shaft. The pillars were described as ordinary structural supports, not a newly revealed cosmic machine. Lennithon can leave by the shaft or take human form; he is not trapped in his hoard room. All five PCs, the Wayfarer and human-form Lennithon sat in a meditation circle. Their bodies remain there at the guest-adventure handoff. The closing vision is an experiential threshold, not a surveyed physical destination.
+
+
 ## Session 19 deployment reference — October 26, 2026
 
 Scott confirms the existing [Session 19 starting battle map](output/session19/Session19-Mill-Starting-Map.png) carries forward the closing positions: A mill interior, B commander, C Severed Whisper, D four guards, E separate enemy wagon, F rear allies. It is spatial order, not initiative. Its proposed spacing, painted grid and decorative terrain do not establish new exits or settle roster/route uncertainties.

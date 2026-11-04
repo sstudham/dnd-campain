@@ -1,5 +1,18 @@
 # Current Canon
 
+## Current position — Session 20 completed November 3, 2026
+
+Session 20 supersedes the Session 19 stopping point below. The party left Greenest, Brother Kai solved the shadow-key entrance, and the party met the detained Wayfarer before fighting another undead commander in the inner approach. Throk killed this distinct guardian with Eldritch Blast down its throat. Its final arrow released the cistern, quenched the great fire and closed the shadow entrance. The party assisted the frail Wayfarer deeper inside and met Lennithon, an independent blue dragon with four more undead guards. They chose a cooperative exchange rather than fighting him.
+
+Lennithon examined the crystal and viewed the plate; he wanted comparison data and firsthand accounts, not merely possession. The party shared Stormwreck, the mill and the monastery vision. The wizard-shaped being from that vision is separate from the One God cult. Scott approved Lennithon's explanation that the One God movement exploits the wider crisis rather than causing it; sincere followers and real local effects do not validate its theology. Frulam's Cult of the Dragon remains separate. Dragons sense disturbances but do not know the cause.
+
+Pat-Benatar's inherited clan symbol has an older custodian meaning: **“those entrusted to keep watch”** over ancient draconic sites and their workings. Her clan adopted or inherited that responsibility. Her scale's resonance near the Observatory supports the connection; it does not make her responsible for the damage. Her parentage, unusual appearance, the precise custodianship and its continuity remain unresolved.
+
+All five agreed to shared meditation with the Wayfarer and Lennithon, who took human form. Their awareness crossed toward another reality while their bodies remained seated in the lair under the four guards' watch. Wizard contact, destination, guest-adventure events and return remain unknown. Lennithon promised their possessions remained theirs; exact physical holders at the closing moment were not restated. No gold payment, level-up, new rest or resource refill was established.
+
+Full actual play: [09](09-SESSION-LOG.md). Approved live art and dialogue: [Session 20](output/session20/README.md). Written facts control incidental visual details. Earlier contrary state below is historical.
+
+
 ## Current position — Session 19 completed October 27, 2026
 
 Session 19 supersedes the unresolved Session 18 mill standoff below. The immediate mill/wagon attackers were defeated. Severed Whisper killed the commander, who rose after two dead rounds as an undead servant bound to the dragon; Severed Whisper finally killed him by a rapier throat strike and decapitation. Floyd GoldSeeker fell and Throk restored him to consciousness with 3 HP. Allies cleared the wagon route.

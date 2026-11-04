@@ -1,5 +1,16 @@
 # Player Characters and Party Reference
 
+## Session 20 discoveries and resources — November 3, 2026
+
+All five remain level 2. They began from Session 19's long rest, then fought the cave guardian; no further rest, automatic healing, numerical sheet refresh or level-up was established. Throk used Adrenaline Rush (2 temporary HP as played) and repeated Eldritch Blast, delivering the final throat-blast kill. Severed Whisper made rapier attacks and disengaged/repositioned; a 7-slashing-damage hit is explicit, but exact closing HP and attribution of all other damage require player records. Brother Kai and Pat-Benatar used breath weapons; Floyd GoldSeeker attempted Turn Undead twice without turning this guardian. Do not retroactively derive resource totals from confused action-economy discussion or promote the played breath/Sneak Attack ruling into a universal rule. Prior inspiration awards are not erased; no new expenditure/award is securely established.
+
+Pat-Benatar told Lennithon that her scale reverberated near the Observatory lines and that she recalled no family explanation. He identified the mark's older meaning: **“those entrusted to keep watch.”** It designated custodians of ancient draconic places and their workings. Her clan adopted or inherited a responsibility as well as an emblem. The resonance corroborates a relationship to the ancient pattern; it does not show that she caused the disturbance. Concrete lead: find the mark at other old sites and records of their custodians. Parentage, unusual appearance and whether her clan remembered its duty remain unknown. “Dragon druids” was table interpretation, not an established class or lineage.
+
+Her earlier background remains intact: raised as an outsider among dragonborn because she appeared largely human; left at seventeen with practical supplies and her mother's wooden token; developed her observational, social and rogue skills around the docks. These are existing history, not new memories granted by Lennithon.
+
+All five voluntarily joined the closing meditation. Bodies and home equipment remain in Lennithon's lair; awareness crossed toward an unspecified guest-adventure reality. The plate and crystal remain party property by his promise, but the crystal was handed to him for inspection and its exact final physical holder was not restated; Throk displayed the plate without a confirmed transfer. Six gold and twelve silver were found on the guardian, individual recipient unrecorded. No hoard payment or healing-draught consumption was established.
+
+
 ## Session 19 actual resources — October 27, 2026
 
 All five completed a long rest and returned to full HP by Scott's explicit morning ruling. This supersedes the October 26 3/17 HP opening snapshot and battle injuries; current numerical maxima/AC still retain their sheet freshness labels. No D&D Beyond refresh or sheet edits were performed. No level-up occurred.

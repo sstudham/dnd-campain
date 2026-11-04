@@ -1,5 +1,23 @@
 # Next Session Prep
 
+## After Session 20 — guest-adventure handoff, November 3, 2026
+
+Current actual ending supersedes all older starts below: all five PCs voluntarily meditated with human-form Lennithon and the frail Wayfarer. Their awareness crossed toward another reality; bodies and home equipment remain seated in the deeper lair. Four guards watch by Lennithon's protective promise. Wizard contact and destination are unknown. [Actual log](09-SESSION-LOG.md); [live art/dialogue](output/session20/README.md).
+
+### Preserve on return
+* Home PCs remain level 2; no new rest, healing, resource refill or gold payment occurred. Confirm actual closing HP/temporary HP, breath uses, Channel Divinity, Adrenaline Rush, inspiration, slots, ammunition and supplies with players. Sheets were not refreshed.
+* Plate and crystal remain party property by promise. Brother Kai handed crystal for inspection; Throk displayed plate. Exact closing physical holders were not restated. Loot found: 6 gp, 12 sp, chipped sword and written orders; recipients/equipping unknown.
+* Fire/shadow entrance is closed. Guardian dead/decapitated; four deeper guards remain. Lennithon has an overhead shaft. Wayfarer frail and still not explicitly released. No permanent alliance, restraint, artifact gift or completed repair is invented.
+* Party now knows the comparison purpose, dragons' uncertainty, One God movement's separate opportunism, and Pat-Benatar's custodian-mark meaning. No cause/villain or ancestry solution.
+
+### Approved future guest framework — preparation, not completed play
+Guest DM can run up to three sessions in any setting or agreed system, using familiar identities or alternate characters. Keep home records separate. Suggested home interval is one protected watch up to eight hours; exact duration/guest format and any exceptions must be agreed, not treated as already elapsed. No automatic physical loot, home HP recovery, permanent curse/death or level gain transfers back. Whether Lennithon/Wayfarer reach the same guest destination is not established.
+
+By the guest adventure's end, convey through experience that **something damaged is still holding existence together**, with Dragon's Rest and the mill two local examples. This fuller discovery was not already completed in Session 20. Dragons do not know what is breaking it or why. Leave the ultimate cause unnamed.
+
+Resume Scott's campaign from actual return choices, memories, resources, possession holders and Lennithon's/Wayfarer's status. Guest scheduling/DM arrangements discussed at the table were not a completed assignment.
+
+
 ## Session 20 starting point — after Session 19, October 27, 2026
 
 **Next game: Tuesday, November 3, 2026.** Scott confirms next week, ready to talk to the dragon. Session 19 only reached mill victory, recovery and Greenest questioning. The party is still in Greenest, after the tavern outing and return to the infirmary; northward travel and dragon meeting have not happened.

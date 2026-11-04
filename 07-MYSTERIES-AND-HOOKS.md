@@ -1,5 +1,26 @@
 # Mysteries and Hooks
 
+## Session 20 resolutions and remaining questions — November 3, 2026
+
+Resolved/revealed:
+* Northern recipient “L.” is encountered as Lennithon. His stated interest is comparing the pressure witness's stable local record with other disturbances, using the plate as the old interface and the party's firsthand accounts. The party has heard this explanation; no full comparison experiment or wider repair is inferred.
+* Party explicitly knows Runara and Aidron are dragons, Sparkrender was their blue-dragon opponent, and Lennithon is a separate blue dragon.
+* Scott approved the One God movement as an opportunistic exploitation of the crisis, not its root cause. The wizard-shaped contact is separate. Sincere believers and genuine relief effects coexist with mistaken theology. Frulam's Dragon Cult remains distinct; no unified cult hierarchy is established.
+* Pat-Benatar's inherited symbol is an old custodian's mark: “those entrusted to keep watch” over ancient draconic sites/workings. Her clan adopted or inherited that charge; her scale's Observatory resonance corroborates the pattern connection.
+* The Wayfarer has been attempting the same category of shared contact that the party achieved at the monastery, at Lennithon's request. All five accepted a cooperative meditation attempt; awareness crossed a threshold.
+
+Still open:
+* What is damaging the realities, and why? Dragons and the wizard do not know. No final villain, named universal mechanism or One God identity was revealed.
+* Which sites did Pat-Benatar's clan tend, from whom did it inherit the charge, and did it retain its meaning? Her parentage and largely human appearance remain unexplained. “Dragon druids,” kinship jokes about human-form Lennithon and cosmetic art are not ancestry/class revelations.
+* What binds the undead servants? The guardian's mark resembles a dragon enclosing a humanoid. A DM analogy to a doll is not an acquired magical doll or knowledge of a full control mechanism.
+* Wayfarer detention was described as years, with six months of silent meditation; exact duration, name, background and release terms remain unspecified. His frailty and food reports do not prove either innocence or benevolence for Lennithon.
+* Crystal examination did not restate its final physical holder. Party ownership was promised; do not silently turn inspection into a gift or an offscreen return.
+* Exact closing HP, limited-use resources, ammunition and loot recipients require player records. The second 7-point slashing hit and opening ambush accounting are not safely assigned from the transcript alone. No recovery is automatic.
+* The guard's original position was questioned during the final throw; Scott adjusted its preceding movement to permit the line. Preserve the played closure without retroactively assigning new PC actions or a universal free resurrection ability.
+* Guest reality, success of contacting the wizard, whether dragon/Wayfarer awareness accompanies the PCs, return interval and outcomes remain open. Entry impressions are not a literal cosmological map.
+* Prior Mara Venn/Sister Merra identity mix-up, pale-stone sobriety scope, escaped messenger/pursuers and older bound captives remain unresolved. Session 20 does not erase them.
+
+
 ## Session 19 resolutions and Needs Resolution — October 27, 2026
 
 Resolved: immediate mill battle/wagon opposition defeated; commander rose undead and was finally decapitated; all five later completed a long rest/full HP. Frulam Mondath and Cult of the Dragon named to the party. Northern blue-dragon lead is now explicit, but name/motive, exact route/meeting and negotiation remain ahead. Older contrary state below is historical.

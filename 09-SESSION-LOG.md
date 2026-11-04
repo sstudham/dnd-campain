@@ -1,5 +1,46 @@
 # Session Log
 
+## Session 20 — November 3, 2026: The Shadow Door and Lennithon's Questions
+
+Saved at Scott's explicit “add it all to cannon” instruction after approving the session summary, live artwork and ElevenLabs dialogue. Sources: Otter “Session 20” read during play, Scott's live directions/corrections, generated narration actually played back, and his approved closing summary. Speaker labels are unidentified; normalize supported names, not unrelated jokes or cross-talk. Raw transcript and personal conversation stay private. [Approved live assets and exact voice scripts](output/session20/README.md).
+
+### Northern approach and entrance
+* Party departed Greenest from the previous completed long rest, still level 2, carrying plate and pink crystal. Severed Whisper scouted ahead; Pat-Benatar considered her ancestry/scale, and Floyd GoldSeeker was apprehensive.
+* Outer cavern contained a huge fire cauldron, overhead water cistern/release, drainage, freestanding frame and eastern-wall shadow with a keyhole absent from the stone. Floyd investigated unusually old, smooth craftsmanship; others investigated the fire and suspended apparatus. Steam/energy absorption and persistent fire were described without a new PC power.
+* Brother Kai moved the iron key in the firelight until its shadow aligned with the shadow keyhole, opening the passage. The plate/crystal were not puzzle components. The party crossed into the hallway and met the living Wayfarer before the guardian.
+
+### Wayfarer and guardian
+* Wayfarer initially warned that the dragon kept him captive and urged departure. Brother Kai knelt to meditate beside him. Subsequent conversation established an extremely frail adult male of about 75 pounds, reported years of detention and six months of silent meditation, seeking cross-planar understanding at the dragon's request. He later described being fed and peaceful dealings; his assessment does not prove Lennithon harmless.
+* A different commander-like undead guardian ambushed Severed Whisper. This was not the mill commander's restored body. Throk used Adrenaline Rush and repeated Eldritch Blast; Floyd GoldSeeker attempted Turn Undead twice without turning it; Brother Kai and Pat-Benatar used breath, and Severed Whisper attacked and disengaged/repositioned. Exact resource totals and all damage recipients remain uncertain; no PC fall was established.
+* Throk's final 11-damage Eldritch Blast went down the guardian's open throat, burning it from within. After collapse its mark flared, it rose for one last arrow throw, struck the cistern release through the entrance and then fell permanently. Water quenched the great fire; shadow passage vanished into solid stone. Scott adjusted its earlier movement after the line was questioned. No universal zombie/free-action rule or second battle phase was established.
+* Search found a chipped usable sword, 6 gp, 12 sp and an order signed “L.”: hold the inner approach, retain the traveler, bring instrument-bearers alive, no private bargains/claims on their possessions. Drawings depicted the plate and crystal on four prongs. A faded violet mark showed a dragon enclosing a smaller humanoid. Its control mechanism was not identified. Subsequent ax decapitation was declared; do not infer a recovered bow/proficiency from discussion.
+* Party offered help and supported the Wayfarer toward Lennithon's deeper lair. No restored weight, healed condition or completed release agreement was established.
+
+### Lennithon and the exchange
+* Deeper cavern revealed enormous treasure, supporting pillars, rest space, overhead flight shaft and four more commander-like undead guards. Lennithon halted a guard with one claw. He can fly out or take human form; no confinement to his hoard was established.
+* Party chose to converse. Severed Whisper curled against the dragon; Brother Kai offered the pink crystal for inspection; Throk displayed the plate. Lennithon valued firsthand experiences and understanding alongside the objects. No attack on the dragon or hoard payment occurred.
+* The group shared Stormwreck, freeing Aidron, the mill and its similar unnatural trembling, and the monastery vision. Runara and Aidron were clarified as dragons; Sparkrender was the slain blue dragon. The wizard-shaped being warned of endangered realities, did not know the cause and asked for investigation; it was not the One God. Recalled imagery of godlike figures being consumed is vision testimony, not proof that every god actually died.
+* Lennithon explained the control plate is part of the mill's interface and cannot repair broken channels simply by replacement. Crystal preserves the site's last stable condition; he seeks comparison with disturbances elsewhere. This reveals approved DM information without changing prior limited tests or granting new item powers.
+* Dragons feel disturbances but do not know what is causing them. The party's stories supply what distant sensing cannot.
+
+### One God clarification
+* Scott approved Lennithon's fuller explanation: the One God movement exploits real anomalies and fear to gain followers/authority; it is not the root cause. Some leaders profit from belief; some followers and healers are sincere. Real relief does not validate their claimed deity.
+* The prior worshiping stone diverted prayer toward something other than a god; its destination remains unknown. The pale Greenest receiver is distinct, working through older local channels. No universal identity/mechanism for every stone was given.
+* Frulam Mondath's Cult of the Dragon remains separate. Defeating either movement would not repair the wider damage. No new claim that Merra knowingly deceived patients or served Frulam was established.
+
+### Pat-Benatar's history and new lead
+* Pat-Benatar shared her scale's energy reverberation near the Observatory lines and recalled no family explanation. Lennithon recognized an old custodian's symbol: **“those entrusted to keep watch”** over ancient draconic places and their workings. Her clan adopted or inherited a responsibility as well as an emblem.
+* Its link to the Observatory is genuine; resonance does not mean she caused the disturbance. She now has a concrete lead: the same mark at other old sites and records of their custodians. Whether her clan remembered its charge, which sites it tended, her parentage and unusual appearance remain unknown.
+* Her existing outsider upbringing among dragonborn, departure at seventeen with her mother's wooden token, and later dockside survival/rogue skills remain unchanged; no new recovered family memory occurred. “Dragon druids” and a kinship joke about Lennithon's human form were not confirmed revelations.
+
+### Meditation and closing threshold
+* Sharing the successful monastery contact overwhelmed the Wayfarer emotionally and he collapsed. Lennithon explained this was the category of contact he had been having the traveler attempt unsuccessfully.
+* All five accepted the shared-meditation offer. Payment/funding was discussed but no award agreed. Lennithon promised party possessions remained theirs and guards would protect the chamber. Examination of the crystal does not settle its final physical holder.
+* Lennithon sat with them in human form; Wayfarer joined the circle and four guards stood watch. The closing narration overlapped Observatory lines with the mill's broken channels and described their collective memories forming a connection. Pat-Benatar carried the question of what her clan was charged to watch.
+* Awareness crossed toward another reality; bodies remained seated in the cave. Whether the distant wizard heard, the destination and next experiences were not revealed. The guest DM takes over beyond this threshold. No automatic HP/slot recovery, home-world advancement, magical reward or rest occurred.
+* Home stopping state: five PCs' bodies/gear in Lennithon's lair, awareness beyond the threshold; cooperative relationship and protective promise, not an adjudicated escape or permanent alliance. Unplayed guest framework is recorded separately in 10/11.
+
+
 ## Session 19 — October 27, 2026: The commander rises; recovery in Greenest
 
 Saved at Scott's explicit post-session request to read the transcript, summarize and update canon. Source: completed Otter recording “Session 19” (2h 28m), Scott's direct live corrections and closing instruction. Raw transcript and unrelated personal conversation remain private. Transcript speakers are unidentified; names are normalized only where identity is supported. NPC identity/lore conflicts are retained in 07-MYSTERIES-AND-HOOKS.md.

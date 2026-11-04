@@ -1,5 +1,14 @@
 # Art Prompts
 
+## Session 20 approved live visuals and voice continuity — November 3, 2026
+
+[Session 20 asset index](output/session20/README.md) preserves the corrected north-path group, party supporting the frail Wayfarer with dead guard behind, seven-person meditation circle including human-form Lennithon, and abstract closing threshold. Scott approved these with the Session 20 canon save. They are visual references to played scenes; written facts control incidental props, candle counts, heraldry, exact architecture and NPC appearance. Human-form Lennithon is not thereby related to Pat-Benatar.
+
+Required headshots remain Flloyd.jpg, Kai.jpg, Sev.jpg, Throk.jpg and Pat.jpg. Severed Whisper is 6'3", adult, lean/athletic, clearly tall relative to companions; preserve this even seated. Wayfarer is a normal-height adult male of about **75 pounds**, not age 75 or a child. He is extremely gaunt, conscious and assisted walking; no restored health implied.
+
+Lennithon's voice clips use ElevenLabs “Smoke — The Dragon” (voice selected from the connected voice list), deliberate and curious/possessive. Closing narration uses “Whispered Truths — A Mysterious Voice.” Preserve dialogue as played and approved; exact scripts and clean flow links are in the session output. Do not publish raw Otter text, unrelated conversation, access tokens or signed workspace-switch links.
+
+
 ## Severed Whisper height and visual scale — October 27, 2026
 
 Severed Whisper is **6 feet 3 inches tall (6'3", approximately 191 cm)**, confirmed by Scott on October 27, 2026. Depict him as a tall, adult Tabaxi with a lean, athletic build and full adult humanoid proportions. Preserve his actual height relative to companions, guards, doors and other scene objects after accounting for pose and perspective; never shrink him into a diminutive or child-sized cat-person. `Sev.jpg` remains the required face reference; portrait framing does not override his canonical body height.

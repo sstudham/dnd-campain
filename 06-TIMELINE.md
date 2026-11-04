@@ -1,5 +1,12 @@
 # Timeline
 
+## Session 20 sequence — November 3, 2026
+
+Recovered party left Greenest → Severed Whisper scouted north → outer fire cavern investigated → Brother Kai solved the shadow-key entrance → Wayfarer encountered in first hallway alcove, before guardian → guardian ambushed Severed Whisper → party fought and Throk killed it with Eldritch Blast down the throat → final arrow released cistern, quenched fire and closed entrance → body searched and decapitated → frail Wayfarer assisted deeper → Lennithon and four undead guards met → party chose conversation, showed objects and shared Stormwreck/mill/monastery accounts → dragon explained artifacts, One God distinction and unknown wider cause → Pat-Benatar's custodian-mark history clarified → all five agreed to meditation → Lennithon joined in human form, Wayfarer participated, guards watched → awareness crossed toward another reality while bodies remained seated in the lair.
+
+Guest destination, wizard contact, elapsed home-world time, guest outcomes and return are unplayed. No new rest, level-up or hoard payment is inserted. Older next-session statements below are historical.
+
+
 ## Session 19 sequence — October 27, 2026
 
 Mill standoff resumed → living commander killed while the wagon fight continued → commander rose undead after two dead rounds → wagon attackers defeated and undead commander finally killed by Severed Whisper → route cleared → party returned to infirmary/tavern → all five completed an overnight long rest and returned to full HP → morning questioning named Frulam/Cult and repeated the northern delivery lead → relief-worker tavern outing and return → stopped in Greenest before northern travel or dragon meeting.

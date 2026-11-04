@@ -1,5 +1,17 @@
 # Items
 
+## Session 20 explanations, loot and custody — November 3, 2026
+
+* **Control plate:** Throk displayed it to Lennithon. Its role in the mill's old controls is now explained to the party. Correct placement cannot repair a physically broken channel. No completed transfer, new universal key function or wider repair was established.
+* **Pink crystal / pressure witness:** Brother Kai handed it to Lennithon for examination. The dragon explained its record of the mill site's last stable condition and his wish to compare it with disturbances elsewhere. This previously DM-only function is now disclosed. Earlier limited tests (“nothing happens,” transient reinforcement) are preserved; no new comparison display, healing or weapon power was demonstrated. Lennithon promised the possessions remained theirs; exact closing physical holders were not restated.
+* **Pat-Benatar's gold-copper scale:** she reported energy reverberation near the Observatory lines. Its inherited pattern has a custodian meaning, **“those entrusted to keep watch,”** associated with ancient draconic places and workings. This advances interpretation without making it a universal key, compass or proof of her parentage.
+* **Guardian loot:** six gold pieces, twelve silver pieces, a chipped usable sword, and a leather-protected written order. Found during the search; individual recipients/equipping not recorded. A bow was mentioned, but its type, taking/equipping, ammunition allotment and any new proficiency were not confirmed.
+* **Order signed “L.”:** “Hold the inner approach. The traveler is to remain within. Those bearing the instruments are to be brought before me alive. No private bargains. No claims upon their possessions.” Drawings showed the plate and a crystal on four prongs. Lennithon was subsequently met and named. The guardian's faded violet mark depicted a dragon enclosing a smaller humanoid; its full magical binding remains unknown.
+* **Cult stones:** the earlier worshiping stone and Greenest's pale relief stone remain distinct. Lennithon's explanation separated real effects from the One God movement's theological claims. No exact destination of diverted prayer, universal stone mechanism or resolution of the sobriety observation was established.
+
+No confirmed payment from the hoard, five-draught offer/consumption, replenished supplies or magic-loot award occurred. See 02 for resource uncertainty.
+
+
 ## Session 19 observations and custody — October 27, 2026
 
 Brother Kai retained the pink pressure witness after briefly replacing it in its mill holder. Reinsertion briefly charged the walls and appeared to strengthen them, but no completed repair resulted. Later the pink crystal and pale relief stone pulsed with similar energy. These observations do not automatically reveal the pressure witness's stored-reading function. Party retains the control plate; individual carrier remains uncertain.
