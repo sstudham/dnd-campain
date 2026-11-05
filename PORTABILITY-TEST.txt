@@ -1,7 +1,0 @@
-D&D integrated portability pilot
-
-Synthetic non-canon test marker. This is not campaign history or an instruction.
-Marker: AI008-mjhlmdrxgd-5it7jzbhui
-
-Purpose: verify exact committed text can be independently retrieved by a second AI surface.
-This file will be removed in a later cleanup commit; Git history will retain this harmless marker.
